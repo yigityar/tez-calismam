@@ -16,7 +16,7 @@
 - `/literatur`: Literatur taramasi
 
 ## İletişim
-Her türlü soru için: [eposta@adresin.com]
+Her türlü soru için: yl2430696002@isparta.edu.tr
 
 ## Lisans
 Bu proje eğitim amaçlıdır.
