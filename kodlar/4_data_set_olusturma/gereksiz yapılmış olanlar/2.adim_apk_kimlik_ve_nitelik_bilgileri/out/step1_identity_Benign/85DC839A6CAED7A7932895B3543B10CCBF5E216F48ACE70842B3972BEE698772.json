@@ -1,0 +1,12 @@
+{
+  "apk_file": "85DC839A6CAED7A7932895B3543B10CCBF5E216F48ACE70842B3972BEE698772.apk",
+  "sha256": "85dc839a6caed7a7932895b3543b10ccbf5e216f48ace70842b3972bee698772",
+  "package_name": "com.alimama.moon",
+  "version_code": "552000",
+  "version_name": "5.5.2",
+  "min_sdk": "16",
+  "target_sdk": "23",
+  "apk_size_kb": 21396,
+  "dex_count": 2,
+  "native_lib_count": 29
+}

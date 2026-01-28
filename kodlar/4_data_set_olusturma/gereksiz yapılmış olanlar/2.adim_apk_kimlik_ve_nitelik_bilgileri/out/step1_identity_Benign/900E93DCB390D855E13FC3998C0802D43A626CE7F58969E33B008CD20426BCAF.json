@@ -1,0 +1,12 @@
+{
+  "apk_file": "900E93DCB390D855E13FC3998C0802D43A626CE7F58969E33B008CD20426BCAF.apk",
+  "sha256": "900e93dcb390d855e13fc3998c0802d43a626ce7f58969e33b008cd20426bcaf",
+  "package_name": "6.0-2438415",
+  "version_code": "101",
+  "version_name": "4.13.0",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 59964,
+  "dex_count": 4,
+  "native_lib_count": 22
+}

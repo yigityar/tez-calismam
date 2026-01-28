@@ -1,0 +1,140 @@
+{
+    "apk_name": "A5DA33D72054B4448F75B3DEE5CE1617E99B28231F7CFD7A644826030E763DE0",
+    "sha256": "a5da33d72054b4448f75b3dee5ce1617e99b28231f7cfd7a644826030e763de0",
+    "metadata": {
+        "package_name": "com.bookoo.mantis.lasertrainer",
+        "version_code": "30007",
+        "version_name": "3.0",
+        "min_sdk": "24",
+        "target_sdk": "35",
+        "permissions": [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.BLUETOOTH_CONNECT",
+            "android.permission.BLUETOOTH_SCAN",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.READ_CLIPBOARD",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_CLIPBOARD",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.bookoo.mantis.lasertrainer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.android.billingclient.api.ProxyBillingActivityV2",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.tns.ErrorReportActivity",
+            "com.tns.NativeScriptActivity"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.sessions.SessionLifecycleService",
+            "org.nativescript.plugins.firebase.MyFirebaseInstanceIDService",
+            "org.nativescript.plugins.firebase.MyFirebaseMessagingService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_ADSERVICES_AD_ID": "unknown",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION": "unknown",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.BLUETOOTH_ADMIN": "normal",
+            "android.permission.BLUETOOTH_CONNECT": "dangerous",
+            "android.permission.BLUETOOTH_SCAN": "dangerous",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_CLIPBOARD": "unknown",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_CLIPBOARD": "unknown",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.vending.BILLING": "unknown",
+            "com.bookoo.mantis.lasertrainer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "unknown": 8,
+            "dangerous": 7,
+            "normal": 5
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 36.76,
+        "sources_present": true,
+        "java_file_count": 7745
+    },
+    "ast_analysis": {
+        "location": 10,
+        "microphone": 1,
+        "camera": 12,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 4
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 1,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 0,
+            "content_access": 7,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 3,
+            "scheduling_apis": 35,
+            "dynamic_code": 232
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 282
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 5,
+            "handler_loop": 27,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 4,
+            "dynamic_loading": 2,
+            "reflection": 228
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "B56119E103CCFBB792AE7A338ACAB2540AC36D4C723575DF57CBA98A77612B3D.apk",
+  "sha256": "b56119e103ccfbb792ae7a338acab2540ac36d4c723575df57cba98a77612b3d",
+  "package_name": "13",
+  "version_code": "1470",
+  "version_name": "1.470",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 101284,
+  "dex_count": 3,
+  "native_lib_count": 24
+}

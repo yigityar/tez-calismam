@@ -1,0 +1,12 @@
+{
+  "apk_file": "2DE9CB54E044628E291CD326398CB6C9BBCE0D2C5EF91996A0B5CE4B1CC22718.apk",
+  "sha256": "2de9cb54e044628e291cd326398cb6c9bbce0d2c5ef91996a0b5ce4b1cc22718",
+  "package_name": "13",
+  "version_code": "622",
+  "version_name": "4.42.5",
+  "min_sdk": "24",
+  "target_sdk": "33",
+  "apk_size_kb": 51708,
+  "dex_count": 3,
+  "native_lib_count": 8
+}

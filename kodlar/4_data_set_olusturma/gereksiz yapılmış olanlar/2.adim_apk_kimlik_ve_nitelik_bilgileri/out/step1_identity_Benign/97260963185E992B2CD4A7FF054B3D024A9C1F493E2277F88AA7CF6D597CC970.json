@@ -1,0 +1,12 @@
+{
+  "apk_file": "97260963185E992B2CD4A7FF054B3D024A9C1F493E2277F88AA7CF6D597CC970.apk",
+  "sha256": "97260963185e992b2cd4a7ff054b3d024a9c1f493e2277f88aa7cf6d597cc970",
+  "package_name": "10",
+  "version_code": "190402",
+  "version_name": "19.4.2",
+  "min_sdk": "19",
+  "target_sdk": "29",
+  "apk_size_kb": 83472,
+  "dex_count": 13,
+  "native_lib_count": 90
+}

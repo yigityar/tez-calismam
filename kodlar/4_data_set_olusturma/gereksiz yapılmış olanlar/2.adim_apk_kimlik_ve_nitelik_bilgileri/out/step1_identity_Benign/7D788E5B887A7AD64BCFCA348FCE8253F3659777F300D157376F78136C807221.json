@@ -1,0 +1,12 @@
+{
+  "apk_file": "7D788E5B887A7AD64BCFCA348FCE8253F3659777F300D157376F78136C807221.apk",
+  "sha256": "7d788e5b887a7ad64bcfca348fce8253f3659777f300d157376f78136c807221",
+  "package_name": "11",
+  "version_code": "29",
+  "version_name": "3.9",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 21336,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "51A2209F7EE3089EAD5CB987FEA7FDBCFAE3A21E1FA7B0F7CA3E2A49FE91CA58.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.WAKE_LOCK,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.INTERNET,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.REORDER_TASKS,com.huawei.android.launcher.permission.CHANGE_BADGE ,android.permission.QUERY_ALL_PACKAGES,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.QUERY_ALL_PACKAGES,android.permission.PACKAGE_USAGE_STATS,android.permission.VIBRATE,android.permission.READ_PHONE_STATE,com.qiyi.video.lite.permission.MIPUSH_RECEIVE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.CHANGE_NETWORK_STATE,android.permission.WRITE_SETTINGS,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.KILL_BACKGROUND_PROCESSES,com.huawei.pushagent.permission.RICHMEDIA_PROVIDER,com.meizu.flyme.push.permission.RECEIVE,com.meizu.c2dm.permission.RECEIVE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.android.browser.permission.READ_HISTORY_BOOKMARKS,android.permission.GET_TASKS,android.permission.CHANGE_WIFI_MULTICAST_STATE,com.qiyi.video.lite.permission.PROCESS_PUSH_MSG,com.qiyi.video.lite.permission.PUSH_PROVIDER,android.permission.FOREGROUND_SERVICE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 238,
+  "count_service": 43,
+  "count_receiver": 16,
+  "count_provider": 43,
+  "count_exported": 27
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "ED5A01EA0926E53000DD0F2A6C1A61D15B6A413D406C240C1DF540EC44B93C05.apk",
+  "sha256": "ed5a01ea0926e53000dd0f2a6c1a61d15b6a413d406c240c1df540ec44b93c05",
+  "package_name": "10",
+  "version_code": "89",
+  "version_name": "1.8.0",
+  "min_sdk": "23",
+  "target_sdk": "29",
+  "apk_size_kb": 161292,
+  "dex_count": 1,
+  "native_lib_count": 66
+}

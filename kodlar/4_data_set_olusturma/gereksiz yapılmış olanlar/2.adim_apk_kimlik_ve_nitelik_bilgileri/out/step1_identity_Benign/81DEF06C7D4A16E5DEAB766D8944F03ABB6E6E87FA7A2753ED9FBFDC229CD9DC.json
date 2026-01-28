@@ -1,0 +1,12 @@
+{
+  "apk_file": "81DEF06C7D4A16E5DEAB766D8944F03ABB6E6E87FA7A2753ED9FBFDC229CD9DC.apk",
+  "sha256": "81def06c7d4a16e5deab766d8944f03abb6e6e87fa7a2753ed9fbfdc229cd9dc",
+  "package_name": "13",
+  "version_code": "105",
+  "version_name": "4.4",
+  "min_sdk": "26",
+  "target_sdk": "33",
+  "apk_size_kb": 77456,
+  "dex_count": 2,
+  "native_lib_count": 28
+}

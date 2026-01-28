@@ -1,0 +1,12 @@
+{
+  "apk_file": "FD2767D51225D9FD5B33D1C8192815BCB3640BB045195D0573C08E92B2D109C3.apk",
+  "sha256": "fd2767d51225d9fd5b33d1c8192815bcb3640bb045195d0573c08e92b2d109c3",
+  "package_name": "14",
+  "version_code": "153",
+  "version_name": "0.11.0",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "apk_size_kb": 64848,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

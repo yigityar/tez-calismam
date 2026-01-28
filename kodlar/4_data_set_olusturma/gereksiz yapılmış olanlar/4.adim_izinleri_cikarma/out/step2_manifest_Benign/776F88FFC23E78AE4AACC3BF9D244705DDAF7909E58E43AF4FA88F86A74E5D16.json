@@ -1,0 +1,16 @@
+{
+  "apk_file": "776F88FFC23E78AE4AACC3BF9D244705DDAF7909E58E43AF4FA88F86A74E5D16.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,com.android.vending.BILLING",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 54,
+  "count_service": 13,
+  "count_receiver": 19,
+  "count_provider": 15,
+  "count_exported": 13
+}

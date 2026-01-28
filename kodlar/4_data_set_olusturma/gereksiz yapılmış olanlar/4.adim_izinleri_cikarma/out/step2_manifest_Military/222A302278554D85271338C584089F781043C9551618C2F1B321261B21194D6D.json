@@ -1,0 +1,16 @@
+{
+  "apk_file": "222A302278554D85271338C584089F781043C9551618C2F1B321261B21194D6D.apk",
+  "permissions_list": "android.permission.BLUETOOTH,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.ACTION_MANAGE_OVERLAY_PERMISSION,android.permission.WAKE_LOCK,android.permission.FOREGROUND_SERVICE,android.permission.FOREGROUND_SERVICE_MICROPHONE,android.permission.RECORD_AUDIO,android.permission.POST_NOTIFICATIONS,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,com.atakmap.android.gbr.vx.plugin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 4,
+  "count_service": 4,
+  "count_receiver": 1,
+  "count_provider": 0,
+  "count_exported": 8
+}

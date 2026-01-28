@@ -1,0 +1,12 @@
+{
+  "apk_file": "788F59A3FA6A41DF28ED4DEA8348AD8CAB14BBF6DEC7906F0D33C1B99D2D9F28.apk",
+  "sha256": "788f59a3fa6a41df28ed4dea8348ad8cab14bbf6dec7906f0d33c1b99d2d9f28",
+  "package_name": "15",
+  "version_code": "6501",
+  "version_name": "6.5.1",
+  "min_sdk": "28",
+  "target_sdk": "35",
+  "apk_size_kb": 105152,
+  "dex_count": 10,
+  "native_lib_count": 29
+}

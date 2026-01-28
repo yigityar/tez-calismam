@@ -1,0 +1,12 @@
+{
+  "apk_file": "CB142013DC2207D0B6757B2001A76B5AAFE4FEA50DA86EBD5CC4549A2540A49B.apk",
+  "sha256": "cb142013dc2207d0b6757b2001a76b5aafe4fea50da86ebd5cc4549a2540a49b",
+  "package_name": "11",
+  "version_code": "38",
+  "version_name": "4.7.0",
+  "min_sdk": "16",
+  "target_sdk": "30",
+  "apk_size_kb": 15920,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "8FEEC0A2E7D6E6A5C50DC951FB3F35B7724622E67C421F7A32F4C335D8D9C0C3.apk",
+  "sha256": "8feec0a2e7d6e6a5c50dc951fb3f35b7724622e67c421f7a32f4c335d8d9c0c3",
+  "package_name": "11",
+  "version_code": "76",
+  "version_name": "1.76",
+  "min_sdk": "26",
+  "target_sdk": "30",
+  "apk_size_kb": 70836,
+  "dex_count": 2,
+  "native_lib_count": 20
+}

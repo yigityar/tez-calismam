@@ -1,0 +1,12 @@
+{
+  "apk_file": "40D8222F1D51E82AE1972584AC550F2C64EA9BEEBE77BA146C76347B12DFD710.apk",
+  "sha256": "40d8222f1d51e82ae1972584ac550f2c64ea9beebe77ba146c76347b12dfd710",
+  "package_name": "16",
+  "version_code": "40",
+  "version_name": "01.02.14",
+  "min_sdk": "26",
+  "target_sdk": "36",
+  "apk_size_kb": 12240,
+  "dex_count": 3,
+  "native_lib_count": 13
+}

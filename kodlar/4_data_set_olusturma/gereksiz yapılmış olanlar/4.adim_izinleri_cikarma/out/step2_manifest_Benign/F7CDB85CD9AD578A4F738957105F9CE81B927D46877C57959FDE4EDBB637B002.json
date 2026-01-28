@@ -1,0 +1,16 @@
+{
+  "apk_file": "F7CDB85CD9AD578A4F738957105F9CE81B927D46877C57959FDE4EDBB637B002.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.INSTALL_PACKAGES,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.CAMERA,android.permission.CHANGE_WIFI_STATE,android.permission.GET_ACCOUNTS,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.READ_CONTACTS,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_LOGS,android.permission.READ_PHONE_STATE,android.permission.VIBRATE,android.permission.WRITE_CONTACTS,android.permission.WRITE_SETTINGS,android.permission.MANAGE_EXTERNAL_STORAGE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.INTERNET,android.permission.READ_PHONE_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.VIBRATE,android.permission.GET_TASKS,android.permission.QUERY_ALL_PACKAGES,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.BROADCAST_PACKAGE_ADDED,android.permission.BROADCAST_PACKAGE_CHANGED,android.permission.BROADCAST_PACKAGE_INSTALL,android.permission.BROADCAST_PACKAGE_REPLACED,android.permission.RESTART_PACKAGES,android.permission.CHANGE_NETWORK_STATE,android.permission.WRITE_SETTINGS,getui.permission.GetuiService.easyms.weibiao,easyms.weibiao.permission.MIPUSH_RECEIVE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.vivo.notification.permission.BADGE_ICON,com.meizu.flyme.permission.PUSH,com.meizu.flyme.push.permission.RECEIVE,com.meizu.c2dm.permission.RECEIVE,easyms.weibiao.push.permission.MESSAGE,easyms.weibiao.permission.C2D_MESSAGE,android.permission.SCHEDULE_EXACT_ALARM,easyms.weibiao.permission.PROCESS_PUSH_MSG,easyms.weibiao.permission.PUSH_PROVIDER",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 24,
+  "count_service": 19,
+  "count_receiver": 9,
+  "count_provider": 6,
+  "count_exported": 18
+}

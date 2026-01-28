@@ -1,0 +1,12 @@
+{
+  "apk_file": "E5B6BF0D7E3CFF2C788335464E376EA531E0CFBC5AE5E30443F45CC5BA458037.apk",
+  "sha256": "e5b6bf0d7e3cff2c788335464e376ea531e0cfbc5ae5e30443f45cc5ba458037",
+  "package_name": "org.telegram.messenger",
+  "version_code": "8213",
+  "version_name": "3.10.1",
+  "min_sdk": "14",
+  "target_sdk": "23",
+  "apk_size_kb": 12848,
+  "dex_count": 1,
+  "native_lib_count": 3
+}

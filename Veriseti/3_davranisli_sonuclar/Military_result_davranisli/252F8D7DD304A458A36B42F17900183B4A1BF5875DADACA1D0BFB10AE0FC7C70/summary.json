@@ -1,0 +1,156 @@
+{
+    "apk_name": "252F8D7DD304A458A36B42F17900183B4A1BF5875DADACA1D0BFB10AE0FC7C70",
+    "sha256": "252f8d7dd304a458a36b42f17900183b4a1bf5875dadaca1d0bfb10ae0fc7c70",
+    "metadata": {
+        "package_name": "com.agilx.hornadyreloading",
+        "version_code": "1009",
+        "version_name": "2025.1002.1009",
+        "min_sdk": "21",
+        "target_sdk": "35",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.agilx.hornadyreloading.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.canhub.cropper.CropImageActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc640c4f8c3125bc9190.EditionsActivity",
+            "crc640f654757c295e0ca.RegisterActivity",
+            "crc640fc65995b3cd84ca.AcceptActivity",
+            "crc6412028a063eff5423.SelectWeightActivity",
+            "crc641745bb98007bb460.AddNoteActivity",
+            "crc641b11c7c79896a3a7.MultiSelectActivity",
+            "crc642dbcb7078e5d2c6b.CoverPageActivity",
+            "crc6433d14e64a55e7af5.MyAddressesActivity",
+            "crc643836ecd37d46d8ef.MainActivity",
+            "crc644684b72f978226f0.EditAddressActivity",
+            "crc6456a1f3ad097d8b2d.ReloadingBulletsActivity",
+            "crc645808f5382c11cba1.NotificationDetailsActivity",
+            "crc6468b6408a11370c2f.WebAuthenticatorIntermediateActivity",
+            "crc647649a0ad1e41abf6.EditProfileActivity",
+            "crc648c2a8721f5f768dd.SubscriptionActivity",
+            "crc6493e42513d5569a6c.HornadyPointsActivity",
+            "crc6498b92eb2159a219e.PurchaseHistoryActivity",
+            "crc649d0a9b25e0e6f3b8.MyProfileActivity",
+            "crc649fe19e15d9d7b139.MyCartridgesActivity",
+            "crc64a502b50d1acdc0a1.SelectSectionActivity",
+            "crc64b8d6dd0927492f2a.SelectCaliberActivity",
+            "crc64ba438d8f48cf7e75.IntermediateActivity",
+            "crc64bcdcefe17c518ef3.LoginActivity",
+            "crc64c0133575a9b5f568.AddRangeLogActivity",
+            "crc64c650958f7b2369ba.UpdatePasswordActivity",
+            "crc64caea08d94de6d16f.DropDownListActivity",
+            "crc64cd05e95d99abfb3c.ScanQrCodeActivity",
+            "crc64d21284f920e35f19.BaseListSelectionActivity_1",
+            "crc64d21284f920e35f19.BaseMultiSelectActivity_1",
+            "crc64d21284f920e35f19.ExtensionsBaseActivity",
+            "crc64daa5434506ceb60a.PasswordActivity",
+            "crc64dfff8f4a6f453320.SplashActivity",
+            "crc64e49eaf4d4c1fc430.PurchaseActivity",
+            "crc64ec468eac7490b031.BaseActivity"
+        ],
+        "services": [
+            "androidx.camera.core.impl.MetadataHolderService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.google.mlkit.common.internal.MlKitComponentDiscoveryService",
+            "crc64b98d2081352f3c86.HornadyFirebaseMessagingService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc640a8d9a12ddbf2cf2.BatteryBroadcastReceiver",
+            "crc640a8d9a12ddbf2cf2.EnergySaverBroadcastReceiver",
+            "crc64cea48322b3427ae9.ConnectivityChangeBroadcastReceiver",
+            "crc64e53d2f592022988e.ConnectivityBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.agilx.hornadyreloading.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 4,
+            "dangerous": 4,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 356
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 84.13,
+        "sources_present": true,
+        "java_file_count": 9204
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 1,
+        "camera": 27,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 7
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 3,
+            "microphone": 1,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 11,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 1,
+            "scheduling_apis": 23,
+            "dynamic_code": 267
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 309
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 16,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 265
+        }
+    }
+}

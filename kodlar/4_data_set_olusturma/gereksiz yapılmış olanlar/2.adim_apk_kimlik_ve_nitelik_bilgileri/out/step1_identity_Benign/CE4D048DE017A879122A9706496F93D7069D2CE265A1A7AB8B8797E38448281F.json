@@ -1,0 +1,12 @@
+{
+  "apk_file": "CE4D048DE017A879122A9706496F93D7069D2CE265A1A7AB8B8797E38448281F.apk",
+  "sha256": "ce4d048de017a879122a9706496f93d7069d2ce265a1a7ab8b8797e38448281f",
+  "package_name": "12",
+  "version_code": "4626",
+  "version_name": "5.3.2",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 23620,
+  "dex_count": 2,
+  "native_lib_count": 14
+}

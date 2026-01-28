@@ -1,0 +1,16 @@
+{
+  "apk_file": "4739E45FB2DFF277E1F6BF4431BDCD6D4BF0BB06B4AC2DE4F39D22FD24969FE4.apk",
+  "permissions_list": "android.permission.FOREGROUND_SERVICE,android.permission.FLASHLIGHT,com.baidu.newapp.permission.DOWNLOAD_STORY,com.baidu.newapp.permission.APS_INSTALL,android.permission.ACCESS_NETWORK_STATE,android.permission.READ_PHONE_STATE,android.permission.INTERNET,android.permission.RECORD_AUDIO,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.WAKE_LOCK,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher.permission.READ_SETTINGS,com.android.launcher2.permission.READ_SETTINGS,com.android.launcher3.permission.READ_SETTINGS,com.oppo.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.READ_SETTINGS,com.meizu.flyme.launcher.permission.READ_SETTINGS,com.lenovo.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.READ_SETTINGS,com.qiku.launcher.permission.READ_SETTINGS,com.zte.mifavor.launcher.permission.READ_SETTINGS,com.bbk.launcher2.permission.READ_SETTINGS,android.permission.GET_TASKS,android.permission.CHANGE_WIFI_STATE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.DISABLE_KEYGUARD,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.BROADCAST_STICKY,android.permission.WRITE_SETTINGS,android.permission.USE_CREDENTIALS,android.permission.MANAGE_ACCOUNTS,android.permission.CHANGE_NETWORK_STATE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.hihonor.android.launcher.permission.CHANGE_BADGE,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,android.permission.VIBRATE,android.permission.EXPAND_STATUS_BAR,android.permission.READ_EXTERNAL_STORAGE,com.baidu.appsearch.permission.LAUNCH,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,android.permission.RESTART_PACKAGES,android.permission.QUERY_ALL_PACKAGES,android.permission.REORDER_TASKS,android.permission.CAMERA,android.permission.BLUETOOTH,android.permission.GET_PACKAGE_SIZE,android.permission.BLUETOOTH_CONNECT,android.permission.READ_PRIVILEGED_PHONE_STATE,android.permission.USE_FINGERPRINT,android.permission.READ_MEDIA_IMAGES,com.baidu.newapp.permission.sofire.RECEIVE,baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.baidu.newapp,com.vivo.abe.permission.launcher.notification.num,com.vivo.notification.permission.BADGE_ICON,com.baidu.newapp.permission.PROCESS_PUSH_MSG,com.baidu.newapp.permission.PUSH_PROVIDER,android.permission.POST_NOTIFICATIONS,com.meizu.flyme.permission.PUSH,com.baidu.newapp.permission.MIPUSH_RECEIVE,android.permission.INTERACT_ACROSS_USERS_FULL,android.permission.INTERACT_ACROSS_USERS,android.permission.MANAGE_USERS,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.MODIFY_PHONE_STATE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 345,
+  "count_service": 70,
+  "count_receiver": 18,
+  "count_provider": 20,
+  "count_exported": 43
+}

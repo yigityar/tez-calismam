@@ -1,0 +1,12 @@
+{
+  "apk_file": "B18F20455777DE13743926D225EBC2D36C5B57D332BA8BA9D7956E30093B8830.apk",
+  "sha256": "b18f20455777de13743926d225ebc2d36c5b57d332ba8ba9d7956e30093b8830",
+  "package_name": "10",
+  "version_code": "8006070",
+  "version_name": "8.6.70",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 154124,
+  "dex_count": 13,
+  "native_lib_count": 95
+}

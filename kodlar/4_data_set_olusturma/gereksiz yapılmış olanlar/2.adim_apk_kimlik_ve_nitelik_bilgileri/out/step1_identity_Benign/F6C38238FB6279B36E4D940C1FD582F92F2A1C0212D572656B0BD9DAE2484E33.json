@@ -1,0 +1,12 @@
+{
+  "apk_file": "F6C38238FB6279B36E4D940C1FD582F92F2A1C0212D572656B0BD9DAE2484E33.apk",
+  "sha256": "f6c38238fb6279b36e4d940c1fd582f92f2a1c0212d572656b0bd9dae2484e33",
+  "package_name": "12",
+  "version_code": "54",
+  "version_name": "2.0.24",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 57164,
+  "dex_count": 1,
+  "native_lib_count": 36
+}

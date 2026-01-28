@@ -1,0 +1,12 @@
+{
+  "apk_file": "F1C5B741D3567288A4308666C9CAB12C7191D54647182022A58CB05E05D5DF54.apk",
+  "sha256": "f1c5b741d3567288a4308666c9cab12c7191d54647182022a58cb05e05d5df54",
+  "package_name": "10",
+  "version_code": "564004",
+  "version_name": "5.64.0.564004",
+  "min_sdk": "22",
+  "target_sdk": "27",
+  "apk_size_kb": 70704,
+  "dex_count": 9,
+  "native_lib_count": 97
+}

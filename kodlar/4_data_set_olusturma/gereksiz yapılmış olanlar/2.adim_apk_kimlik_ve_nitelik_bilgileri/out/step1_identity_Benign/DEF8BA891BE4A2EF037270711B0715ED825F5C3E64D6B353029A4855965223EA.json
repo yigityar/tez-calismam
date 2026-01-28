@@ -1,0 +1,12 @@
+{
+  "apk_file": "DEF8BA891BE4A2EF037270711B0715ED825F5C3E64D6B353029A4855965223EA.apk",
+  "sha256": "def8ba891be4a2ef037270711b0715ed825f5c3e64d6b353029a4855965223ea",
+  "package_name": "11",
+  "version_code": "80",
+  "version_name": "3.6.0",
+  "min_sdk": "25",
+  "target_sdk": "30",
+  "apk_size_kb": 61012,
+  "dex_count": 2,
+  "native_lib_count": 14
+}

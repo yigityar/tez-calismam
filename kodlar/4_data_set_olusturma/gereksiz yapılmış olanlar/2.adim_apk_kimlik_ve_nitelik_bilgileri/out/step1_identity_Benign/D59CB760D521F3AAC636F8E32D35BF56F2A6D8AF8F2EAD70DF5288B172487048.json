@@ -1,0 +1,12 @@
+{
+  "apk_file": "D59CB760D521F3AAC636F8E32D35BF56F2A6D8AF8F2EAD70DF5288B172487048.apk",
+  "sha256": "d59cb760d521f3aac636f8e32d35bf56f2a6d8af8f2ead70df5288b172487048",
+  "package_name": "10",
+  "version_code": "52340",
+  "version_name": "5.23.4",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 95388,
+  "dex_count": 15,
+  "native_lib_count": 36
+}

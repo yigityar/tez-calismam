@@ -1,0 +1,12 @@
+{
+  "apk_file": "EB75E0614DE69C9E829B391A8A338DE8D62E4CED6CFC9363E71F7438E4AA5A67.apk",
+  "sha256": "eb75e0614de69c9e829b391a8a338de8d62e4ced6cfc9363e71f7438e4aa5a67",
+  "package_name": "12",
+  "version_code": "2023041208",
+  "version_name": "23.5.2023041208",
+  "min_sdk": "26",
+  "target_sdk": "31",
+  "apk_size_kb": 76492,
+  "dex_count": 2,
+  "native_lib_count": 30
+}

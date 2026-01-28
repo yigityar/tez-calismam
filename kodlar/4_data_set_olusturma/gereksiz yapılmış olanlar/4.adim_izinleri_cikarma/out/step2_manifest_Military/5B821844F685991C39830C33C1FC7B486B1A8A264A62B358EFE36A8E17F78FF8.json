@@ -1,0 +1,16 @@
+{
+  "apk_file": "5B821844F685991C39830C33C1FC7B486B1A8A264A62B358EFE36A8E17F78FF8.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.RECORD_AUDIO,android.permission.BROADCAST_STICKY,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_PHONE_STATE,android.permission.VIBRATE,android.permission.WAKE_LOCK,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_FINE_LOCATION,android.permission.BLUETOOTH,android.permission.BLUETOOTH_CONNECT,android.permission.READ_MEDIA_IMAGES,android.permission.POST_NOTIFICATIONS,android.permission.FOREGROUND_SERVICE,android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK,android.permission.ACCESS_NETWORK_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,android.permission.RECEIVE_BOOT_COMPLETED,com.trtalk.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 0,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 4,
+  "count_service": 12,
+  "count_receiver": 11,
+  "count_provider": 5,
+  "count_exported": 6
+}

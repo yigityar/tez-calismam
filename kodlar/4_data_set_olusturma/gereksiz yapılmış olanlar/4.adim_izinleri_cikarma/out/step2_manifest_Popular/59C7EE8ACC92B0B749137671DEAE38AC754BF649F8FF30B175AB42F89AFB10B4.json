@@ -1,0 +1,16 @@
+{
+  "apk_file": "59C7EE8ACC92B0B749137671DEAE38AC754BF649F8FF30B175AB42F89AFB10B4.apk",
+  "permissions_list": "com.twitter.android.permission.C2D_MESSAGE,com.twitter.android.permission.RESTRICTED,com.twitter.android.permission.AUTH_APP,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.VIBRATE,android.permission.READ_PROFILE,android.permission.READ_CONTACTS,android.permission.RECEIVE_SMS,android.permission.GET_ACCOUNTS,android.permission.MANAGE_ACCOUNTS,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.READ_SYNC_SETTINGS,android.permission.WRITE_SYNC_SETTINGS,android.permission.ACCESS_FINE_LOCATION,android.permission.USE_CREDENTIALS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.WAKE_LOCK,android.permission.WRITE_EXTERNAL_STORAGE,com.twitter.android.permission.READ_DATA,com.google.android.c2dm.permission.RECEIVE,com.google.android.providers.gsf.permission.READ_GSERVICES,com.android.launcher.permission.INSTALL_SHORTCUT,android.permission.READ_PHONE_STATE,android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.ACCESS_WIFI_STATE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.ACCESS_COARSE_LOCATION,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 183,
+  "count_service": 18,
+  "count_receiver": 10,
+  "count_provider": 4,
+  "count_exported": 10
+}

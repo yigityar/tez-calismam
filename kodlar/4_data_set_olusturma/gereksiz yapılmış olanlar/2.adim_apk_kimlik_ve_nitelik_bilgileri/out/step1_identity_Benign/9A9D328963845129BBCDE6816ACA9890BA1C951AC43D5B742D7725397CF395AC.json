@@ -1,0 +1,12 @@
+{
+  "apk_file": "9A9D328963845129BBCDE6816ACA9890BA1C951AC43D5B742D7725397CF395AC.apk",
+  "sha256": "9a9d328963845129bbcde6816aca9890ba1c951ac43d5b742d7725397cf395ac",
+  "package_name": "12",
+  "version_code": "3000365",
+  "version_name": "4.0.0",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 80760,
+  "dex_count": 5,
+  "native_lib_count": 16
+}

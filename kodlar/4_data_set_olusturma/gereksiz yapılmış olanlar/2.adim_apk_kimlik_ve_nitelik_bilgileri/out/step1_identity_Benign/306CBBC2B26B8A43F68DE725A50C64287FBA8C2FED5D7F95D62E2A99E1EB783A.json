@@ -1,0 +1,12 @@
+{
+  "apk_file": "306CBBC2B26B8A43F68DE725A50C64287FBA8C2FED5D7F95D62E2A99E1EB783A.apk",
+  "sha256": "306cbbc2b26b8a43f68de725a50c64287fba8c2fed5d7f95d62e2a99e1eb783a",
+  "package_name": "11",
+  "version_code": "28",
+  "version_name": "1.0.24",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 56448,
+  "dex_count": 1,
+  "native_lib_count": 36
+}

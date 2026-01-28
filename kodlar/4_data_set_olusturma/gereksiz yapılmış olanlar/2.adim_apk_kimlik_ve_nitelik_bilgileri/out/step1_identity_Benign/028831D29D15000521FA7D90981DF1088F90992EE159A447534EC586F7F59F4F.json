@@ -1,0 +1,12 @@
+{
+  "apk_file": "028831D29D15000521FA7D90981DF1088F90992EE159A447534EC586F7F59F4F.apk",
+  "sha256": "028831d29d15000521fa7d90981df1088f90992ee159a447534ec586f7f59f4f",
+  "package_name": "11",
+  "version_code": "10142",
+  "version_name": "1.014.2",
+  "min_sdk": "16",
+  "target_sdk": "30",
+  "apk_size_kb": 65332,
+  "dex_count": 3,
+  "native_lib_count": 82
+}

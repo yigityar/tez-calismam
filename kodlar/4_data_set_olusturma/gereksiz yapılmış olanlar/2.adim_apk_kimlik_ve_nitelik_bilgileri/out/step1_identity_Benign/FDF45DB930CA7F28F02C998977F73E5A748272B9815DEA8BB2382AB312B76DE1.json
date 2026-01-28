@@ -1,0 +1,12 @@
+{
+  "apk_file": "FDF45DB930CA7F28F02C998977F73E5A748272B9815DEA8BB2382AB312B76DE1.apk",
+  "sha256": "fdf45db930ca7f28f02c998977f73e5a748272b9815dea8bb2382ab312b76de1",
+  "package_name": "10",
+  "version_code": "20641",
+  "version_name": "2.6.41",
+  "min_sdk": "22",
+  "target_sdk": "26",
+  "apk_size_kb": 84380,
+  "dex_count": 11,
+  "native_lib_count": 46
+}

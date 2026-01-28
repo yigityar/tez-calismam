@@ -1,0 +1,12 @@
+{
+  "apk_file": "D1FC8D8654A7A6D44A07C20A3441B0481E1EAC40B04A32B73A54253C2F8B9FE6.apk",
+  "sha256": "d1fc8d8654a7a6d44a07c20a3441b0481e1eac40b04a32b73a54253c2f8b9fe6",
+  "package_name": "12",
+  "version_code": "58",
+  "version_name": "1.2.3",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 67864,
+  "dex_count": 4,
+  "native_lib_count": 16
+}

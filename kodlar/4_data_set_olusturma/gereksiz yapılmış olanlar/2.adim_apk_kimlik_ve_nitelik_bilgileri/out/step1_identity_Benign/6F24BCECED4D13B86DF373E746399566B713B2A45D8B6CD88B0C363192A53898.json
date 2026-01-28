@@ -1,0 +1,12 @@
+{
+  "apk_file": "6F24BCECED4D13B86DF373E746399566B713B2A45D8B6CD88B0C363192A53898.apk",
+  "sha256": "6f24bceced4d13b86df373e746399566b713b2a45d8b6cd88b0c363192a53898",
+  "package_name": "11",
+  "version_code": "7006064",
+  "version_name": "7.6.64",
+  "min_sdk": "9",
+  "target_sdk": "30",
+  "apk_size_kb": 79140,
+  "dex_count": 2,
+  "native_lib_count": 3
+}

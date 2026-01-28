@@ -1,0 +1,12 @@
+{
+  "apk_file": "A544FCA86E7BBF161AC4CD8B22E3048EB1DE49B888ED347676DA0F867BE0513D.apk",
+  "sha256": "a544fca86e7bbf161ac4cd8b22e3048eb1de49b888ed347676da0f867be0513d",
+  "package_name": "11",
+  "version_code": "70302",
+  "version_name": "7.3.2",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 76804,
+  "dex_count": 1,
+  "native_lib_count": 50
+}

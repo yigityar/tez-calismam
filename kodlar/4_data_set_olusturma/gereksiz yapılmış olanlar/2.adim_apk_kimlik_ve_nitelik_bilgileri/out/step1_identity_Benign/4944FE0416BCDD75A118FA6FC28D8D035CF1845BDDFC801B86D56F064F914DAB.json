@@ -1,0 +1,12 @@
+{
+  "apk_file": "4944FE0416BCDD75A118FA6FC28D8D035CF1845BDDFC801B86D56F064F914DAB.apk",
+  "sha256": "4944fe0416bcdd75a118fa6fc28d8d035cf1845bddfc801b86d56f064f914dab",
+  "package_name": "12",
+  "version_code": "350",
+  "version_name": "1.77.0",
+  "min_sdk": "23",
+  "target_sdk": "32",
+  "apk_size_kb": 42616,
+  "dex_count": 2,
+  "native_lib_count": 10
+}

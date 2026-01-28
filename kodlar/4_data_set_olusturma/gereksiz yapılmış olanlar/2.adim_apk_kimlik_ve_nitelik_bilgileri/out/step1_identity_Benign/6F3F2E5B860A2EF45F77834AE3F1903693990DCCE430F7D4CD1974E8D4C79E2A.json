@@ -1,0 +1,12 @@
+{
+  "apk_file": "6F3F2E5B860A2EF45F77834AE3F1903693990DCCE430F7D4CD1974E8D4C79E2A.apk",
+  "sha256": "6f3f2e5b860a2ef45f77834ae3f1903693990dcce430f7d4cd1974e8d4c79e2a",
+  "package_name": "12",
+  "version_code": "20230406",
+  "version_name": "1.1.25",
+  "min_sdk": "16",
+  "target_sdk": "31",
+  "apk_size_kb": 94828,
+  "dex_count": 2,
+  "native_lib_count": 96
+}

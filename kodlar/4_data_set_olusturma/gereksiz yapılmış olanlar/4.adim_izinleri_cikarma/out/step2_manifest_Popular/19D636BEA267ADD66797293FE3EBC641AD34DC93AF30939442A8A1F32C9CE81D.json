@@ -1,0 +1,16 @@
+{
+  "apk_file": "19D636BEA267ADD66797293FE3EBC641AD34DC93AF30939442A8A1F32C9CE81D.apk",
+  "permissions_list": "android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.BLUETOOTH,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.CAMERA,android.permission.INTERNET,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.NFC,android.permission.READ_PHONE_STATE,android.permission.RECORD_AUDIO,android.permission.SYSTEM_ALERT_WINDOW,android.permission.VIBRATE,android.permission.WAKE_LOCK,android.permission.WRITE_EXTERNAL_STORAGE,com.android.browser.permission.READ_HISTORY_BOOKMARKS,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.opera.browser.permission.C2D_MESSAGE,com.opera.browser.permission.PRIVATE_PROVIDERS,com.opera.browser.permission.GET_PREINSTALL_DATA,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.READ_SYNC_SETTINGS,android.permission.WRITE_SYNC_SETTINGS,android.permission.FLASHLIGHT,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 37,
+  "count_service": 83,
+  "count_receiver": 19,
+  "count_provider": 12,
+  "count_exported": 23
+}

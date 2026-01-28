@@ -1,0 +1,12 @@
+{
+  "apk_file": "DFEF5FCEC03C3733B15F733428C427223423CF0C988CB8BAF337BDF7E6AA8443.apk",
+  "sha256": "dfef5fcec03c3733b15f733428c427223423cf0c988cb8baf337bdf7e6aa8443",
+  "package_name": "16",
+  "version_code": "1020",
+  "version_name": "25.34.0",
+  "min_sdk": "26",
+  "target_sdk": "34",
+  "apk_size_kb": 103148,
+  "dex_count": 7,
+  "native_lib_count": 0
+}

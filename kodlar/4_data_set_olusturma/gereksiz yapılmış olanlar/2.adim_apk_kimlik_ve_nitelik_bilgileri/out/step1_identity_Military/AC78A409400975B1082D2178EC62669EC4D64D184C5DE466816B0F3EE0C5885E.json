@@ -1,0 +1,12 @@
+{
+  "apk_file": "AC78A409400975B1082D2178EC62669EC4D64D184C5DE466816B0F3EE0C5885E.apk",
+  "sha256": "ac78a409400975b1082d2178ec62669ec4d64d184c5de466816b0f3ee0c5885e",
+  "package_name": "15",
+  "version_code": "24",
+  "version_name": "2.15",
+  "min_sdk": "29",
+  "target_sdk": "35",
+  "apk_size_kb": 5240,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

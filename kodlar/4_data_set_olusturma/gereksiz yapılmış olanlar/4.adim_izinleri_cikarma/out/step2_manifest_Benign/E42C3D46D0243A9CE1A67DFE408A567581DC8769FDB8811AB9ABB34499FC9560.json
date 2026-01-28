@@ -1,0 +1,16 @@
+{
+  "apk_file": "E42C3D46D0243A9CE1A67DFE408A567581DC8769FDB8811AB9ABB34499FC9560.apk",
+  "permissions_list": "android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.INTERNET,android.permission.CAMERA,android.permission.ACCESS_DOWNLOAD_MANAGER,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.VIBRATE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.REORDER_TASKS,android.permission.FOREGROUND_SERVICE,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.WAKE_LOCK,android.permission.READ_LOGS,android.permission.READ_PHONE_STATE,android.permission.GET_TASKS,android.permission.WRITE_SETTINGS,android.permission.BLUETOOTH,android.permission.READ_SETTINGS,android.permission.CHANGE_CONFIGURATION,android.permission.CHANGE_WIFI_STATE,com.google.android.apps.photos.permission.GOOGLE_PHOTOS,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,cn.bevol.p.permission.MIPUSH_RECEIVE,cn.bevol.p.permission.PROCESS_PUSH_MSG,cn.bevol.p.permission.PUSH_PROVIDER,com.meizu.flyme.permission.PUSH,com.meizu.flyme.push.permission.RECEIVE,cn.bevol.p.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,cn.bevol.p.permission.C2D_MESSAGE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.vivo.notification.permission.BADGE_ICON,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 302,
+  "count_service": 24,
+  "count_receiver": 16,
+  "count_provider": 14,
+  "count_exported": 18
+}

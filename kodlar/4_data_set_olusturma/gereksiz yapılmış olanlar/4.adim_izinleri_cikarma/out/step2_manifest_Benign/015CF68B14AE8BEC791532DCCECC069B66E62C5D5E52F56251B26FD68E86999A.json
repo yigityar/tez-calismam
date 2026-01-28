@@ -1,0 +1,16 @@
+{
+  "apk_file": "015CF68B14AE8BEC791532DCCECC069B66E62C5D5E52F56251B26FD68E86999A.apk",
+  "permissions_list": "android.permission.VIBRATE,android.permission.INTERNET,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.READ_PHONE_STATE,com.android.vending.BILLING,android.permission.FOREGROUND_SERVICE,android.permission.WAKE_LOCK,android.permission.READ_PHONE_NUMBERS,android.permission.READ_EXTERNAL_STORAGE,android.permission.INSTALL_PACKAGES,android.permission.REQUEST_INSTALL_PACKAGES,com.google.android.c2dm.permission.RECEIVE,com.BOBs.BBS.permission.C2D_MESSAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 6,
+  "count_service": 8,
+  "count_receiver": 6,
+  "count_provider": 2,
+  "count_exported": 11
+}

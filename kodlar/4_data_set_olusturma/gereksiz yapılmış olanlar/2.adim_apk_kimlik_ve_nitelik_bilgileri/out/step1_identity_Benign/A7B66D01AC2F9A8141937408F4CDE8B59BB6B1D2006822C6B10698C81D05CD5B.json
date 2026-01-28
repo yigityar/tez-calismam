@@ -1,0 +1,12 @@
+{
+  "apk_file": "A7B66D01AC2F9A8141937408F4CDE8B59BB6B1D2006822C6B10698C81D05CD5B.apk",
+  "sha256": "a7b66d01ac2f9a8141937408f4cde8b59bb6b1d2006822c6b10698c81d05cd5b",
+  "package_name": "13",
+  "version_code": "101010360",
+  "version_name": "5.0.101",
+  "min_sdk": "27",
+  "target_sdk": "33",
+  "apk_size_kb": 94724,
+  "dex_count": 2,
+  "native_lib_count": 18
+}

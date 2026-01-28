@@ -1,0 +1,16 @@
+{
+  "apk_file": "EF166DD80F4071CF15E92D5E78DB78895210A379DA5200BB26161267F601E7C3.apk",
+  "permissions_list": "android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.INTERNET,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.READ_SMS,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.CHANGE_WIFI_STATE,android.permission.CALL_PHONE,android.permission.VIBRATE,android.permission.READ_PHONE_STATE,android.permission.PROCESS_OUTGOING_CALLS,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.RECEIVE_USER_PRESENT,android.permission.WAKE_LOCK,android.permission.GET_TASKS,android.permission.RECORD_AUDIO,android.permission.DISABLE_KEYGUARD,android.permission.RECEIVE_SMS,android.permission.CAMERA,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.BROADCAST_STICKY,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.READ_EXTERNAL_STORAGE,com.sankuai.meituan.dispatch.homebrew.permission.MIPUSH_RECEIVE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.SYSTEM_OVERLAY_WINDOW,com.meituan.banma.permissions.Shadow_BAN_BROADCAST,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.FOREGROUND_SERVICE,android.permission.ACCESS_NOTIFICATION_POLICY,android.permission.QUERY_ALL_PACKAGES,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.FLASHLIGHT,android.permission.BATTERY_STATS,android.permission.DUMP,com.sankuai.meituan.dispatch.homebrew.permission.PROCESS_PUSH_MSG,com.sankuai.meituan.dispatch.homebrew.permission.PUSH_PROVIDER",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 1,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 219,
+  "count_service": 31,
+  "count_receiver": 27,
+  "count_provider": 15,
+  "count_exported": 12
+}

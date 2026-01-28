@@ -1,0 +1,12 @@
+{
+  "apk_file": "F0B9710A92E7B6D7F30CC50E3D7A2ACAB55BF13FA64D2A43D77A915EC56F07D0.apk",
+  "sha256": "f0b9710a92e7b6d7f30cc50e3d7a2acab55bf13fa64d2a43d77a915ec56f07d0",
+  "package_name": "14",
+  "version_code": "120",
+  "version_name": "5.19.0",
+  "min_sdk": "26",
+  "target_sdk": "34",
+  "apk_size_kb": 71156,
+  "dex_count": 4,
+  "native_lib_count": 33
+}

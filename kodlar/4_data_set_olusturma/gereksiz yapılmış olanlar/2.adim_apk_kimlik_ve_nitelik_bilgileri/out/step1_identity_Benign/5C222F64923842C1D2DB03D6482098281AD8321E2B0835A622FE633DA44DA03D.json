@@ -1,0 +1,12 @@
+{
+  "apk_file": "5C222F64923842C1D2DB03D6482098281AD8321E2B0835A622FE633DA44DA03D.apk",
+  "sha256": "5c222f64923842c1d2db03d6482098281ad8321e2b0835a622fe633da44da03d",
+  "package_name": "13",
+  "version_code": "512",
+  "version_name": "4.2.2",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 24136,
+  "dex_count": 6,
+  "native_lib_count": 20
+}

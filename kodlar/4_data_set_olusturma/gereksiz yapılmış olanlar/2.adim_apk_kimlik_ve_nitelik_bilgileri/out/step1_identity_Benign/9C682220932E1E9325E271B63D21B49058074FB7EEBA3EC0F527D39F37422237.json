@@ -1,0 +1,12 @@
+{
+  "apk_file": "9C682220932E1E9325E271B63D21B49058074FB7EEBA3EC0F527D39F37422237.apk",
+  "sha256": "9c682220932e1e9325e271b63d21b49058074fb7eeba3ec0f527d39f37422237",
+  "package_name": "12",
+  "version_code": "295",
+  "version_name": "3.39.0",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 82884,
+  "dex_count": 7,
+  "native_lib_count": 18
+}

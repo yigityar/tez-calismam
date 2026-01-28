@@ -1,0 +1,12 @@
+{
+  "apk_file": "0889026C3230AC58F0963C7327B388B5DC4D8B68A912F302D5CF368123E68C0B.apk",
+  "sha256": "0889026c3230ac58f0963c7327b388b5dc4d8b68a912f302d5cf368123e68c0b",
+  "package_name": "13",
+  "version_code": "348",
+  "version_name": "4.190",
+  "min_sdk": "16",
+  "target_sdk": "31",
+  "apk_size_kb": 51728,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "20B09D1FA3A8B9CC62B4DC1E4A3DC135C29A6C702A9F41D183D3FE211789FF3D.apk",
+  "sha256": "20b09d1fa3a8b9cc62b4dc1e4a3dc135c29a6c702a9f41d183d3fe211789ff3d",
+  "package_name": "15",
+  "version_code": "624",
+  "version_name": "3.4.20",
+  "min_sdk": "26",
+  "target_sdk": "35",
+  "apk_size_kb": 92020,
+  "dex_count": 4,
+  "native_lib_count": 15
+}

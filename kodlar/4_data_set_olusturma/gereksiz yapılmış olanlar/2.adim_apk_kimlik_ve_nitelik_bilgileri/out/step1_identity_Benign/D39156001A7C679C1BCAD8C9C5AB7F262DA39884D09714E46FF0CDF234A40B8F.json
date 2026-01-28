@@ -1,0 +1,12 @@
+{
+  "apk_file": "D39156001A7C679C1BCAD8C9C5AB7F262DA39884D09714E46FF0CDF234A40B8F.apk",
+  "sha256": "d39156001a7c679c1bcad8c9c5ab7f262da39884d09714e46ff0cdf234a40b8f",
+  "package_name": "9",
+  "version_code": "62",
+  "version_name": "4.2.1",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 63184,
+  "dex_count": 1,
+  "native_lib_count": 80
+}

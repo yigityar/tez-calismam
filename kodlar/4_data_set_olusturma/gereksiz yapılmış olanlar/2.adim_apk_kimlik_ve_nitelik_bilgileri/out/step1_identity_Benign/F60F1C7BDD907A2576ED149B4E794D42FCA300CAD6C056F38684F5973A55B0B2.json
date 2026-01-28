@@ -1,0 +1,12 @@
+{
+  "apk_file": "F60F1C7BDD907A2576ED149B4E794D42FCA300CAD6C056F38684F5973A55B0B2.apk",
+  "sha256": "f60f1c7bdd907a2576ed149b4e794d42fca300cad6c056f38684f5973a55b0b2",
+  "package_name": "11",
+  "version_code": "5889",
+  "version_name": "12.11.2",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 204296,
+  "dex_count": 14,
+  "native_lib_count": 184
+}

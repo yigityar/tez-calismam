@@ -1,0 +1,12 @@
+{
+  "apk_file": "0EF8EAED8D06CEFDAFF69727270CD75206B62880417FAC38140584C5E1F71613.apk",
+  "sha256": "0ef8eaed8d06cefdaff69727270cd75206b62880417fac38140584c5e1f71613",
+  "package_name": "12",
+  "version_code": "117",
+  "version_name": "3.1.8",
+  "min_sdk": "24",
+  "target_sdk": "31",
+  "apk_size_kb": 60360,
+  "dex_count": 2,
+  "native_lib_count": 8
+}

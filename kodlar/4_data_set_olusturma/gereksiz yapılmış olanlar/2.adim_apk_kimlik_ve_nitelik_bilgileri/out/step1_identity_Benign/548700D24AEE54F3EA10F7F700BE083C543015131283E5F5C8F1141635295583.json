@@ -1,0 +1,12 @@
+{
+  "apk_file": "548700D24AEE54F3EA10F7F700BE083C543015131283E5F5C8F1141635295583.apk",
+  "sha256": "548700d24aee54f3ea10f7f700be083c543015131283e5f5c8f1141635295583",
+  "package_name": "13",
+  "version_code": "147",
+  "version_name": "3.4.20",
+  "min_sdk": "23",
+  "target_sdk": "33",
+  "apk_size_kb": 57960,
+  "dex_count": 2,
+  "native_lib_count": 254
+}

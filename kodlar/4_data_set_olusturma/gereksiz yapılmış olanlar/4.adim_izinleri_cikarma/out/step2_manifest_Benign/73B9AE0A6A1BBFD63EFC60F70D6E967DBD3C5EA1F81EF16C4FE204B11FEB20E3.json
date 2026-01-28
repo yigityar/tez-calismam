@@ -1,0 +1,16 @@
+{
+  "apk_file": "73B9AE0A6A1BBFD63EFC60F70D6E967DBD3C5EA1F81EF16C4FE204B11FEB20E3.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.INTERNET,android.permission.DEVICE_POWER,android.permission.WAKE_LOCK,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.VIBRATE,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 1,
+  "count_service": 0,
+  "count_receiver": 0,
+  "count_provider": 0,
+  "count_exported": 1
+}

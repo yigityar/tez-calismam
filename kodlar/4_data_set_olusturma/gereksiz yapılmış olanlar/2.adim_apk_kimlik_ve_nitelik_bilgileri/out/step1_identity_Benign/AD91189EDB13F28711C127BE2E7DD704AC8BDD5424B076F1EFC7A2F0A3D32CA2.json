@@ -1,0 +1,12 @@
+{
+  "apk_file": "AD91189EDB13F28711C127BE2E7DD704AC8BDD5424B076F1EFC7A2F0A3D32CA2.apk",
+  "sha256": "ad91189edb13f28711c127be2e7dd704ac8bdd5424b076f1efc7a2f0a3d32ca2",
+  "package_name": "11",
+  "version_code": "59",
+  "version_name": "2022.05",
+  "min_sdk": "18",
+  "target_sdk": "30",
+  "apk_size_kb": 58824,
+  "dex_count": 2,
+  "native_lib_count": 60
+}

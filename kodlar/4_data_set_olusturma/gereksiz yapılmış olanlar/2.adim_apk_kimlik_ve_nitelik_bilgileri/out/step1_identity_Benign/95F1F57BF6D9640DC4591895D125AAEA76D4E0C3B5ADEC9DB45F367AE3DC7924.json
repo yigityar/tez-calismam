@@ -1,0 +1,12 @@
+{
+  "apk_file": "95F1F57BF6D9640DC4591895D125AAEA76D4E0C3B5ADEC9DB45F367AE3DC7924.apk",
+  "sha256": "95f1f57bf6d9640dc4591895d125aaea76d4e0c3b5adec9db45f367ae3dc7924",
+  "package_name": "com.yitong.xian.mbank",
+  "version_code": "731",
+  "version_name": "7.3.1",
+  "min_sdk": "18",
+  "target_sdk": "26",
+  "apk_size_kb": 129404,
+  "dex_count": 8,
+  "native_lib_count": 106
+}

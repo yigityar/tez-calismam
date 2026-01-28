@@ -1,0 +1,16 @@
+{
+  "apk_file": "3FCE85C9734B31F1B77F84E97129F4046D3A8AE4FF6368F616DD8DE9DA23D034.apk",
+  "permissions_list": "android.permission.FOREGROUND_SERVICE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CALL_PHONE,android.permission.INTERNET,android.permission.CHANGE_NETWORK_STATE,android.permission.REORDER_TASKS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.RECORD_AUDIO,android.permission.VIBRATE,android.permission.CAMERA,android.permission.WAKE_LOCK,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH_CONNECT,android.permission.BLUETOOTH_SCAN,READ_PHONE_NUMBERS,android.permission.READ_PHONE_STATE,android.permission.READ_PRIVILEGED_PHONE_STATE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.GET_TASKS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,com.huawei.android.launcher.permission.CHANGE_BADGE ,com.tencent.wemeet.app.permission.XGPUSH_RECEIVE,android.permission.RECEIVE_USER_PRESENT,android.permission.READ_CONTACTS,android.permission.SCHEDULE_EXACT_ALARM,android.permission.RESTART_PACKAGES,com.tencent.wemeet.app.permission.PROCESS_PUSH_MSG,com.tencent.wemeet.app.permission.PUSH_PROVIDER,com.tencent.wemeet.app.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 238,
+  "count_service": 25,
+  "count_receiver": 12,
+  "count_provider": 10,
+  "count_exported": 22
+}

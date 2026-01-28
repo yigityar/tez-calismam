@@ -1,0 +1,12 @@
+{
+  "apk_file": "0D93C7A3A60159C0B1423AD22678CEE32A7AEE88D59E543C641FC2FFAA3D84C9.apk",
+  "sha256": "0d93c7a3a60159c0b1423ad22678cee32a7aee88d59e543c641fc2ffaa3d84c9",
+  "package_name": "11",
+  "version_code": "157",
+  "version_name": "2.0.130157",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 26084,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "7B5324144BE6BFB69F04B1F046844B855C9CE90804E58CE3BBFFFEA72E9A1D89.apk",
+  "sha256": "7b5324144be6bfb69f04b1f046844b855c9ce90804e58ce3bbfffea72e9a1d89",
+  "package_name": "16",
+  "version_code": "314",
+  "version_name": "3.17",
+  "min_sdk": "23",
+  "target_sdk": "36",
+  "apk_size_kb": 15928,
+  "dex_count": 4,
+  "native_lib_count": 0
+}

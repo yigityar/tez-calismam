@@ -1,0 +1,12 @@
+{
+  "apk_file": "523A9F779FE081A164C31D442B9ABAB49193C9D2CEE92EB6CE730B726625796A.apk",
+  "sha256": "523a9f779fe081a164c31d442b9abab49193c9d2cee92eb6ce730b726625796a",
+  "package_name": "9",
+  "version_code": "5332",
+  "version_name": "5.3.3.2",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 200120,
+  "dex_count": 2,
+  "native_lib_count": 217
+}

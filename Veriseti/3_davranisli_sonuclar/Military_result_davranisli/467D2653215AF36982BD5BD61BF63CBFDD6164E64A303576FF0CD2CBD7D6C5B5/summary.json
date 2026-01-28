@@ -1,0 +1,122 @@
+{
+    "apk_name": "467D2653215AF36982BD5BD61BF63CBFDD6164E64A303576FF0CD2CBD7D6C5B5",
+    "sha256": "467d2653215af36982bd5bd61bf63cbfdd6164e64a303576ff0cd2cbd7d6c5b5",
+    "metadata": {
+        "package_name": "com.tortel.deploytrack",
+        "version_code": "32",
+        "version_name": "3.0.11",
+        "min_sdk": "23",
+        "target_sdk": "34",
+        "permissions": [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.tortel.deploytrack.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "androidx.credentials.playservices.HiddenActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.firebase.auth.internal.GenericIdpActivity",
+            "com.google.firebase.auth.internal.RecaptchaActivity",
+            "com.tortel.deploytrack.AboutActivity",
+            "com.tortel.deploytrack.MainActivity",
+            "com.tortel.deploytrack.WidgetPickerActivity"
+        ],
+        "services": [
+            "androidx.credentials.playservices.CredentialProviderMetadataHolder",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.sessions.SessionLifecycleService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.tortel.deploytrack.provider.WidgetProvider"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_ADSERVICES_AD_ID": "unknown",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION": "unknown",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES": "unknown",
+            "com.tortel.deploytrack.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "unknown": 6,
+            "normal": 4
+        }
+    },
+    "stats": {
+        "dex_count": 4,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 101.96,
+        "sources_present": true,
+        "java_file_count": 11306
+    },
+    "ast_analysis": {
+        "location": 8,
+        "microphone": 0,
+        "camera": 9,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 1,
+            "content_access": 11,
+            "audio_control": 0,
+            "vibration": 1,
+            "network_io": 5,
+            "scheduling_apis": 29,
+            "dynamic_code": 308
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 358
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 20,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 3
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 0,
+            "reflection": 308
+        }
+    }
+}

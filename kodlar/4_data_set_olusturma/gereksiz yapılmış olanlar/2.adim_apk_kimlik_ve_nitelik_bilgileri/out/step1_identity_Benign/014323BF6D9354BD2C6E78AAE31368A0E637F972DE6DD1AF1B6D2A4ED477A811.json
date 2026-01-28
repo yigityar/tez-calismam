@@ -1,0 +1,12 @@
+{
+  "apk_file": "014323BF6D9354BD2C6E78AAE31368A0E637F972DE6DD1AF1B6D2A4ED477A811.apk",
+  "sha256": "014323bf6d9354bd2c6e78aae31368a0e637f972de6dd1af1b6d2a4ed477a811",
+  "package_name": "12",
+  "version_code": "10",
+  "version_name": "1.1.7",
+  "min_sdk": "24",
+  "target_sdk": "30",
+  "apk_size_kb": 37036,
+  "dex_count": 1,
+  "native_lib_count": 48
+}

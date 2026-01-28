@@ -1,0 +1,16 @@
+{
+  "apk_file": "24E41BA65AC89F9DF28D04313BFB5D677A10CEBEF5E38885D7C0EF299BCD73A6.apk",
+  "permissions_list": "android.permission.WRITE_SETTINGS,android.permission.READ_CONTACTS,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_FINE_LOCATION,android.permission.RECEIVE_USER_PRESENT,android.permission.CHANGE_NETWORK_STATE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.VIBRATE,android.permission.WAKE_LOCK,android.permission.CAMERA,android.permission.ACCESS_NETWORK_STATE,android.permission.INTERNET,android.permission.READ_PHONE_STATE,android.permission.BROADCAST_STICKY,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.GET_TASKS,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,com.samsung.android.authservice.permission.READ_CONTENT_PROVIDER,android.permission.FOREGROUND_SERVICE,android.permission.USE_FINGERPRINT,android.permission.READ_SETTINGS,cn.org.ifaa.permission.USE_IFAA_MANAGER,android.permission.MANAGE_FINGERPRINT,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.WRITE_SECURE_SETTINGS,android.permission.ZTE_HEARTYSERVICE_MANAGEMENT,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.REORDER_TASKS,android.permission.CHANGE_WIFI_STATE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 227,
+  "count_service": 39,
+  "count_receiver": 10,
+  "count_provider": 3,
+  "count_exported": 8
+}

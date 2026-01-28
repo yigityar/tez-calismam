@@ -1,0 +1,12 @@
+{
+  "apk_file": "A65EA11AF6FB661DFDAC58D4AA3C86D7728E386931D4EC1D1D6E44C22080EAE0.apk",
+  "sha256": "a65ea11af6fb661dfdac58d4aa3c86d7728e386931d4ec1d1d6e44c22080eae0",
+  "package_name": "cn.com.cgbchina.mobilePlatform",
+  "version_code": "20220124",
+  "version_name": "3.5.2",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 96228,
+  "dex_count": 1,
+  "native_lib_count": 104
+}

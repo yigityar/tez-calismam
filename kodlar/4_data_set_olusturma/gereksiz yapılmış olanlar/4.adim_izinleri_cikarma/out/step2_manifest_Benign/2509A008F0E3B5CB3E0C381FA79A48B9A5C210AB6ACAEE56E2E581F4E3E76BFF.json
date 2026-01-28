@@ -1,0 +1,16 @@
+{
+  "apk_file": "2509A008F0E3B5CB3E0C381FA79A48B9A5C210AB6ACAEE56E2E581F4E3E76BFF.apk",
+  "permissions_list": "android.permission.REQUEST_INSTALL_PACKAGES,android.permission.CALL_PHONE,android.permission.INTERNET,android.permission.PACKAGE_USAGE_STATS,android.permission.WRITE_APN_SETTINGS,android.permission.READ_EXTERNAL_STORAGE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.ACCESS_FINE_LOCATION,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_WIFI_STATE,android.permission.RESTART_PACKAGES,android.permission.BROADCAST_STICKY,android.permission.WRITE_SETTINGS,android.permission.RECEIVE_USER_PRESENT,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.READ_LOGS,android.permission.BLUETOOTH,android.permission.BATTERY_STATS,android.permission.ACCESS_NETWORK_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.CAMERA,android.permission.VIBRATE,android.permission.FLASHLIGHT,android.permission.WAKE_LOCK,android.permission.CHANGE_CONFIGURATION,android.permission.USE_SIP,org.simalliance.openmobileapi.SMARTCARD,android.permission.RECORD_AUDIO,android.permission.BAIDU_LOCATION_SERVICE,android.permission.MOUNT_FORMAT_FILESYSTEMS,com.example.admin.tenantframework.permission.RECEIVE_MSG,android.hardware.camera.autofocus,android.permission.access_wifi_state,android.permission.access_network_state,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.GET_ACCOUNTS,android.permission.SEND_SMS,android.permission.WRITE_SMS,android.permission.READ_SMS,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.FOREGROUND_SERVICE,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.BLUETOOTH_ADMIN,android.permission.WRITE_SYNC_SETTINGS,android.permission.CHANGE_NETWORK_STATE,android.permission.READ_MEDIA_AUDIO,android.permission.READ_MEDIA_IMAGES,android.permission.READ_MEDIA_VIDEO,com.example.admin.tenantframework.permission.JPUSH_MESSAGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.vivo.notification.permission.BADGE_ICON,android.permission.GET_TASKS,android.permission.QUERY_ALL_PACKAGES,com.example.admin.tenantframework.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.example.admin.tenantframework.permission.PROCESS_PUSH_MSG,com.example.admin.tenantframework.permission.PUSH_PROVIDER,android.permission.READ_PHONE_NUMBERS,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.READ_SETTINGS,com.android.launcher2.permission.READ_SETTINGS,com.android.launcher3.permission.READ_SETTINGS,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 1,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 240,
+  "count_service": 38,
+  "count_receiver": 17,
+  "count_provider": 27,
+  "count_exported": 27
+}

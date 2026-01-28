@@ -1,0 +1,12 @@
+{
+  "apk_file": "4ADE7AEA5C3325DEDCB45B3B59B8122FED0EB4404D47728D1212337ACEC90C31.apk",
+  "sha256": "4ade7aea5c3325dedcb45b3b59b8122fed0eb4404d47728d1212337acec90c31",
+  "package_name": "15",
+  "version_code": "71590",
+  "version_name": "34.2",
+  "min_sdk": "29",
+  "target_sdk": "35",
+  "apk_size_kb": 9940,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

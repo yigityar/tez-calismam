@@ -1,0 +1,12 @@
+{
+  "apk_file": "E485395A4939ECAC7C9502DE0E99B813A25909E76AC69B6452044B6B8076F2FC.apk",
+  "sha256": "e485395a4939ecac7c9502de0e99b813a25909e76ac69b6452044b6b8076f2fc",
+  "package_name": "11",
+  "version_code": "61701",
+  "version_name": "6.17.1",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 61784,
+  "dex_count": 3,
+  "native_lib_count": 78
+}

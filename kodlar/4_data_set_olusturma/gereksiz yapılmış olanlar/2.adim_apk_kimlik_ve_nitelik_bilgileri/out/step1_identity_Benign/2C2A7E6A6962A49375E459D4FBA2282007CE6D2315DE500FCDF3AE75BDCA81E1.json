@@ -1,0 +1,12 @@
+{
+  "apk_file": "2C2A7E6A6962A49375E459D4FBA2282007CE6D2315DE500FCDF3AE75BDCA81E1.apk",
+  "sha256": "2c2a7e6a6962a49375e459d4fba2282007ce6d2315de500fcdf3ae75bdca81e1",
+  "package_name": "11",
+  "version_code": "86",
+  "version_name": "2.0.86",
+  "min_sdk": "25",
+  "target_sdk": "30",
+  "apk_size_kb": 68244,
+  "dex_count": 1,
+  "native_lib_count": 18
+}

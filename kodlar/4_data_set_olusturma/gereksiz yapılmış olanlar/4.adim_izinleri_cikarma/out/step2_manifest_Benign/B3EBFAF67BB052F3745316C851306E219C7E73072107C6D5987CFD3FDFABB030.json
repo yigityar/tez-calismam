@@ -1,0 +1,16 @@
+{
+  "apk_file": "B3EBFAF67BB052F3745316C851306E219C7E73072107C6D5987CFD3FDFABB030.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.CAMERA,android.permission.VIBRATE,com.gree.greesmarthome.permission.JPUSH_MESSAGE,android.permission.RECEIVE_USER_PRESENT,android.permission.INTERNET,android.permission.WAKE_LOCK,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_SETTINGS,android.permission.VIBRATE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.CALL_PHONE,android.permission.RECORD_AUDIO,android.permission.CHANGE_NETWORK_STATE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.ACCESS_COARSE_LOCATION,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.CHANGE_NETWORK_STATE,android.permission.GET_TASKS,android.permission.TRANSMIT_IR,android.permission.WAKE_LOCK,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.SYSTEM_ALERT_WINDOW,MediaStore.Images.Media.INTERNAL_CONTENT_URI,MediaStore.Images.Media.EXTERNAL_CONTENT_URI,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.FOREGROUND_SERVICE,android.permission.READ_PHONE_STATE,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.READ_LOGS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.READ_CONTACTS,android.permission.USE_FINGERPRINT,com.gree.greesmarthome.permission.MIPUSH_RECEIVE,com.gree.greesmarthome.permission.PROCESS_PUSH_MSG,com.gree.greesmarthome.permission.PUSH_PROVIDER,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.MODIFY_AUDIO_SETTINGS,com.huawei.android.launcher.permission.CHANGE_BADGE,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.QUERY_ALL_PACKAGES,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 381,
+  "count_service": 35,
+  "count_receiver": 15,
+  "count_provider": 12,
+  "count_exported": 21
+}

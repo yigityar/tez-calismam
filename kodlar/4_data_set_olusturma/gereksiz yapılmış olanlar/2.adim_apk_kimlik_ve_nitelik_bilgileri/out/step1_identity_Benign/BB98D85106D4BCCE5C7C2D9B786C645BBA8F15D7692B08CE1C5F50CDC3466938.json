@@ -1,0 +1,12 @@
+{
+  "apk_file": "BB98D85106D4BCCE5C7C2D9B786C645BBA8F15D7692B08CE1C5F50CDC3466938.apk",
+  "sha256": "bb98d85106d4bcce5c7c2d9b786c645bba8f15d7692b08ce1c5f50cdc3466938",
+  "package_name": "11",
+  "version_code": "309",
+  "version_name": "3.2.4",
+  "min_sdk": "26",
+  "target_sdk": "30",
+  "apk_size_kb": 46168,
+  "dex_count": 1,
+  "native_lib_count": 32
+}

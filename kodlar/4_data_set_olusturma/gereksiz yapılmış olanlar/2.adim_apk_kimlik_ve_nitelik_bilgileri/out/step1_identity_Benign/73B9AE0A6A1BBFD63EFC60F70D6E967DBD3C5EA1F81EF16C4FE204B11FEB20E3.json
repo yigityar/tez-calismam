@@ -1,0 +1,12 @@
+{
+  "apk_file": "73B9AE0A6A1BBFD63EFC60F70D6E967DBD3C5EA1F81EF16C4FE204B11FEB20E3.apk",
+  "sha256": "73b9ae0a6a1bbfd63efc60f70d6e967dbd3c5ea1f81ef16c4fe204b11feb20e3",
+  "package_name": "com.weintek",
+  "version_code": "32200028",
+  "version_name": "2.20.28",
+  "min_sdk": "16",
+  "target_sdk": "31",
+  "apk_size_kb": 30372,
+  "dex_count": 1,
+  "native_lib_count": 57
+}

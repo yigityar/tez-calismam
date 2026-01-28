@@ -1,0 +1,12 @@
+{
+  "apk_file": "574AB658090E988947E639BAE5803F22BFEA65C1F0824FE2F1BF65DF39081D02.apk",
+  "sha256": "574ab658090e988947e639bae5803f22bfea65c1f0824fe2f1bf65df39081d02",
+  "package_name": "12",
+  "version_code": "20220623",
+  "version_name": "6.6.0",
+  "min_sdk": "23",
+  "target_sdk": "28",
+  "apk_size_kb": 85368,
+  "dex_count": 5,
+  "native_lib_count": 60
+}

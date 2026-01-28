@@ -1,0 +1,12 @@
+{
+  "apk_file": "C53D93BB7DBB6C611187A565ECFD79AF543BD8FBDFAB0EC6EBC3B5ACA68DD6B6.apk",
+  "sha256": "c53d93bb7dbb6c611187a565ecfd79af543bd8fbdfab0ec6ebc3b5aca68dd6b6",
+  "package_name": "9",
+  "version_code": "1006",
+  "version_name": "7.80.6",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 53244,
+  "dex_count": 7,
+  "native_lib_count": 34
+}

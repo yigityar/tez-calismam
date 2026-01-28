@@ -1,0 +1,12 @@
+{
+  "apk_file": "32C29D26973363FA85DD52C8A55446B8346CDCE5255C4DA2364DB80B7C2AF32E.apk",
+  "sha256": "32c29d26973363fa85dd52c8a55446b8346cdce5255c4da2364db80b7c2af32e",
+  "package_name": "11",
+  "version_code": "11190",
+  "version_name": "11.1.9",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 70720,
+  "dex_count": 13,
+  "native_lib_count": 88
+}

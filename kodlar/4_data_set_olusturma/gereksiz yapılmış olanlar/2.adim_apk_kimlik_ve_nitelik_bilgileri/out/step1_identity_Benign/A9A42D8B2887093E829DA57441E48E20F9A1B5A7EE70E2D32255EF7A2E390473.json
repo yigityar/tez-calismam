@@ -1,0 +1,12 @@
+{
+  "apk_file": "A9A42D8B2887093E829DA57441E48E20F9A1B5A7EE70E2D32255EF7A2E390473.apk",
+  "sha256": "a9a42d8b2887093e829da57441e48e20f9a1b5a7ee70e2d32255ef7a2e390473",
+  "package_name": "13",
+  "version_code": "118",
+  "version_name": "3.35.1",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 35608,
+  "dex_count": 1,
+  "native_lib_count": 22
+}

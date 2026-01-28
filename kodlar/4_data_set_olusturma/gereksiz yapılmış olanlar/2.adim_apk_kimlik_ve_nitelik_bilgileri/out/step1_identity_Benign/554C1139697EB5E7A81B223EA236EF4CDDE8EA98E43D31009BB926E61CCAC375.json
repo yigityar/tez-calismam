@@ -1,0 +1,12 @@
+{
+  "apk_file": "554C1139697EB5E7A81B223EA236EF4CDDE8EA98E43D31009BB926E61CCAC375.apk",
+  "sha256": "554c1139697eb5e7a81b223ea236ef4cdde8ea98e43d31009bb926e61ccac375",
+  "package_name": "11",
+  "version_code": "60888",
+  "version_name": "9.21.24",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 82620,
+  "dex_count": 10,
+  "native_lib_count": 98
+}

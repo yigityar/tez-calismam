@@ -1,0 +1,12 @@
+{
+  "apk_file": "21746FA203B5B0D01E02591D313F2F24C2817153CACDC924CDF9E9ABB5A4DF77.apk",
+  "sha256": "21746fa203b5b0d01e02591d313f2f24c2817153cacdc924cdf9e9abb5a4df77",
+  "package_name": "13",
+  "version_code": "2022120701",
+  "version_name": "22.17.2022120701",
+  "min_sdk": "26",
+  "target_sdk": "31",
+  "apk_size_kb": 84292,
+  "dex_count": 3,
+  "native_lib_count": 36
+}

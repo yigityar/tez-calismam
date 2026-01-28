@@ -1,0 +1,12 @@
+{
+  "apk_file": "5F780D9BD73446BDD17FADE1A84EDA21E2A984FC0D3192871A4AD78EF1840172.apk",
+  "sha256": "5f780d9bd73446bdd17fade1a84eda21e2a984fc0d3192871a4ad78ef1840172",
+  "package_name": "14",
+  "version_code": "402294",
+  "version_name": "2.12.12",
+  "min_sdk": "28",
+  "target_sdk": "34",
+  "apk_size_kb": 52240,
+  "dex_count": 2,
+  "native_lib_count": 8
+}

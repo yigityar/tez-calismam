@@ -1,0 +1,16 @@
+{
+  "apk_file": "68BC8DB9C2C6F3AE6650031BE2C563798CB77CD6D9218EE7834E7482E62D0159.apk",
+  "permissions_list": "android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.INTERNET,android.permission.READ_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_CONTACTS,android.permission.READ_PHONE_STATE,android.permission.CALL_PHONE,android.permission.ACCESS_WIFI_STATE,android.permission.USE_FINGERPRINT,android.permission.CAMERA,com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,android.permission.WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.FLASHLIGHT,android.permission.RECORD_AUDIO",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 101,
+  "count_service": 9,
+  "count_receiver": 4,
+  "count_provider": 9,
+  "count_exported": 5
+}

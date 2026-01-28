@@ -1,0 +1,16 @@
+{
+  "apk_file": "61C009BCBF48E6B364EA8AECC9E12A0790E812F6BBB8BD2B66B8E4DCAE6A5B66.apk",
+  "permissions_list": "android.permission.CALL_PHONE,android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.READ_CONTACTS,android.permission.REORDER_TASKS,android.permission.USE_FINGERPRINT,android.permission.WRITE_CONTACTS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.READ_PHONE_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.INTERNET,android.permission.READ_LOGS,android.permission.FOREGROUND_SERVICE,android.permission.GET_TASKS,android.permission.MANAGE_ACCOUNTS,android.permission.GET_ACCOUNTS,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.RECEIVE_USER_PRESENT,android.permission.WAKE_LOCK,android.permission.READ_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_COARSE_UPDATES,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.CHANGE_NETWORK_STATE,android.permission.clear_app_cache,cn.valueonline.capital.permission.FIN_APPLET_RECEIVER,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH_CONNECT,android.permission.BLUETOOTH_SCAN,READ_PHONE_NUMBERS,android.permission.READ_PRIVILEGED_PHONE_STATE,android.permission.QUERY_ALL_PACKAGES,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,com.huawei.android.launcher.permission.CHANGE_BADGE ,com.google.android.gms.permission.AD_ID,com.huawei.android.launcher.permission.CHANGE_BADGE,com.vivo.notification.permission.BADGE_ICON,android.permission.POST_NOTIFICATIONS,cn.valueonline.capital.permission.MIPUSH_RECEIVE,cn.valueonline.capital.permission.PROCESS_PUSH_MSG,cn.valueonline.capital.permission.PUSH_PROVIDER,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 478,
+  "count_service": 51,
+  "count_receiver": 17,
+  "count_provider": 19,
+  "count_exported": 15
+}

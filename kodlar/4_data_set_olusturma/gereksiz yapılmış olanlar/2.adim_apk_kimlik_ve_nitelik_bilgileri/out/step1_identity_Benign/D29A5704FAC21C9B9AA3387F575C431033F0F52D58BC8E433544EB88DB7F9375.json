@@ -1,0 +1,12 @@
+{
+  "apk_file": "D29A5704FAC21C9B9AA3387F575C431033F0F52D58BC8E433544EB88DB7F9375.apk",
+  "sha256": "d29a5704fac21c9b9aa3387f575c431033f0f52d58bc8e433544eb88db7f9375",
+  "package_name": "12",
+  "version_code": "19817015",
+  "version_name": "7.7.15",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 38124,
+  "dex_count": 5,
+  "native_lib_count": 38
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "E228541A19DBD2102617368F657485B585F6418596C5C39911713808A7A9D696.apk",
+  "sha256": "e228541a19dbd2102617368f657485b585f6418596c5c39911713808a7a9d696",
+  "package_name": "12",
+  "version_code": "682",
+  "version_name": "10.0.0.682",
+  "min_sdk": "24",
+  "target_sdk": "30",
+  "apk_size_kb": 23344,
+  "dex_count": 1,
+  "native_lib_count": 14
+}

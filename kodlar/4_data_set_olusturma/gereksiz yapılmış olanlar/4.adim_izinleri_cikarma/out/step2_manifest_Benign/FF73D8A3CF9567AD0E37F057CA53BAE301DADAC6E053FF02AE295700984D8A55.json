@@ -1,0 +1,16 @@
+{
+  "apk_file": "FF73D8A3CF9567AD0E37F057CA53BAE301DADAC6E053FF02AE295700984D8A55.apk",
+  "permissions_list": "android.permission.VIBRATE,android.permission.WRITE_USER_DICTIONARY",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 2,
+  "count_service": 1,
+  "count_receiver": 0,
+  "count_provider": 0,
+  "count_exported": 1
+}

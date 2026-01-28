@@ -1,0 +1,12 @@
+{
+  "apk_file": "D5A10A9510B5A444C29D58356AADBD5C812B3809ABD6B531C4CA10C04D0B3AB1.apk",
+  "sha256": "d5a10a9510b5a444c29d58356aadbd5c812b3809abd6b531c4ca10c04d0b3ab1",
+  "package_name": "6.0-2438415",
+  "version_code": "1436",
+  "version_name": "16.1.0",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 62556,
+  "dex_count": 4,
+  "native_lib_count": 53
+}

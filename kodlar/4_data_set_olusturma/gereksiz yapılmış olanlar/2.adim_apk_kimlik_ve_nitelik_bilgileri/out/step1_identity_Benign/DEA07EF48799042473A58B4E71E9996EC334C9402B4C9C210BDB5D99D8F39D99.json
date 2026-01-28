@@ -1,0 +1,12 @@
+{
+  "apk_file": "DEA07EF48799042473A58B4E71E9996EC334C9402B4C9C210BDB5D99D8F39D99.apk",
+  "sha256": "dea07ef48799042473a58b4e71e9996ec334c9402b4c9c210bdb5d99d8f39d99",
+  "package_name": "12",
+  "version_code": "355375308",
+  "version_name": "351.0.0.12.114",
+  "min_sdk": "26",
+  "target_sdk": "30",
+  "apk_size_kb": 46388,
+  "dex_count": 8,
+  "native_lib_count": 19
+}

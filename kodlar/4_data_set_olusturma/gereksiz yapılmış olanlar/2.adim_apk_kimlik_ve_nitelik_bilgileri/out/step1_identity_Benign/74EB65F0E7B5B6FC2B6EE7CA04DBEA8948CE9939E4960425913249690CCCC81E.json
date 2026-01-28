@@ -1,0 +1,12 @@
+{
+  "apk_file": "74EB65F0E7B5B6FC2B6EE7CA04DBEA8948CE9939E4960425913249690CCCC81E.apk",
+  "sha256": "74eb65f0e7b5b6fc2b6ee7ca04dbea8948ce9939e4960425913249690cccc81e",
+  "package_name": "10",
+  "version_code": "943",
+  "version_name": "5.4.2",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 81720,
+  "dex_count": 1,
+  "native_lib_count": 67
+}

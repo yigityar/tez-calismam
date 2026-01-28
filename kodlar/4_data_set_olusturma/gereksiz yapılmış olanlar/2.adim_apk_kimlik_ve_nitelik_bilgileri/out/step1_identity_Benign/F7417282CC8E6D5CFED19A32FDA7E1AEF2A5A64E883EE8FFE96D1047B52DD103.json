@@ -1,0 +1,12 @@
+{
+  "apk_file": "F7417282CC8E6D5CFED19A32FDA7E1AEF2A5A64E883EE8FFE96D1047B52DD103.apk",
+  "sha256": "f7417282cc8e6d5cfed19a32fda7e1aef2a5a64e883ee8ffe96d1047b52dd103",
+  "package_name": "10",
+  "version_code": "3695",
+  "version_name": "8.10",
+  "min_sdk": "22",
+  "target_sdk": "29",
+  "apk_size_kb": 177812,
+  "dex_count": 1,
+  "native_lib_count": 84
+}

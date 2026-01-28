@@ -1,0 +1,12 @@
+{
+  "apk_file": "384ABB872A5BC47FDD0FBCD324C2735F028ABE6398457A019F757A764CB85F68.apk",
+  "sha256": "384abb872a5bc47fdd0fbcd324c2735f028abe6398457a019f757a764cb85f68",
+  "package_name": "6.0-2438415",
+  "version_code": "13",
+  "version_name": "1.1.5",
+  "min_sdk": "22",
+  "target_sdk": "28",
+  "apk_size_kb": 33680,
+  "dex_count": 2,
+  "native_lib_count": 36
+}

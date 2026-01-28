@@ -1,0 +1,135 @@
+{
+    "apk_name": "AA2EF84C70A7D387FDF8C6AE84A8131876EA5092AB975EA40A703F92987EB7CD",
+    "sha256": "aa2ef84c70a7d387fdf8c6ae84a8131876ea5092ab975ea40a703f92987eb7cd",
+    "metadata": {
+        "package_name": "com.jetlab.chairgunelite",
+        "version_code": "169",
+        "version_name": "4.6.0",
+        "min_sdk": "23",
+        "target_sdk": "35",
+        "permissions": [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.jetlab.chairgunelite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.android.billingclient.api.ProxyBillingActivityV2",
+            "com.canhub.cropper.CropImageActivity",
+            "com.dropbox.core.android.AuthActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.jetlab.chairgunelite.MainActivity",
+            "com.jetlab.chairgunelite.SlopeCamera",
+            "com.jetlab.chairgunelite.UpsellActivity",
+            "com.jetlab.chairgunelite.VIBRegistrationScreenVC",
+            "com.jetlab.chairgunelite.VIBSplashScreenVC",
+            "com.revenuecat.purchases.amazon.purchasing.ProxyAmazonBillingActivity"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.sessions.SessionLifecycleService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_ADSERVICES_AD_ID": "unknown",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION": "unknown",
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.vending.BILLING": "unknown",
+            "com.android.vending.CHECK_LICENSE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.jetlab.chairgunelite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "unknown": 6,
+            "dangerous": 5,
+            "normal": 5
+        }
+    },
+    "stats": {
+        "dex_count": 6,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 121.95,
+        "sources_present": true,
+        "java_file_count": 15384
+    },
+    "ast_analysis": {
+        "location": 34,
+        "microphone": 0,
+        "camera": 2643,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 3
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 2525,
+            "microphone": 0,
+            "location": 7,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 10,
+            "audio_control": 0,
+            "vibration": 6,
+            "network_io": 6,
+            "scheduling_apis": 79,
+            "dynamic_code": 346
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 2979
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 71,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 82,
+            "user_triggered": 18
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 344
+        }
+    }
+}

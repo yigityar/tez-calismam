@@ -1,0 +1,12 @@
+{
+  "apk_file": "8013FD91A1317BB951404F49BC89012AB75A003D704560ED28AF8B004A2D74A6.apk",
+  "sha256": "8013fd91a1317bb951404f49bc89012ab75a003d704560ed28af8b004a2d74a6",
+  "package_name": "12",
+  "version_code": "187",
+  "version_name": "2.7.6",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 41092,
+  "dex_count": 5,
+  "native_lib_count": 36
+}

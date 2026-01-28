@@ -1,0 +1,12 @@
+{
+  "apk_file": "33592D334344BA98AB2220D6C140978DEFCEF7FEE81A40F887D42D99392A1A3A.apk",
+  "sha256": "33592d334344ba98ab2220d6c140978defcef7fee81a40f887d42d99392a1a3a",
+  "package_name": "13",
+  "version_code": "107",
+  "version_name": "3.15",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 9956,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

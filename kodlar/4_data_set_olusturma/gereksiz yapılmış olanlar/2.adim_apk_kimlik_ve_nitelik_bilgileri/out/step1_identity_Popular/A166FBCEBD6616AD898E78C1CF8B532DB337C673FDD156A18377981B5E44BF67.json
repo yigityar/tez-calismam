@@ -1,0 +1,12 @@
+{
+  "apk_file": "A166FBCEBD6616AD898E78C1CF8B532DB337C673FDD156A18377981B5E44BF67.apk",
+  "sha256": "a166fbcebd6616ad898e78c1cf8b532db337c673fdd156a18377981b5e44bf67",
+  "package_name": "9",
+  "version_code": "1022006",
+  "version_name": "10.22.6",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 25240,
+  "dex_count": 4,
+  "native_lib_count": 2
+}

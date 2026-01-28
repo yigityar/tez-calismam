@@ -1,0 +1,12 @@
+{
+  "apk_file": "2FCB7918239A8D6305D709A9C51CF062ECBCC8F267E1377255C9B9DB8C4CB3BB.apk",
+  "sha256": "2fcb7918239a8d6305d709a9c51cf062ecbcc8f267e1377255c9b9db8c4cb3bb",
+  "package_name": "11",
+  "version_code": "25000624",
+  "version_name": "5.9.9.50",
+  "min_sdk": "21",
+  "target_sdk": "27",
+  "apk_size_kb": 133648,
+  "dex_count": 2,
+  "native_lib_count": 65
+}

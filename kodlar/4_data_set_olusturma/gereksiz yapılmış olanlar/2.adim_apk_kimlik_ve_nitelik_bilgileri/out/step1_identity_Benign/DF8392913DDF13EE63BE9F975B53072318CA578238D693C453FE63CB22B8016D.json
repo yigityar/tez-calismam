@@ -1,0 +1,12 @@
+{
+  "apk_file": "DF8392913DDF13EE63BE9F975B53072318CA578238D693C453FE63CB22B8016D.apk",
+  "sha256": "df8392913ddf13ee63be9f975b53072318ca578238d693c453fe63cb22b8016d",
+  "package_name": "12",
+  "version_code": "710900",
+  "version_name": "7.1.0.9.0",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 172216,
+  "dex_count": 2,
+  "native_lib_count": 81
+}

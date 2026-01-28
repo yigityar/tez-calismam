@@ -1,0 +1,16 @@
+{
+  "apk_file": "EE9B5BA7F864964696EA396037E37E0A9654B758A50A707206A868DD3194E03F.apk",
+  "permissions_list": "android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.ACCESS_MOCK_LOCATION,android.permission.ACCESS_WIFI_STATE,android.permission.INTERNET,android.permission.WAKE_LOCK,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.FOREGROUND_SERVICE,android.permission.CHANGE_WIFI_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.WRITE_SECURE_SETTINGS,android.permission.PERSISTENT_ACTIVITY,android.permission.CAMERA,android.permission.REQUEST_COMPANION_RUN_IN_BACKGROUND,android.permission.REQUEST_COMPANION_USE_DATA_IN_BACKGROUND,android.permission.ACCESS_BACKGROUND_LOCATION,com.google.android.c2dm.permission.RECEIVE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 5,
+  "count_service": 5,
+  "count_receiver": 4,
+  "count_provider": 3,
+  "count_exported": 2
+}

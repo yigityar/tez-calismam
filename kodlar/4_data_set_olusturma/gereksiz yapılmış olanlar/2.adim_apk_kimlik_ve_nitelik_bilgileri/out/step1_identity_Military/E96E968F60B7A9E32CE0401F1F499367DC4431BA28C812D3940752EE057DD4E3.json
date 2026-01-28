@@ -1,0 +1,12 @@
+{
+  "apk_file": "E96E968F60B7A9E32CE0401F1F499367DC4431BA28C812D3940752EE057DD4E3.apk",
+  "sha256": "e96e968f60b7a9e32ce0401f1f499367dc4431ba28c812d3940752ee057dd4e3",
+  "package_name": "15",
+  "version_code": "300",
+  "version_name": "3.0.0",
+  "min_sdk": "23",
+  "target_sdk": "35",
+  "apk_size_kb": 16592,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

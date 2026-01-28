@@ -1,0 +1,12 @@
+{
+  "apk_file": "68FA010961B62CA53B1F17F658C6E01A2584021DF29EF24DEF721901F1E7DFBE.apk",
+  "sha256": "68fa010961b62ca53b1f17f658c6e01a2584021df29ef24def721901f1e7dfbe",
+  "package_name": "com.github.msx80.doorsofdoom",
+  "version_code": "1",
+  "version_name": "0.0.4",
+  "min_sdk": "26",
+  "target_sdk": "",
+  "apk_size_kb": 6544,
+  "dex_count": 1,
+  "native_lib_count": 2
+}

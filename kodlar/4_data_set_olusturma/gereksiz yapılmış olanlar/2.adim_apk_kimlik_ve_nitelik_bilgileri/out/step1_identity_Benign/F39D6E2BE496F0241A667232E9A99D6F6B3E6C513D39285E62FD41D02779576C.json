@@ -1,0 +1,12 @@
+{
+  "apk_file": "F39D6E2BE496F0241A667232E9A99D6F6B3E6C513D39285E62FD41D02779576C.apk",
+  "sha256": "f39d6e2be496f0241a667232e9a99d6f6b3e6c513d39285e62fd41d02779576c",
+  "package_name": "11",
+  "version_code": "71",
+  "version_name": "3.0.2",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 79428,
+  "dex_count": 1,
+  "native_lib_count": 38
+}

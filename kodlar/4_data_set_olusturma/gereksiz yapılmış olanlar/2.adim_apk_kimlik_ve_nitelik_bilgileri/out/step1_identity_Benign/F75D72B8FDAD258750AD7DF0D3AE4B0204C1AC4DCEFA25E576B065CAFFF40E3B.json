@@ -1,0 +1,12 @@
+{
+  "apk_file": "F75D72B8FDAD258750AD7DF0D3AE4B0204C1AC4DCEFA25E576B065CAFFF40E3B.apk",
+  "sha256": "f75d72b8fdad258750ad7df0d3ae4b0204c1ac4dcefa25e576b065cafff40e3b",
+  "package_name": "13",
+  "version_code": "330",
+  "version_name": "2.24.2",
+  "min_sdk": "26",
+  "target_sdk": "33",
+  "apk_size_kb": 105320,
+  "dex_count": 1,
+  "native_lib_count": 40
+}

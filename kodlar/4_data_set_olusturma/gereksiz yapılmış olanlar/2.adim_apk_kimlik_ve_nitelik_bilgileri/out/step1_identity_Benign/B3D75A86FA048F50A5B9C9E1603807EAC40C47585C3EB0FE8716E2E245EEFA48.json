@@ -1,0 +1,12 @@
+{
+  "apk_file": "B3D75A86FA048F50A5B9C9E1603807EAC40C47585C3EB0FE8716E2E245EEFA48.apk",
+  "sha256": "b3d75a86fa048f50a5b9c9e1603807eac40c47585c3eb0fe8716e2e245eefa48",
+  "package_name": "11",
+  "version_code": "137",
+  "version_name": "1.8.3",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 30336,
+  "dex_count": 2,
+  "native_lib_count": 21
+}

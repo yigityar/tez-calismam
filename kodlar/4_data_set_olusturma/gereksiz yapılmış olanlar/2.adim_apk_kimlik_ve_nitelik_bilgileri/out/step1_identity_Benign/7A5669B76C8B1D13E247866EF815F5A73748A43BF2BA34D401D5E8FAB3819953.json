@@ -1,0 +1,12 @@
+{
+  "apk_file": "7A5669B76C8B1D13E247866EF815F5A73748A43BF2BA34D401D5E8FAB3819953.apk",
+  "sha256": "7a5669b76c8b1d13e247866ef815f5a73748a43bf2ba34d401d5e8fab3819953",
+  "package_name": "15",
+  "version_code": "37",
+  "version_name": "37.0",
+  "min_sdk": "21",
+  "target_sdk": "35",
+  "apk_size_kb": 41700,
+  "dex_count": 2,
+  "native_lib_count": 380
+}

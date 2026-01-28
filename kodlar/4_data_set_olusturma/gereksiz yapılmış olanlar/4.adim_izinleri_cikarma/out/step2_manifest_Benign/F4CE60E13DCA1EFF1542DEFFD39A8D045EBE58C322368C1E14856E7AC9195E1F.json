@@ -1,0 +1,16 @@
+{
+  "apk_file": "F4CE60E13DCA1EFF1542DEFFD39A8D045EBE58C322368C1E14856E7AC9195E1F.apk",
+  "permissions_list": "android.permission.RECORD_AUDIO,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.INTERNET,android.permission.READ_PHONE_STATE,android.permission.READ_CONTACTS,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.CHANGE_NETWORK_STATE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.VIBRATE,android.permission.CALL_PHONE,android.permission.WRITE_CONTACTS,android.permission.READ_LOGS,android.permission.USE_FINGERPRINT,android.permission.GET_TASKS,android.permission.BLUETOOTH_CONNECT,android.permission.BLUETOOTH_SCAN,android.permission.BLUETOOTH_ADVERTISE,android.permission.QUERY_ALL_PACKAGES,com.baidu.duer.superapp.openadsdk.permission.TT_PANGOLIN,android.permission.FOREGROUND_SERVICE,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.REORDER_TASKS,android.permission.WAKE_LOCK,com.tencent.qqmusic.permission.SEND_BROADCAST_PERMISSION,android.permission.CAMERA,android.permission.DISABLE_KEYGUARD,android.permission.BROADCAST_STICKY,android.permission.FLASHLIGHT,android.permission.RECEIVE_USER_PRESENT,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.BATTERY_STATS,android.permission.RESTART_PACKAGES,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.ACCESS_DOWNLOAD_MANAGER,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.EXPAND_STATUS_BAR,baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.baidu.duer.superapp,com.baidu.duer.superapp.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.RECEIVE_BOOT_COMPLETED,com.baidu.duer.superapp.permission.PROCESS_PUSH_MSG,com.baidu.duer.superapp.permission.PUSH_PROVIDER,no.nordicsemi.android.LOG,android.permission.SYSTEM_ALERT_WINDOW,com.google.android.c2dm.permission.RECEIVE,android.permission.WRITE_SETTINGS,com.baidu.duer.superapp.permission.sofire.RECEIVE,android.permission.ACCESS_GPS,android.permission.ACCESS_BACKGROUND_LOCATION,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,android.permission.LOCAL_MAC_ADDRESS,android.permission.GET_PACKAGE_SIZE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 426,
+  "count_service": 53,
+  "count_receiver": 25,
+  "count_provider": 32,
+  "count_exported": 29
+}

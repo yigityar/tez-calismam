@@ -1,0 +1,12 @@
+{
+  "apk_file": "D43A971ADC86C29DFBD137AB24148DE23C3892F80D2D25447CB2451C5EC25568.apk",
+  "sha256": "d43a971adc86c29dfbd137ab24148de23c3892f80d2d25447cb2451c5ec25568",
+  "package_name": "13",
+  "version_code": "87",
+  "version_name": "2.77",
+  "min_sdk": "22",
+  "target_sdk": "33",
+  "apk_size_kb": 19360,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

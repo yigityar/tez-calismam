@@ -1,0 +1,12 @@
+{
+  "apk_file": "7B9FD3E0D2438D9234DE6E9FAA9BCF3A2EFB1ED2755DDB96BC9B187962DE9616.apk",
+  "sha256": "7b9fd3e0d2438d9234de6e9faa9bcf3a2efb1ed2755ddb96bc9b187962de9616",
+  "package_name": "9",
+  "version_code": "65703",
+  "version_name": "6.5.7",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 56348,
+  "dex_count": 6,
+  "native_lib_count": 25
+}

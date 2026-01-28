@@ -1,0 +1,12 @@
+{
+  "apk_file": "FD8E7E6F17A274D0EA38721891ABCC66073605B74E12BC9CA61839AB90ED35D4.apk",
+  "sha256": "fd8e7e6f17a274d0ea38721891abcc66073605b74e12bc9ca61839ab90ed35d4",
+  "package_name": "11",
+  "version_code": "8008070",
+  "version_name": "8.8.70",
+  "min_sdk": "23",
+  "target_sdk": "29",
+  "apk_size_kb": 180036,
+  "dex_count": 15,
+  "native_lib_count": 113
+}

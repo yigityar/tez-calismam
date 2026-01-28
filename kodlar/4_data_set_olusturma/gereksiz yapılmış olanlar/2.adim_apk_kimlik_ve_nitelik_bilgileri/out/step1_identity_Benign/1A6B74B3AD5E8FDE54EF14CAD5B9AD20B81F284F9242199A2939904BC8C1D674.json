@@ -1,0 +1,12 @@
+{
+  "apk_file": "1A6B74B3AD5E8FDE54EF14CAD5B9AD20B81F284F9242199A2939904BC8C1D674.apk",
+  "sha256": "1a6b74b3ad5e8fde54ef14cad5b9ad20b81f284f9242199a2939904bc8c1d674",
+  "package_name": "11",
+  "version_code": "57",
+  "version_name": "14.7.14.0",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 41856,
+  "dex_count": 1,
+  "native_lib_count": 120
+}

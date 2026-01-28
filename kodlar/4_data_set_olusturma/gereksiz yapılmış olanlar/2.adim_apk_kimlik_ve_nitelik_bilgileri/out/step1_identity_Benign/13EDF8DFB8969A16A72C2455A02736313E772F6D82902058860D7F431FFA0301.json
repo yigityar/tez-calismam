@@ -1,0 +1,12 @@
+{
+  "apk_file": "13EDF8DFB8969A16A72C2455A02736313E772F6D82902058860D7F431FFA0301.apk",
+  "sha256": "13edf8dfb8969a16a72c2455a02736313e772f6d82902058860d7f431ffa0301",
+  "package_name": "13",
+  "version_code": "155",
+  "version_name": "2.9.7",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 42240,
+  "dex_count": 1,
+  "native_lib_count": 12
+}

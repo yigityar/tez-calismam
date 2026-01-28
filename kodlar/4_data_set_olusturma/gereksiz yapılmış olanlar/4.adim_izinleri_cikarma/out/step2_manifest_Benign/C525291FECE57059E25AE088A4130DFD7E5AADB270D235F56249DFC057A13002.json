@@ -1,0 +1,16 @@
+{
+  "apk_file": "C525291FECE57059E25AE088A4130DFD7E5AADB270D235F56249DFC057A13002.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.READ_PHONE_STATE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.READ_SETTINGS,android.permission.VIBRATE,android.permission.GET_TASKS,com.sina.permission.SINA_PUSH_FINANCE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.WAKE_LOCK,android.permission.RESTART_PACKAGES,android.permission.READ_EXTERNAL_STORAGE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.GET_ACCOUNTS,android.permission.READ_SYNC_SETTINGS,android.permission.WRITE_SYNC_SETTINGS,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.DISABLE_KEYGUARD,android.permission.FOREGROUND_SERVICE,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,com.android.permission.GET_INSTALLED_APPS,android.permission.CHANGE_CONFIGURATION,android.permission.READ_PHONE_STATS,android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.hitouch.permission.ADDFAVORITES,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.meizu.flyme.push.permission.RECEIVE,cn.com.sina.finance.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,cn.com.sina.finance.permission.C2D_MESSAGE,com.hihonor.android.launcher.permission.CHANGE_BADGE,android.permission.SCHEDULE_EXACT_ALARM,getui.permission.GetuiService.cn.com.sina.finance,com.vivo.notification.permission.BADGE_ICON,android.permission.MICROPHONE,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.CAMERA,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.REORDER_TASKS,cn.com.sina.finance.permission.FIN_APPLET_RECEIVER,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.READ_LOGS,cn.com.sina.finance.andpermission.bridge,android.permission.BLUETOOTH,android.permission.USE_FINGERPRINT,com.google.android.providers.gsf.permission.READ_GSERVICES,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,cn.com.sina.finance.permission.PROCESS_PUSH_MSG,cn.com.sina.finance.permission.PUSH_PROVIDER,cn.com.sina.finance.permission.MIPUSH_RECEIVE,com.meizu.flyme.permission.PUSH,com.hihonor.push.permission.READ_PUSH_NOTIFICATION_INFO,android.permission.CHANGE_NETWORK_STATE,android.permission.BROADCAST_STICKY,android.permission.FLASHLIGHT,android.hardware.camera,android.hardware.camera.autofocus,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 311,
+  "count_service": 46,
+  "count_receiver": 18,
+  "count_provider": 15,
+  "count_exported": 35
+}

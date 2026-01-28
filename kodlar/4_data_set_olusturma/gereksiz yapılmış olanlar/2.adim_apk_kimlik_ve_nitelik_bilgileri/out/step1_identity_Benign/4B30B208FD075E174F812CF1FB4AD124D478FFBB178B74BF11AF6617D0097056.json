@@ -1,0 +1,12 @@
+{
+  "apk_file": "4B30B208FD075E174F812CF1FB4AD124D478FFBB178B74BF11AF6617D0097056.apk",
+  "sha256": "4b30b208fd075e174f812cf1fb4ad124d478ffbb178b74bf11af6617d0097056",
+  "package_name": "13",
+  "version_code": "1617",
+  "version_name": "2.6.3",
+  "min_sdk": "26",
+  "target_sdk": "33",
+  "apk_size_kb": 72464,
+  "dex_count": 1,
+  "native_lib_count": 16
+}

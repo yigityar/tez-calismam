@@ -1,0 +1,16 @@
+{
+  "apk_file": "F75D72B8FDAD258750AD7DF0D3AE4B0204C1AC4DCEFA25E576B065CAFFF40E3B.apk",
+  "permissions_list": "android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.INTERNET,android.permission.CLEAR_APP_USER_DATA,android.permission.CLEAR_APP_CACHE,android.permission.DELETE_CACHE_FILES,android.permission.DUMP,android.permission.INTERNAL_SYSTEM_WINDOW,android.permission.MOUNT_FORMAT_FILESYSTEMS,android.permission.READ_USER_DICTIONARY,android.permission.SET_DEBUG_APP,android.permission.BATTERY_STATS,android.permission.MANAGE_DOCUMENTS,android.permission.CAMERA,android.permission.READ_MEDIA_IMAGES,android.permission.READ_MEDIA_VIDEO,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 6,
+  "count_service": 0,
+  "count_receiver": 3,
+  "count_provider": 8,
+  "count_exported": 3
+}

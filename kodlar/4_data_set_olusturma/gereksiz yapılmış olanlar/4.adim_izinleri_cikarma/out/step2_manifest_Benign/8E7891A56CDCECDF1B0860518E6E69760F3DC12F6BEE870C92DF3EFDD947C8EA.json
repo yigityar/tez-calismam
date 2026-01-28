@@ -1,0 +1,16 @@
+{
+  "apk_file": "8E7891A56CDCECDF1B0860518E6E69760F3DC12F6BEE870C92DF3EFDD947C8EA.apk",
+  "permissions_list": "www.sagital.pknight.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,android.permission.WAKE_LOCK,android.permission.VIBRATE,android.permission.POST_NOTIFICATIONS,android.permission.INTERNET,android.permission.FOREGROUND_SERVICE,android.permission.ACCESS_NETWORK_STATE,com.google.android.c2dm.permission.RECEIVE,com.google.android.gms.permission.AD_ID,www.sagital.pknight.permission.C2D_MESSAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 5,
+  "count_service": 8,
+  "count_receiver": 5,
+  "count_provider": 2,
+  "count_exported": 9
+}

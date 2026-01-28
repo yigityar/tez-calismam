@@ -1,0 +1,16 @@
+{
+  "apk_file": "C59342BF78A5D437CC611FC37621B38A83BB1559411DBE50ECE287EF97E4B663.apk",
+  "permissions_list": "android.permission.WAKE_LOCK,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.READ_PHONE_STATE,android.permission.CAMERA,android.permission.USE_BIOMETRIC,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.POST_NOTIFICATIONS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_CONTACTS,android.permission.BLUETOOTH_ADVERTISE,android.permission.BLUETOOTH_CONNECT,android.permission.BLUETOOTH_SCAN,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.VIBRATE,android.permission.RECORD_AUDIO,android.permission.NFC,com.sunmi.perm.LED,com.sunmi.perm.MSR,com.sunmi.perm.ICC,com.sunmi.perm.PINPAD,com.sunmi.perm.SECURITY,com.pax.permission.PED,com.pax.permission.ICC,com.pax.permission.PICC,com.pax.pay.service.PaymentService,com.pax.permission.MAGCARD,com.pax.permission.PRINTER,com.sunmi.perm.CONTACTLESS_CARD,android.permission.READ_PRIVILEGED_PHONE_STATE,android.permission.USE_FINGERPRINT,com.google.android.c2dm.permission.RECEIVE,com.google.android.gms.permission.AD_ID,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,android.permission.ACCESS_ADSERVICES_AD_ID,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.market.android.app.OPEN_DETAIL_PAGE,com.market.android.app.OPEN_DOWNLOAD_LIST,com.market.android.app.ONLINE_LOCATION,com.market.android.app.SN_HOST,com.hdfc.smarthub.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,android.permission.READ_EXTERNAL_STORAGE,com.pax.appstore.PaxAppStoreService",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 210,
+  "count_service": 19,
+  "count_receiver": 7,
+  "count_provider": 6,
+  "count_exported": 9
+}

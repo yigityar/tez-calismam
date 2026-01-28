@@ -1,0 +1,154 @@
+{
+    "apk_name": "5B821844F685991C39830C33C1FC7B486B1A8A264A62B358EFE36A8E17F78FF8",
+    "sha256": "5b821844f685991c39830c33c1fc7b486b1a8a264a62b358efe36a8e17f78ff8",
+    "metadata": {
+        "package_name": "com.trtalk",
+        "version_code": "86",
+        "version_name": "3.31",
+        "min_sdk": "24",
+        "target_sdk": "35",
+        "permissions": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_CONNECT",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            "android.permission.INTERNET",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_MEDIA_IMAGES",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.trtalk.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.trtalk.MainActivity",
+            "com.yalantis.ucrop.UCropActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.voximplant.foregroundservice.VIForegroundService",
+            "io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService",
+            "io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.BLUETOOTH_CONNECT": "dangerous",
+            "android.permission.BROADCAST_STICKY": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.MODIFY_AUDIO_SETTINGS": "normal",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_MEDIA_IMAGES": "dangerous",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.RECORD_AUDIO": "dangerous",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.trtalk.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 8,
+            "normal": 11,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 34.97,
+        "sources_present": true,
+        "java_file_count": 3858
+    },
+    "ast_analysis": {
+        "location": 1,
+        "microphone": 1,
+        "camera": 3,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 5
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 1,
+            "location": 1,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 3,
+            "content_access": 7,
+            "audio_control": 1,
+            "vibration": 3,
+            "network_io": 2,
+            "scheduling_apis": 22,
+            "dynamic_code": 134
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 175
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 2,
+            "handler_loop": 18,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 5,
+            "dynamic_loading": 0,
+            "reflection": 129
+        }
+    }
+}

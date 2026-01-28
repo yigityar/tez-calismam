@@ -1,0 +1,12 @@
+{
+  "apk_file": "B0722271A85FE839DA72875C4C01BEB8C0042F27503455E150902B979C30FFFF.apk",
+  "sha256": "b0722271a85fe839da72875c4c01beb8c0042f27503455e150902b979c30ffff",
+  "package_name": "13",
+  "version_code": "64",
+  "version_name": "4.8",
+  "min_sdk": "22",
+  "target_sdk": "33",
+  "apk_size_kb": 30528,
+  "dex_count": 2,
+  "native_lib_count": 180
+}

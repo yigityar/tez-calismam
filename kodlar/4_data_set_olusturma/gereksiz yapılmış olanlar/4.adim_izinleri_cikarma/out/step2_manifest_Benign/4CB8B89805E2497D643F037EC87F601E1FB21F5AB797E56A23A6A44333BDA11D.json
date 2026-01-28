@@ -1,0 +1,16 @@
+{
+  "apk_file": "4CB8B89805E2497D643F037EC87F601E1FB21F5AB797E56A23A6A44333BDA11D.apk",
+  "permissions_list": "android.permission.INTERNET,READ_PHONE_STATE,READ_PHONE_NUMBERS,android.permission.ACCESS_WIFI_STATE,android.permission.FOREGROUND_SERVICE,android.permission.VIBRATE,android.permission.CAMERA,android.permission.USE_FINGERPRINT,android.permission.USE_BIOMETRIC,android.permission.READ_CONTACTS,android.permission.GET_ACCOUNTS,android.permission.ACCESS_NETWORK_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.KILL_BACKGROUND_PROCESS,android.permission.GET_ACCOUNTS,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.RECORD_AUDIO,android.permission.KILL_BACKGROUND_PROCESSES,com.zing.zalo.permission.ACCESS_THIRD_PARTY_APP_AUTHORIZATION,android.permission.WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,android.permission.READ_PHONE_STATE",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 59,
+  "count_service": 8,
+  "count_receiver": 8,
+  "count_provider": 6,
+  "count_exported": 6
+}

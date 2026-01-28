@@ -1,0 +1,16 @@
+{
+  "apk_file": "FAC14FE48DEBB25A499DD5EC1AA26DA3926C8741C6C51AA9D9609B09A1CCC15B.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 4,
+  "count_service": 0,
+  "count_receiver": 0,
+  "count_provider": 0,
+  "count_exported": 0
+}

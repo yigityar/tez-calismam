@@ -1,0 +1,12 @@
+{
+  "apk_file": "FC6F8746FDDBA99E807990413ADC5906D2D76761F8BDD3C7AFAECF985CE23669.apk",
+  "sha256": "fc6f8746fddba99e807990413adc5906d2d76761f8bdd3c7afaecf985ce23669",
+  "package_name": "12",
+  "version_code": "22",
+  "version_name": "1.0.20",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 7720,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

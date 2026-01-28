@@ -1,0 +1,16 @@
+{
+  "apk_file": "552943AA915848B66971AFC89BDEB8E0F6E92D9D6BB6E02532591D2372359561.apk",
+  "permissions_list": "android.permission.READ_LOGS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.ACCESS_NETWORK_STATE,android.permission.INTERNET,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH_SCAN,android.permission.BLUETOOTH_CONNECT,android.permission.READ_MEDIA_IMAGES,android.permission.FOREGROUND_SERVICE_DATA_SYNC,com.fakopp.arborsonic3d.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,android.permission.WAKE_LOCK,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.FOREGROUND_SERVICE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 21,
+  "count_service": 4,
+  "count_receiver": 13,
+  "count_provider": 5,
+  "count_exported": 5
+}

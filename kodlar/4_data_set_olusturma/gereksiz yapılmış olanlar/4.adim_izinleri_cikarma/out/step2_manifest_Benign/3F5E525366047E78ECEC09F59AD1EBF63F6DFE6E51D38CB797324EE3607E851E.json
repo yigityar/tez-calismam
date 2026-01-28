@@ -1,0 +1,16 @@
+{
+  "apk_file": "3F5E525366047E78ECEC09F59AD1EBF63F6DFE6E51D38CB797324EE3607E851E.apk",
+  "permissions_list": "android.permission.SYSTEM_ALERT_WINDOW,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.RECORD_AUDIO,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.CHANGE_WIFI_STATE,android.permission.READ_PHONE_STATE,android.permission.WRITE_SETTINGS,android.permission.GET_TASKS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.VIBRATE,android.permission.DISABLE_KEYGUARD,com.baidu.dict.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.BROADCAST_STICKY,android.permission.WAKE_LOCK,android.permission.SET_WALLPAPER,android.permission.REORDER_TASKS,android.permission.USE_FINGERPRINT,com.baidu.dict.permission.sofire.RECEIVE,android.permission.CHANGE_NETWORK_STATE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER,com.sec.feature.fingerprint_manager_service",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 413,
+  "count_service": 37,
+  "count_receiver": 16,
+  "count_provider": 21,
+  "count_exported": 22
+}

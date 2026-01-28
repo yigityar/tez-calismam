@@ -1,0 +1,12 @@
+{
+  "apk_file": "FD29DECD19032CD2CDF1BA28C889FFC1E995B3FAEA3A0A5D695D6D7CB03D087F.apk",
+  "sha256": "fd29decd19032cd2cdf1ba28c889ffc1e995b3faea3a0a5d695d6d7cb03d087f",
+  "package_name": "9",
+  "version_code": "202201228",
+  "version_name": "4.3.0.51",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 107608,
+  "dex_count": 1,
+  "native_lib_count": 34
+}

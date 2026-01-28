@@ -1,0 +1,16 @@
+{
+  "apk_file": "B483414BC43571456AD2172AB10E387B3DD6299512591D48AAF20FFF1AC29E17.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.CHANGE_NETWORK_STATE,android.permission.WRITE_SETTINGS,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.VIBRATE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.WAKE_LOCK,com.netease.mail.openadsdk.permission.TT_PANGOLIN,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.QUERY_ALL_PACKAGES,android.permission.REORDER_TASKS,com.asus.msa.SupplementaryDID.ACCESS,android.permission.READ_PHONE_STATE,android.permission.USE_FINGERPRINT,android.permission.GET_TASKS,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.CHANGE_WIFI_STATE,com.google.android.providers.gsf.permission.READ_GSERVICES,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.FOREGROUND_SERVICE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.vivo.notification.permission.BADGE_ICON,com.meizu.flyme.push.permission.RECEIVE,com.netease.mail.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.netease.mail.permission.C2D_MESSAGE,com.meizu.flyme.permission.PUSH,com.netease.mail.permission.MIPUSH_RECEIVE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,freemme.permission.msa,com.netease.mail.permission.PROCESS_PUSH_MSG,com.netease.mail.permission.PUSH_PROVIDER,com.asus.permission.READ_SDID_PROVIDER,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 146,
+  "count_service": 40,
+  "count_receiver": 22,
+  "count_provider": 16,
+  "count_exported": 16
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "84D38AE4A7E183603EB21317CB7C89255A0FD79321E0835F886878601718A139.apk",
+  "sha256": "84d38ae4a7e183603eb21317cb7c89255a0fd79321e0835f886878601718a139",
+  "package_name": "11",
+  "version_code": "101",
+  "version_name": "02.20.05",
+  "min_sdk": "16",
+  "target_sdk": "30",
+  "apk_size_kb": 52668,
+  "dex_count": 3,
+  "native_lib_count": 53
+}

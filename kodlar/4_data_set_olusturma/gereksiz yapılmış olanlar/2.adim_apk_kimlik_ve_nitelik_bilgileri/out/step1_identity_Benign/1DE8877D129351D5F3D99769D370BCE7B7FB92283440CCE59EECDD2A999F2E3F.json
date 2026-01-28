@@ -1,0 +1,12 @@
+{
+  "apk_file": "1DE8877D129351D5F3D99769D370BCE7B7FB92283440CCE59EECDD2A999F2E3F.apk",
+  "sha256": "1de8877d129351d5f3d99769d370bce7b7fb92283440cce59eecdd2a999f2e3f",
+  "package_name": "16",
+  "version_code": "500",
+  "version_name": "5.0.0",
+  "min_sdk": "24",
+  "target_sdk": "36",
+  "apk_size_kb": 14200,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

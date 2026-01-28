@@ -1,0 +1,12 @@
+{
+  "apk_file": "0FF482FCAD51D86D830A44E12DDF8B990D05999F78CD584D9F8F44951F509F86.apk",
+  "sha256": "0ff482fcad51d86d830a44e12ddf8b990d05999f78cd584d9f8f44951f509f86",
+  "package_name": "6.0-2438415",
+  "version_code": "220121",
+  "version_name": "5.0.36.1",
+  "min_sdk": "15",
+  "target_sdk": "26",
+  "apk_size_kb": 64444,
+  "dex_count": 7,
+  "native_lib_count": 49
+}

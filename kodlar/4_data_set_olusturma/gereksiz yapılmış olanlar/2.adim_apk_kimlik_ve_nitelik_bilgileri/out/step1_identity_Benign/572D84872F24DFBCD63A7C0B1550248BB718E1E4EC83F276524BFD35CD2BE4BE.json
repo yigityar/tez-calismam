@@ -1,0 +1,12 @@
+{
+  "apk_file": "572D84872F24DFBCD63A7C0B1550248BB718E1E4EC83F276524BFD35CD2BE4BE.apk",
+  "sha256": "572d84872f24dfbcd63a7c0b1550248bb718e1e4ec83f276524bfd35cd2be4be",
+  "package_name": "11",
+  "version_code": "5170000",
+  "version_name": "5.17.0000",
+  "min_sdk": "22",
+  "target_sdk": "30",
+  "apk_size_kb": 83404,
+  "dex_count": 1,
+  "native_lib_count": 36
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "220F8AA40F537DBCDB47EE6D6EB6B12706AC685637FA19463C9918B52596CF05.apk",
+  "permissions_list": "com.qti.permission.PROFILER,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.RECORD_AUDIO,android.permission.CAMERA,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.WAKE_LOCK,android.permission.CHANGE_WIFI_STATE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH_CONNECT,android.permission.POST_NOTIFICATIONS,android.permission.FOREGROUND_SERVICE,android.permission.FOREGROUND_SERVICE_DATA_SYNC,com.netease.ko.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,android.permission.VIBRATE,android.permission.FLASHLIGHT,com.google.android.gms.permission.AD_ID,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,android.permission.ACCESS_ADSERVICES_AD_ID,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.READ_MEDIA_IMAGES,android.permission.DETECT_SCREEN_CAPTURE,android.permission.ACCESS_ADSERVICES_TOPICS,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.samsung.android.mapsagent.permission.READ_APP_INFO,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,com.google.android.c2dm.permission.RECEIVE,com.netease.ko.permission.ngpush,com.netease.ko.permission.ngpush,com.android.vending.BILLING,android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 47,
+  "count_service": 25,
+  "count_receiver": 14,
+  "count_provider": 16,
+  "count_exported": 26
+}

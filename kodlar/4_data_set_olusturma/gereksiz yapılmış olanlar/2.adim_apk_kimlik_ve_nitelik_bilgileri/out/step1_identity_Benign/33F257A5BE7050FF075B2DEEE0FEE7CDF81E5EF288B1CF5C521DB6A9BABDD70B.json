@@ -1,0 +1,12 @@
+{
+  "apk_file": "33F257A5BE7050FF075B2DEEE0FEE7CDF81E5EF288B1CF5C521DB6A9BABDD70B.apk",
+  "sha256": "33f257a5be7050ff075b2deee0fee7cdf81e5ef288b1cf5c521db6a9babdd70b",
+  "package_name": "6.0-2438415",
+  "version_code": "31350",
+  "version_name": "3.13.5",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 189484,
+  "dex_count": 7,
+  "native_lib_count": 54
+}

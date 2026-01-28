@@ -1,0 +1,12 @@
+{
+  "apk_file": "F203E5E7C42E4BAFD39AD93AD732C02568CF5ADAB86066B77218FEFF477E5272.apk",
+  "sha256": "f203e5e7c42e4bafd39ad93ad732c02568cf5adab86066b77218feff477e5272",
+  "package_name": "13",
+  "version_code": "430105401",
+  "version_name": "3.01.54",
+  "min_sdk": "27",
+  "target_sdk": "33",
+  "apk_size_kb": 24976,
+  "dex_count": 1,
+  "native_lib_count": 70
+}

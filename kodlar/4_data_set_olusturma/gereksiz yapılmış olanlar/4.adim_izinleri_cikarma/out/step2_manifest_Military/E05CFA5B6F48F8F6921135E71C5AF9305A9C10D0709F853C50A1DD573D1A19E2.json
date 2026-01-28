@@ -1,0 +1,16 @@
+{
+  "apk_file": "E05CFA5B6F48F8F6921135E71C5AF9305A9C10D0709F853C50A1DD573D1A19E2.apk",
+  "permissions_list": "android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH_CONNECT,android.permission.BLUETOOTH_SCAN,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.INTERNET,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.FOREGROUND_SERVICE,com.bushnell.ballistics.ab.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.android.vending.BILLING",
+  "has_camera": 0,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 51,
+  "count_service": 14,
+  "count_receiver": 11,
+  "count_provider": 3,
+  "count_exported": 42
+}

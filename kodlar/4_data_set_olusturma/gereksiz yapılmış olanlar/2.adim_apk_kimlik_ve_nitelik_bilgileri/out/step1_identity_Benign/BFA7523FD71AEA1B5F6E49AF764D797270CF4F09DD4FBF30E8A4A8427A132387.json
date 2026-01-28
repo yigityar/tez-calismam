@@ -1,0 +1,12 @@
+{
+  "apk_file": "BFA7523FD71AEA1B5F6E49AF764D797270CF4F09DD4FBF30E8A4A8427A132387.apk",
+  "sha256": "bfa7523fd71aea1b5f6e49af764d797270cf4f09dd4fbf30e8a4a8427a132387",
+  "package_name": "12",
+  "version_code": "398",
+  "version_name": "3.0.398",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 26108,
+  "dex_count": 1,
+  "native_lib_count": 18
+}

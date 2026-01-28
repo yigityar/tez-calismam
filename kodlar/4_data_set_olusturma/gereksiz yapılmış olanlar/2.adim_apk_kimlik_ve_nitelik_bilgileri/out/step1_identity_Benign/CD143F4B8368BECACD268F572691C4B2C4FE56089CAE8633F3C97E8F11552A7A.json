@@ -1,0 +1,12 @@
+{
+  "apk_file": "CD143F4B8368BECACD268F572691C4B2C4FE56089CAE8633F3C97E8F11552A7A.apk",
+  "sha256": "cd143f4b8368becacd268f572691c4b2c4fe56089cae8633f3c97e8f11552a7a",
+  "package_name": "10",
+  "version_code": "610770",
+  "version_name": "6.10.77",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 50924,
+  "dex_count": 4,
+  "native_lib_count": 39
+}

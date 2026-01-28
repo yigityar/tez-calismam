@@ -1,0 +1,16 @@
+{
+  "apk_file": "1662353A4FCC3073AC59629A2A7B1E58B9B7F6483805BDCD9CF24A4398DC8764.apk",
+  "permissions_list": "android.permission.INTERNET,com.mayer.projectManagement.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,android.permission.ACCESS_NETWORK_STATE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 3,
+  "count_service": 4,
+  "count_receiver": 3,
+  "count_provider": 3,
+  "count_exported": 2
+}

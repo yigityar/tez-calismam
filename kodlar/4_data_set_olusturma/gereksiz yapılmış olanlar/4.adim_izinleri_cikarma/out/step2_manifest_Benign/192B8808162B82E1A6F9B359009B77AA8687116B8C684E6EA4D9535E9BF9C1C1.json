@@ -1,0 +1,16 @@
+{
+  "apk_file": "192B8808162B82E1A6F9B359009B77AA8687116B8C684E6EA4D9535E9BF9C1C1.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.WAKE_LOCK,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.FOREGROUND_SERVICE,com.android.vending.BILLING,android.permission.ACCESS_WIFI_STATE,com.google.android.gms.permission.AD_ID",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 18,
+  "count_service": 7,
+  "count_receiver": 8,
+  "count_provider": 5,
+  "count_exported": 3
+}

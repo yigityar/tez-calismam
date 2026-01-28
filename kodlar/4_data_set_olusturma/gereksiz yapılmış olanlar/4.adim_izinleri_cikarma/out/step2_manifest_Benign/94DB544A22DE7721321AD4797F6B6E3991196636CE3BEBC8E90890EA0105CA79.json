@@ -1,0 +1,16 @@
+{
+  "apk_file": "94DB544A22DE7721321AD4797F6B6E3991196636CE3BEBC8E90890EA0105CA79.apk",
+  "permissions_list": "android.permission.CHANGE_NETWORK_STATE,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH_SCAN,android.permission.BLUETOOTH_ADVERTISE,android.permission.BLUETOOTH_CONNECT,android.permission.INTERNET,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.WAKE_LOCK,android.permission.READ_PHONE_STATE,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.camera,android.permission.ACCESS_COARSE_LOCATION,com.hm.hemaiInstall1.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 246,
+  "count_service": 7,
+  "count_receiver": 2,
+  "count_provider": 3,
+  "count_exported": 4
+}

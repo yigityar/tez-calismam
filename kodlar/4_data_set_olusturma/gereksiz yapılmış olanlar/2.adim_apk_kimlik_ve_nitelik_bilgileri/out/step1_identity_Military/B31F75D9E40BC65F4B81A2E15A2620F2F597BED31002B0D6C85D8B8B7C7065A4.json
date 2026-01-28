@@ -1,0 +1,12 @@
+{
+  "apk_file": "B31F75D9E40BC65F4B81A2E15A2620F2F597BED31002B0D6C85D8B8B7C7065A4.apk",
+  "sha256": "b31f75d9e40bc65f4b81a2e15a2620f2f597bed31002b0d6c85d8b8b7c7065a4",
+  "package_name": "15",
+  "version_code": "736",
+  "version_name": "7.3.6",
+  "min_sdk": "23",
+  "target_sdk": "35",
+  "apk_size_kb": 13020,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

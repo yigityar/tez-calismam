@@ -1,0 +1,12 @@
+{
+  "apk_file": "DC122F155CC93F90B6844508059F6D13285D0B83131744E2932E428AE0678F11.apk",
+  "sha256": "dc122f155cc93f90b6844508059f6d13285d0b83131744e2932e428ae0678f11",
+  "package_name": "10",
+  "version_code": "1085679",
+  "version_name": "2.5.51100",
+  "min_sdk": "21",
+  "target_sdk": "27",
+  "apk_size_kb": 167944,
+  "dex_count": 25,
+  "native_lib_count": 120
+}

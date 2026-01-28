@@ -1,0 +1,12 @@
+{
+  "apk_file": "F4BFC526E6F056024E20D8DA77C4FCAE48307D346C569718530818ACB67052DC.apk",
+  "sha256": "f4bfc526e6f056024e20d8da77c4fcae48307d346c569718530818acb67052dc",
+  "package_name": "11",
+  "version_code": "230101",
+  "version_name": "23.1.0",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 167868,
+  "dex_count": 31,
+  "native_lib_count": 158
+}

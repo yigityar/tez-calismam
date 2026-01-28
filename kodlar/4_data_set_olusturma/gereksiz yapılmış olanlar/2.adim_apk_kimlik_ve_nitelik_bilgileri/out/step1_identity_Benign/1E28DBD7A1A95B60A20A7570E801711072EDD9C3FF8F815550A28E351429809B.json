@@ -1,0 +1,12 @@
+{
+  "apk_file": "1E28DBD7A1A95B60A20A7570E801711072EDD9C3FF8F815550A28E351429809B.apk",
+  "sha256": "1e28dbd7a1a95b60a20a7570e801711072edd9c3ff8f815550a28e351429809b",
+  "package_name": "12",
+  "version_code": "529",
+  "version_name": "0.1.446",
+  "min_sdk": "24",
+  "target_sdk": "30",
+  "apk_size_kb": 71704,
+  "dex_count": 4,
+  "native_lib_count": 10
+}

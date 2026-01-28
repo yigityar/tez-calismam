@@ -1,0 +1,12 @@
+{
+  "apk_file": "2D4775BAB0F4CDCB80370CF6D578BD23037C3ADE90E63397EFFD20A625294BAC.apk",
+  "sha256": "2d4775bab0f4cdcb80370cf6d578bd23037c3ade90e63397effd20a625294bac",
+  "package_name": "11",
+  "version_code": "410",
+  "version_name": "2.3.7",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 21984,
+  "dex_count": 1,
+  "native_lib_count": 16
+}

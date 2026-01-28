@@ -1,0 +1,16 @@
+{
+  "apk_file": "BE360E89240BF2771F341646A0ABE8DAB3CC2BD7019A980B3B9983E266885791.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.READ_PHONE_STATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.CAMERA,android.permission.READ_LOGS,android.permission.ACCESS_NOTIFICATION_POLICY,android.permission.FLASHLIGHT,android.permission.ACCESS_COARSE_UPDATES,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.CHANGE_WIFI_STATE,android.permission.WRITE_SETTINGS,android.permission.VIBRATE,android.permission.RECORD_AUDIO,android.permission.GET_TASKS,android.permission.WAKE_LOCK,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.GET_ACCOUNTS,android.permission.USE_CREDENTIALS,android.permission.MANAGE_ACCOUNTS,android.permission.AUTHENTICATE_ACCOUNTS,com.android.launcher.permission.READ_SETTINGS,android.permission.BROADCAST_STICKY,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.BROADCAST_PACKAGE_ADDED,android.permission.BROADCAST_PACKAGE_CHANGED,android.permission.BROADCAST_PACKAGE_INSTALL,android.permission.BROADCAST_PACKAGE_REPLACED,android.permission.GET_TASKS,android.permission.KILL_BACKGROUND_PROCESSES,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.c2dm.permission.RECEIVE,android.permission.REQUEST_INSTALL_PACKAGES,com.pep.diandu.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.meizu.flyme.push.permission.RECEIVE,com.pep.diandu.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.pep.diandu.permission.C2D_MESSAGE,com.vivo.notification.permission.BADGE_ICON",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 103,
+  "count_service": 27,
+  "count_receiver": 13,
+  "count_provider": 9,
+  "count_exported": 21
+}

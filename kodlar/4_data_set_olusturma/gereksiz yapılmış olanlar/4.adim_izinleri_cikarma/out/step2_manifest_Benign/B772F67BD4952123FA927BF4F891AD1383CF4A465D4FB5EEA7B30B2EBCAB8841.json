@@ -1,0 +1,16 @@
+{
+  "apk_file": "B772F67BD4952123FA927BF4F891AD1383CF4A465D4FB5EEA7B30B2EBCAB8841.apk",
+  "permissions_list": "android.permission.READ_MEDIA_IMAGES,android.permission.READ_MEDIA_VIDEO,android.permission.READ_MEDIA_AUDIO,android.permission.POST_NOTIFICATIONS,android.permission.WRITE_SETTINGS,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.WAKE_LOCK,android.permission.GET_TASKS,android.permission.INTERNET,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.FLASHLIGHT,android.permission.READ_CONTACTS,com.android.email.permission.ACCESS_PROVIDER,com.android.email.permission.READ_ATTACHMENT,android.permission.READ_PHONE_STATE,android.permission.BLUETOOTH,com.icbc.mobile.abroadbank.permission.MIPUSH_RECEIVE,android.permission.CAMERA,android.hardware.camera.autofocus,android.permission.READ_MEDIA_IMAGES,org.fidoalliance.uaf.permissions.FIDO_CLIENT,android.permission.USE_FINGERPRINT,android.permission.RECORD_AUDIO,android.permission.INTERNET,android.permission.WRITE_SETTINGS,android.permission.READ_PHONE_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.READ_PHONE_NUMBERS,android.permission.BLUETOOTH_CONNECT,android.permission.RECEIVE_USER_PRESENT,android.permission.CHANGE_CONFIGURATION,android.permission.FOREGROUND_SERVICE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,android.permission.ACCESS_MEDIA_LOCATION,android.permission.USE_FULL_SCREEN_INTENT,android.permission.READ_MEDIA_VISUAL_USER_SELECTED,com.icbc.mobile.abroadbank.permission.PROCESS_PUSH_MSG,com.icbc.mobile.abroadbank.permission.PUSH_PROVIDER",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 177,
+  "count_service": 20,
+  "count_receiver": 16,
+  "count_provider": 15,
+  "count_exported": 15
+}

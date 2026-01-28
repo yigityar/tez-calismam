@@ -1,0 +1,12 @@
+{
+  "apk_file": "15324859ABDC78F5B063B804B257530126371BD91F13224E0E6A734EB3A160F6.apk",
+  "sha256": "15324859abdc78f5b063b804b257530126371bd91f13224e0e6a734eb3a160f6",
+  "package_name": "11",
+  "version_code": "26",
+  "version_name": "2.10",
+  "min_sdk": "28",
+  "target_sdk": "30",
+  "apk_size_kb": 29684,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

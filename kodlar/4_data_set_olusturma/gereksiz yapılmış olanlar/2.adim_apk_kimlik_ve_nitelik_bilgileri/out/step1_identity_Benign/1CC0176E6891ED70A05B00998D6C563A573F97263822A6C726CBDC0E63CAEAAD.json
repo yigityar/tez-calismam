@@ -1,0 +1,12 @@
+{
+  "apk_file": "1CC0176E6891ED70A05B00998D6C563A573F97263822A6C726CBDC0E63CAEAAD.apk",
+  "sha256": "1cc0176e6891ed70a05b00998d6c563a573f97263822a6c726cbdc0e63caeaad",
+  "package_name": "11",
+  "version_code": "1654119730",
+  "version_name": "4.25",
+  "min_sdk": "24",
+  "target_sdk": "30",
+  "apk_size_kb": 35004,
+  "dex_count": 1,
+  "native_lib_count": 24
+}

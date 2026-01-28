@@ -1,0 +1,16 @@
+{
+  "apk_file": "3E845731EE9432B53334519759713AE4AFE43CDA25C6F2706417AE8470E8E8C5.apk",
+  "permissions_list": "android.permission.CHANGE_WIFI_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.WRITE_SETTINGS,android.permission.INTERNET,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.REQUEST_INSTALL_PACKAGES,com.gwsoft.imusic.controller.permission.PROCESS_PUSH_MSG,com.meizu.flyme.push.permission.RECEIVE,com.meizu.c2dm.permission.RECEIVE,com.gwsoft.imusic.controller.push.permission.MESSAGE,com.gwsoft.imusic.controller.permission.C2D_MESSAGE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.GET_TASKS,android.permission.VIBRATE,com.gwsoft.imusic.controller.permission.MIPUSH_RECEIVE,android.permission.USE_FULL_SCREEN_INTENT,android.permission.FOREGROUND_SERVICE,com.gwsoft.imusic.controller.permission.FINISH_ALL_ACTIVITY_RECEIVE,com.gwsoft.imusic.controller.permission.DOWNLOADED_FINISHED,com.gwsoft.imusic.controller.permission.NEXT_PLAY,android.permission.RECORD_AUDIO,android.permission.SYSTEM_ALERT_WINDOW,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_EXTERNAL_STORAGE,android.permission.WAKE_LOCK,android.permission.READ_CONTACTS,android.permission.CAMERA,com.gwsoft.imusic.controller.permission.JPUSH_MESSAGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.vivo.notification.permission.BADGE_ICON,com.gwsoft.imusic.controller.permission.PUSH_PROVIDER,com.meizu.flyme.permission.PUSH,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.SYSTEM_ALERT_WINDOW",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 168,
+  "count_service": 20,
+  "count_receiver": 15,
+  "count_provider": 13,
+  "count_exported": 18
+}

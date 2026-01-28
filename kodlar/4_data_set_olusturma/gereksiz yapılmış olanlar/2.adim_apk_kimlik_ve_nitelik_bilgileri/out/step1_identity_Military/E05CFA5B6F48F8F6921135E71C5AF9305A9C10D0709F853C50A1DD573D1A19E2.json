@@ -1,0 +1,12 @@
+{
+  "apk_file": "E05CFA5B6F48F8F6921135E71C5AF9305A9C10D0709F853C50A1DD573D1A19E2.apk",
+  "sha256": "e05cfa5b6f48f8f6921135e71c5af9305a9c10d0709f853c50a1dd573d1a19e2",
+  "package_name": "14",
+  "version_code": "260",
+  "version_name": "260.0.0",
+  "min_sdk": "29",
+  "target_sdk": "34",
+  "apk_size_kb": 39572,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

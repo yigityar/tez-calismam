@@ -1,0 +1,159 @@
+{
+    "apk_name": "894668B7328578E63F0E6AE9FEAAC489EF4A7E565B193EE6D44B3E27EB361FA0",
+    "sha256": "894668b7328578e63f0e6ae9feaac489ef4a7e565b193ee6d44b3e27eb361fa0",
+    "metadata": {
+        "package_name": "com.discipleskies.android.gpswaypointsnavigator",
+        "version_code": "149",
+        "version_name": "8.73",
+        "min_sdk": "9",
+        "target_sdk": "21",
+        "permissions": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "activities": [
+            "com.discipleskies.android.gpswaypointsnavigator.AddToSubfolder",
+            "com.discipleskies.android.gpswaypointsnavigator.Coordinates",
+            "com.discipleskies.android.gpswaypointsnavigator.CurrentPosition",
+            "com.discipleskies.android.gpswaypointsnavigator.DeleteTrail",
+            "com.discipleskies.android.gpswaypointsnavigator.DeleteWaypoint",
+            "com.discipleskies.android.gpswaypointsnavigator.DrivingDirections",
+            "com.discipleskies.android.gpswaypointsnavigator.EditTrail",
+            "com.discipleskies.android.gpswaypointsnavigator.EditWaypoint",
+            "com.discipleskies.android.gpswaypointsnavigator.GPSWaypointsNavigatorActivity",
+            "com.discipleskies.android.gpswaypointsnavigator.GraphScreen",
+            "com.discipleskies.android.gpswaypointsnavigator.GridGPS",
+            "com.discipleskies.android.gpswaypointsnavigator.ImportedTrails",
+            "com.discipleskies.android.gpswaypointsnavigator.ImportedTrailsGPX",
+            "com.discipleskies.android.gpswaypointsnavigator.ImportedWaypoints",
+            "com.discipleskies.android.gpswaypointsnavigator.ImportedWaypointsGPX",
+            "com.discipleskies.android.gpswaypointsnavigator.Instructions",
+            "com.discipleskies.android.gpswaypointsnavigator.Legal",
+            "com.discipleskies.android.gpswaypointsnavigator.MGRSCoordinateEntry",
+            "com.discipleskies.android.gpswaypointsnavigator.Map",
+            "com.discipleskies.android.gpswaypointsnavigator.MapDownloader",
+            "com.discipleskies.android.gpswaypointsnavigator.MapManager",
+            "com.discipleskies.android.gpswaypointsnavigator.MapTrailDrawer",
+            "com.discipleskies.android.gpswaypointsnavigator.MapsforgeCurrentPosition",
+            "com.discipleskies.android.gpswaypointsnavigator.MapsforgeMap",
+            "com.discipleskies.android.gpswaypointsnavigator.MapsforgeTrail",
+            "com.discipleskies.android.gpswaypointsnavigator.MapsforgeViewAllWaypoints",
+            "com.discipleskies.android.gpswaypointsnavigator.MapsforgeViewWaypoint",
+            "com.discipleskies.android.gpswaypointsnavigator.MessageActivity",
+            "com.discipleskies.android.gpswaypointsnavigator.Navigate",
+            "com.discipleskies.android.gpswaypointsnavigator.NoTrails",
+            "com.discipleskies.android.gpswaypointsnavigator.OsmdroidCurrentPosition",
+            "com.discipleskies.android.gpswaypointsnavigator.OsmdroidMap",
+            "com.discipleskies.android.gpswaypointsnavigator.OsmdroidMapDialog",
+            "com.discipleskies.android.gpswaypointsnavigator.OsmdroidMapNOAA",
+            "com.discipleskies.android.gpswaypointsnavigator.OsmdroidTrail",
+            "com.discipleskies.android.gpswaypointsnavigator.OsmdroidViewAllWaypoints",
+            "com.discipleskies.android.gpswaypointsnavigator.OsmdroidViewWaypoint",
+            "com.discipleskies.android.gpswaypointsnavigator.PhotoNotes",
+            "com.discipleskies.android.gpswaypointsnavigator.PolarisReceiver",
+            "com.discipleskies.android.gpswaypointsnavigator.Radar",
+            "com.discipleskies.android.gpswaypointsnavigator.SatelliteGraph",
+            "com.discipleskies.android.gpswaypointsnavigator.SatelliteMenuScreen",
+            "com.discipleskies.android.gpswaypointsnavigator.SatellitePositions",
+            "com.discipleskies.android.gpswaypointsnavigator.SearchByCoordinates",
+            "com.discipleskies.android.gpswaypointsnavigator.SearchableActivity",
+            "com.discipleskies.android.gpswaypointsnavigator.SunriseSunsetScreen",
+            "com.discipleskies.android.gpswaypointsnavigator.TopLevelWaypointFolders",
+            "com.discipleskies.android.gpswaypointsnavigator.Trail",
+            "com.discipleskies.android.gpswaypointsnavigator.TrailList",
+            "com.discipleskies.android.gpswaypointsnavigator.UTMCoordinateEntry",
+            "com.discipleskies.android.gpswaypointsnavigator.UnitsActivity",
+            "com.discipleskies.android.gpswaypointsnavigator.ViewAllWaypoints",
+            "com.discipleskies.android.gpswaypointsnavigator.ViewWaypoint",
+            "com.discipleskies.android.gpswaypointsnavigator.WaypointCalculator",
+            "com.discipleskies.android.gpswaypointsnavigator.WaypointManagerIILowerLevels",
+            "com.discipleskies.android.gpswaypointsnavigator.WaypointManagerIITopLevel",
+            "com.discipleskies.android.gpswaypointsnavigator.WaypointSearch",
+            "com.discipleskies.android.gpswaypointsnavigator.Waypoints",
+            "com.discipleskies.android.gpswaypointsnavigator.about"
+        ],
+        "services": [
+            "com.discipleskies.android.gpswaypointsnavigator.DownloadingAndUnzippingServiceII",
+            "com.discipleskies.android.gpswaypointsnavigator.FileCopyingService",
+            "com.discipleskies.android.gpswaypointsnavigator.MoveMBTilesService",
+            "com.discipleskies.android.gpswaypointsnavigator.MovePhotoToWaypointService",
+            "com.discipleskies.android.gpswaypointsnavigator.MovePhotosService",
+            "com.discipleskies.android.gpswaypointsnavigator.TrailRecordingService",
+            "com.discipleskies.android.gpswaypointsnavigator.TransferPhotoSetService"
+        ],
+        "receivers": [],
+        "permission_details": {
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous"
+        },
+        "risk_counts": {
+            "dangerous": 2,
+            "normal": 4
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 9.56,
+        "sources_present": true,
+        "java_file_count": 2110
+    },
+    "ast_analysis": {
+        "location": 28,
+        "microphone": 0,
+        "camera": 2,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 30,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 1,
+            "audio_control": 0,
+            "vibration": 74,
+            "network_io": 1,
+            "scheduling_apis": 69,
+            "dynamic_code": 19
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 194
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 0,
+            "handler_loop": 69,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 13,
+            "user_triggered": 34
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 0,
+            "reflection": 19
+        }
+    }
+}

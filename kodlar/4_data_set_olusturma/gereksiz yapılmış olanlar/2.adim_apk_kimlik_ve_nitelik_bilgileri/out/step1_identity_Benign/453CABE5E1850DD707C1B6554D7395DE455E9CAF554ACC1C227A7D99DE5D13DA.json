@@ -1,0 +1,12 @@
+{
+  "apk_file": "453CABE5E1850DD707C1B6554D7395DE455E9CAF554ACC1C227A7D99DE5D13DA.apk",
+  "sha256": "453cabe5e1850dd707c1b6554d7395de455e9caf554acc1c227a7d99de5d13da",
+  "package_name": "11",
+  "version_code": "2325",
+  "version_name": "2.3.25",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 66228,
+  "dex_count": 12,
+  "native_lib_count": 97
+}

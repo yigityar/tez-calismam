@@ -1,0 +1,16 @@
+{
+  "apk_file": "9A2DD09198A269BD304C161FEE84895C10868E79E3135887F8E28A32F84929BF.apk",
+  "permissions_list": "br.com.as2.cartaobomdia.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,com.google.android.gms.permission.AD_ID,com.android.vending.BILLING,android.permission.VIBRATE,android.permission.FOREGROUND_SERVICE,android.permission.WAKE_LOCK,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.SCHEDULE_EXACT_ALARM,com.google.android.c2dm.permission.RECEIVE,br.com.as2.cartaobomdia.permission.C2D_MESSAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 15,
+  "count_service": 13,
+  "count_receiver": 9,
+  "count_provider": 4,
+  "count_exported": 24
+}

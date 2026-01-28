@@ -1,0 +1,12 @@
+{
+  "apk_file": "9A94B6ADBBFEF445536D63AAAF857FB2072DE097DF0A60B055604F50442B887E.apk",
+  "sha256": "9a94b6adbbfef445536d63aaaf857fb2072de097df0a60b055604f50442b887e",
+  "package_name": "9",
+  "version_code": "118882571",
+  "version_name": "7.22.1.11",
+  "min_sdk": "16",
+  "target_sdk": "28",
+  "apk_size_kb": 160572,
+  "dex_count": 9,
+  "native_lib_count": 61
+}

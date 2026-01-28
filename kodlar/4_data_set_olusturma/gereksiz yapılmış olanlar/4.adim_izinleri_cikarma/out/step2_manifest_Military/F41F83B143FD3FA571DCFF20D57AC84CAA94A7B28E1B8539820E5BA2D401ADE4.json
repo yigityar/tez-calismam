@@ -1,0 +1,16 @@
+{
+  "apk_file": "F41F83B143FD3FA571DCFF20D57AC84CAA94A7B28E1B8539820E5BA2D401ADE4.apk",
+  "permissions_list": "android.permission.INTERNET,com.davesprojects.acftcalc.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 1,
+  "count_service": 1,
+  "count_receiver": 1,
+  "count_provider": 1,
+  "count_exported": 2
+}

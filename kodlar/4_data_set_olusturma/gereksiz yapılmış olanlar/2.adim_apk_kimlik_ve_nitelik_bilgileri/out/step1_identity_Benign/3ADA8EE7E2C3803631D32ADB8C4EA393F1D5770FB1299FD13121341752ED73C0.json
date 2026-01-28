@@ -1,0 +1,12 @@
+{
+  "apk_file": "3ADA8EE7E2C3803631D32ADB8C4EA393F1D5770FB1299FD13121341752ED73C0.apk",
+  "sha256": "3ada8ee7e2c3803631d32adb8c4ea393f1d5770fb1299fd13121341752ed73c0",
+  "package_name": "14",
+  "version_code": "13",
+  "version_name": "3.0",
+  "min_sdk": "18",
+  "target_sdk": "34",
+  "apk_size_kb": 9548,
+  "dex_count": 3,
+  "native_lib_count": 0
+}

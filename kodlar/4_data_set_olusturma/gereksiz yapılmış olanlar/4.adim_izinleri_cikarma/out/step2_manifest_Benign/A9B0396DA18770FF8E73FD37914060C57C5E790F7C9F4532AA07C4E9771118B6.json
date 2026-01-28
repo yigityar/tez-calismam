@@ -1,0 +1,16 @@
+{
+  "apk_file": "A9B0396DA18770FF8E73FD37914060C57C5E790F7C9F4532AA07C4E9771118B6.apk",
+  "permissions_list": "android.permission.RECEIVE_USER_PRESENT,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.CHANGE_NETWORK_STATE,android.permission.WRITE_SETTINGS,android.permission.ACCESS_GPS,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.WAKE_LOCK,android.permission.WRITE_OWNER_DATA,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.READ_SETTINGS,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.INTERNET,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.READ_LOGS,android.permission.REQUEST_INSTALL_PACKAGES,org.simalliance.openmobileapi.SMARTCARD,android.permission.VIBRATE,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.CHANGE_WIFI_STATE,com.chediandian.app.permission.JPUSH_MESSAGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.vivo.notification.permission.BADGE_ICON,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.QUERY_ALL_PACKAGES,com.chediandian.app.permission.PROCESS_PUSH_MSG,com.chediandian.app.permission.PUSH_PROVIDER,android.permission.FOREGROUND_SERVICE,com.chediandian.app.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 141,
+  "count_service": 18,
+  "count_receiver": 13,
+  "count_provider": 13,
+  "count_exported": 20
+}

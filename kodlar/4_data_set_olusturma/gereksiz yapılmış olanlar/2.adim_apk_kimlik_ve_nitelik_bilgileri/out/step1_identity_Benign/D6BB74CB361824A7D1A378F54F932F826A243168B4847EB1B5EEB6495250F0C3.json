@@ -1,0 +1,12 @@
+{
+  "apk_file": "D6BB74CB361824A7D1A378F54F932F826A243168B4847EB1B5EEB6495250F0C3.apk",
+  "sha256": "d6bb74cb361824a7d1a378f54f932f826a243168b4847eb1b5eeb6495250f0c3",
+  "package_name": "11",
+  "version_code": "2300",
+  "version_name": "2.3.00",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 66120,
+  "dex_count": 12,
+  "native_lib_count": 97
+}

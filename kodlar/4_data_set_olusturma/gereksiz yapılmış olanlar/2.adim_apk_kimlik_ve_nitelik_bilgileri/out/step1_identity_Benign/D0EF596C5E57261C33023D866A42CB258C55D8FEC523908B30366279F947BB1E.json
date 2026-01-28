@@ -1,0 +1,12 @@
+{
+  "apk_file": "D0EF596C5E57261C33023D866A42CB258C55D8FEC523908B30366279F947BB1E.apk",
+  "sha256": "d0ef596c5e57261c33023d866a42cb258c55d8fec523908b30366279f947bb1e",
+  "package_name": "11",
+  "version_code": "24618",
+  "version_name": "10.2.40.24618",
+  "min_sdk": "18",
+  "target_sdk": "29",
+  "apk_size_kb": 109472,
+  "dex_count": 22,
+  "native_lib_count": 103
+}

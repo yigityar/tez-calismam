@@ -1,0 +1,12 @@
+{
+  "apk_file": "14BBCC9E5E340DB7A07BA43BB40BCEEF7A4C075137392D2474F902DE71171E94.apk",
+  "sha256": "14bbcc9e5e340db7a07ba43bb40bceef7a4c075137392d2474f902de71171e94",
+  "package_name": "10",
+  "version_code": "8000602",
+  "version_name": "8.0006.02",
+  "min_sdk": "18",
+  "target_sdk": "28",
+  "apk_size_kb": 58504,
+  "dex_count": 6,
+  "native_lib_count": 52
+}

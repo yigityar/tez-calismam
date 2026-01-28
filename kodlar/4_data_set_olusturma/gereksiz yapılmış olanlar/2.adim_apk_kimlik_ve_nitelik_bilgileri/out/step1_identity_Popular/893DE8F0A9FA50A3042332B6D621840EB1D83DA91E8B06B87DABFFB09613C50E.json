@@ -1,0 +1,12 @@
+{
+  "apk_file": "893DE8F0A9FA50A3042332B6D621840EB1D83DA91E8B06B87DABFFB09613C50E.apk",
+  "sha256": "893de8f0a9fa50a3042332b6d621840eb1d83da91e8b06b87dabffb09613c50e",
+  "package_name": "13",
+  "version_code": "366806388",
+  "version_name": "268.0.0.18.72",
+  "min_sdk": "28",
+  "target_sdk": "33",
+  "apk_size_kb": 49164,
+  "dex_count": 8,
+  "native_lib_count": 22
+}

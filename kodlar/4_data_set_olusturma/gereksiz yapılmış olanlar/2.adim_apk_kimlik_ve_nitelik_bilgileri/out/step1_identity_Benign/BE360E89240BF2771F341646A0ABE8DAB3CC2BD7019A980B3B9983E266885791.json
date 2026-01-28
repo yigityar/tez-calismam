@@ -1,0 +1,12 @@
+{
+  "apk_file": "BE360E89240BF2771F341646A0ABE8DAB3CC2BD7019A980B3B9983E266885791.apk",
+  "sha256": "be360e89240bf2771f341646a0abe8dab3cc2bd7019a980b3b9983e266885791",
+  "package_name": "11",
+  "version_code": "5110",
+  "version_name": "5.1.1",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 96788,
+  "dex_count": 1,
+  "native_lib_count": 32
+}

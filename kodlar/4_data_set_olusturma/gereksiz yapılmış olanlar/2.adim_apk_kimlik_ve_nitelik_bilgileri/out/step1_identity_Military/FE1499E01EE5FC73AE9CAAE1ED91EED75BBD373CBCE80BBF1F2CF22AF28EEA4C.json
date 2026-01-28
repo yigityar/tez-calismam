@@ -1,0 +1,12 @@
+{
+  "apk_file": "FE1499E01EE5FC73AE9CAAE1ED91EED75BBD373CBCE80BBF1F2CF22AF28EEA4C.apk",
+  "sha256": "fe1499e01ee5fc73ae9caae1ed91eed75bbd373cbce80bbf1f2cf22af28eea4c",
+  "package_name": "14",
+  "version_code": "149",
+  "version_name": "2.0.4",
+  "min_sdk": "24",
+  "target_sdk": "35",
+  "apk_size_kb": 11592,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

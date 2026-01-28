@@ -1,0 +1,12 @@
+{
+  "apk_file": "91DAF981386CB58EEB9A394B42F857C1239C120DF9A9EA6AA09B67314E54CE57.apk",
+  "sha256": "91daf981386cb58eeb9a394b42f857c1239c120df9a9ea6aa09b67314e54ce57",
+  "package_name": "6.0-2438415",
+  "version_code": "50390",
+  "version_name": "1.0.50390",
+  "min_sdk": "21",
+  "target_sdk": "35",
+  "apk_size_kb": 89664,
+  "dex_count": 6,
+  "native_lib_count": 28
+}

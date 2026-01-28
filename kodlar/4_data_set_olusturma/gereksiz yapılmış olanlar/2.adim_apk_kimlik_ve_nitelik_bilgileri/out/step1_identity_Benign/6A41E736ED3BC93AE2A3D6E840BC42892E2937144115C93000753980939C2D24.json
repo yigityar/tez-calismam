@@ -1,0 +1,12 @@
+{
+  "apk_file": "6A41E736ED3BC93AE2A3D6E840BC42892E2937144115C93000753980939C2D24.apk",
+  "sha256": "6a41e736ed3bc93ae2a3d6e840bc42892e2937144115c93000753980939c2d24",
+  "package_name": "12",
+  "version_code": "3016392",
+  "version_name": "12.04",
+  "min_sdk": "24",
+  "target_sdk": "31",
+  "apk_size_kb": 104740,
+  "dex_count": 5,
+  "native_lib_count": 19
+}

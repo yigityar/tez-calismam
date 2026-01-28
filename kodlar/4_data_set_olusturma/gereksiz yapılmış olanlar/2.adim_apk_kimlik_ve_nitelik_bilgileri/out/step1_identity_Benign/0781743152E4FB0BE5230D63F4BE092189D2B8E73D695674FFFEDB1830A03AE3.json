@@ -1,0 +1,12 @@
+{
+  "apk_file": "0781743152E4FB0BE5230D63F4BE092189D2B8E73D695674FFFEDB1830A03AE3.apk",
+  "sha256": "0781743152e4fb0be5230d63f4be092189d2b8e73d695674fffedb1830a03ae3",
+  "package_name": "12",
+  "version_code": "6871",
+  "version_name": "6.8.71",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 99972,
+  "dex_count": 1,
+  "native_lib_count": 92
+}

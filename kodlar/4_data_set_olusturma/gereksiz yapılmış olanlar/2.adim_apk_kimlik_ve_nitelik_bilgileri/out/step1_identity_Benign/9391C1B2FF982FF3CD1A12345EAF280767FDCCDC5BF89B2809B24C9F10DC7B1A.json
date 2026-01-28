@@ -1,0 +1,12 @@
+{
+  "apk_file": "9391C1B2FF982FF3CD1A12345EAF280767FDCCDC5BF89B2809B24C9F10DC7B1A.apk",
+  "sha256": "9391c1b2ff982ff3cd1a12345eaf280767fdccdc5bf89b2809b24c9f10dc7b1a",
+  "package_name": "11",
+  "version_code": "29099264",
+  "version_name": "5.28.0.10",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 32068,
+  "dex_count": 8,
+  "native_lib_count": 37
+}

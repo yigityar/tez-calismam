@@ -1,0 +1,16 @@
+{
+  "apk_file": "810A229B349EA3A670F83E27977940D35599015AF0779F2F3AC735CCA76E5548.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_FINE_LOCATION,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.NFC,android.permission.USE_CREDENTIALS,com.android.alarm.permission.SET_ALARM,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.CAMERA,com.sfr.android.console.permission.partner.READ_STATISTICS,com.android.launcher.permission.INSTALL_SHORTCUT,android.permission.READ_SYNC_SETTINGS,android.permission.WRITE_SYNC_SETTINGS,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.GET_ACCOUNTS,android.permission.MANAGE_ACCOUNTS,com.booking.permission.C2D_MESSAGE,com.booking.permission.RECEIVER,com.google.android.providers.gsf.permission.READ_GSERVICES,com.google.android.c2dm.permission.RECEIVE,android.permission.WAKE_LOCK,android.permission.VIBRATE,android.permission.READ_CALENDAR,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 161,
+  "count_service": 47,
+  "count_receiver": 14,
+  "count_provider": 12,
+  "count_exported": 8
+}

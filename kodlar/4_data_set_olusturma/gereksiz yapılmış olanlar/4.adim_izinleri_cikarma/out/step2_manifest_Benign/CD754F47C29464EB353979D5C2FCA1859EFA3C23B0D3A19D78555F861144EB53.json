@@ -1,0 +1,16 @@
+{
+  "apk_file": "CD754F47C29464EB353979D5C2FCA1859EFA3C23B0D3A19D78555F861144EB53.apk",
+  "permissions_list": "com.cgbchina.xpt.permission.MIPUSH_RECEIVE,com.android.launcher.permission.INSTALL_SHORTCUT,android.permission.BLUETOOTH,android.permission.CHANGE_WIFI_STATE,android.permission.CAMERA,android.permission.ACCESS_NETWORK_STATE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.BATTERY_STATS,android.permission.READ_PHONE_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.NFC,android.permission.RECORD_AUDIO,android.permission.READ_SMS,com.sonyericsson.home.permission.BROADCAST_BADGE,com.android.launcher.permission.UNINSTALL_SHORTCUT,android.permission.READ_CONTACTS,android.permission.VIBRATE,android.permission.ACCESS_FINE_LOCATION,android.permission.FLASHLIGHT,android.permission.ACCESS_COARSE_LOCATION,android.permission.GET_ACCOUNTS,android.permission.GET_TASKS,android.permission.ACCESS_WIFI_STATE,com.majeur.launcher.permission.UPDATE_BADGE,android.permission.WAKE_LOCK,android.permission.BLUETOOTH_ADMIN,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.INTERNET,android.permission.SYSTEM_ALERT_WINDOW,android.permission.WRITE_SETTINGS,android.permission.BROADCAST_STICKY,nxp.permission.ACCESS_WALLET_SERVICE,com.samsung.android.authservice.permission.READ_CONTENT_PROVIDER,android.permission.USE_FINGERPRINT,android.permission.MANAGE_FINGERPRINT,android.permission.READ_EXTERNAL_STORAGE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.CHANGE_NETWORK_STATE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.majeur.launcher.permission.UPDATE_BADGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.huawei.android.launcher.permission.MANAGE_DOCUMENTS,android.permission.READ_APP_BADGE,com.cgbchina.xpt.permission.PROCESS_PUSH_MSG,com.cgbchina.xpt.permission.PUSH_PROVIDER,android.permission.FOREGROUND_SERVICE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.BLUETOOTH_PRIVILEGED,android.permission.CHANGE_CONFIGURATION,android.permission.WRITE_SMS,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,com.cgbchina.xpt.permission.HCE_PUSH_MESSAGE,android.permission.REORDER_TASKS,android.permission.ACCESS_COARSE_UPDATES,android.hardware.camera,android.permission.READ_SETTINGS,android.permission.ZTE_HEARTYSERVICE_MANAGEMENT",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 1,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 146,
+  "count_service": 43,
+  "count_receiver": 17,
+  "count_provider": 10,
+  "count_exported": 10
+}

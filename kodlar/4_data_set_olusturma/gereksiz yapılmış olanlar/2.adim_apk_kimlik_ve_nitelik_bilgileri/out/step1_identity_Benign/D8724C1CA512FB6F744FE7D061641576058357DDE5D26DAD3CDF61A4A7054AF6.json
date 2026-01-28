@@ -1,0 +1,12 @@
+{
+  "apk_file": "D8724C1CA512FB6F744FE7D061641576058357DDE5D26DAD3CDF61A4A7054AF6.apk",
+  "sha256": "d8724c1ca512fb6f744fe7d061641576058357dde5d26dad3cdf61a4a7054af6",
+  "package_name": "14",
+  "version_code": "1594",
+  "version_name": "2024.2.1",
+  "min_sdk": "22",
+  "target_sdk": "34",
+  "apk_size_kb": 47984,
+  "dex_count": 1,
+  "native_lib_count": 6
+}

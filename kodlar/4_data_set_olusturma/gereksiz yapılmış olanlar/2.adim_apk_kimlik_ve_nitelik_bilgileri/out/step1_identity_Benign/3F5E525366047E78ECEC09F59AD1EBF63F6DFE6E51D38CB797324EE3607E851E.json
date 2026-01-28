@@ -1,0 +1,12 @@
+{
+  "apk_file": "3F5E525366047E78ECEC09F59AD1EBF63F6DFE6E51D38CB797324EE3607E851E.apk",
+  "sha256": "3f5e525366047e78ecec09f59ad1ebf63f6dfe6e51d38cb797324ee3607e851e",
+  "package_name": "10",
+  "version_code": "116",
+  "version_name": "3.10.1.10",
+  "min_sdk": "22",
+  "target_sdk": "26",
+  "apk_size_kb": 97704,
+  "dex_count": 10,
+  "native_lib_count": 111
+}

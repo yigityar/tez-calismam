@@ -1,0 +1,16 @@
+{
+  "apk_file": "32CE49AEFCEE824B4BBB8223D1FE78338A526E06CFF0EFB00CA71072948F35E8.apk",
+  "permissions_list": "com.qti.permission.PROFILER,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.RECORD_AUDIO,android.permission.CAMERA,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.WAKE_LOCK,android.permission.CHANGE_WIFI_STATE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH_CONNECT,android.permission.FOREGROUND_SERVICE,android.permission.POST_NOTIFICATIONS,android.permission.VIBRATE,android.permission.FLASHLIGHT,android.permission.READ_MEDIA_IMAGES,com.google.android.gms.permission.AD_ID,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.android.vending.BILLING,com.netease.kolite.permission.ngpush,com.google.android.c2dm.permission.RECEIVE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 52,
+  "count_service": 23,
+  "count_receiver": 14,
+  "count_provider": 15,
+  "count_exported": 24
+}

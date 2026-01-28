@@ -1,0 +1,16 @@
+{
+  "apk_file": "44F82B1D76986CC2184F37D80164919532D78974DB4FAD9AF5E1DA65F2EFC928.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.GET_TASKS,android.permission.RESTART_PACKAGES,android.permission.ACCESS_NETWORK_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.READ_PHONE_NUMBERS,android.permission.ACCESS_WIFI_STATE,android.permission.GET_ACCOUNTS,android.permission.USE_FINGERPRINT,android.permission.VIBRATE,android.permission.RECEIVE_BOOT_COMPLETED,com.samsung.android.pass.permissions.USE_PASS_SERVICE,com.samsung.android.camera.iris.permission.USE_IRIS,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE,android.permission.FOREGROUND_SERVICE,android.permission.REORDER_TASKS,android.permission.WAKE_LOCK,android.permission.CHANGE_WIFI_STATE,android.permission.USE_BIOMETRIC,android.permission.DISABLE_KEYGUARD,android.permission.ENABLE_KEYGUARD,android.permission.INSTALL_PACKAGES,android.permission.DELETE_PACKAGES,android.permission.READ_LOGS,android.permission.REQUEST_DELETE_PACKAGES,android.permission.SYSTEM_ALERT_WINDOW,android.permission.QUERY_ALL_PACKAGES,android.permission.ACCESS_FINE_LOCATION,android.permission.PACKAGE_USAGE_STATS,org.fidoalliance.uaf.permissions.FIDO_CLIENT,android.permission.CALL_PHONE,android.permission.USE_FULL_SCREEN_INTENT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 0,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 12,
+  "count_service": 17,
+  "count_receiver": 16,
+  "count_provider": 4,
+  "count_exported": 19
+}

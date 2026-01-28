@@ -1,0 +1,12 @@
+{
+  "apk_file": "3340E86AD920338D780417BB6BA45DA763C5F89A42A7B6D89447BDC26A45F1D8.apk",
+  "sha256": "3340e86ad920338d780417bb6ba45da763c5f89a42a7b6d89447bdc26a45f1d8",
+  "package_name": "6.0-2438415",
+  "version_code": "2022080602",
+  "version_name": "3.30.7434",
+  "min_sdk": "27",
+  "target_sdk": "31",
+  "apk_size_kb": 55820,
+  "dex_count": 2,
+  "native_lib_count": 46
+}

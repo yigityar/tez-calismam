@@ -1,0 +1,16 @@
+{
+  "apk_file": "63470D080BB20AB93D790FC48EA858162CB5B1A13FDBBA5EA32CD3C7AC8652CD.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.CAMERA,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.USE_FINGERPRINT,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.NFC,android.permission.USE_BIOMETRIC",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 12,
+  "count_service": 1,
+  "count_receiver": 4,
+  "count_provider": 4,
+  "count_exported": 6
+}

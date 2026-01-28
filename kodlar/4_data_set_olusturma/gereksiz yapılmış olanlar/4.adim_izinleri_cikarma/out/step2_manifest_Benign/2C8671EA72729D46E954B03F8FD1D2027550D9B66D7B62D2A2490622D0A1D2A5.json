@@ -1,0 +1,16 @@
+{
+  "apk_file": "2C8671EA72729D46E954B03F8FD1D2027550D9B66D7B62D2A2490622D0A1D2A5.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.WAKE_LOCK,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,com.android.alarm.permission.SET_ALARM,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.RECORD_AUDIO,android.permission.BLUETOOTH,android.permission.MODIFY_AUDIO_SETTINGS,com.huawei.appmarket.SEND_THIRD_COMMON_MSG,com.fenbi.android.kyzz.permission.MIPUSH_RECEIVE,android.permission.READ_LOGS,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.BLUETOOTH_ADMIN,android.permission.READ_EXTERNAL_STORAGE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,android.permission.FOREGROUND_SERVICE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.CHANGE_WIFI_MULTICAST_STATE,com.fenbi.android.kyzz.permission.PROCESS_PUSH_MSG,com.fenbi.android.kyzz.permission.PUSH_PROVIDER",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 749,
+  "count_service": 23,
+  "count_receiver": 7,
+  "count_provider": 9,
+  "count_exported": 15
+}

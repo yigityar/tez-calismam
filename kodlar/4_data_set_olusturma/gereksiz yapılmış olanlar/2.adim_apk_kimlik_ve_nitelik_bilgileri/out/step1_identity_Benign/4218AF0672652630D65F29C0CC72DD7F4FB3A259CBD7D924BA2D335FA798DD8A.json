@@ -1,0 +1,12 @@
+{
+  "apk_file": "4218AF0672652630D65F29C0CC72DD7F4FB3A259CBD7D924BA2D335FA798DD8A.apk",
+  "sha256": "4218af0672652630d65f29c0cc72dd7f4fb3a259cbd7d924ba2d335fa798dd8a",
+  "package_name": "13",
+  "version_code": "224",
+  "version_name": "1.9",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 25784,
+  "dex_count": 2,
+  "native_lib_count": 14
+}

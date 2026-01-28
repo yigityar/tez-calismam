@@ -1,0 +1,12 @@
+{
+  "apk_file": "B18CCF98FFD0800AB5ABA42C697BC01292F8979D943DE05983CACA7C1F0FA575.apk",
+  "sha256": "b18ccf98ffd0800ab5aba42c697bc01292f8979d943de05983caca7c1f0fa575",
+  "package_name": "11",
+  "version_code": "24",
+  "version_name": "1.4.0",
+  "min_sdk": "24",
+  "target_sdk": "30",
+  "apk_size_kb": 40132,
+  "dex_count": 1,
+  "native_lib_count": 12
+}

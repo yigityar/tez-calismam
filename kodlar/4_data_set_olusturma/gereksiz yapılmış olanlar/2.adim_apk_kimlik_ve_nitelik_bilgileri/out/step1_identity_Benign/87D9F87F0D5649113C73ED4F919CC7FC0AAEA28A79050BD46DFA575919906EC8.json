@@ -1,0 +1,12 @@
+{
+  "apk_file": "87D9F87F0D5649113C73ED4F919CC7FC0AAEA28A79050BD46DFA575919906EC8.apk",
+  "sha256": "87d9f87f0d5649113c73ed4f919cc7fc0aaea28a79050bd46dfa575919906ec8",
+  "package_name": "14",
+  "version_code": "317",
+  "version_name": "8.1.2.3",
+  "min_sdk": "23",
+  "target_sdk": "34",
+  "apk_size_kb": 55064,
+  "dex_count": 1,
+  "native_lib_count": 42
+}

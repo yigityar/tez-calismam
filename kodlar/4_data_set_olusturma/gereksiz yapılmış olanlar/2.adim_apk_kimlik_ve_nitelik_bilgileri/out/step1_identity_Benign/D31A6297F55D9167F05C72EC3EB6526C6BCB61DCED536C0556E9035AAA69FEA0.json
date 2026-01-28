@@ -1,0 +1,12 @@
+{
+  "apk_file": "D31A6297F55D9167F05C72EC3EB6526C6BCB61DCED536C0556E9035AAA69FEA0.apk",
+  "sha256": "d31a6297f55d9167f05c72ec3eb6526c6bcb61dced536c0556e9035aaa69fea0",
+  "package_name": "13",
+  "version_code": "44",
+  "version_name": "2.8.0",
+  "min_sdk": "25",
+  "target_sdk": "33",
+  "apk_size_kb": 28240,
+  "dex_count": 2,
+  "native_lib_count": 24
+}

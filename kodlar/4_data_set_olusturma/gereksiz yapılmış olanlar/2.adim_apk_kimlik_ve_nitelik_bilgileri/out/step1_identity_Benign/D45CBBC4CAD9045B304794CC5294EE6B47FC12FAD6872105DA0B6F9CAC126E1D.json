@@ -1,0 +1,12 @@
+{
+  "apk_file": "D45CBBC4CAD9045B304794CC5294EE6B47FC12FAD6872105DA0B6F9CAC126E1D.apk",
+  "sha256": "d45cbbc4cad9045b304794cc5294ee6b47fc12fad6872105da0b6f9cac126e1d",
+  "package_name": "11",
+  "version_code": "205000",
+  "version_name": "2.5.0.51088",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 73316,
+  "dex_count": 8,
+  "native_lib_count": 69
+}

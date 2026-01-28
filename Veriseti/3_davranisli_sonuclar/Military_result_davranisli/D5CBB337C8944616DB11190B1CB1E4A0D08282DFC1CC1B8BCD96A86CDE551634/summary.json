@@ -1,0 +1,101 @@
+{
+    "apk_name": "D5CBB337C8944616DB11190B1CB1E4A0D08282DFC1CC1B8BCD96A86CDE551634",
+    "sha256": "d5cbb337c8944616db11190b1cb1e4a0d08282dfc1cc1b8bcd96a86cde551634",
+    "metadata": {
+        "package_name": "com.get.gsappalpha1",
+        "version_code": "5012",
+        "version_name": "5.0.12",
+        "min_sdk": "28",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.CAMERA",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.get.gsappalpha1.DeviceCheckActivity",
+            "com.get.gsappalpha1.DeviceTestActivity",
+            "com.get.gsappalpha1.HelpScreenActivity",
+            "com.get.gsappalpha1.LearnScreenActivity",
+            "com.get.gsappalpha1.MainScreenActivity",
+            "com.get.gsappalpha1.ShootingActivity",
+            "com.get.gsappalpha1.SplashActivity",
+            "com.get.gsappalpha1.TestActivity",
+            "com.get.gsappalpha1.TimerActivity",
+            "com.get.gsappalpha1.TimerSettingsActivity",
+            "com.get.gsappalpha1.TrainingSelectActivity",
+            "com.get.gsappalpha1.TriggerSettingActivity",
+            "com.get.gsappalpha1.TriggerShootingActivity",
+            "com.get.gsappalpha1.WarningScreenActivity"
+        ],
+        "services": [],
+        "receivers": [],
+        "permission_details": {
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.vending.BILLING": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 2,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 6.97,
+        "sources_present": true,
+        "java_file_count": 376
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 5,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 5
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 5,
+            "microphone": 0,
+            "location": 0,
+            "torch": 5,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 1,
+            "content_access": 2,
+            "audio_control": 24,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 2,
+            "dynamic_code": 35
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 74
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 0,
+            "handler_loop": 2,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 15,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 5,
+            "dynamic_loading": 0,
+            "reflection": 30
+        }
+    }
+}

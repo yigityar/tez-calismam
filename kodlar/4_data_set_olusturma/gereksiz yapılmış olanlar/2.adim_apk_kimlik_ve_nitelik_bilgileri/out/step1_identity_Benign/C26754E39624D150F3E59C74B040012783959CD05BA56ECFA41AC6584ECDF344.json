@@ -1,0 +1,12 @@
+{
+  "apk_file": "C26754E39624D150F3E59C74B040012783959CD05BA56ECFA41AC6584ECDF344.apk",
+  "sha256": "c26754e39624d150f3e59c74b040012783959cd05ba56ecfa41ac6584ecdf344",
+  "package_name": "12",
+  "version_code": "166",
+  "version_name": "5.1.57",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 45952,
+  "dex_count": 1,
+  "native_lib_count": 33
+}

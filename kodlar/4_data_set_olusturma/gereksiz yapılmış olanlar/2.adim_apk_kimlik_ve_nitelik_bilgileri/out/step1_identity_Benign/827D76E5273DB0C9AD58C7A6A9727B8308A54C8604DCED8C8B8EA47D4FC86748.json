@@ -1,0 +1,12 @@
+{
+  "apk_file": "827D76E5273DB0C9AD58C7A6A9727B8308A54C8604DCED8C8B8EA47D4FC86748.apk",
+  "sha256": "827d76e5273db0c9ad58c7a6a9727b8308a54c8604dced8c8b8ea47d4fc86748",
+  "package_name": "10",
+  "version_code": "20587",
+  "version_name": "5.0.1",
+  "min_sdk": "23",
+  "target_sdk": "29",
+  "apk_size_kb": 153720,
+  "dex_count": 1,
+  "native_lib_count": 66
+}

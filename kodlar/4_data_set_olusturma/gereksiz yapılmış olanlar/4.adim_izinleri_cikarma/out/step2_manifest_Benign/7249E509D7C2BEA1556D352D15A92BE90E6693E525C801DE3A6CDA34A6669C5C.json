@@ -1,0 +1,16 @@
+{
+  "apk_file": "7249E509D7C2BEA1556D352D15A92BE90E6693E525C801DE3A6CDA34A6669C5C.apk",
+  "permissions_list": "android.permission.REQUEST_INSTALL_PACKAGES,android.permission.BLUETOOTH,android.permission.INTERNET,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.RECORD_AUDIO,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.VIBRATE,android.Manifest.permission.DEVICE_POWER,android.permission.WAKE_LOCK,com.android.launcher.permission.INSTALL_SHORTCUT,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.READ_CONTACTS,android.permission.REORDER_TASKS,android.permission.ACCESS_NETWORK_STATE,android.permission.WRITE_SETTINGS,android.permission.READ_PHONE_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.FOREGROUND_SERVICE,android.permission.CAMERA,android.permission.FLASHLIGHT,com.zhihu.android.ReceivePlayerInfo,Manifest.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS,android.permission.SCHEDULE_EXACT_ALARM,android.permission.SYSTEM_ALERT_WINDOW,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.EXPAND_STATUS_BAR,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,com.huawei.android.launcher.permission.CHANGE_BADGE,com.hihonor.android.launcher.permission.CHANGE_BADGE,com.vivo.notification.permission.BADGE_ICON,com.asus.msa.SupplementaryDID.ACCESS,android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS,android.permission.INSTALL_SHORTCUT,android.permission.WRITE_MEDIA_STORAGE,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.BLUETOOTH_ADMIN,android.permission.GET_TASKS,android.permission.MODIFY_PHONE_STATE,freemme.permission.msa,android.permission.READ_LOGS,com.zhihu.android.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.zhihu.android.push.oppo.permission.RECIEVE_MCS_MESSAGE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.meizu.flyme.push.permission.RECEIVE,com.zhihu.android.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.zhihu.android.permission.C2D_MESSAGE,getui.permission.GetuiService.com.zhihu.android,android.Manifest.permission.READ_PHONE_STATE,com.meizu.flyme.permission.PUSH,com.zhihu.android.permission.PROCESS_PUSH_MSG,com.zhihu.android.permission.PUSH_PROVIDER,com.hihonor.push.permission.READ_PUSH_NOTIFICATION_INFO",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 296,
+  "count_service": 57,
+  "count_receiver": 28,
+  "count_provider": 25,
+  "count_exported": 68
+}

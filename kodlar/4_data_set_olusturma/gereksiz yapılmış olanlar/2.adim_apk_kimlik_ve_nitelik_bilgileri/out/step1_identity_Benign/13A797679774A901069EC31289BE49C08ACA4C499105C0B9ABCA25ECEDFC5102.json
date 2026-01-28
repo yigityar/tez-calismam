@@ -1,0 +1,12 @@
+{
+  "apk_file": "13A797679774A901069EC31289BE49C08ACA4C499105C0B9ABCA25ECEDFC5102.apk",
+  "sha256": "13a797679774a901069ec31289be49c08aca4c499105c0b9abca25ecedfc5102",
+  "package_name": "10",
+  "version_code": "5996",
+  "version_name": "5.9.12",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 55912,
+  "dex_count": 1,
+  "native_lib_count": 84
+}

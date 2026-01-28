@@ -1,0 +1,16 @@
+{
+  "apk_file": "E9F67774C7EE3EF5040087AD24D78B148CC78A6419AFAE2A900452AE72EC72C7.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.REORDER_TASKS,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_MEDIA_LOCATION,com.google.android.c2dm.permission.RECEIVE,android.permission.GET_ACCOUNTS,android.permission.WAKE_LOCK,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.ACCESS_COARSE_LOCATION,com.honeywell.decode.permission.DECODE,android.permission.VIBRATE,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH_SCAN,android.permission.BLUETOOTH_ADVERTISE,android.permission.BLUETOOTH_CONNECT,se.novacura.flow.ng.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,android.permission.POST_NOTIFICATIONS",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 20,
+  "count_service": 8,
+  "count_receiver": 7,
+  "count_provider": 6,
+  "count_exported": 4
+}

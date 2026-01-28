@@ -1,0 +1,16 @@
+{
+  "apk_file": "B2873A081A629F339CA43A540FDB429EAA58EEBDA02687085D8C1F38DF4DCFE8.apk",
+  "permissions_list": "com.android.vending.BILLING,com.netflix.mediaclient.permission.C2D_MESSAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.BLUETOOTH,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.INTERNET,android.permission.READ_PHONE_STATE,android.permission.WAKE_LOCK,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,com.amazon.permission.SET_FLAG_NOSOFTKEYS,com.google.android.c2dm.permission.RECEIVE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 38,
+  "count_service": 4,
+  "count_receiver": 7,
+  "count_provider": 0,
+  "count_exported": 2
+}

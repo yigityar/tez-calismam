@@ -1,0 +1,12 @@
+{
+  "apk_file": "86D035B52CFC8792C97303B9834E9F462805CDE3DE5F5881D71A5B185941DE2F.apk",
+  "sha256": "86d035b52cfc8792c97303b9834e9f462805cde3de5f5881d71a5b185941de2f",
+  "package_name": "13",
+  "version_code": "508",
+  "version_name": "9.0.8",
+  "min_sdk": "24",
+  "target_sdk": "33",
+  "apk_size_kb": 55132,
+  "dex_count": 2,
+  "native_lib_count": 24
+}

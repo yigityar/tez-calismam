@@ -1,0 +1,12 @@
+{
+  "apk_file": "5030D1BF915D1B421E0A26E66E2E8EFBFDEFC2E3B7B7582D496D44195670B548.apk",
+  "sha256": "5030d1bf915d1b421e0a26e66e2e8efbfdefc2e3b7b7582d496d44195670b548",
+  "package_name": "11",
+  "version_code": "1904",
+  "version_name": "1904 (1.9.4)",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 68468,
+  "dex_count": 1,
+  "native_lib_count": 32
+}

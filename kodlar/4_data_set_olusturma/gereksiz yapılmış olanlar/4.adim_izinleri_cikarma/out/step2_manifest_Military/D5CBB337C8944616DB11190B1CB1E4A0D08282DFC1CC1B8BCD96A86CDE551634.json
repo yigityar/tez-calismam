@@ -1,0 +1,16 @@
+{
+  "apk_file": "D5CBB337C8944616DB11190B1CB1E4A0D08282DFC1CC1B8BCD96A86CDE551634.apk",
+  "permissions_list": "android.permission.CAMERA,android.permission.WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 15,
+  "count_service": 0,
+  "count_receiver": 0,
+  "count_provider": 0,
+  "count_exported": 2
+}

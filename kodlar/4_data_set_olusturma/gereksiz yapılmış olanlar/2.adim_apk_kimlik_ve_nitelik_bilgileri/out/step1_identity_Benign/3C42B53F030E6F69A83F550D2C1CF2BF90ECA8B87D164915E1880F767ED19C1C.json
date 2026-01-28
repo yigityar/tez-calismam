@@ -1,0 +1,12 @@
+{
+  "apk_file": "3C42B53F030E6F69A83F550D2C1CF2BF90ECA8B87D164915E1880F767ED19C1C.apk",
+  "sha256": "3c42b53f030e6f69a83f550d2c1cf2bf90eca8b87d164915e1880f767ed19c1c",
+  "package_name": "10",
+  "version_code": "386",
+  "version_name": "3.8.6",
+  "min_sdk": "23",
+  "target_sdk": "29",
+  "apk_size_kb": 86760,
+  "dex_count": 15,
+  "native_lib_count": 71
+}

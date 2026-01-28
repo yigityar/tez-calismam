@@ -1,0 +1,12 @@
+{
+  "apk_file": "815541A680C50151A6AEED64625432FF2EE5FA0C622329DCA418F4D83B6DF2DC.apk",
+  "sha256": "815541a680c50151a6aeed64625432ff2ee5fa0c622329dca418f4d83b6df2dc",
+  "package_name": "12",
+  "version_code": "400181",
+  "version_name": "5.14.1",
+  "min_sdk": "24",
+  "target_sdk": "32",
+  "apk_size_kb": 63536,
+  "dex_count": 2,
+  "native_lib_count": 10
+}

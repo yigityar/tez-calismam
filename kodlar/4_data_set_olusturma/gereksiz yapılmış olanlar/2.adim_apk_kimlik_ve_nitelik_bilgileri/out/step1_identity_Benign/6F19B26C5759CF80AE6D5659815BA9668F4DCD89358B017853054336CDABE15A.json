@@ -1,0 +1,12 @@
+{
+  "apk_file": "6F19B26C5759CF80AE6D5659815BA9668F4DCD89358B017853054336CDABE15A.apk",
+  "sha256": "6f19b26c5759cf80ae6d5659815ba9668f4dcd89358b017853054336cdabe15a",
+  "package_name": "15",
+  "version_code": "210000",
+  "version_name": "2.10.0",
+  "min_sdk": "28",
+  "target_sdk": "35",
+  "apk_size_kb": 80800,
+  "dex_count": 4,
+  "native_lib_count": 52
+}

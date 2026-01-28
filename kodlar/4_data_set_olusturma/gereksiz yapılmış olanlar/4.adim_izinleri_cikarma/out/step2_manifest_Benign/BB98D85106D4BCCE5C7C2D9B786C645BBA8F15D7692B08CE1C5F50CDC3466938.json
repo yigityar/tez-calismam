@@ -1,0 +1,16 @@
+{
+  "apk_file": "BB98D85106D4BCCE5C7C2D9B786C645BBA8F15D7692B08CE1C5F50CDC3466938.apk",
+  "permissions_list": "android.permission.ACCESS_NETWORK_STATE,android.permission.CALL_PHONE,android.permission.CHANGE_NETWORK_STATE,android.permission.INTERNET,android.permission.WRITE_SETTINGS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_WIFI_STATE,android.permission.WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,com.vfourdev.teca.associationapp.montana.permission.C2D_MESSAGE,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 2,
+  "count_service": 4,
+  "count_receiver": 7,
+  "count_provider": 2,
+  "count_exported": 5
+}

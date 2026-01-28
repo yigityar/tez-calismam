@@ -1,0 +1,12 @@
+{
+  "apk_file": "928021F7D515223D073C738B96B25F2D639D8BD06A6AFD9D45140BD0F9B1A343.apk",
+  "sha256": "928021f7d515223d073c738b96b25f2d639d8bd06a6afd9d45140bd0f9b1a343",
+  "package_name": "com.king.candycrushsaga",
+  "version_code": "104001",
+  "version_name": "1.40.0",
+  "min_sdk": "9",
+  "target_sdk": "15",
+  "apk_size_kb": 45184,
+  "dex_count": 1,
+  "native_lib_count": 1
+}

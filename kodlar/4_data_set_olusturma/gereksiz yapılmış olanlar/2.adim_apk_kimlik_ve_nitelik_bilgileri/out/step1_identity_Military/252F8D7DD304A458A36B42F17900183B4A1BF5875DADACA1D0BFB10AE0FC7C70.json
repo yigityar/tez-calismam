@@ -1,0 +1,12 @@
+{
+  "apk_file": "252F8D7DD304A458A36B42F17900183B4A1BF5875DADACA1D0BFB10AE0FC7C70.apk",
+  "sha256": "252f8d7dd304a458a36b42f17900183b4a1bf5875dadaca1d0bfb10ae0fc7c70",
+  "package_name": "15",
+  "version_code": "1009",
+  "version_name": "2025.1002.1009",
+  "min_sdk": "21",
+  "target_sdk": "35",
+  "apk_size_kb": 58716,
+  "dex_count": 3,
+  "native_lib_count": 356
+}

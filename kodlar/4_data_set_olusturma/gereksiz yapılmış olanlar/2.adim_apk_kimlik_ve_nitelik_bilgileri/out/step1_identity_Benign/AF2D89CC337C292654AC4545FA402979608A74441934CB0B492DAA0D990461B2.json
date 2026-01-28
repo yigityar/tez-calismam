@@ -1,0 +1,12 @@
+{
+  "apk_file": "AF2D89CC337C292654AC4545FA402979608A74441934CB0B492DAA0D990461B2.apk",
+  "sha256": "af2d89cc337c292654ac4545fa402979608a74441934cb0b492daa0d990461b2",
+  "package_name": "11",
+  "version_code": "113",
+  "version_name": "2.40",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 26784,
+  "dex_count": 1,
+  "native_lib_count": 14
+}

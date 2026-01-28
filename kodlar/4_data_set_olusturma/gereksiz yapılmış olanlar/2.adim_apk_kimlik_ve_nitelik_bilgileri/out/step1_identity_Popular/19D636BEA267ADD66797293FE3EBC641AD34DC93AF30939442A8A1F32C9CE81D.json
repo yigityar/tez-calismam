@@ -1,0 +1,12 @@
+{
+  "apk_file": "19D636BEA267ADD66797293FE3EBC641AD34DC93AF30939442A8A1F32C9CE81D.apk",
+  "sha256": "19d636bea267add66797293fe3ebc641ad34dc93af30939442a8a1f32c9ce81d",
+  "package_name": "9",
+  "version_code": "1905312603",
+  "version_name": "53.1.2569.142848",
+  "min_sdk": "24",
+  "target_sdk": "28",
+  "apk_size_kb": 69224,
+  "dex_count": 3,
+  "native_lib_count": 3
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "EEB6C8F4EA2A1E6046FDA45EBD6E7124C96BCB0F61FF0593CACA24AED0ABF827.apk",
+  "sha256": "eeb6c8f4ea2a1e6046fda45ebd6e7124c96bcb0f61ff0593caca24aed0abf827",
+  "package_name": "11",
+  "version_code": "7500",
+  "version_name": "7.5.0",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 64612,
+  "dex_count": 1,
+  "native_lib_count": 54
+}

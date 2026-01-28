@@ -1,0 +1,12 @@
+{
+  "apk_file": "9EBFB2E07D53EEFCD57A36E44CCABBEC797A7A041DA8901F652DED9BDE296403.apk",
+  "sha256": "9ebfb2e07d53eefcd57a36e44ccabbec797a7a041da8901f652ded9bde296403",
+  "package_name": "13",
+  "version_code": "141",
+  "version_name": "34.0.0",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 68720,
+  "dex_count": 9,
+  "native_lib_count": 17
+}

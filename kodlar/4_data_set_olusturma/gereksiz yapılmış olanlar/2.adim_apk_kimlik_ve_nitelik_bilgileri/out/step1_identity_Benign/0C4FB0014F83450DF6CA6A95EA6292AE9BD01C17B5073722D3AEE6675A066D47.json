@@ -1,0 +1,12 @@
+{
+  "apk_file": "0C4FB0014F83450DF6CA6A95EA6292AE9BD01C17B5073722D3AEE6675A066D47.apk",
+  "sha256": "0c4fb0014f83450df6ca6a95ea6292ae9bd01c17b5073722d3aee6675a066d47",
+  "package_name": "12",
+  "version_code": "20220923",
+  "version_name": "7.4.1",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 84076,
+  "dex_count": 6,
+  "native_lib_count": 58
+}

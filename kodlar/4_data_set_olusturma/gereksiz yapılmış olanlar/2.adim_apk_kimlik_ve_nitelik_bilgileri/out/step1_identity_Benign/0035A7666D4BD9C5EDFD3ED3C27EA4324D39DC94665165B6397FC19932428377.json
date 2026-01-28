@@ -1,0 +1,12 @@
+{
+  "apk_file": "0035A7666D4BD9C5EDFD3ED3C27EA4324D39DC94665165B6397FC19932428377.apk",
+  "sha256": "0035a7666d4bd9c5edfd3ed3c27ea4324d39dc94665165b6397fc19932428377",
+  "package_name": "14",
+  "version_code": "1028127",
+  "version_name": "0.12.7",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "apk_size_kb": 78640,
+  "dex_count": 1,
+  "native_lib_count": 2
+}

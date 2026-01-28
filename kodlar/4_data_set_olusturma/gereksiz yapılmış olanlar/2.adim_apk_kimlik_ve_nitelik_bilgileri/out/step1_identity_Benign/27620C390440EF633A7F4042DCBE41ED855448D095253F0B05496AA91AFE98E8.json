@@ -1,0 +1,12 @@
+{
+  "apk_file": "27620C390440EF633A7F4042DCBE41ED855448D095253F0B05496AA91AFE98E8.apk",
+  "sha256": "27620c390440ef633a7f4042dcbe41ed855448d095253f0b05496aa91afe98e8",
+  "package_name": "14",
+  "version_code": "28551",
+  "version_name": "0.0.28551",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "apk_size_kb": 115012,
+  "dex_count": 5,
+  "native_lib_count": 28
+}

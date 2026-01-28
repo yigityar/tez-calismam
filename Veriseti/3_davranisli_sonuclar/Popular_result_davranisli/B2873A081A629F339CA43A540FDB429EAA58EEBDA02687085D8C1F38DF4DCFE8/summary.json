@@ -1,0 +1,158 @@
+{
+    "apk_name": "B2873A081A629F339CA43A540FDB429EAA58EEBDA02687085D8C1F38DF4DCFE8",
+    "sha256": "b2873a081a629f339ca43a540fdb429eaa58eebda02687085d8c1f38df4dcfe8",
+    "metadata": {
+        "package_name": "com.netflix.mediaclient",
+        "version_code": "9782",
+        "version_name": "4.8.6 build 9782",
+        "min_sdk": "19",
+        "target_sdk": "24",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            "android.permission.INTERNET",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.WAKE_LOCK",
+            "com.amazon.permission.SET_FLAG_NOSOFTKEYS",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.netflix.mediaclient.permission.C2D_MESSAGE"
+        ],
+        "activities": [
+            "com.netflix.mediaclient.ui.coppola.details.CoppolaDetailsActivity",
+            "com.netflix.mediaclient.ui.details.BarkerPreReleaseDetailsActivity",
+            "com.netflix.mediaclient.ui.details.MovieDetailsActivity",
+            "com.netflix.mediaclient.ui.details.PreReleaseDetailsActivity",
+            "com.netflix.mediaclient.ui.details.ShowDetailsActivity",
+            "com.netflix.mediaclient.ui.diagnosis.DiagnosisActivity",
+            "com.netflix.mediaclient.ui.home.HomeActivity",
+            "com.netflix.mediaclient.ui.iris.notifications.NotificationsActivity",
+            "com.netflix.mediaclient.ui.kubrick.details.BarkerMovieDetailsActivity",
+            "com.netflix.mediaclient.ui.kubrick.details.BarkerRulerActivity",
+            "com.netflix.mediaclient.ui.kubrick.details.BarkerShowDetailsActivity",
+            "com.netflix.mediaclient.ui.kubrick_kids.details.BarkerKidsDetailsActivity",
+            "com.netflix.mediaclient.ui.launch.LaunchActivity",
+            "com.netflix.mediaclient.ui.launch.NetflixComLaunchActivity",
+            "com.netflix.mediaclient.ui.launch.RelaunchActivity",
+            "com.netflix.mediaclient.ui.launch.UIWebViewActivity",
+            "com.netflix.mediaclient.ui.launch.UIWebViewTabletActivity",
+            "com.netflix.mediaclient.ui.login.LoginActivity",
+            "com.netflix.mediaclient.ui.login.LogoutActivity",
+            "com.netflix.mediaclient.ui.mdx.MementoBarkerMovieDetailsActivity",
+            "com.netflix.mediaclient.ui.mdx.MementoBarkerShowDetailsActivity",
+            "com.netflix.mediaclient.ui.mdx.MementoMovieDetailsActivity",
+            "com.netflix.mediaclient.ui.mdx.MementoShowDetailsActivity",
+            "com.netflix.mediaclient.ui.player.MDXControllerActivity",
+            "com.netflix.mediaclient.ui.player.PlayerActivity",
+            "com.netflix.mediaclient.ui.profiles.AvatarsGridActivity",
+            "com.netflix.mediaclient.ui.profiles.ProfileDetailsActivity",
+            "com.netflix.mediaclient.ui.profiles.ProfileSelectionActivity",
+            "com.netflix.mediaclient.ui.search.SearchActivity",
+            "com.netflix.mediaclient.ui.search.SearchQueryDetailsActivity",
+            "com.netflix.mediaclient.ui.settings.AboutActivity",
+            "com.netflix.mediaclient.ui.settings.OpenSourceLicensesActivity",
+            "com.netflix.mediaclient.ui.settings.SettingsActivity",
+            "com.netflix.mediaclient.ui.signup.SignupActivity",
+            "com.netflix.mediaclient.ui.survey.SurveyActivity",
+            "com.netflix.mediaclient.ui.ums.EndOfGrandfatheringActivity",
+            "com.netflix.mediaclient.ui.voip.ContactUsActivity",
+            "com.netflix.mediaclient.ui.web.ExternalLinkActivity"
+        ],
+        "services": [
+            "com.netflix.mediaclient.GCMIntentService",
+            "com.netflix.mediaclient.service.NetflixService",
+            "com.netflix.mediaclient.service.pservice.PService",
+            "com.vailsys.whistleengine.WhistleEngine"
+        ],
+        "receivers": [
+            "com.google.android.gcm.GCMBroadcastReceiver",
+            "com.netflix.mediaclient.InstallReferrerReceiver",
+            "com.netflix.mediaclient.service.mdx.RemoteControlClientManager$MediaButtonIntentHandlerProxy",
+            "com.netflix.mediaclient.service.pservice.PServiceWidgetProvider",
+            "com.netflix.mediaclient.service.pushnotification.NotificationReceiver",
+            "com.netflix.mediaclient.service.user.PartnerReceiver",
+            "com.netflix.mediaclient.ui.profiles.RestrictedProfilesReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.MODIFY_AUDIO_SETTINGS": "normal",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.RECORD_AUDIO": "dangerous",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.amazon.permission.SET_FLAG_NOSOFTKEYS": "unknown",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.netflix.mediaclient.permission.C2D_MESSAGE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 7,
+            "dangerous": 2,
+            "unknown": 4
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 6
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 16.18,
+        "sources_present": true,
+        "java_file_count": 2402
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 20,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 3
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 11,
+            "content_access": 1,
+            "audio_control": 5,
+            "vibration": 0,
+            "network_io": 1,
+            "scheduling_apis": 81,
+            "dynamic_code": 45
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 145
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 5,
+            "handler_loop": 76,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 3,
+            "dynamic_loading": 0,
+            "reflection": 42
+        }
+    }
+}

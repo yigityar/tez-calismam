@@ -1,0 +1,12 @@
+{
+  "apk_file": "2E775D8A9640ABF0362CB94AE6EDAD172543F766972775887B8CA155D6FFCA0B.apk",
+  "sha256": "2e775d8a9640abf0362cb94ae6edad172543f766972775887b8ca155d6ffca0b",
+  "package_name": "com.supercell.clashofclans",
+  "version_code": "602",
+  "version_name": "7.156.5",
+  "min_sdk": "15",
+  "target_sdk": "22",
+  "apk_size_kb": 48036,
+  "dex_count": 1,
+  "native_lib_count": 2
+}

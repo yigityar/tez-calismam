@@ -1,0 +1,12 @@
+{
+  "apk_file": "5DDED74E15CC167D6E11FF9C704C89E64C9A5918A82E3DDEC6C3B2EF92287334.apk",
+  "sha256": "5dded74e15cc167d6e11ff9c704c89e64c9a5918a82e3ddec6c3b2ef92287334",
+  "package_name": "11",
+  "version_code": "165",
+  "version_name": "8.10.2",
+  "min_sdk": "17",
+  "target_sdk": "28",
+  "apk_size_kb": 82208,
+  "dex_count": 1,
+  "native_lib_count": 75
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "9177F5666E6AA3FE7971FC6B769E2EA94D4A6BD80802167C7322A88BA78D5C73.apk",
+  "sha256": "9177f5666e6aa3fe7971fc6b769e2ea94d4a6bd80802167c7322a88ba78d5c73",
+  "package_name": "11",
+  "version_code": "8251026",
+  "version_name": "8.2.5.1026",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 79928,
+  "dex_count": 6,
+  "native_lib_count": 71
+}

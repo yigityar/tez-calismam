@@ -1,0 +1,12 @@
+{
+  "apk_file": "0D98B548DD42661052DF5CA9B8B17D74832562245E801DF6560AC12AA9F31835.apk",
+  "sha256": "0d98b548dd42661052df5ca9b8b17d74832562245e801df6560ac12aa9f31835",
+  "package_name": "14",
+  "version_code": "118",
+  "version_name": "5.17.0",
+  "min_sdk": "26",
+  "target_sdk": "34",
+  "apk_size_kb": 71120,
+  "dex_count": 4,
+  "native_lib_count": 33
+}

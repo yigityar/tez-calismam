@@ -1,0 +1,12 @@
+{
+  "apk_file": "1BF4C421E7AA2F9266D475ACF0D30421CDF3EFBE90F546DF740BDE92D7EFA254.apk",
+  "sha256": "1bf4c421e7aa2f9266d475acf0d30421cdf3efbe90f546df740bde92d7efa254",
+  "package_name": "11",
+  "version_code": "399",
+  "version_name": "2.4.97",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 15960,
+  "dex_count": 1,
+  "native_lib_count": 36
+}

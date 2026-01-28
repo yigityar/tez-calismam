@@ -1,0 +1,16 @@
+{
+  "apk_file": "A68928C3B53A6D3E30E433E9FBDD3A58D563EED19F2028CC1146BF922F8BA3C7.apk",
+  "permissions_list": "android.permission.POST_NOTIFICATIONS,android.permission.RECORD_AUDIO,android.permission.INTERNET,android.permission.READ_EXTERNAL_STORAGE,android.permission.WAKE_LOCK,android.permission.SYSTEM_ALERT_WINDOW,android.permission.VIBRATE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.BLUETOOTH,android.permission.BROADCAST_STICKY,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.ACCESS_NETWORK_STATE,android.permission.RECEIVE_BOOT_COMPLETED,com.sonim.permission.USE_PTT_KEY,android.permission.GET_ACCOUNTS,android.permission.READ_CONTACTS,android.permission.WRITE_CONTACTS,android.permission.READ_SYNC_SETTINGS,android.permission.WRITE_SYNC_SETTINGS,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.USE_CREDENTIALS,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.FOREGROUND_SERVICE,android.permission.FOREGROUND_SERVICE_MICROPHONE,android.permission.FOREGROUND_SERVICE_LOCATION,android.permission.CAMERA,android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,android.permission.ACTION_MANAGE_OVERLAY_PERMISSION,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.gms.permission.AD_ID,android.permission.DETECT_SCREEN_CAPTURE,android.permission.WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,android.permission.ACCESS_ADSERVICES_AD_ID,com.google.android.providers.gsf.permission.READ_GSERVICES,com.biptt.batch.permission.INTERNAL_BROADCAST,android.permission.ACCESS_ADSERVICES_CUSTOM_AUDIENCE,android.permission.ACCESS_ADSERVICES_TOPICS,com.biptt.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 62,
+  "count_service": 26,
+  "count_receiver": 24,
+  "count_provider": 4,
+  "count_exported": 26
+}

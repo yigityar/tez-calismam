@@ -1,0 +1,12 @@
+{
+  "apk_file": "4739E45FB2DFF277E1F6BF4431BDCD6D4BF0BB06B4AC2DE4F39D22FD24969FE4.apk",
+  "sha256": "4739e45fb2dff277e1f6bf4431bdcd6d4bf0bb06b4ac2de4f39d22fd24969fe4",
+  "package_name": "12",
+  "version_code": "10491136",
+  "version_name": "1.8.1.10",
+  "min_sdk": "24",
+  "target_sdk": "31",
+  "apk_size_kb": 62456,
+  "dex_count": 4,
+  "native_lib_count": 62
+}

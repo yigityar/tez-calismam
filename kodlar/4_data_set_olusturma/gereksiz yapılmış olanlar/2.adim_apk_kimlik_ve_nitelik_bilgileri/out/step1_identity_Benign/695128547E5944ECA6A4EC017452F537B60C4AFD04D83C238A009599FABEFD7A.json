@@ -1,0 +1,12 @@
+{
+  "apk_file": "695128547E5944ECA6A4EC017452F537B60C4AFD04D83C238A009599FABEFD7A.apk",
+  "sha256": "695128547e5944eca6a4ec017452f537b60c4afd04d83c238a009599fabefd7a",
+  "package_name": "11",
+  "version_code": "5055",
+  "version_name": "5.3.9",
+  "min_sdk": "16",
+  "target_sdk": "30",
+  "apk_size_kb": 97512,
+  "dex_count": 3,
+  "native_lib_count": 28
+}

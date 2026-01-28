@@ -1,0 +1,12 @@
+{
+  "apk_file": "C94503B9A495AF35626AA60276C455CBD2265D0A844C4F3BD7925551C0096D7A.apk",
+  "sha256": "c94503b9a495af35626aa60276c455cbd2265d0a844c4f3bd7925551c0096d7a",
+  "package_name": "10",
+  "version_code": "1460",
+  "version_name": "5.37.0.0",
+  "min_sdk": "22",
+  "target_sdk": "26",
+  "apk_size_kb": 121112,
+  "dex_count": 12,
+  "native_lib_count": 71
+}

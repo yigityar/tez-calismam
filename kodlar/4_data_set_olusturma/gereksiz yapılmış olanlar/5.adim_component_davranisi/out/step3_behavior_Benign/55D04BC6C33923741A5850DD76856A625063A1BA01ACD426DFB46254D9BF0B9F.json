@@ -1,0 +1,10 @@
+{
+  "apk_file": "55D04BC6C33923741A5850DD76856A625063A1BA01ACD426DFB46254D9BF0B9F.apk",
+  "perm_foreground_service": 1,
+  "perm_wake_lock": 1,
+  "perm_ignore_battery": 1,
+  "attr_persistent": 0,
+  "attr_high_priority": 0,
+  "attr_process_count": 19,
+  "attr_isolated_process": 0
+}

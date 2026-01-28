@@ -1,0 +1,12 @@
+{
+  "apk_file": "DBD075914D5AA7150AC048A296167CD827E1DC7B53F39E6E8DFCD0FDE445E18E.apk",
+  "sha256": "dbd075914d5aa7150ac048a296167cd827e1dc7b53f39e6e8dfcd0fde445e18e",
+  "package_name": "9",
+  "version_code": "80612",
+  "version_name": "8.06.12",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 101424,
+  "dex_count": 1,
+  "native_lib_count": 76
+}

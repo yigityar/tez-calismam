@@ -1,0 +1,12 @@
+{
+  "apk_file": "0C282C225B11FC9ABB35F396FFEE6C39090EA89CA5CA12530984BD31C8FB5253.apk",
+  "sha256": "0c282c225b11fc9abb35f396ffee6c39090ea89ca5ca12530984bd31c8fb5253",
+  "package_name": "10",
+  "version_code": "9012",
+  "version_name": "4.4.3",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 114380,
+  "dex_count": 1,
+  "native_lib_count": 64
+}

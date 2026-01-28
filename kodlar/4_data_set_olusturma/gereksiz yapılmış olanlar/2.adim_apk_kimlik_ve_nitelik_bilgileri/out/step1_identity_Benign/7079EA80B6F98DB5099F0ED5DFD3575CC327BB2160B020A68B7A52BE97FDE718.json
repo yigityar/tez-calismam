@@ -1,0 +1,12 @@
+{
+  "apk_file": "7079EA80B6F98DB5099F0ED5DFD3575CC327BB2160B020A68B7A52BE97FDE718.apk",
+  "sha256": "7079ea80b6f98db5099f0ed5dfd3575cc327bb2160b020a68b7a52be97fde718",
+  "package_name": "11",
+  "version_code": "534",
+  "version_name": "2.26.7",
+  "min_sdk": "22",
+  "target_sdk": "30",
+  "apk_size_kb": 43092,
+  "dex_count": 1,
+  "native_lib_count": 16
+}

@@ -1,0 +1,119 @@
+{
+    "apk_name": "222A302278554D85271338C584089F781043C9551618C2F1B321261B21194D6D",
+    "sha256": "222a302278554d85271338c584089f781043c9551618c2f1b321261b21194d6d",
+    "metadata": {
+        "package_name": "com.atakmap.android.gbr.vx.plugin",
+        "version_code": "20250408",
+        "version_name": "1.7.8 () - [5.4.0]",
+        "min_sdk": "26",
+        "target_sdk": "34",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACTION_MANAGE_OVERLAY_PERMISSION",
+            "android.permission.BLUETOOTH",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+            "android.permission.INTERNET",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.atakmap.android.gbr.vx.plugin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "com.atakmap.android.gbr.facade.permissions.PermissionRequesterActivity",
+            "com.atakmap.android.gbr.vx.floatingptt.FloatingPttPermissionRequesterActivity",
+            "com.atakmap.android.gbr.vx.ptt.HardwareAccessibilityServiceRequesterActivity",
+            "com.atakmap.app.component"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "com.atakmap.android.gbr.facade.microphone.service.MicrophoneService",
+            "com.atakmap.android.gbr.vx.floatingptt.FloatingMessengerService",
+            "com.atakmap.android.gbr.vx.ptt.HardwareButtonAccessibilityService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACTION_MANAGE_OVERLAY_PERMISSION": "unknown",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.FOREGROUND_SERVICE_MICROPHONE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECORD_AUDIO": "dangerous",
+            "android.permission.SYSTEM_ALERT_WINDOW": "signature",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.atakmap.android.gbr.vx.plugin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "normal": 6,
+            "unknown": 2,
+            "dangerous": 4,
+            "signature": 1
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 85.53,
+        "sources_present": true,
+        "java_file_count": 8920
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 0,
+        "camera": 7,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 2
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 1,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 3,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 17,
+            "dynamic_code": 204
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 228
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 4,
+            "handler_loop": 13,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 202
+        }
+    }
+}

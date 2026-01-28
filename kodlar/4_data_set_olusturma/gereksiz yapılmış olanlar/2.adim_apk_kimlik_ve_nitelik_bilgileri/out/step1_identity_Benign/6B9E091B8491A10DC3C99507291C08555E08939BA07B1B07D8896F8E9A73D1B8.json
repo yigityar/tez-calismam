@@ -1,0 +1,12 @@
+{
+  "apk_file": "6B9E091B8491A10DC3C99507291C08555E08939BA07B1B07D8896F8E9A73D1B8.apk",
+  "sha256": "6b9e091b8491a10dc3c99507291c08555e08939ba07b1b07d8896f8e9a73d1b8",
+  "package_name": "6.0-2438415",
+  "version_code": "516",
+  "version_name": "3.2.26",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 129092,
+  "dex_count": 5,
+  "native_lib_count": 313
+}

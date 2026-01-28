@@ -1,0 +1,168 @@
+{
+    "apk_name": "E7268B1159506C400F4DD27B46AA09932CD50D4BC605F8F1B3FA709ABDDFBEAF",
+    "sha256": "e7268b1159506c400f4dd27b46aa09932cd50d4bc605f8f1b3fa709abddfbeaf",
+    "metadata": {
+        "package_name": "com.pinterest",
+        "version_code": "60201",
+        "version_name": "6.2.0",
+        "min_sdk": "15",
+        "target_sdk": "23",
+        "permissions": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.INTERNET",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_PROFILE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.pinterest.permission.C2D_MESSAGE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sec.android.provider.badge.permission.WRITE"
+        ],
+        "activities": [
+            "com.braintreepayments.api.dropin.BraintreePaymentActivity",
+            "com.braintreepayments.api.threedsecure.ThreeDSecureWebViewActivity",
+            "com.facebook.CustomTabActivity",
+            "com.facebook.FacebookActivity",
+            "com.facebook.accountkit.ui.AccountKitActivity",
+            "com.facebook.accountkit.ui.AccountKitEmailRedirectActivity",
+            "com.google.android.gms.appinvite.PreviewActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.jakewharton.processphoenix.ProcessPhoenix",
+            "com.paypal.android.sdk.payments.FuturePaymentInfoActivity",
+            "com.paypal.android.sdk.payments.LoginActivity",
+            "com.paypal.android.sdk.payments.PayPalProfileSharingActivity",
+            "com.paypal.android.sdk.payments.PayPalTouchActivity",
+            "com.paypal.android.sdk.payments.ProfileSharingConsentActivity",
+            "com.pinterest.activity.PinterestActivity",
+            "com.pinterest.activity.commerce.SecureActivity",
+            "com.pinterest.activity.create.CameraActivity",
+            "com.pinterest.activity.create.CreateActivity",
+            "com.pinterest.activity.create.PhotoGalleryActivity",
+            "com.pinterest.activity.create.PinItActivity",
+            "com.pinterest.activity.create.PinMarkletResultsActivity",
+            "com.pinterest.activity.create.RepinActivity",
+            "com.pinterest.activity.nux.NUXActivity",
+            "com.pinterest.activity.signin.TwitterAuthActivity",
+            "com.pinterest.activity.task.activity.MainActivity",
+            "com.pinterest.activity.unauth.UnauthWallActivity",
+            "com.pinterest.activity.user.UserSetImageActivity",
+            "com.pinterest.activity.web.WebViewActivity",
+            "com.pinterest.activity.webhook.WebhookActivity",
+            "com.pinterest.sdk.PinterestOauthActivity",
+            "io.card.payment.CardIOActivity",
+            "io.card.payment.DataEntryActivity"
+        ],
+        "services": [
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.paypal.android.sdk.payments.PayPalService",
+            "com.pinterest.gcm.PinterestGcmListenerService",
+            "com.pinterest.gcm.PinterestInstanceIDListenerService",
+            "com.pinterest.gcm.RegistrationIntentService",
+            "com.pinterest.service.DelayedStartupService",
+            "com.pinterest.service.PinUploaderService",
+            "com.pinterest.service.TypeaheadCacheService"
+        ],
+        "receivers": [
+            "com.google.android.gms.gcm.GcmReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.pinterest.receiver.CustomTabPinitReceiver",
+            "com.pinterest.receiver.DeviceStartReceiver",
+            "com.pinterest.receiver.GlobalDataUpdateReceiver",
+            "com.pinterest.receiver.MasterInstallReferrerReceiver",
+            "com.pinterest.receiver.NetworkStatusReceiver",
+            "com.pinterest.receiver.SignupNotificationReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_CONTACTS": "dangerous",
+            "android.permission.READ_PROFILE": "unknown",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.USE_CREDENTIALS": "unknown",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES": "unknown",
+            "com.pinterest.permission.C2D_MESSAGE": "unknown",
+            "com.sec.android.provider.badge.permission.READ": "unknown",
+            "com.sec.android.provider.badge.permission.WRITE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 5,
+            "normal": 4,
+            "unknown": 7
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 37.74,
+        "sources_present": true,
+        "java_file_count": 7931
+    },
+    "ast_analysis": {
+        "location": 3,
+        "microphone": 0,
+        "camera": 44,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 7
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 3,
+            "microphone": 0,
+            "location": 1,
+            "torch": 3,
+            "telephony_ops": 0,
+            "system_commands": 4,
+            "webview_interop": 8,
+            "content_access": 25,
+            "audio_control": 1,
+            "vibration": 1,
+            "network_io": 11,
+            "scheduling_apis": 95,
+            "dynamic_code": 178
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 330
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 5,
+            "handler_loop": 90,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 3,
+            "user_triggered": 4
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 177
+        }
+    }
+}

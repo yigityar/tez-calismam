@@ -1,0 +1,12 @@
+{
+  "apk_file": "32EEF87C6C1BE41A5B8C3F489E80FF40369CD9BDFE2E7CAA66619E1F904865D0.apk",
+  "sha256": "32eef87c6c1be41a5b8c3f489e80ff40369cd9bdfe2e7caa66619e1f904865d0",
+  "package_name": "9",
+  "version_code": "6010000",
+  "version_name": "6.1.0",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 110900,
+  "dex_count": 1,
+  "native_lib_count": 42
+}

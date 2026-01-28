@@ -1,0 +1,16 @@
+{
+  "apk_file": "6BFE5D49BB8AF94F2F9045257050702DFB0BA306BA5B3EB275A5B47BA2E9AF98.apk",
+  "permissions_list": "android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,com.zxmsoft.pft_calculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 1,
+  "count_service": 0,
+  "count_receiver": 2,
+  "count_provider": 2,
+  "count_exported": 2
+}

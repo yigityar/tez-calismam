@@ -1,0 +1,82 @@
+{
+    "apk_name": "2E775D8A9640ABF0362CB94AE6EDAD172543F766972775887B8CA155D6FFCA0B",
+    "sha256": "2e775d8a9640abf0362cb94ae6edad172543f766972775887b8ca155d6ffca0b",
+    "metadata": {
+        "package_name": "com.supercell.clashofclans",
+        "version_code": "602",
+        "version_name": "7.156.5",
+        "min_sdk": "15",
+        "target_sdk": "22",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.supercell.clashofclans.permission.C2D_MESSAGE"
+        ],
+        "activities": [
+            "com.facebook.LoginActivity",
+            "com.helpshift.HSConversation",
+            "com.helpshift.HSFaqs",
+            "com.helpshift.HSQuestion",
+            "com.helpshift.HSQuestionsList",
+            "com.helpshift.HSReview",
+            "com.helpshift.HSSection",
+            "com.helpshift.ScreenshotPreviewActivity",
+            "com.helpshift.SearchResultActivity",
+            "com.supercell.clashofclans.GameApp"
+        ],
+        "services": [
+            "com.helpshift.HSRetryService",
+            "com.helpshift.HSService",
+            "com.supercell.clashofclans.GCMIntentService",
+            "org.OpenUDID.OpenUDID_service"
+        ],
+        "receivers": [
+            "com.google.android.gcm.GCMBroadcastReceiver",
+            "com.mobileapptracker.Tracker",
+            "com.supercell.clashofclans.TimeAlarm"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CHANGE_WIFI_STATE": "normal",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.supercell.clashofclans.permission.C2D_MESSAGE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 2,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 2
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 12.97,
+        "sources_present": true,
+        "java_file_count": 2192
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 10,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete"
+}

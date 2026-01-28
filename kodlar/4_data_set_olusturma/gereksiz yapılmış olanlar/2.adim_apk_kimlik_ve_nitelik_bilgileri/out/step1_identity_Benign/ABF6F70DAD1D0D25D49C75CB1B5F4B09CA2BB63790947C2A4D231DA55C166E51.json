@@ -1,0 +1,12 @@
+{
+  "apk_file": "ABF6F70DAD1D0D25D49C75CB1B5F4B09CA2BB63790947C2A4D231DA55C166E51.apk",
+  "sha256": "abf6f70dad1d0d25d49c75cb1b5f4b09ca2bb63790947c2a4d231da55c166e51",
+  "package_name": "12",
+  "version_code": "2046003",
+  "version_name": "2.46.3",
+  "min_sdk": "24",
+  "target_sdk": "30",
+  "apk_size_kb": 96560,
+  "dex_count": 7,
+  "native_lib_count": 5
+}

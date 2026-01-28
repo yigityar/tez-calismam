@@ -1,0 +1,12 @@
+{
+  "apk_file": "8B31098AF0B1B93C2A8A5BCB2BF8FD95DED9BD960293AFDF8E7EFCCE409B97BC.apk",
+  "sha256": "8b31098af0b1b93c2a8a5bcb2bf8fd95ded9bd960293afdf8e7efcce409b97bc",
+  "package_name": "11",
+  "version_code": "10506",
+  "version_name": "1.5.6",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 48452,
+  "dex_count": 7,
+  "native_lib_count": 64
+}

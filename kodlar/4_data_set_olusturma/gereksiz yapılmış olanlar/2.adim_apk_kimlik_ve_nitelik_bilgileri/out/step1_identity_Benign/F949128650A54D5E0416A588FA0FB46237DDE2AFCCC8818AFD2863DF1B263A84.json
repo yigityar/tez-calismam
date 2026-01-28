@@ -1,0 +1,12 @@
+{
+  "apk_file": "F949128650A54D5E0416A588FA0FB46237DDE2AFCCC8818AFD2863DF1B263A84.apk",
+  "sha256": "f949128650a54d5e0416a588fa0fb46237dde2afccc8818afd2863df1b263a84",
+  "package_name": "12",
+  "version_code": "3921",
+  "version_name": "3.4.2",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 58856,
+  "dex_count": 1,
+  "native_lib_count": 210
+}

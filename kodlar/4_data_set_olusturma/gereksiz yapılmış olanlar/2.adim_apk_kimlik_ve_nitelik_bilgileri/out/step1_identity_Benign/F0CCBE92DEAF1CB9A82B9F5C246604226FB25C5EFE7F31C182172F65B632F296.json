@@ -1,0 +1,12 @@
+{
+  "apk_file": "F0CCBE92DEAF1CB9A82B9F5C246604226FB25C5EFE7F31C182172F65B632F296.apk",
+  "sha256": "f0ccbe92deaf1cb9a82b9f5c246604226fb25c5efe7f31c182172f65b632f296",
+  "package_name": "12",
+  "version_code": "563",
+  "version_name": "0.1.480",
+  "min_sdk": "24",
+  "target_sdk": "30",
+  "apk_size_kb": 73500,
+  "dex_count": 4,
+  "native_lib_count": 10
+}

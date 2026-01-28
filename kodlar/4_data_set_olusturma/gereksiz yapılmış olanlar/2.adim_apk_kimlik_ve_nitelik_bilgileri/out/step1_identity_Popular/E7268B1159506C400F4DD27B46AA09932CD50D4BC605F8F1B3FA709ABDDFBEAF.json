@@ -1,0 +1,12 @@
+{
+  "apk_file": "E7268B1159506C400F4DD27B46AA09932CD50D4BC605F8F1B3FA709ABDDFBEAF.apk",
+  "sha256": "e7268b1159506c400f4dd27b46aa09932cd50d4bc605f8f1b3fa709abddfbeaf",
+  "package_name": "com.pinterest",
+  "version_code": "60201",
+  "version_name": "6.2.0",
+  "min_sdk": "15",
+  "target_sdk": "23",
+  "apk_size_kb": 17216,
+  "dex_count": 3,
+  "native_lib_count": 0
+}

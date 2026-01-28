@@ -1,0 +1,12 @@
+{
+  "apk_file": "D309E4F774975E78F28FD95AE0741291C63B93D682B473F76DF65518E7DF5512.apk",
+  "sha256": "d309e4f774975e78f28fd95ae0741291c63b93d682b473f76df65518e7df5512",
+  "package_name": "16",
+  "version_code": "37",
+  "version_name": "0.8.1",
+  "min_sdk": "24",
+  "target_sdk": "35",
+  "apk_size_kb": 2668,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

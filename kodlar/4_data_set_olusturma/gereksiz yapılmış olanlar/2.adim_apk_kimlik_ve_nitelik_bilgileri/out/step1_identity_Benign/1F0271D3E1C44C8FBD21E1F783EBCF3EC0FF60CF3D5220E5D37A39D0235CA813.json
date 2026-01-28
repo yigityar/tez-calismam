@@ -1,0 +1,12 @@
+{
+  "apk_file": "1F0271D3E1C44C8FBD21E1F783EBCF3EC0FF60CF3D5220E5D37A39D0235CA813.apk",
+  "sha256": "1f0271d3e1c44c8fbd21e1f783ebcf3ec0ff60cf3d5220e5d37a39d0235ca813",
+  "package_name": "11",
+  "version_code": "31884",
+  "version_name": "3.3.3",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 163260,
+  "dex_count": 8,
+  "native_lib_count": 21
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "BC3A33C2BF56A091BBFB4CA6C36A9ACA926B5F6B20C9723090173785E782D640.apk",
+  "sha256": "bc3a33c2bf56a091bbfb4ca6c36a9aca926b5f6b20c9723090173785e782d640",
+  "package_name": "10",
+  "version_code": "7160",
+  "version_name": "7.1.6",
+  "min_sdk": "19",
+  "target_sdk": "27",
+  "apk_size_kb": 59068,
+  "dex_count": 1,
+  "native_lib_count": 61
+}

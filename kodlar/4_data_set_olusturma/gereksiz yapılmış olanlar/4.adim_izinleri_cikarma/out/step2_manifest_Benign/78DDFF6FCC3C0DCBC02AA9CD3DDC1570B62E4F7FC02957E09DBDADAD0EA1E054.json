@@ -1,0 +1,16 @@
+{
+  "apk_file": "78DDFF6FCC3C0DCBC02AA9CD3DDC1570B62E4F7FC02957E09DBDADAD0EA1E054.apk",
+  "permissions_list": "android.permission.USE_FULL_SCREEN_INTENT,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 13,
+  "count_service": 0,
+  "count_receiver": 0,
+  "count_provider": 1,
+  "count_exported": 1
+}

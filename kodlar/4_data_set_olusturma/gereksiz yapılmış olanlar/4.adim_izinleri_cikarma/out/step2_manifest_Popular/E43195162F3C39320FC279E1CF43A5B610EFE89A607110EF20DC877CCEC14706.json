@@ -1,0 +1,16 @@
+{
+  "apk_file": "E43195162F3C39320FC279E1CF43A5B610EFE89A607110EF20DC877CCEC14706.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_CALENDAR,android.permission.CAMERA,android.permission.ACCESS_NETWORK_STATE,android.permission.VIBRATE,android.permission.READ_PHONE_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WAKE_LOCK,android.permission.RECEIVE_BOOT_COMPLETED,com.vivo.notification.permission.BADGE_ICON,getui.permission.GetuiService.com.linkedin.android,com.linkedin.android.permission.MIPUSH_RECEIVE,com.linkedin.android.permission.PROCESS_PUSH_MSG,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.WRITE_SETTINGS,android.permission.READ_SYNC_SETTINGS,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.WRITE_SYNC_SETTINGS,android.permission.MANAGE_ACCOUNTS,android.permission.REQUEST_INSTALL_PACKAGES,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.c2dm.permission.RECEIVE,com.linkedin.android.permission.C2D_MESSAGE,android.permission.FOREGROUND_SERVICE,android.permission.GET_TASKS,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.linkedin.android.permission.PUSH_PROVIDER,com.android.vending.BILLING,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 167,
+  "count_service": 39,
+  "count_receiver": 30,
+  "count_provider": 9,
+  "count_exported": 25
+}

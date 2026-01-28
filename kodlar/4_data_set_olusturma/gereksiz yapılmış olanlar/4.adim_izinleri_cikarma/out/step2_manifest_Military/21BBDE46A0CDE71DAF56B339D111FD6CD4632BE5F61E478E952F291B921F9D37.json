@@ -1,0 +1,16 @@
+{
+  "apk_file": "21BBDE46A0CDE71DAF56B339D111FD6CD4632BE5F61E478E952F291B921F9D37.apk",
+  "permissions_list": "android.permission.CAMERA,android.permission.INTERNET,android.permission.READ_CALENDAR,android.permission.READ_CONTACTS,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.RECORD_AUDIO,android.permission.SYSTEM_ALERT_WINDOW,android.permission.USE_BIOMETRIC,android.permission.USE_FINGERPRINT,android.permission.VIBRATE,android.permission.WRITE_CALENDAR,android.permission.WRITE_CONTACTS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.WRITE_SETTINGS,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.gms.permission.ACTIVITY_RECOGNITION,com.google.android.providers.gsf.permission.READ_GSERVICES,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.majeur.launcher.permission.UPDATE_BADGE,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,android.permission.ACCESS_NETWORK_STATE,com.android.vending.CHECK_LICENSE,android.permission.WAKE_LOCK,android.permission.ACCESS_WIFI_STATE,android.permission.READ_MEDIA_IMAGES,android.permission.READ_MEDIA_VIDEO,android.permission.READ_MEDIA_AUDIO,android.permission.READ_MEDIA_VISUAL_USER_SELECTED,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.POST_NOTIFICATIONS,com.arboxapp.armyfitness.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,android.permission.READ_APP_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 6,
+  "count_service": 9,
+  "count_receiver": 4,
+  "count_provider": 11,
+  "count_exported": 4
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "8EAF01F6D8F25DB2748F301A597F7DE9370E5C2F33A9E5038DE3FB4A64710742.apk",
+  "sha256": "8eaf01f6d8f25db2748f301a597f7de9370e5c2f33a9e5038de3fb4a64710742",
+  "package_name": "12",
+  "version_code": "1992",
+  "version_name": "6.34.1",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 52100,
+  "dex_count": 5,
+  "native_lib_count": 54
+}

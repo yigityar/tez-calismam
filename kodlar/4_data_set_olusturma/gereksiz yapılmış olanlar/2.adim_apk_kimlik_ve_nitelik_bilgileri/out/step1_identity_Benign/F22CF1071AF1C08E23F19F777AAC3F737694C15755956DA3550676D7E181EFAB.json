@@ -1,0 +1,12 @@
+{
+  "apk_file": "F22CF1071AF1C08E23F19F777AAC3F737694C15755956DA3550676D7E181EFAB.apk",
+  "sha256": "f22cf1071af1c08e23f19f777aac3f737694c15755956da3550676d7e181efab",
+  "package_name": "10",
+  "version_code": "5997",
+  "version_name": "5.9.13",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 55916,
+  "dex_count": 1,
+  "native_lib_count": 84
+}

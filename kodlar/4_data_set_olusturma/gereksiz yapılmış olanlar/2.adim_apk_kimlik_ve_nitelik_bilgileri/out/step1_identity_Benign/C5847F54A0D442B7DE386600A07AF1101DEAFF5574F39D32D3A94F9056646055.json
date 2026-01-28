@@ -1,0 +1,12 @@
+{
+  "apk_file": "C5847F54A0D442B7DE386600A07AF1101DEAFF5574F39D32D3A94F9056646055.apk",
+  "sha256": "c5847f54a0d442b7de386600a07af1101deaff5574f39d32d3a94f9056646055",
+  "package_name": "6.0-2438415",
+  "version_code": "365",
+  "version_name": "3.6.5",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 22436,
+  "dex_count": 3,
+  "native_lib_count": 30
+}

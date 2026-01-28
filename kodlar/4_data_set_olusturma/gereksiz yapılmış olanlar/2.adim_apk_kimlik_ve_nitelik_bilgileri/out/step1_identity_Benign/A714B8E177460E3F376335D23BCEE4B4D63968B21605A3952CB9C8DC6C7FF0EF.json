@@ -1,0 +1,12 @@
+{
+  "apk_file": "A714B8E177460E3F376335D23BCEE4B4D63968B21605A3952CB9C8DC6C7FF0EF.apk",
+  "sha256": "a714b8e177460e3f376335d23bcee4b4d63968b21605a3952cb9c8dc6c7ff0ef",
+  "package_name": "11",
+  "version_code": "41",
+  "version_name": "2.21",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 27368,
+  "dex_count": 3,
+  "native_lib_count": 25
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "EDCA09BE5DED05E6691A71E94CC9325B4B2B323D2CC19E2A49CB1A78D5F23B27.apk",
+  "sha256": "edca09be5ded05e6691a71e94cc9325b4b2b323d2cc19e2a49cb1a78d5f23b27",
+  "package_name": "13",
+  "version_code": "60",
+  "version_name": "4.1.0",
+  "min_sdk": "19",
+  "target_sdk": "33",
+  "apk_size_kb": 44752,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

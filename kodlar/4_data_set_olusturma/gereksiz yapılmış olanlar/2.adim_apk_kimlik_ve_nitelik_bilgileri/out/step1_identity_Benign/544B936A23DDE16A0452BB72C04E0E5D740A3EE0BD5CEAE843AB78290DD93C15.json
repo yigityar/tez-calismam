@@ -1,0 +1,12 @@
+{
+  "apk_file": "544B936A23DDE16A0452BB72C04E0E5D740A3EE0BD5CEAE843AB78290DD93C15.apk",
+  "sha256": "544b936a23dde16a0452bb72c04e0e5d740a3ee0bd5ceae843ab78290dd93c15",
+  "package_name": "11",
+  "version_code": "86",
+  "version_name": "1.1.18003",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 39076,
+  "dex_count": 1,
+  "native_lib_count": 18
+}

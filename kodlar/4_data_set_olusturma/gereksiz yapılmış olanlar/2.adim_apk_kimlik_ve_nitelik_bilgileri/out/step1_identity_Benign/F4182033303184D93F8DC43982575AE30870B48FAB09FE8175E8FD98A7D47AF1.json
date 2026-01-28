@@ -1,0 +1,12 @@
+{
+  "apk_file": "F4182033303184D93F8DC43982575AE30870B48FAB09FE8175E8FD98A7D47AF1.apk",
+  "sha256": "f4182033303184d93f8dc43982575ae30870b48fab09fe8175e8fd98a7d47af1",
+  "package_name": "9",
+  "version_code": "134807563",
+  "version_name": "8.9.0.11",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 159376,
+  "dex_count": 15,
+  "native_lib_count": 64
+}

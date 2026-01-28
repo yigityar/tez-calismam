@@ -1,0 +1,12 @@
+{
+  "apk_file": "3EF265EDA7EA3597182CCCB1157ECFD08F8F59206426F086DFB39D342A7983C4.apk",
+  "sha256": "3ef265eda7ea3597182cccb1157ecfd08f8f59206426f086dfb39d342a7983c4",
+  "package_name": "11",
+  "version_code": "1087",
+  "version_name": "5.3.8",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 53720,
+  "dex_count": 5,
+  "native_lib_count": 45
+}

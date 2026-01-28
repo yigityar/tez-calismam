@@ -1,0 +1,16 @@
+{
+  "apk_file": "A8075B8660716BFD75C1E10033D19B71A1778EC5C546E0952D9F95C6880E61FB.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.BLUETOOTH,android.permission.GET_ACCOUNTS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.WAKE_LOCK,android.permission.VIBRATE,com.google.android.c2dm.permission.RECEIVE,com.google.android.c2dm.permission.REGISTER,com.leadsquared.nextgen.permission.C2D_MESSAGE,com.google.android.c2dm.permission.SEND,android.permission.CAMERA,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.READ_PHONE_STATE,com.leadsquared.nextgen.permission.ACCESS_LSQ_SERVICES,android.permission.FOREGROUND_SERVICE,android.permission.RECORD_AUDIO,android.permission.USE_BIOMETRIC,android.permission.ACCESS_WIFI_STATE,android.permission.USE_FINGERPRINT,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 130,
+  "count_service": 38,
+  "count_receiver": 18,
+  "count_provider": 8,
+  "count_exported": 26
+}

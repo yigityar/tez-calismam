@@ -1,0 +1,12 @@
+{
+  "apk_file": "46846A3DF30796A76B9457113450418A62AE22D5BD365FFED887E3B03F3CA0CE.apk",
+  "sha256": "46846a3df30796a76b9457113450418a62ae22d5bd365ffed887e3b03f3ca0ce",
+  "package_name": "10",
+  "version_code": "558002",
+  "version_name": "5.58.0.558002",
+  "min_sdk": "22",
+  "target_sdk": "27",
+  "apk_size_kb": 68448,
+  "dex_count": 9,
+  "native_lib_count": 101
+}

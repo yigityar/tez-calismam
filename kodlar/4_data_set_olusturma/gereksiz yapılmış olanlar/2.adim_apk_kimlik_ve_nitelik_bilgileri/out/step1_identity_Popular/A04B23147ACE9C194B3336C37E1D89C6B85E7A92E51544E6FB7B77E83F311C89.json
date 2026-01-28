@@ -1,0 +1,12 @@
+{
+  "apk_file": "A04B23147ACE9C194B3336C37E1D89C6B85E7A92E51544E6FB7B77E83F311C89.apk",
+  "sha256": "a04b23147ace9c194b3336c37e1d89c6b85e7a92e51544e6fb7b77e83f311c89",
+  "package_name": "com.discord",
+  "version_code": "297",
+  "version_name": "2.9.7",
+  "min_sdk": "16",
+  "target_sdk": "24",
+  "apk_size_kb": 17004,
+  "dex_count": 1,
+  "native_lib_count": 24
+}

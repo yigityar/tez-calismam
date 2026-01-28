@@ -1,0 +1,12 @@
+{
+  "apk_file": "30F6E447F1989118547727D0123D948F21A939A2A8325E9E70226929789AE0E4.apk",
+  "sha256": "30f6e447f1989118547727d0123d948f21a939a2a8325e9e70226929789ae0e4",
+  "package_name": "15",
+  "version_code": "73",
+  "version_name": "8.3",
+  "min_sdk": "25",
+  "target_sdk": "35",
+  "apk_size_kb": 73988,
+  "dex_count": 1,
+  "native_lib_count": 620
+}

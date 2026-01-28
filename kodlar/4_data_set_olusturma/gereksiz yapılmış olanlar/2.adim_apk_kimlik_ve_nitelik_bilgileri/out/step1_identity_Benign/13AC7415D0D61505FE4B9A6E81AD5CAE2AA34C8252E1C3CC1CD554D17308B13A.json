@@ -1,0 +1,12 @@
+{
+  "apk_file": "13AC7415D0D61505FE4B9A6E81AD5CAE2AA34C8252E1C3CC1CD554D17308B13A.apk",
+  "sha256": "13ac7415d0d61505fe4b9a6e81ad5cae2aa34c8252e1c3cc1cd554d17308b13a",
+  "package_name": "9",
+  "version_code": "8215000",
+  "version_name": "8.21.5",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 50424,
+  "dex_count": 10,
+  "native_lib_count": 49
+}

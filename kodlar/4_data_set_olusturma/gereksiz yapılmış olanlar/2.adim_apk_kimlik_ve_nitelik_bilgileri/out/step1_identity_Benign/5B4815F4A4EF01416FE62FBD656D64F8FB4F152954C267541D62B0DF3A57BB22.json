@@ -1,0 +1,12 @@
+{
+  "apk_file": "5B4815F4A4EF01416FE62FBD656D64F8FB4F152954C267541D62B0DF3A57BB22.apk",
+  "sha256": "5b4815f4a4ef01416fe62fbd656d64f8fb4f152954c267541d62b0df3a57bb22",
+  "package_name": "12",
+  "version_code": "52620",
+  "version_name": "5.26.2",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 100864,
+  "dex_count": 15,
+  "native_lib_count": 32
+}

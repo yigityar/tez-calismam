@@ -1,0 +1,12 @@
+{
+  "apk_file": "A1793F85F65E1229F6DCE36A0748FD3D7BE55C19E45F716B6B148A51CCA281A0.apk",
+  "sha256": "a1793f85f65e1229f6dce36a0748fd3d7be55c19e45f716b6b148a51cca281a0",
+  "package_name": "com.hsbank.mobilebank",
+  "version_code": "608",
+  "version_name": "6.0.8",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 106536,
+  "dex_count": 1,
+  "native_lib_count": 75
+}

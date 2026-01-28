@@ -1,0 +1,12 @@
+{
+  "apk_file": "49C6A8C1AE1BD0C6154109CA0E4AFDBE6724D2B5565D8EDC5BF7A2AAEB8D20B3.apk",
+  "sha256": "49c6a8c1ae1bd0c6154109ca0e4afdbe6724d2b5565d8edc5bf7a2aaeb8d20b3",
+  "package_name": "11",
+  "version_code": "372",
+  "version_name": "5.1.6.83",
+  "min_sdk": "18",
+  "target_sdk": "30",
+  "apk_size_kb": 79444,
+  "dex_count": 9,
+  "native_lib_count": 114
+}

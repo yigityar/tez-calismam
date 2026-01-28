@@ -1,0 +1,12 @@
+{
+  "apk_file": "6A1B3E4CA937804225E79A5A86DDD5FD169C3B8425D44BE9F7A6891E829D7B28.apk",
+  "sha256": "6a1b3e4ca937804225e79a5a86ddd5fd169c3b8425d44be9f7a6891e829d7b28",
+  "package_name": "13",
+  "version_code": "34",
+  "version_name": "34.0",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 18432,
+  "dex_count": 4,
+  "native_lib_count": 0
+}

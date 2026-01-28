@@ -1,0 +1,12 @@
+{
+  "apk_file": "83ED8EDF9653B923DC6CACD72B282C6B9D6A4F60B2DFC946D59D8204CDF638CA.apk",
+  "sha256": "83ed8edf9653b923dc6cacd72b282c6b9d6a4f60b2dfc946d59d8204cdf638ca",
+  "package_name": "10",
+  "version_code": "3700",
+  "version_name": "8.13",
+  "min_sdk": "22",
+  "target_sdk": "29",
+  "apk_size_kb": 182392,
+  "dex_count": 1,
+  "native_lib_count": 90
+}

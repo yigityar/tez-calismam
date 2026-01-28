@@ -1,0 +1,12 @@
+{
+  "apk_file": "51282982CB2EBE98358219369CA3BBAB1D4F927001DCD81151A74A2DE34CB892.apk",
+  "sha256": "51282982cb2ebe98358219369ca3bbab1d4f927001dcd81151a74a2de34cb892",
+  "package_name": "12",
+  "version_code": "41",
+  "version_name": "1.27.0",
+  "min_sdk": "19",
+  "target_sdk": "31",
+  "apk_size_kb": 37856,
+  "dex_count": 2,
+  "native_lib_count": 12
+}

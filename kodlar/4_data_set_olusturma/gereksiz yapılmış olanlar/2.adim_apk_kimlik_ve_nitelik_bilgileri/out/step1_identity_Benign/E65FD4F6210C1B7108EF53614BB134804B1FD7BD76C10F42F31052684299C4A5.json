@@ -1,0 +1,12 @@
+{
+  "apk_file": "E65FD4F6210C1B7108EF53614BB134804B1FD7BD76C10F42F31052684299C4A5.apk",
+  "sha256": "e65fd4f6210c1b7108ef53614bb134804b1fd7bd76c10f42f31052684299c4a5",
+  "package_name": "14",
+  "version_code": "93",
+  "version_name": "0.8.1",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "apk_size_kb": 53852,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "8385F8156636A7CC143377A57C19B852FF3D52926EAEE661C28AD6F336FC4F4B.apk",
+  "sha256": "8385f8156636a7cc143377a57c19b852ff3d52926eaee661c28ad6f336fc4f4b",
+  "package_name": "6.0-2438415",
+  "version_code": "3716",
+  "version_name": "7.6.2",
+  "min_sdk": "22",
+  "target_sdk": "33",
+  "apk_size_kb": 65272,
+  "dex_count": 4,
+  "native_lib_count": 44
+}

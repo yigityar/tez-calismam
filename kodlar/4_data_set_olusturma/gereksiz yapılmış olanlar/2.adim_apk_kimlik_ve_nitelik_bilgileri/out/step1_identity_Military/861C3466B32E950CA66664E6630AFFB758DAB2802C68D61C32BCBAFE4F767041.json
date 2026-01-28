@@ -1,0 +1,12 @@
+{
+  "apk_file": "861C3466B32E950CA66664E6630AFFB758DAB2802C68D61C32BCBAFE4F767041.apk",
+  "sha256": "861c3466b32e950ca66664e6630affb758dab2802c68d61c32bcbafe4f767041",
+  "package_name": "15",
+  "version_code": "6",
+  "version_name": "1.1.4",
+  "min_sdk": "24",
+  "target_sdk": "35",
+  "apk_size_kb": 44008,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

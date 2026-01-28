@@ -1,0 +1,12 @@
+{
+  "apk_file": "1EC3999FCB1A9FA556D413F91D3F5435144086ABF6A73FEA10F77074E6015C05.apk",
+  "sha256": "1ec3999fcb1a9fa556d413f91d3f5435144086abf6a73fea10f77074e6015c05",
+  "package_name": "13",
+  "version_code": "231177007",
+  "version_name": "2.23.11.77",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 48708,
+  "dex_count": 4,
+  "native_lib_count": 2
+}

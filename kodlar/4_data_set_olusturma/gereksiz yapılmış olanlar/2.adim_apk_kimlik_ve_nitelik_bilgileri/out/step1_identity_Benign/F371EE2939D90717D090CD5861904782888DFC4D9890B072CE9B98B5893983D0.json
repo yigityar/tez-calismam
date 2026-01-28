@@ -1,0 +1,12 @@
+{
+  "apk_file": "F371EE2939D90717D090CD5861904782888DFC4D9890B072CE9B98B5893983D0.apk",
+  "sha256": "f371ee2939d90717d090cd5861904782888dfc4d9890b072ce9b98b5893983d0",
+  "package_name": "com.cs_credit_bank",
+  "version_code": "20220518",
+  "version_name": "6.7.0",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 160268,
+  "dex_count": 2,
+  "native_lib_count": 113
+}

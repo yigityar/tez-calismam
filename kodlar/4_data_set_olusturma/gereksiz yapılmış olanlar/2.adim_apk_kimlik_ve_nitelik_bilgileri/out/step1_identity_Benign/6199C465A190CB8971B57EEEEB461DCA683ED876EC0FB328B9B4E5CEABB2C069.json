@@ -1,0 +1,12 @@
+{
+  "apk_file": "6199C465A190CB8971B57EEEEB461DCA683ED876EC0FB328B9B4E5CEABB2C069.apk",
+  "sha256": "6199c465a190cb8971b57eeeeb461dca683ed876ec0fb328b9b4e5ceabb2c069",
+  "package_name": "11",
+  "version_code": "978",
+  "version_name": "9.7.8",
+  "min_sdk": "23",
+  "target_sdk": "26",
+  "apk_size_kb": 121640,
+  "dex_count": 1,
+  "native_lib_count": 44
+}

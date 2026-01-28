@@ -1,0 +1,12 @@
+{
+  "apk_file": "57CB302BB60C93EB30B6BD472829DF185EF1CCD6FC72D60DDF8AFC7C94B35477.apk",
+  "sha256": "57cb302bb60c93eb30b6bd472829df185ef1ccd6fc72d60ddf8afc7c94b35477",
+  "package_name": "cn.com.njcb.android.mobilebank",
+  "version_code": "252",
+  "version_name": "6.5.2",
+  "min_sdk": "",
+  "target_sdk": "26",
+  "apk_size_kb": 164968,
+  "dex_count": 1,
+  "native_lib_count": 79
+}

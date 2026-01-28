@@ -1,0 +1,12 @@
+{
+  "apk_file": "7C176A4D98E1E6A83956EA76080D3E80C21F079A4F3CE257FBFCDDEBD8783513.apk",
+  "sha256": "7c176a4d98e1e6a83956ea76080d3e80c21f079a4f3ce257fbfcddebd8783513",
+  "package_name": "12",
+  "version_code": "67",
+  "version_name": "6.7",
+  "min_sdk": "19",
+  "target_sdk": "31",
+  "apk_size_kb": 29612,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

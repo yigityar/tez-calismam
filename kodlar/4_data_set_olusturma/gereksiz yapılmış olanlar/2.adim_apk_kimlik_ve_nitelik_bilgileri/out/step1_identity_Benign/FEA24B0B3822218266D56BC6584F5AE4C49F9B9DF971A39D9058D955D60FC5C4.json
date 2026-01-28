@@ -1,0 +1,12 @@
+{
+  "apk_file": "FEA24B0B3822218266D56BC6584F5AE4C49F9B9DF971A39D9058D955D60FC5C4.apk",
+  "sha256": "fea24b0b3822218266d56bc6584f5ae4c49f9b9df971a39d9058d955d60fc5c4",
+  "package_name": "12",
+  "version_code": "9020002",
+  "version_name": "9.2.0",
+  "min_sdk": "23",
+  "target_sdk": "29",
+  "apk_size_kb": 168420,
+  "dex_count": 8,
+  "native_lib_count": 50
+}

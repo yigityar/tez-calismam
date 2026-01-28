@@ -1,0 +1,12 @@
+{
+  "apk_file": "146B269BB1F7DD1D24610FC860CF89284300F18DF1A6191E602B40836AEAEA6D.apk",
+  "sha256": "146b269bb1f7dd1d24610fc860cf89284300f18df1a6191e602b40836aeaea6d",
+  "package_name": "11",
+  "version_code": "49",
+  "version_name": "1.18",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 94768,
+  "dex_count": 3,
+  "native_lib_count": 24
+}

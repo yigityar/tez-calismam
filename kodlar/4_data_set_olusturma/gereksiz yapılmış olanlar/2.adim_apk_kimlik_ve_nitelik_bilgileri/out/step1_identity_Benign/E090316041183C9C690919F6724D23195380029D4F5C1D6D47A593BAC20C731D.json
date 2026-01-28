@@ -1,0 +1,12 @@
+{
+  "apk_file": "E090316041183C9C690919F6724D23195380029D4F5C1D6D47A593BAC20C731D.apk",
+  "sha256": "e090316041183c9c690919f6724d23195380029d4f5c1d6d47a593bac20c731d",
+  "package_name": "9",
+  "version_code": "175929",
+  "version_name": "V6.23.02",
+  "min_sdk": "19",
+  "target_sdk": "27",
+  "apk_size_kb": 81432,
+  "dex_count": 5,
+  "native_lib_count": 39
+}

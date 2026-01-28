@@ -1,0 +1,16 @@
+{
+  "apk_file": "3ADA8EE7E2C3803631D32ADB8C4EA393F1D5770FB1299FD13121341752ED73C0.apk",
+  "permissions_list": "np.com.nareshmdr.nepalicalendar.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,com.google.android.gms.permission.AD_ID,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.POST_NOTIFICATIONS,android.permission.FOREGROUND_SERVICE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,np.com.nareshmdr.nepalicalendar.permission.C2D_MESSAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 17,
+  "count_service": 7,
+  "count_receiver": 8,
+  "count_provider": 2,
+  "count_exported": 22
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "0FD7ECEE48CACF8F167DE05E376099FD41DA31AEE9409E0D84722ACD0F9F440E.apk",
+  "permissions_list": "com.jiliguala.niuwa.permission.PROCESS_PUSH_MSG,android.permission.REORDER_TASKS,android.permission.RECEIVE_USER_PRESENT,android.permission.INTERNET,android.permission.WAKE_LOCK,android.permission.READ_PHONE_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.MANAGE_ACCOUNTS,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.RECORD_AUDIO,android.permission.CAMERA,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.ACCESS_COARSE_LOCATION,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,com.jiliguala.niuwa.permission.MIPUSH_RECEIVE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.RESTART_PACKAGES,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.REQUEST_INSTALL_PACKAGES,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.FOREGROUND_SERVICE,com.asus.msa.SupplementaryDID.ACCESS,com.google.android.apps.photos.permission.GOOGLE_PHOTOS,android.permission.GET_TASKS,android.permission.ACCESS_GPS,android.permission.ACCESS_ASSISTED_GPS,android.permission.ACCESS_LOCATION,com.jiliguala.niuwa.permission.PUSH_PROVIDER,android.permission.ACCESS_BACKGROUND_LOCATION",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 268,
+  "count_service": 28,
+  "count_receiver": 8,
+  "count_provider": 20,
+  "count_exported": 29
+}

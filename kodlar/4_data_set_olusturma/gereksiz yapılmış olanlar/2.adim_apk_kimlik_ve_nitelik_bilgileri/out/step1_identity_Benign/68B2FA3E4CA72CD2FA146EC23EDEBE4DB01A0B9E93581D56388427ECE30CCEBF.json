@@ -1,0 +1,12 @@
+{
+  "apk_file": "68B2FA3E4CA72CD2FA146EC23EDEBE4DB01A0B9E93581D56388427ECE30CCEBF.apk",
+  "sha256": "68b2fa3e4ca72cd2fa146ec23edebe4db01a0b9e93581d56388427ece30ccebf",
+  "package_name": "9",
+  "version_code": "38",
+  "version_name": "3.2.8",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 78436,
+  "dex_count": 1,
+  "native_lib_count": 35
+}

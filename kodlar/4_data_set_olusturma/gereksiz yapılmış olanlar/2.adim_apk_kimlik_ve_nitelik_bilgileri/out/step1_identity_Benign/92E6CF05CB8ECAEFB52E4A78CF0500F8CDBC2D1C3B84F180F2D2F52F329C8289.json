@@ -1,0 +1,12 @@
+{
+  "apk_file": "92E6CF05CB8ECAEFB52E4A78CF0500F8CDBC2D1C3B84F180F2D2F52F329C8289.apk",
+  "sha256": "92e6cf05cb8ecaefb52e4a78cf0500f8cdbc2d1c3b84f180f2d2f52f329c8289",
+  "package_name": "13",
+  "version_code": "73",
+  "version_name": "1.9.5",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 19284,
+  "dex_count": 1,
+  "native_lib_count": 14
+}

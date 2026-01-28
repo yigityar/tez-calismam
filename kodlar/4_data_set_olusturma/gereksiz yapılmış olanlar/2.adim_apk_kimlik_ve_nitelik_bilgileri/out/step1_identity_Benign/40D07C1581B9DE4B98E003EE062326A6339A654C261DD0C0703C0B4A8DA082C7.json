@@ -1,0 +1,12 @@
+{
+  "apk_file": "40D07C1581B9DE4B98E003EE062326A6339A654C261DD0C0703C0B4A8DA082C7.apk",
+  "sha256": "40d07c1581b9de4b98e003ee062326a6339a654c261dd0c0703c0b4a8da082c7",
+  "package_name": "13",
+  "version_code": "106",
+  "version_name": "41.1.2",
+  "min_sdk": "21",
+  "target_sdk": "32",
+  "apk_size_kb": 32848,
+  "dex_count": 2,
+  "native_lib_count": 28
+}

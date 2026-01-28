@@ -1,0 +1,12 @@
+{
+  "apk_file": "64D3286897459620CE0C10C25B3874A93146C20BBF6540C1FD949B88165A1588.apk",
+  "sha256": "64d3286897459620ce0c10c25b3874a93146c20bbf6540c1fd949b88165a1588",
+  "package_name": "10",
+  "version_code": "62500",
+  "version_name": "6.25",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 134824,
+  "dex_count": 3,
+  "native_lib_count": 78
+}

@@ -1,0 +1,145 @@
+{
+    "apk_name": "2A4F038863C008883B916C054723BA79C2CF015F980CE7278ECC971B4EC7CAC4",
+    "sha256": "2a4f038863c008883b916c054723ba79c2cf015f980ce7278ecc971b4ec7cac4",
+    "metadata": {
+        "package_name": "com.reaperdevs.aftcalc",
+        "version_code": "21",
+        "version_name": "1.1.13",
+        "min_sdk": "25",
+        "target_sdk": "36",
+        "permissions": [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            "android.permission.ACCESS_ADSERVICES_TOPICS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.BILLING",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.reaperdevs.aftcalc.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "androidx.credentials.playservices.HiddenActivity",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.android.billingclient.api.ProxyBillingActivityV2",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.NotificationHandlerActivity",
+            "com.google.android.gms.ads.OutOfContextTestingActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.google.firebase.auth.internal.GenericIdpActivity",
+            "com.google.firebase.auth.internal.RecaptchaActivity",
+            "com.pairip.licensecheck.LicenseActivity",
+            "com.reaperdevs.aftcalc.MainActivity"
+        ],
+        "services": [
+            "androidx.credentials.playservices.CredentialProviderMetadataHolder",
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.ads.AdService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.sessions.SessionLifecycleService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_ADSERVICES_AD_ID": "unknown",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION": "unknown",
+            "android.permission.ACCESS_ADSERVICES_TOPICS": "unknown",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.android.vending.BILLING": "unknown",
+            "com.android.vending.CHECK_LICENSE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES": "unknown",
+            "com.reaperdevs.aftcalc.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "unknown": 9,
+            "normal": 4
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 80.07,
+        "sources_present": true,
+        "java_file_count": 13009
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 5,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 8,
+            "content_access": 3,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 34,
+            "dynamic_code": 209
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 254
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 2,
+            "handler_loop": 28,
+            "job_scheduler": 4
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 1
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 2,
+            "reflection": 208
+        }
+    }
+}

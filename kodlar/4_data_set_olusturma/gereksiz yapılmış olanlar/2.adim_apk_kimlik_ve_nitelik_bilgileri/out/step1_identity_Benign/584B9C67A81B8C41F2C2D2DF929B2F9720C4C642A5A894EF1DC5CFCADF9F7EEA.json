@@ -1,0 +1,12 @@
+{
+  "apk_file": "584B9C67A81B8C41F2C2D2DF929B2F9720C4C642A5A894EF1DC5CFCADF9F7EEA.apk",
+  "sha256": "584b9c67a81b8c41f2c2d2df929b2f9720c4c642a5a894ef1dc5cfcadf9f7eea",
+  "package_name": "13",
+  "version_code": "351",
+  "version_name": "5.2",
+  "min_sdk": "16",
+  "target_sdk": "31",
+  "apk_size_kb": 35684,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

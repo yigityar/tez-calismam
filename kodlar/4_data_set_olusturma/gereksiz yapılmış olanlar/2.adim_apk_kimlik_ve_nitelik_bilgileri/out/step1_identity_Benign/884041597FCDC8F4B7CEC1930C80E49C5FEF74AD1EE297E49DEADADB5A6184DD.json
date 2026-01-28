@@ -1,0 +1,12 @@
+{
+  "apk_file": "884041597FCDC8F4B7CEC1930C80E49C5FEF74AD1EE297E49DEADADB5A6184DD.apk",
+  "sha256": "884041597fcdc8f4b7cec1930c80e49c5fef74ad1ee297e49deadadb5a6184dd",
+  "package_name": "13",
+  "version_code": "3060702",
+  "version_name": "3.6.7",
+  "min_sdk": "24",
+  "target_sdk": "34",
+  "apk_size_kb": 151080,
+  "dex_count": 1,
+  "native_lib_count": 75
+}

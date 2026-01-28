@@ -1,0 +1,16 @@
+{
+  "apk_file": "742E2A973A1FAD228BB15200340137E889A80655909879A83F2E846F3AEE17F1.apk",
+  "permissions_list": "android.permission.CAMERA,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.BROADCAST_STICKY,android.permission.USE_BIOMETRIC,android.permission.ACCESS_NETWORK_STATE,android.permission.VIBRATE,android.permission.INTERNET,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.REORDER_TASKS,android.permission.WAKE_LOCK,android.permission.RECORD_AUDIO,android.permission.USE_FINGERPRINT,com.phfund.wallet.andpermission.bridge",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 21,
+  "count_service": 4,
+  "count_receiver": 1,
+  "count_provider": 4,
+  "count_exported": 4
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "FE39FC2755EE7EABDD99F6C236E252A4224ADBE779E722EFFF69F819DA6A8DAB.apk",
+  "sha256": "fe39fc2755ee7eabdd99f6c236e252a4224adbe779e722efff69f819da6a8dab",
+  "package_name": "15",
+  "version_code": "106",
+  "version_name": "7.0.1",
+  "min_sdk": "28",
+  "target_sdk": "35",
+  "apk_size_kb": 136640,
+  "dex_count": 6,
+  "native_lib_count": 92
+}

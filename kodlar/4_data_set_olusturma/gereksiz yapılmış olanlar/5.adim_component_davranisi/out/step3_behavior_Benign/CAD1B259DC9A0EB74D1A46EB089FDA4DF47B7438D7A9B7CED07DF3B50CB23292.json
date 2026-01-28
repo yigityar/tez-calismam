@@ -1,0 +1,10 @@
+{
+  "apk_file": "CAD1B259DC9A0EB74D1A46EB089FDA4DF47B7438D7A9B7CED07DF3B50CB23292.apk",
+  "perm_foreground_service": 1,
+  "perm_wake_lock": 1,
+  "perm_ignore_battery": 0,
+  "attr_persistent": 0,
+  "attr_high_priority": 1,
+  "attr_process_count": 0,
+  "attr_isolated_process": 0
+}

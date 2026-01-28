@@ -1,0 +1,12 @@
+{
+  "apk_file": "CFD018AA16539CE7B7883D76B02F916FF84F0CF51B19677CA51719033810743D.apk",
+  "sha256": "cfd018aa16539ce7b7883d76b02f916ff84f0cf51b19677ca51719033810743d",
+  "package_name": "11",
+  "version_code": "23112709",
+  "version_name": "7.8.2",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 62772,
+  "dex_count": 1,
+  "native_lib_count": 46
+}

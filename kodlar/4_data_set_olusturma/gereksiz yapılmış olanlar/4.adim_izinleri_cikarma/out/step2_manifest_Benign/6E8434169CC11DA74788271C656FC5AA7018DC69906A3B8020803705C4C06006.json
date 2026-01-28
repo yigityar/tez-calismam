@@ -1,0 +1,16 @@
+{
+  "apk_file": "6E8434169CC11DA74788271C656FC5AA7018DC69906A3B8020803705C4C06006.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.WAKE_LOCK,android.permission.GET_ACCOUNTS,android.permission.USE_CREDENTIALS,android.permission.ACCESS_NETWORK_STATE,android.permission.READ_CONTACTS,android.permission.CAMERA,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.RECORD_AUDIO,android.permission.READ_PHONE_STATE,android.permission.RECEIVE_SMS,android.permission.READ_SMS,android.permission.SEND_SMS,android.permission.CALL_PHONE,android.permission.VIBRATE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_MEDIA_AUDIO,android.permission.USE_FINGERPRINT,android.permission.GET_META_DATA,android.permission.GET_PACKAGE_SIZE,android.permission.QUERY_ALL_PACKAGES",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 1,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 14,
+  "count_service": 5,
+  "count_receiver": 1,
+  "count_provider": 3,
+  "count_exported": 1
+}

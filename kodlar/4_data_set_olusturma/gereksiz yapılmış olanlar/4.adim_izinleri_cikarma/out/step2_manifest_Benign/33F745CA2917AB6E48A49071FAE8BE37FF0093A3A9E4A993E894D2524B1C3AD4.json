@@ -1,0 +1,16 @@
+{
+  "apk_file": "33F745CA2917AB6E48A49071FAE8BE37FF0093A3A9E4A993E894D2524B1C3AD4.apk",
+  "permissions_list": "android.permission.READ_CONTACTS,android.permission.CAMERA,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.NFC,android.permission.READ_LOGS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.FOREGROUND_SERVICE,android.permission.CAPTURE_VIDEO_OUTPUT,android.permission.GET_TASKS,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.INTERNET,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.READ_PHONE_STATE,com.vivo.assistant.permission.access.provider,com.vivo.assistant.permission.sport.broadcast,com.vivo.assistant.StepProvider,com.meizu.flyme.push.permission.RECEIVE,com.jd.jdhealth.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.jd.jdhealth.permission.C2D_MESSAGE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.RECORD_AUDIO,android.permission.WAKE_LOCK,android.permission.CHANGE_CONFIGURATION,android.permission.WAKE_LOCK,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,andorid.permission.ACCESS_COARSE_LOCATION,android.permission.WAKE_LOCK,android.permission.SYSTEM_ALERT_WINDOW,android.permission.DISABLE_KEYGUARD,com.jd.jdhealth.permission.PROCESS_PUSH_MSG,com.jd.jdhealth.permission.MIPUSH_RECEIVE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher.permission.READ_SETTINGS,android.permission.FLASHLIGHT,android.permission.RECEIVE_USER_PRESENT,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,com.jd.jdhealth.permission.PUSH_PROVIDER,com.meizu.flyme.permission.PUSH,android.permission.USE_FINGERPRINT,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 250,
+  "count_service": 26,
+  "count_receiver": 30,
+  "count_provider": 13,
+  "count_exported": 14
+}

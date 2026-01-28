@@ -1,0 +1,12 @@
+{
+  "apk_file": "9293ACC7BC5CFA723F4C391812700175CE84EE6A911DD76FB1DF406845121115.apk",
+  "sha256": "9293acc7bc5cfa723f4c391812700175ce84ee6a911dd76fb1df406845121115",
+  "package_name": "10",
+  "version_code": "162",
+  "version_name": "8.2.2",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 74092,
+  "dex_count": 1,
+  "native_lib_count": 42
+}

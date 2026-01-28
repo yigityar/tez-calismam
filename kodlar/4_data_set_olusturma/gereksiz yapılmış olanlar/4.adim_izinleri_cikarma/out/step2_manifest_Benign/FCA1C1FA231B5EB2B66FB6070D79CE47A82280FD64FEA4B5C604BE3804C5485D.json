@@ -1,0 +1,16 @@
+{
+  "apk_file": "FCA1C1FA231B5EB2B66FB6070D79CE47A82280FD64FEA4B5C604BE3804C5485D.apk",
+  "permissions_list": "android.permission.INTERNET,com.google.android.c2dm.permission.RECEIVE,android.permission.WAKE_LOCK,android.permission.GET_ACCOUNTS,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.majeur.launcher.permission.UPDATE_BADGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,android.permission.READ_APP_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 4,
+  "count_service": 0,
+  "count_receiver": 4,
+  "count_provider": 2,
+  "count_exported": 2
+}

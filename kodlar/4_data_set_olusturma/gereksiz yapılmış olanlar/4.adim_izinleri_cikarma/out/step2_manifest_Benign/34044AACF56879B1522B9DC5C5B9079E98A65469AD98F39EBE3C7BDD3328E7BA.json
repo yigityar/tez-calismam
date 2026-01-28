@@ -1,0 +1,16 @@
+{
+  "apk_file": "34044AACF56879B1522B9DC5C5B9079E98A65469AD98F39EBE3C7BDD3328E7BA.apk",
+  "permissions_list": "android.permission.REORDER_TASKS,com.xiaomi.sdk.permission.APP,com.xiaomi.permission.AUTH_SERVICE,android.permission.GET_ACCOUNTS,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.READ_LOGS,android.permission.DISABLE_KEYGUARD,android.permission.WAKE_LOCK,android.permission.RECORD_AUDIO,android.permission.GET_TASKS,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.CAMERA,android.permission.VIBRATE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.CHANGE_WIFI_STATE,android.permission.INTERNET,android.permission.READ_PHONE_STATE,android.permission.ACCESS_COARSE_LOCATION,com.miui.systemAdSolution.adSwitch.PROVIDER,android.permission.RECEIVE_USER_PRESENT,android.permission.ACCESS_BACKGROUND_LOCATION,com.xiaobanlong.main.permission.MIPUSH_RECEIVE,com.meizu.c2dm.permission.RECEIVE,com.xiaobanlong.main.permission.C2D_MESSAGE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.CHANGE_NETWORK_STATE,android.permission.WRITE_SETTINGS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.BLUETOOTH,android.permission.MODIFY_AUDIO_SETTINGS,com.asus.msa.SupplementaryDID.ACCESS,com.xiaobanlong.main.openadsdk.permission.TT_PANGOLIN,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,getui.permission.GetuiService.com.xiaobanlong.main,android.permission.USE_CREDENTIALS,android.permission.QUERY_ALL_PACKAGES,com.xiaomi.permission.WAKE_LOCK,com.xiaobanlong.main.permission.JPUSH_MESSAGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.vivo.notification.permission.BADGE_ICON,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,com.xiaobanlong.main.permission.PROCESS_PUSH_MSG,com.xiaobanlong.main.permission.PUSH_PROVIDER,android.permission.FOREGROUND_SERVICE,com.meizu.flyme.permission.PUSH,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 158,
+  "count_service": 49,
+  "count_receiver": 25,
+  "count_provider": 18,
+  "count_exported": 49
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "CBC27C6EB1650927A69FCC04178C8F0A30034B1CFCF84B454EC46044F4A70EC0.apk",
+  "sha256": "cbc27c6eb1650927a69fcc04178c8f0a30034b1cfcf84b454ec46044f4a70ec0",
+  "package_name": "com.baidu.video",
+  "version_code": "1081319006",
+  "version_name": "8.13.19",
+  "min_sdk": "14",
+  "target_sdk": "26",
+  "apk_size_kb": 88056,
+  "dex_count": 7,
+  "native_lib_count": 58
+}

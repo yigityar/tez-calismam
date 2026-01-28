@@ -1,0 +1,12 @@
+{
+  "apk_file": "69339F5A992D3641A27B17EDF2CA59B2C17DCB3EB61108C17639C2492DCB2310.apk",
+  "sha256": "69339f5a992d3641a27b17edf2ca59b2c17dcb3eb61108c17639c2492dcb2310",
+  "package_name": "15",
+  "version_code": "7009",
+  "version_name": "0.7.9",
+  "min_sdk": "24",
+  "target_sdk": "35",
+  "apk_size_kb": 56932,
+  "dex_count": 6,
+  "native_lib_count": 0
+}

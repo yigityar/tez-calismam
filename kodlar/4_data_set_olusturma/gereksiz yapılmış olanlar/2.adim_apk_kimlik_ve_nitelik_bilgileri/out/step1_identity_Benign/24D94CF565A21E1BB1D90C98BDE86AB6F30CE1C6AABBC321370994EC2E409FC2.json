@@ -1,0 +1,12 @@
+{
+  "apk_file": "24D94CF565A21E1BB1D90C98BDE86AB6F30CE1C6AABBC321370994EC2E409FC2.apk",
+  "sha256": "24d94cf565a21e1bb1d90c98bde86ab6f30ce1c6aabbc321370994ec2e409fc2",
+  "package_name": "12",
+  "version_code": "216",
+  "version_name": "4.36.1",
+  "min_sdk": "24",
+  "target_sdk": "31",
+  "apk_size_kb": 24840,
+  "dex_count": 5,
+  "native_lib_count": 16
+}

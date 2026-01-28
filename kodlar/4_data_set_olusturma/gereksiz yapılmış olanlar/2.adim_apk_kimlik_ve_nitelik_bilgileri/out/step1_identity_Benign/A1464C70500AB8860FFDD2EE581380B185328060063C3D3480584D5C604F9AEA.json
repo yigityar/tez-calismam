@@ -1,0 +1,12 @@
+{
+  "apk_file": "A1464C70500AB8860FFDD2EE581380B185328060063C3D3480584D5C604F9AEA.apk",
+  "sha256": "a1464c70500ab8860ffdd2ee581380b185328060063c3d3480584d5c604f9aea",
+  "package_name": "13",
+  "version_code": "84",
+  "version_name": "1.6.5",
+  "min_sdk": "23",
+  "target_sdk": "33",
+  "apk_size_kb": 26268,
+  "dex_count": 1,
+  "native_lib_count": 16
+}

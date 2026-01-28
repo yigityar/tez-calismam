@@ -1,0 +1,16 @@
+{
+  "apk_file": "FDF45DB930CA7F28F02C998977F73E5A748272B9815DEA8BB2382AB312B76DE1.apk",
+  "permissions_list": "com.meituan.taxi.android.permission.MIPUSH_RECEIVE,android.permission.ACCESS_FINE_LOCATION,android.permission.CHANGE_WIFI_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.INTERNET,android.permission.REORDER_TASKS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.READ_PHONE_STATE,android.permission.ACCESS_COARSE_LOCATION,android.permission.CALL_PHONE,android.permission.READ_CONTACTS,android.permission.CAMERA,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.VIBRATE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.RECORD_AUDIO,android.permission.REORDER_TASKS,android.permission.BLUETOOTH,android.permission.GET_ACCOUNTS,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.SYSTEM_ALERT_WINDOW,android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.GET_TASKS,android.permission.WAKE_LOCK,com.meizu.flyme.push.permission.RECEIVE,com.meituan.taxi.android.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.meituan.taxi.android.permission.C2D_MESSAGE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.FOREGROUND_SERVICE,android.permission.BLUETOOTH_ADMIN,android.permission.SYSTEM_OVERLAY_WINDOW,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.ACCESS_NOTIFICATION_POLICY,android.permission.QUERY_ALL_PACKAGES,android.permission.FLASHLIGHT,android.permission.MANAGE_EXTERNAL_STORAGE,android.permission.DISABLE_KEYGUARD,com.meituan.taxi.android.permission.PROCESS_PUSH_MSG,com.meituan.taxi.android.permission.PUSH_PROVIDER",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 79,
+  "count_service": 26,
+  "count_receiver": 15,
+  "count_provider": 12,
+  "count_exported": 13
+}

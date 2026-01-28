@@ -1,0 +1,12 @@
+{
+  "apk_file": "4EDA136B8786DF9CE671D4D6DE58D09D29033E88352BF4DC6452AE35FD36C5F9.apk",
+  "sha256": "4eda136b8786df9ce671d4d6de58d09d29033e88352bf4dc6452ae35fd36c5f9",
+  "package_name": "12",
+  "version_code": "650",
+  "version_name": "6.5.0-gp",
+  "min_sdk": "14",
+  "target_sdk": "31",
+  "apk_size_kb": 5548,
+  "dex_count": 1,
+  "native_lib_count": 5
+}

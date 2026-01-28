@@ -1,0 +1,12 @@
+{
+  "apk_file": "09FE2AF8507E181D36783B70325D3C1BA8D7E1762D82543EA586F52CBBC55EE6.apk",
+  "sha256": "09fe2af8507e181d36783b70325d3c1ba8d7e1762d82543ea586f52cbbc55ee6",
+  "package_name": "13",
+  "version_code": "597",
+  "version_name": "0.1.514",
+  "min_sdk": "24",
+  "target_sdk": "32",
+  "apk_size_kb": 86968,
+  "dex_count": 3,
+  "native_lib_count": 10
+}

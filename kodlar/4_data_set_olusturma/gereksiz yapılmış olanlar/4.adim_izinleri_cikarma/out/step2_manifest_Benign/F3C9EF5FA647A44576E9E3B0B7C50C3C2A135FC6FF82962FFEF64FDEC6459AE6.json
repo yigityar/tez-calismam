@@ -1,0 +1,16 @@
+{
+  "apk_file": "F3C9EF5FA647A44576E9E3B0B7C50C3C2A135FC6FF82962FFEF64FDEC6459AE6.apk",
+  "permissions_list": "android.permission.VIBRATE,android.permission.USE_CREDENTIALS,android.permission.MANAGE_ACCOUNTS,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.WAKE_LOCK,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.RECORD_AUDIO,android.permission.ACCESS_GPS,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.GET_TASKS,android.permission.DISABLE_KEYGUARD,android.permission.BROADCAST_STICKY,android.permission.WRITE_SETTINGS,android.permission.READ_PHONE_STATE,android.permission.MODIFY_AUDIO_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.READ_CONTACTS,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.CHANGE_NETWORK_STATE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,android.permission.CALL_PHONE,baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.baidu.BaiduMap,com.baidu.BaiduMap.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.vivo.notification.permission.BADGE_ICON,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.FOREGROUND_SERVICE,android.permission.USE_FINGERPRINT,android.permission.WRITE_CALENDAR,android.permission.READ_CALENDAR,android.permission.GET_PACKAGE_SIZE,android.permission.QUERY_ALL_PACKAGES,com.baidu.BaiduMap.APP_STATUS_PERMISSION,android.permission.SYSTEM_ALERT_WINDOW,com.huawei.hicar.HICAR_PERMISSION,android.permission.REORDER_TASKS,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,com.baidu.BaiduMap.permission.sofire.RECEIVE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 370,
+  "count_service": 62,
+  "count_receiver": 32,
+  "count_provider": 18,
+  "count_exported": 32
+}

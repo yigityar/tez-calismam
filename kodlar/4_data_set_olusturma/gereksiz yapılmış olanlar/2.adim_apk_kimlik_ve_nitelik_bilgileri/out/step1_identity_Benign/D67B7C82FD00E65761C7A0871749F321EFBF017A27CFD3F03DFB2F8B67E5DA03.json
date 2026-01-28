@@ -1,0 +1,12 @@
+{
+  "apk_file": "D67B7C82FD00E65761C7A0871749F321EFBF017A27CFD3F03DFB2F8B67E5DA03.apk",
+  "sha256": "d67b7c82fd00e65761c7a0871749f321efbf017a27cfd3f03dfb2f8b67e5da03",
+  "package_name": "10",
+  "version_code": "2022071221",
+  "version_name": "5.5.5",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 79636,
+  "dex_count": 1,
+  "native_lib_count": 38
+}

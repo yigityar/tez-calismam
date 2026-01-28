@@ -1,0 +1,12 @@
+{
+  "apk_file": "9F63DE5231238202C2B9755BB175B5306AD19D34FF4048C4597ED1BAFD33D2A4.apk",
+  "sha256": "9f63de5231238202c2b9755bb175b5306ad19d34ff4048c4597ed1bafd33d2a4",
+  "package_name": "6.0-2438415",
+  "version_code": "434",
+  "version_name": "4.3.4",
+  "min_sdk": "19",
+  "target_sdk": "33",
+  "apk_size_kb": 11052,
+  "dex_count": 1,
+  "native_lib_count": 8
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "79A0E76E47AD5A47F0A23420CCD995199DDE5045485B8E545793FCFFA94F7C63.apk",
+  "sha256": "79a0e76e47ad5a47f0a23420ccd995199dde5045485b8e545793fcffa94f7c63",
+  "package_name": "10",
+  "version_code": "239",
+  "version_name": "7.7.7.888",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 43008,
+  "dex_count": 6,
+  "native_lib_count": 72
+}

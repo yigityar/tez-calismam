@@ -1,0 +1,12 @@
+{
+  "apk_file": "44845F6B45CA612BDE52FAD0A2A5126063A2B8437E4754DB2EFF6D60064637C1.apk",
+  "sha256": "44845f6b45ca612bde52fad0a2a5126063a2b8437e4754db2eff6d60064637c1",
+  "package_name": "10",
+  "version_code": "300508",
+  "version_name": "3.5.8",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 65004,
+  "dex_count": 1,
+  "native_lib_count": 60
+}

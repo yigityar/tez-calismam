@@ -1,0 +1,12 @@
+{
+  "apk_file": "84C78FF95DD2FAECB38D2F8FAA71F73D1E2715640521477BFACF21D875A5E0F3.apk",
+  "sha256": "84c78ff95dd2faecb38d2f8faa71f73d1e2715640521477bfacf21d875a5e0f3",
+  "package_name": "14",
+  "version_code": "42355",
+  "version_name": "3.2.24324",
+  "min_sdk": "26",
+  "target_sdk": "34",
+  "apk_size_kb": 50116,
+  "dex_count": 2,
+  "native_lib_count": 32
+}

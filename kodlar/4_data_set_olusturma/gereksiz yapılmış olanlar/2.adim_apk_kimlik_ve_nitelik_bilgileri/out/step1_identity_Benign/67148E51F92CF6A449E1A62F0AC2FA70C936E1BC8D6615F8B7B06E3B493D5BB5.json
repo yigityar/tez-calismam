@@ -1,0 +1,12 @@
+{
+  "apk_file": "67148E51F92CF6A449E1A62F0AC2FA70C936E1BC8D6615F8B7B06E3B493D5BB5.apk",
+  "sha256": "67148e51f92cf6a449e1a62f0ac2fa70c936e1bc8d6615f8b7b06e3b493d5bb5",
+  "package_name": "12",
+  "version_code": "6685",
+  "version_name": "6.6.85",
+  "min_sdk": "23",
+  "target_sdk": "26",
+  "apk_size_kb": 48100,
+  "dex_count": 5,
+  "native_lib_count": 63
+}

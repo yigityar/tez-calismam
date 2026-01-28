@@ -1,0 +1,12 @@
+{
+  "apk_file": "9A0C662ABCC9B96529E0C3DFF98994442288C4281DD6BB7B78192AF7EBB98E64.apk",
+  "sha256": "9a0c662abcc9b96529e0c3dff98994442288c4281dd6bb7b78192af7ebb98e64",
+  "package_name": "14",
+  "version_code": "17",
+  "version_name": "Grenville CU Mobile",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "apk_size_kb": 73860,
+  "dex_count": 1,
+  "native_lib_count": 36
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "88D6A38415FF6EC64C2AD5BC82AB105FA92D0BB4C27540DA3DAC9866F6E3F879.apk",
+  "sha256": "88d6a38415ff6ec64c2ad5bc82ab105fa92d0bb4c27540da3dac9866f6e3f879",
+  "package_name": "10",
+  "version_code": "300606",
+  "version_name": "3.6.6",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 65528,
+  "dex_count": 1,
+  "native_lib_count": 60
+}

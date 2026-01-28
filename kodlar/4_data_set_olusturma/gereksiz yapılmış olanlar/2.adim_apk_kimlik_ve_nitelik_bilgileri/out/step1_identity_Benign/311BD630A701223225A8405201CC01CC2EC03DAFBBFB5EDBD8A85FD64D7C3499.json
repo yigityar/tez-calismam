@@ -1,0 +1,12 @@
+{
+  "apk_file": "311BD630A701223225A8405201CC01CC2EC03DAFBBFB5EDBD8A85FD64D7C3499.apk",
+  "sha256": "311bd630a701223225a8405201cc01cc2ec03dafbbfb5edbd8a85fd64d7c3499",
+  "package_name": "13",
+  "version_code": "228",
+  "version_name": "4.40.0",
+  "min_sdk": "24",
+  "target_sdk": "31",
+  "apk_size_kb": 26076,
+  "dex_count": 5,
+  "native_lib_count": 16
+}

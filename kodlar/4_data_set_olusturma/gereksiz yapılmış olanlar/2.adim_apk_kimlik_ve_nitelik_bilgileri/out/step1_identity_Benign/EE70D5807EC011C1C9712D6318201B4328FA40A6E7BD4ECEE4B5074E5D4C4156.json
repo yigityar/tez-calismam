@@ -1,0 +1,12 @@
+{
+  "apk_file": "EE70D5807EC011C1C9712D6318201B4328FA40A6E7BD4ECEE4B5074E5D4C4156.apk",
+  "sha256": "ee70d5807ec011c1c9712d6318201b4328fa40a6e7bd4ecee4b5074e5d4c4156",
+  "package_name": "11",
+  "version_code": "230851",
+  "version_name": "8.5.0",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 79548,
+  "dex_count": 7,
+  "native_lib_count": 25
+}

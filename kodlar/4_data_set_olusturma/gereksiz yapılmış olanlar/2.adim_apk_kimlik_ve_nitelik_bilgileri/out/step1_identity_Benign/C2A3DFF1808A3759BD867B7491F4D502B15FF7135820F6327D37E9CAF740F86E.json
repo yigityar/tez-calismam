@@ -1,0 +1,12 @@
+{
+  "apk_file": "C2A3DFF1808A3759BD867B7491F4D502B15FF7135820F6327D37E9CAF740F86E.apk",
+  "sha256": "c2a3dff1808a3759bd867b7491f4d502b15ff7135820f6327d37e9caf740f86e",
+  "package_name": "11",
+  "version_code": "47",
+  "version_name": "47",
+  "min_sdk": "14",
+  "target_sdk": "31",
+  "apk_size_kb": 6048,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

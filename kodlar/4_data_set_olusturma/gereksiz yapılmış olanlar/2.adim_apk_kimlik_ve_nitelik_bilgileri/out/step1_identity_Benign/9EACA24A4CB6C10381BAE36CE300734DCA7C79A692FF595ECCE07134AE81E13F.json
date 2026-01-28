@@ -1,0 +1,12 @@
+{
+  "apk_file": "9EACA24A4CB6C10381BAE36CE300734DCA7C79A692FF595ECCE07134AE81E13F.apk",
+  "sha256": "9eaca24a4cb6c10381bae36ce300734dca7c79a692ff595ecce07134ae81e13f",
+  "package_name": "13",
+  "version_code": "2034",
+  "version_name": "2.0.34",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 23340,
+  "dex_count": 1,
+  "native_lib_count": 24
+}

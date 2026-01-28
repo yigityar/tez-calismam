@@ -1,0 +1,16 @@
+{
+  "apk_file": "5DDED74E15CC167D6E11FF9C704C89E64C9A5918A82E3DDEC6C3B2EF92287334.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.CAMERA,android.permission.USE_FINGERPRINT,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.VIBRATE,android.permission.WRITE_SETTINGS,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,com.harvestfund2.permission.JPUSH_MESSAGE,android.permission.RECEIVE_USER_PRESENT,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.USE_BIOMETRIC,com.android.vending.CHECK_LICENSE,android.permission.WAKE_LOCK,com.meizu.flyme.permission.PUSH,com.meizu.flyme.push.permission.RECEIVE,com.harvestfund2.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.harvestfund2.permission.C2D_MESSAGE,com.harvestfund2.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.harvestfund2.permission.PROCESS_PUSH_MSG,com.harvestfund2.permission.PUSH_PROVIDER,android.permission.FOREGROUND_SERVICE,android.permission.MANAGE_EXTERNAL_STORAGE,android.permission.READ_SETTINGS,android.permission.RECORD_AUDIO,android.permission.FLASHLIGHT,READ_PRIVILEGED_PHONE_STATE,android.permission.GET_TASKS,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 42,
+  "count_service": 16,
+  "count_receiver": 15,
+  "count_provider": 14,
+  "count_exported": 24
+}

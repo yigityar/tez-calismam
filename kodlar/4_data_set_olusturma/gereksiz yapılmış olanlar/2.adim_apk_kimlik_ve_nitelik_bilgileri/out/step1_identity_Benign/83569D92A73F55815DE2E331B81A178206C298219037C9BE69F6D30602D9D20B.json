@@ -1,0 +1,12 @@
+{
+  "apk_file": "83569D92A73F55815DE2E331B81A178206C298219037C9BE69F6D30602D9D20B.apk",
+  "sha256": "83569d92a73f55815de2e331b81a178206c298219037c9be69f6d30602d9d20b",
+  "package_name": "11",
+  "version_code": "241",
+  "version_name": "5.48.0",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 105104,
+  "dex_count": 1,
+  "native_lib_count": 40
+}

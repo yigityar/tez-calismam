@@ -1,0 +1,12 @@
+{
+  "apk_file": "2FFBC68F080A90A3C44BF414AA75760E4B62B2998C729687F6DC1661B1AEC30B.apk",
+  "sha256": "2ffbc68f080a90a3c44bf414aa75760e4b62b2998c729687f6dc1661b1aec30b",
+  "package_name": "13",
+  "version_code": "470",
+  "version_name": "4.7",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 7744,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

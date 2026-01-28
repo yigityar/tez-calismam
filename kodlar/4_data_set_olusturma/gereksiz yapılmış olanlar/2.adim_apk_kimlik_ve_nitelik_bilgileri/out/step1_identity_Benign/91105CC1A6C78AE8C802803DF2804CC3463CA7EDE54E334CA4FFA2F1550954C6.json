@@ -1,0 +1,12 @@
+{
+  "apk_file": "91105CC1A6C78AE8C802803DF2804CC3463CA7EDE54E334CA4FFA2F1550954C6.apk",
+  "sha256": "91105cc1a6c78ae8c802803df2804cc3463ca7ede54e334ca4ffa2f1550954c6",
+  "package_name": "12",
+  "version_code": "7535",
+  "version_name": "2022.39.0",
+  "min_sdk": "24",
+  "target_sdk": "31",
+  "apk_size_kb": 145404,
+  "dex_count": 12,
+  "native_lib_count": 142
+}

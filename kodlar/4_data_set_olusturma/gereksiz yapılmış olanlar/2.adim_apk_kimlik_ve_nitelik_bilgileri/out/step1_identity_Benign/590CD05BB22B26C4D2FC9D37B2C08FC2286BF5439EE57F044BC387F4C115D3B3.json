@@ -1,0 +1,12 @@
+{
+  "apk_file": "590CD05BB22B26C4D2FC9D37B2C08FC2286BF5439EE57F044BC387F4C115D3B3.apk",
+  "sha256": "590cd05bb22b26c4d2fc9d37b2c08fc2286bf5439ee57f044bc387f4c115d3b3",
+  "package_name": "6.0-2438415",
+  "version_code": "20020002",
+  "version_name": "2.2.2",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 40160,
+  "dex_count": 4,
+  "native_lib_count": 52
+}

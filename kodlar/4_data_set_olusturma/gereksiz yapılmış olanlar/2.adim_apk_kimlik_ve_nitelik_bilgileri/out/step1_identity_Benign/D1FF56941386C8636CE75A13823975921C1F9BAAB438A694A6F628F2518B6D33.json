@@ -1,0 +1,12 @@
+{
+  "apk_file": "D1FF56941386C8636CE75A13823975921C1F9BAAB438A694A6F628F2518B6D33.apk",
+  "sha256": "d1ff56941386c8636ce75a13823975921c1f9baab438a694a6f628f2518b6d33",
+  "package_name": "6.0-2438415",
+  "version_code": "332",
+  "version_name": "3.286.0",
+  "min_sdk": "23",
+  "target_sdk": "34",
+  "apk_size_kb": 78316,
+  "dex_count": 7,
+  "native_lib_count": 41
+}

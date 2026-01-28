@@ -1,0 +1,16 @@
+{
+  "apk_file": "FEA24B0B3822218266D56BC6584F5AE4C49F9B9DF971A39D9058D955D60FC5C4.apk",
+  "permissions_list": "com.youdao.dict.permission.READ_PROVIDER,com.huawei.android.launcher.permission.CHANGE_BADGE ,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.DISABLE_KEYGUARD,android.permission.INTERNET,android.permission.READ_SYNC_STATS,android.permission.WRITE_SYNC_SETTINGS,android.permission.READ_SYNC_SETTINGS,android.permission.WAKE_LOCK,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.VIBRATE,android.permission.EXPAND_STATUS_BAR,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.REQUEST_COMPANION_RUN_IN_BACKGROUND,android.permission.REQUEST_COMPANION_USE_DATA_IN_BACKGROUND,com.youdao.dict.permission.MIPUSH_RECEIVE,com.youdao.dict.permission.RECEIVE_MSG,android.permission.SYSTEM_ALERT_WINDOW,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.READ_PHONE_STATE,android.permission.FLASHLIGHT,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.ACCESS_DOWNLOAD_MANAGER,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.READ_SETTINGS,android.permission.GET_TASKS,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.READ_LOGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,android.permission.AUTHENTICATE_ACCOUNTS,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.MANAGE_ACCOUNTS,android.permission.REORDER_TASKS,android.permission.FOREGROUND_SERVICE,com.bbk.launcher2.permission.READ_SETTINGS,com.android.launcher.permission.INSTALL_SHORTCUT,android.permission.INTERACT_ACROSS_USERS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.majeur.launcher.permission.UPDATE_BADGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,android.permission.READ_APP_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,android.permission.CHANGE_CONFIGURATION,android.permission.BROADCAST_STICKY,com.youdao.dict.permission.PROCESS_PUSH_MSG,com.youdao.dict.permission.PUSH_PROVIDER,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 294,
+  "count_service": 38,
+  "count_receiver": 21,
+  "count_provider": 26,
+  "count_exported": 39
+}

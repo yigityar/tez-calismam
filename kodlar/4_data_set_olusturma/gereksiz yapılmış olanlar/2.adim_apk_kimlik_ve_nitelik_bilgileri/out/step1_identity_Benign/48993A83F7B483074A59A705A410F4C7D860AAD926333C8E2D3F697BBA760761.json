@@ -1,0 +1,12 @@
+{
+  "apk_file": "48993A83F7B483074A59A705A410F4C7D860AAD926333C8E2D3F697BBA760761.apk",
+  "sha256": "48993a83f7b483074a59a705a410f4c7d860aad926333c8e2d3f697bba760761",
+  "package_name": "11",
+  "version_code": "100098",
+  "version_name": "1.0.98",
+  "min_sdk": "22",
+  "target_sdk": "30",
+  "apk_size_kb": 8800,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

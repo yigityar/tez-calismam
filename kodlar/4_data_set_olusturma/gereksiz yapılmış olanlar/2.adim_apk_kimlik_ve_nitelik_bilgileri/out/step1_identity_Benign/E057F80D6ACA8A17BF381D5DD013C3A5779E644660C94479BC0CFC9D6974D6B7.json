@@ -1,0 +1,12 @@
+{
+  "apk_file": "E057F80D6ACA8A17BF381D5DD013C3A5779E644660C94479BC0CFC9D6974D6B7.apk",
+  "sha256": "e057f80d6aca8a17bf381d5dd013c3a5779e644660c94479bc0cfc9d6974d6b7",
+  "package_name": "14",
+  "version_code": "141",
+  "version_name": "1.8.77",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "apk_size_kb": 38060,
+  "dex_count": 3,
+  "native_lib_count": 38
+}

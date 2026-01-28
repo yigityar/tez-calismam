@@ -1,0 +1,12 @@
+{
+  "apk_file": "6C06763555E8F934188EA2101E2DEDDD05FA34148C275226AA0AD02D2C850F51.apk",
+  "sha256": "6c06763555e8f934188ea2101e2deddd05fa34148c275226aa0ad02d2c850f51",
+  "package_name": "11",
+  "version_code": "103",
+  "version_name": "2.9.21",
+  "min_sdk": "15",
+  "target_sdk": "30",
+  "apk_size_kb": 52132,
+  "dex_count": 1,
+  "native_lib_count": 36
+}

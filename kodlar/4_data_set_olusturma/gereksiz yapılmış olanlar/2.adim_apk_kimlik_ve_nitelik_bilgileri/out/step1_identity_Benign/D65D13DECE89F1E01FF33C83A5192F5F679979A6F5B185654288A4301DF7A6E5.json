@@ -1,0 +1,12 @@
+{
+  "apk_file": "D65D13DECE89F1E01FF33C83A5192F5F679979A6F5B185654288A4301DF7A6E5.apk",
+  "sha256": "d65d13dece89f1e01ff33c83a5192f5f679979a6f5b185654288a4301df7a6e5",
+  "package_name": "9",
+  "version_code": "2022071402",
+  "version_name": "2.5.8",
+  "min_sdk": "22",
+  "target_sdk": "26",
+  "apk_size_kb": 55860,
+  "dex_count": 7,
+  "native_lib_count": 73
+}

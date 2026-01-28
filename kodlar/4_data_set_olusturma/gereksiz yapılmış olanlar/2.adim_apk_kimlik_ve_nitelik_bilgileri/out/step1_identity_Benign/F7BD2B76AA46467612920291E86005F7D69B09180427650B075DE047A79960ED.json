@@ -1,0 +1,12 @@
+{
+  "apk_file": "F7BD2B76AA46467612920291E86005F7D69B09180427650B075DE047A79960ED.apk",
+  "sha256": "f7bd2b76aa46467612920291e86005f7d69b09180427650b075de047a79960ed",
+  "package_name": "9",
+  "version_code": "48",
+  "version_name": "3.3.1",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 89692,
+  "dex_count": 1,
+  "native_lib_count": 104
+}

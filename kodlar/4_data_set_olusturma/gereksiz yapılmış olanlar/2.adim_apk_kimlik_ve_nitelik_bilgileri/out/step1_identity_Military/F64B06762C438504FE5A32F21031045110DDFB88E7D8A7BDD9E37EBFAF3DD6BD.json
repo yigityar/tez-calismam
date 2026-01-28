@@ -1,0 +1,12 @@
+{
+  "apk_file": "F64B06762C438504FE5A32F21031045110DDFB88E7D8A7BDD9E37EBFAF3DD6BD.apk",
+  "sha256": "f64b06762c438504fe5a32f21031045110ddfb88e7d8a7bdd9e37ebfaf3dd6bd",
+  "package_name": "9",
+  "version_code": "40519",
+  "version_name": "4.5.19",
+  "min_sdk": "22",
+  "target_sdk": "28",
+  "apk_size_kb": 6992,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

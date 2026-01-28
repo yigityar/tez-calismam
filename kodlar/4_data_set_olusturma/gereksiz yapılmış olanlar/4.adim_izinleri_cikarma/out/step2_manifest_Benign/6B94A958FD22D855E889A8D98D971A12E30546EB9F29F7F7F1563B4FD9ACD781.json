@@ -1,0 +1,16 @@
+{
+  "apk_file": "6B94A958FD22D855E889A8D98D971A12E30546EB9F29F7F7F1563B4FD9ACD781.apk",
+  "permissions_list": "android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.READ_CONTACTS,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.WAKE_LOCK,android.permission.GET_TASKS,android.permission.CHANGE_NETWORK_STATE,android.permission.VIBRATE,android.permission.WRITE_SETTINGS,android.permission.FLASHLIGHT,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.INTERNET,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.DISABLE_KEYGUARD,android.permission.NFC,android.permission.USE_FINGERPRINT,android.permission.REQUEST_INSTALL_PACKAGES,baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.duxiaoman.wallet,com.duxiaoman.wallet.permission.MIPUSH_RECEIVE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.CHANGE_WIFI_STATE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.READ_LOGS,com.asus.msa.SupplementaryDID.ACCESS,com.duxiaoman.wallet.permission.PROCESS_PUSH_MSG,com.duxiaoman.wallet.permission.PUSH_PROVIDER,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.RESTART_PACKAGES,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.majeur.launcher.permission.UPDATE_BADGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,android.permission.READ_APP_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.REORDER_TASKS,android.permission.QUERY_ALL_PACKAGES,com.duxiaoman.wallet.permission.sofire.RECEIVE,android.permission.RECORD_VIDEO,android.permission.FOREGROUND_SERVICE,com.duxiaoman.wallet.permission.haotian.RECEIVE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 175,
+  "count_service": 25,
+  "count_receiver": 11,
+  "count_provider": 18,
+  "count_exported": 19
+}

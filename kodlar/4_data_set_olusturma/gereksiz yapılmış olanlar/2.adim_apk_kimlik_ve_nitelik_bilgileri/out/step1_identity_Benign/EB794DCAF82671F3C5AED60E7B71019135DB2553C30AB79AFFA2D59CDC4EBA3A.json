@@ -1,0 +1,12 @@
+{
+  "apk_file": "EB794DCAF82671F3C5AED60E7B71019135DB2553C30AB79AFFA2D59CDC4EBA3A.apk",
+  "sha256": "eb794dcaf82671f3c5aed60e7b71019135db2553c30ab79affa2d59cdc4eba3a",
+  "package_name": "6.0-2438415",
+  "version_code": "25",
+  "version_name": "4.01.26",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 16192,
+  "dex_count": 3,
+  "native_lib_count": 28
+}

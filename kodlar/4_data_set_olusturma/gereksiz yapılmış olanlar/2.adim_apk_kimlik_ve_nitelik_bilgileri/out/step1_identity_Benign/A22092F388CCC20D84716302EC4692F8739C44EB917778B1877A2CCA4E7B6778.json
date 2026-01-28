@@ -1,0 +1,12 @@
+{
+  "apk_file": "A22092F388CCC20D84716302EC4692F8739C44EB917778B1877A2CCA4E7B6778.apk",
+  "sha256": "a22092f388ccc20d84716302ec4692f8739c44eb917778b1877a2cca4e7b6778",
+  "package_name": "12",
+  "version_code": "2012261336",
+  "version_name": "21",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 32656,
+  "dex_count": 6,
+  "native_lib_count": 4
+}

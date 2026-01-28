@@ -1,0 +1,16 @@
+{
+  "apk_file": "EE1034FDBCDF6E71D9F0BC2EB6A3646B6CD68C7A08AD120C9D0F69CC5B229332.apk",
+  "permissions_list": "android.permission.WRITE_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.INTERNET,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.ACCESS_WIFI_STATE,android.permission.READ_PHONE_STATE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.BIND_JOB_SERVICE,android.permission.DISABLE_KEYGUARD,android.permission.BLUETOOTH,com.qiyi.video.reader.permission.MIPUSH_RECEIVE,android.permission.READ_EXTERNAL_STORAGE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.WAKE_LOCK,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.qiyi.video.reader.openadsdk.permission.TT_PANGOLIN,android.permission.BLUETOOTH_CONNECT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher.permission.WRITE_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.bbk.launcher2.permission.READ_SETTINGS,com.bbk.launcher2.permission.WRITE_SETTINGS,android.permission.REORDER_TASKS,android.permission.CAMERA,android.permission.KILL_BACKGROUND_PROCESSES,com.huawei.pushagent.permission.RICHMEDIA_PROVIDER,com.meizu.flyme.push.permission.RECEIVE,com.meizu.c2dm.permission.RECEIVE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.FOREGROUND_SERVICE,com.qiyi.video.reader.permission.PROCESS_PUSH_MSG,com.qiyi.video.reader.permission.PUSH_PROVIDER,com.asus.msa.SupplementaryDID.ACCESS,android.permission.QUERY_ALL_PACKAGES,freemme.permission.msa,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 387,
+  "count_service": 68,
+  "count_receiver": 26,
+  "count_provider": 38,
+  "count_exported": 40
+}

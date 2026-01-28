@@ -1,0 +1,16 @@
+{
+  "apk_file": "1F9EBC95E00AB7874D7C7E7283909C4305D55BE440F5444376FC359F6F053A34.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.WAKE_LOCK,android.permission.VIBRATE,android.permission.FLASHLIGHT,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,android.permission.FOREGROUND_SERVICE,com.google.android.gms.permission.AD_ID,android.permission.ACCESS_ADSERVICES_AD_ID,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,android.permission.ACCESS_ADSERVICES_TOPICS,android.permission.POST_NOTIFICATIONS,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.yemek.dualar.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 34,
+  "count_service": 17,
+  "count_receiver": 20,
+  "count_provider": 8,
+  "count_exported": 16
+}

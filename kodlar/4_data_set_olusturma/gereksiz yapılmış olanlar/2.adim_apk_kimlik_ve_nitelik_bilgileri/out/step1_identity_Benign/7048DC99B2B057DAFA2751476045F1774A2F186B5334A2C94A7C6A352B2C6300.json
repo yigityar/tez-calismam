@@ -1,0 +1,12 @@
+{
+  "apk_file": "7048DC99B2B057DAFA2751476045F1774A2F186B5334A2C94A7C6A352B2C6300.apk",
+  "sha256": "7048dc99b2b057dafa2751476045f1774a2f186b5334a2c94a7c6a352b2c6300",
+  "package_name": "13",
+  "version_code": "106",
+  "version_name": "2.3.10.0",
+  "min_sdk": "29",
+  "target_sdk": "33",
+  "apk_size_kb": 32592,
+  "dex_count": 2,
+  "native_lib_count": 14
+}

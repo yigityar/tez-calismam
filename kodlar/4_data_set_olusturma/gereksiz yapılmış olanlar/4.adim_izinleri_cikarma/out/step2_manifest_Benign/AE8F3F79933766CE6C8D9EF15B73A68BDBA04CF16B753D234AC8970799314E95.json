@@ -1,0 +1,16 @@
+{
+  "apk_file": "AE8F3F79933766CE6C8D9EF15B73A68BDBA04CF16B753D234AC8970799314E95.apk",
+  "permissions_list": "android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.BROADCAST_STICKY,android.permission.INTERNET,android.permission.READ_LOGS,android.permission.SET_TIME,android.permission.SET_TIME_ZONE,android.permission.RECORD_AUDIO,android.permission.REORDER_TASKS,android.permission.SET_ORIENTATION,android.permission.READ_OWNER_DATA,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.ACCESS_SURFACE_FLINGER,android.permission.PERSISTENT_ACTIVITY,android.permission.READ_INPUT_STATE,android.permission.READ_SYNC_SETTINGS,android.permission.WRITE_OWNER_DATA,android.permission.WRITE_SETTINGS,android.permission.WRITE_SYNC_SETTINGS,android.permission.VIBRATE,android.permission.CAMERA,android.permission.WRITE_SECURE_SETTINGS,android.permission.READ_PHONE_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,com.google.android.providers.gsf.permission.READ_GSERVICES,com.datafinch.catalyst.permission.MAPS_RECEIVE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 20,
+  "count_service": 1,
+  "count_receiver": 4,
+  "count_provider": 2,
+  "count_exported": 0
+}

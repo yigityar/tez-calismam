@@ -1,0 +1,12 @@
+{
+  "apk_file": "804AD0D48FD7126A849520C4DDB797FE9A263E66D2CCE83DC8029AC0396E7409.apk",
+  "sha256": "804ad0d48fd7126a849520c4ddb797fe9a263e66d2cce83dc8029ac0396e7409",
+  "package_name": "16",
+  "version_code": "62",
+  "version_name": "3.1.26",
+  "min_sdk": "23",
+  "target_sdk": "36",
+  "apk_size_kb": 6640,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

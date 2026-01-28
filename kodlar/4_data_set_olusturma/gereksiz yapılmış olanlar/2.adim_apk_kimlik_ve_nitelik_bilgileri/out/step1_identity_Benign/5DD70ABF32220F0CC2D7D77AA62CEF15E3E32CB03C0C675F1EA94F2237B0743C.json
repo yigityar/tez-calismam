@@ -1,0 +1,12 @@
+{
+  "apk_file": "5DD70ABF32220F0CC2D7D77AA62CEF15E3E32CB03C0C675F1EA94F2237B0743C.apk",
+  "sha256": "5dd70abf32220f0cc2d7d77aa62cef15e3e32cb03c0c675f1ea94f2237b0743c",
+  "package_name": "10",
+  "version_code": "20220216",
+  "version_name": "4.0.6",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 88660,
+  "dex_count": 1,
+  "native_lib_count": 39
+}

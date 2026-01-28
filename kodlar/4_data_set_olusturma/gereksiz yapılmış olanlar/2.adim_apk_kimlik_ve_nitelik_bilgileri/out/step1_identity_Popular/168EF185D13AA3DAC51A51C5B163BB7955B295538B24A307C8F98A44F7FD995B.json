@@ -1,0 +1,12 @@
+{
+  "apk_file": "168EF185D13AA3DAC51A51C5B163BB7955B295538B24A307C8F98A44F7FD995B.apk",
+  "sha256": "168ef185d13aa3dac51a51c5b163bb7955b295538b24a307c8f98a44f7fd995b",
+  "package_name": "com.amazon.mShop.android.shopping",
+  "version_code": "114433610",
+  "version_name": "10.4.0.100",
+  "min_sdk": "16",
+  "target_sdk": "24",
+  "apk_size_kb": 44064,
+  "dex_count": 35,
+  "native_lib_count": 19
+}

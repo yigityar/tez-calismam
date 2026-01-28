@@ -1,0 +1,16 @@
+{
+  "apk_file": "E0A424B5D995F9542429B83936EE54F475E8E59C831099790DE489215A22AE2D.apk",
+  "permissions_list": "android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.CHANGE_WIFI_STATE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.READ_PHONE_STATE,android.permission.RESTART_PACKAGES,android.permission.WRITE_SETTINGS,android.permission.WAKE_LOCK,com.sonyericsson.home.permission.BROADCAST_BADGE,com.vivo.notification.permission.BADGE_ICON,android.permission.VIBRATE,android.permission.CHANGE_CONFIGURATION,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.BROADCAST_STICKY,android.permission.RECEIVE_USER_PRESENT,android.permission.GET_TASKS,android.permission.READ_LOGS,android.permission.RECORD_AUDIO,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,com.qq.reader.theme.permission,com.android.launcher.permission.READ_SETTINGS,com.qq.reader.permission.READER_PUSH,com.qq.reader.permission.MIPUSH_RECEIVE,android.permission.READ_EXTERNAL_STORAGE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.INSTALL_PACKAGES,.push.permission.MESSAGE,.permission.C2D_MESSAGE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,com.android.permission.GET_INSTALLED_APPS,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.qq.reader.permission.JPUSH_MESSAGE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.huawei.android.launcher.permission.CHANGE_BADGE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.CHANGE_NETWORK_STATE,android.permission.CAMERA,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.READ_PRIVILEGED_PHONE_STATE,com.qq.reader.permission.PROCESS_PUSH_MSG,com.qq.reader.permission.PUSH_PROVIDER,com.qq.reader.openadsdk.permission.TT_PANGOLIN,android.permission.QUERY_ALL_PACKAGES",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 251,
+  "count_service": 39,
+  "count_receiver": 25,
+  "count_provider": 21,
+  "count_exported": 26
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "E4F6AEF27C95AC0D5E877DE675A2B2E5DA34F2451FF7F961CD6B2B588AA73B56.apk",
+  "sha256": "e4f6aef27c95ac0d5e877de675a2b2e5da34f2451ff7f961cd6b2b588aa73b56",
+  "package_name": "13",
+  "version_code": "93991",
+  "version_name": "7.1.0",
+  "min_sdk": "19",
+  "target_sdk": "33",
+  "apk_size_kb": 76156,
+  "dex_count": 1,
+  "native_lib_count": 224
+}

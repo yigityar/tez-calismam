@@ -1,0 +1,16 @@
+{
+  "apk_file": "168EF185D13AA3DAC51A51C5B163BB7955B295538B24A307C8F98A44F7FD995B.apk",
+  "permissions_list": "com.amazon.mShop.android.shopping.permission.C2D_MESSAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.READ_SETTINGS,amazon.permission.COLLECT_METRICS,android.permission.READ_CONTACTS,android.permission.INTERNET,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_WIFI_STATE,android.permission.GET_ACCOUNTS,android.permission.MANAGE_ACCOUNTS,android.permission.USE_CREDENTIALS,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.ACCESS_FINE_LOCATION,android.permission.VIBRATE,android.permission.RECEIVE_SMS,android.permission.WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,com.amazon.dcp.metrics.permission.METRICS_PERMISSION,com.amazon.dcp.config.permission.DYN_CONFIG_VALUES_UPDATED,com.amazon.identity.auth.device.perm.AUTH_SDK,com.amazon.identity.permission.GENERIC_IPC,com.amazon.dcp.sso.permission.USE_DEVICE_CREDENTIALS,com.amazon.dcp.sso.permission.account.changed,com.amazon.dcp.sso.permission.MANAGE_COR_PFM,com.amazon.dcp.sso.permission.CUSTOMER_ATTRIBUTE_SERVICE,com.amazon.identity.permission.CAN_CALL_MAP_INFORMATION_PROVIDER,com.amazon.dcp.sso.permission.AmazonAccountPropertyService.property.changed,com.amazon.identity.permission.CALL_AMAZON_DEVICE_INFORMATION_PROVIDER,com.amazon.appmanager.preload.permission.READ_PRELOAD_DEVICE_INFO_PROVIDER,android.permission.READ_PHONE_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,com.amazon.mShop.android.permission.MAPS_RECEIVE,android.permission.ACCESS_COARSE_LOCATION,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.RECORD_AUDIO,com.amazon.client.metrics.nexus.permission.TRIGGER_UPLOAD",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 149,
+  "count_service": 14,
+  "count_receiver": 18,
+  "count_provider": 8,
+  "count_exported": 13
+}

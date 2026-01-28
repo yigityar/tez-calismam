@@ -1,0 +1,16 @@
+{
+  "apk_file": "7C4F527DCF2D0520D545824300EF6B1ADCF2B488F62BCB7BAB85BA6D47310912.apk",
+  "permissions_list": "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.WAKE_LOCK,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.BLUETOOTH,android.permission.RECORD_AUDIO,android.permission.FOREGROUND_SERVICE,com.vivo.notification.permission.BADGE_ICON,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,cn.com.langeasy.EasyListen.READ_USERINFO,android.permission.ACCESS_WIFI_STATE,android.permission.READ_PHONE_STATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.CHANGE_NETWORK_STATE,com.google.android.gms.permission.AD_ID,com.huawei.android.launcher.permission.CHANGE_BADGE,android.permission.POST_NOTIFICATIONS",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 77,
+  "count_service": 14,
+  "count_receiver": 4,
+  "count_provider": 5,
+  "count_exported": 14
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "E148F98AA2F6FAF51E6C66464FB9926881F0D6F26BC2A62ADDFE2AC57133E12E.apk",
+  "sha256": "e148f98aa2f6faf51e6c66464fb9926881f0d6f26bc2a62addfe2ac57133e12e",
+  "package_name": "11",
+  "version_code": "124",
+  "version_name": "4.0.14",
+  "min_sdk": "16",
+  "target_sdk": "30",
+  "apk_size_kb": 49316,
+  "dex_count": 1,
+  "native_lib_count": 32
+}

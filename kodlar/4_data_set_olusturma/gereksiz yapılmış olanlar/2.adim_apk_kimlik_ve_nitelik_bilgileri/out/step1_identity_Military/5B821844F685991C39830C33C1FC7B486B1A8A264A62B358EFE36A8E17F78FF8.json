@@ -1,0 +1,12 @@
+{
+  "apk_file": "5B821844F685991C39830C33C1FC7B486B1A8A264A62B358EFE36A8E17F78FF8.apk",
+  "sha256": "5b821844f685991c39830c33c1fc7b486b1a8a264a62b358efe36a8e17f78ff8",
+  "package_name": "15",
+  "version_code": "86",
+  "version_name": "3.31",
+  "min_sdk": "24",
+  "target_sdk": "35",
+  "apk_size_kb": 8900,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

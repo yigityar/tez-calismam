@@ -1,0 +1,12 @@
+{
+  "apk_file": "FC5DB4F30C46971AB28F7101CA13BB005BC0E3842E2EE98D06F7EE5C49B39F17.apk",
+  "sha256": "fc5db4f30c46971ab28f7101ca13bb005bc0e3842e2ee98d06f7ee5c49b39f17",
+  "package_name": "11",
+  "version_code": "764",
+  "version_name": "9.2.15.3",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 158472,
+  "dex_count": 22,
+  "native_lib_count": 84
+}

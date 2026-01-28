@@ -1,0 +1,12 @@
+{
+  "apk_file": "DD21DCBA0D1E801D42FC6731D8DA18744A5A63B9A5935FBDF7E07395F5CF1EA1.apk",
+  "sha256": "dd21dcba0d1e801d42fc6731d8da18744a5a63b9a5935fbdf7e07395f5cf1ea1",
+  "package_name": "11",
+  "version_code": "416",
+  "version_name": "9.0.12.3",
+  "min_sdk": "18",
+  "target_sdk": "28",
+  "apk_size_kb": 89760,
+  "dex_count": 14,
+  "native_lib_count": 61
+}

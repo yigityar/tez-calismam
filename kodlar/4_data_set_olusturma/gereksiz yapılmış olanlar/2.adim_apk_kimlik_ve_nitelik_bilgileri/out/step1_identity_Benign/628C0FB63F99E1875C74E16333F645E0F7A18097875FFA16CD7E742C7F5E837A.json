@@ -1,0 +1,12 @@
+{
+  "apk_file": "628C0FB63F99E1875C74E16333F645E0F7A18097875FFA16CD7E742C7F5E837A.apk",
+  "sha256": "628c0fb63f99e1875c74e16333f645e0f7a18097875ffa16cd7e742c7f5e837a",
+  "package_name": "11",
+  "version_code": "50",
+  "version_name": "1.33.1",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 57852,
+  "dex_count": 6,
+  "native_lib_count": 68
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "899D6F224EB9516DCA30259425C3841C6987B126055BDD351384DDE10002D4BE.apk",
+  "permissions_list": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,android.permission.INTERNET,android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.WAKE_LOCK,android.permission.DISABLE_KEYGUARD,android.permission.RAISED_THREAD_PRIORITY,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.READ_PHONE_STATE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.BROADCAST_STICKY,android.permission.BLUETOOTH,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.USE_CREDENTIALS,android.permission.VIBRATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.BLUETOOTH_ADMIN,android.permission.READ_PROFILE,android.permission.FOREGROUND_SERVICE,android.permission.FOREGROUND_SERVICE_MICROPHONE,android.permission.FOREGROUND_SERVICE_LOCATION,android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.SYSTEM_ALERT_WINDOW,android.permission.CALL_PHONE,android.permission.POST_NOTIFICATIONS,android.permission.BLUETOOTH_SCAN,android.permission.BLUETOOTH_CONNECT,android.permission.READ_PRIVILEGED_PHONE_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.MANAGE_ACCOUNTS,com.google.android.providers.gsf.permission.READ_GSERVICES,com.google.android.gms.permission.ACTIVITY_RECOGNITION,com.google.android.c2dm.permission.RECEIVE,com.google.android.gms.permission.AD_ID,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.REORDER_TASKS,com.elbit.italk.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 28,
+  "count_service": 22,
+  "count_receiver": 21,
+  "count_provider": 5,
+  "count_exported": 16
+}

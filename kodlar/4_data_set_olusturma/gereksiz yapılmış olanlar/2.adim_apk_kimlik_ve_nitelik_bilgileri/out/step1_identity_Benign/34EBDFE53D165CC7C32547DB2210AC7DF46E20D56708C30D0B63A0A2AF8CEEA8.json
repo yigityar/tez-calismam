@@ -1,0 +1,12 @@
+{
+  "apk_file": "34EBDFE53D165CC7C32547DB2210AC7DF46E20D56708C30D0B63A0A2AF8CEEA8.apk",
+  "sha256": "34ebdfe53d165cc7c32547db2210ac7df46e20d56708c30d0b63a0a2af8ceea8",
+  "package_name": "11",
+  "version_code": "45",
+  "version_name": "3.0.3",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 84380,
+  "dex_count": 2,
+  "native_lib_count": 60
+}

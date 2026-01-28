@@ -1,0 +1,12 @@
+{
+  "apk_file": "D38E04DCE8DE1AFCA8750DA038C4A66E13BD08931FAB1F44220296BA9B51755C.apk",
+  "sha256": "d38e04dce8de1afca8750da038c4a66e13bd08931fab1f44220296ba9b51755c",
+  "package_name": "10",
+  "version_code": "10738002",
+  "version_name": "7.3.8",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 104516,
+  "dex_count": 18,
+  "native_lib_count": 133
+}

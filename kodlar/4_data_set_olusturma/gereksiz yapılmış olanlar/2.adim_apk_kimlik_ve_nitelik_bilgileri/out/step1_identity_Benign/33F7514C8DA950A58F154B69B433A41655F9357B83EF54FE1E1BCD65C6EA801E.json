@@ -1,0 +1,12 @@
+{
+  "apk_file": "33F7514C8DA950A58F154B69B433A41655F9357B83EF54FE1E1BCD65C6EA801E.apk",
+  "sha256": "33f7514c8da950a58f154b69b433a41655f9357b83ef54fe1e1bcd65c6ea801e",
+  "package_name": "11",
+  "version_code": "5200",
+  "version_name": "7",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 72980,
+  "dex_count": 1,
+  "native_lib_count": 6
+}

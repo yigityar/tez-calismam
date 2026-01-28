@@ -1,0 +1,12 @@
+{
+  "apk_file": "5DE92F851131A236651F332E105C31B8436761DB45EE2EDA0437AD4CD5FD1E0B.apk",
+  "sha256": "5de92f851131a236651f332e105c31b8436761db45ee2eda0437ad4cd5fd1e0b",
+  "package_name": "12",
+  "version_code": "1202000492",
+  "version_name": "20.4.11",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 23008,
+  "dex_count": 2,
+  "native_lib_count": 13
+}

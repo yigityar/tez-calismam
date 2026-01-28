@@ -1,0 +1,16 @@
+{
+  "apk_file": "0DCFE1ED0311B2E9FE91183C0BBD7D741EDB6AA28B425B1DAE1DB264551213C5.apk",
+  "permissions_list": "android.permission.READ_PHONE_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.SYSTEM_ALERT_WINDOW,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.ACCESS_WIFI_STATE,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.READ_SMS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.FOREGROUND_SERVICE,android.permission.FLASHLIGHT,android.permission.RESTART_PACKAGES,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.RECORD_AUDIO,android.permission.CHANGE_NETWORK_STATE,com.google.android.gallery3d.permission.GALLERY_PROVIDER,com.google.android.apps.photos.permission.GOOGLE_PHOTOS,android.permission.EXPAND_STATUS_BAR,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.GET_TASKS,android.permission.WAKE_LOCK,android.permission.READ_EXTERNAL_STORAGE,android.permission.VIBRATE,com.huawei.android.launcher.permission.CHANGE_BADGE ,com.youdao.translator.permission.MIPUSH_RECEIVE,android.permission.READ_SYNC_SETTINGS,android.permission.READ_SYNC_STATS,android.permission.WRITE_SYNC_SETTINGS,android.permission.AUTHENTICATE_ACCOUNTS,com.youdao.translator.permission.RECEIVE_MSG,android.permission.BLUETOOTH,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.CHANGE_WIFI_STATE,com.google.android.c2dm.permission.RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.youdao.translator.permission.PROCESS_PUSH_MSG,com.youdao.translator.permission.PUSH_PROVIDER,android.permission.CHANGE_CONFIGURATION,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.youdao.translator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.asus.permission.READ_SDID_PROVIDER,com.google.android.gms.permission.AD_ID,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.BROADCAST_STICKY",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 1,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 95,
+  "count_service": 25,
+  "count_receiver": 17,
+  "count_provider": 17,
+  "count_exported": 29
+}

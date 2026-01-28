@@ -1,0 +1,12 @@
+{
+  "apk_file": "18CDCE1FC7DDC008E91C926FE671DB6605F3AD8A27345386058F5242C6624B98.apk",
+  "sha256": "18cdce1fc7ddc008e91c926fe671db6605f3ad8a27345386058f5242c6624b98",
+  "package_name": "15",
+  "version_code": "106",
+  "version_name": "1.0.6.5",
+  "min_sdk": "25",
+  "target_sdk": "35",
+  "apk_size_kb": 72072,
+  "dex_count": 2,
+  "native_lib_count": 564
+}

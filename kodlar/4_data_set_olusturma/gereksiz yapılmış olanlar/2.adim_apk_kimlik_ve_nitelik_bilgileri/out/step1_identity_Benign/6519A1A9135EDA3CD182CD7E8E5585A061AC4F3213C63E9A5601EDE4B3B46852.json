@@ -1,0 +1,12 @@
+{
+  "apk_file": "6519A1A9135EDA3CD182CD7E8E5585A061AC4F3213C63E9A5601EDE4B3B46852.apk",
+  "sha256": "6519a1a9135eda3cd182cd7e8e5585a061ac4f3213c63e9a5601ede4b3b46852",
+  "package_name": "9",
+  "version_code": "102",
+  "version_name": "5.0.52",
+  "min_sdk": "19",
+  "target_sdk": "27",
+  "apk_size_kb": 198848,
+  "dex_count": 1,
+  "native_lib_count": 131
+}

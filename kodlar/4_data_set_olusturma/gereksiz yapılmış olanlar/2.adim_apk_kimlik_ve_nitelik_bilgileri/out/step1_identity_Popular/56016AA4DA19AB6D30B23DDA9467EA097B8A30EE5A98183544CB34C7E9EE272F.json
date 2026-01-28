@@ -1,0 +1,12 @@
+{
+  "apk_file": "56016AA4DA19AB6D30B23DDA9467EA097B8A30EE5A98183544CB34C7E9EE272F.apk",
+  "sha256": "56016aa4da19ab6d30b23dda9467ea097b8a30ee5a98183544cb34c7e9ee272f",
+  "package_name": "com.shazam.android",
+  "version_code": "700000",
+  "version_name": "7.0.0-160808",
+  "min_sdk": "16",
+  "target_sdk": "24",
+  "apk_size_kb": 25492,
+  "dex_count": 2,
+  "native_lib_count": 11
+}

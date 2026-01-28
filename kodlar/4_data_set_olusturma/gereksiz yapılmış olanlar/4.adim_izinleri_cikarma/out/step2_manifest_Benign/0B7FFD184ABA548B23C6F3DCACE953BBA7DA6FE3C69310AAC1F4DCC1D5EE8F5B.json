@@ -1,0 +1,16 @@
+{
+  "apk_file": "0B7FFD184ABA548B23C6F3DCACE953BBA7DA6FE3C69310AAC1F4DCC1D5EE8F5B.apk",
+  "permissions_list": "android.permission.CHANGE_NETWORK_STATE,android.permission.EXPAND_STATUS_BAR,android.permission.INTERNET,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.GET_ACCOUNTS,com.xiaomi.permission.AUTH_SERVICE,android.permission.VIBRATE,android.permission.WAKE_LOCK,android.permission.CAMERA,android.permission.ACCESS_WIFI_STATE,android.permission.RECORD_AUDIO,android.permission.READ_EXTERNAL_STORAGE,android.permission.DISABLE_KEYGUARD,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.RAISED_THREAD_PRIORITY,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,getui.permission.GetuiService.com.kingsoft,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.WRITE_SYNC_SETTINGS,com.kingsoft.permission.PROCESS_PUSH_MSG,com.meizu.flyme.push.permission.RECEIVE,com.meizu.c2dm.permission.RECEIVE,com.kingsoft.push.permission.MESSAGE,com.kingsoft.permission.C2D_MESSAGE,android.permission.BROADCAST_PACKAGE_ADDED,android.permission.BROADCAST_PACKAGE_CHANGED,android.permission.BROADCAST_PACKAGE_INSTALL,android.permission.BROADCAST_PACKAGE_REPLACED,android.permission.RESTART_PACKAGES,com.kingsoft.permission.MIPUSH_RECEIVE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_SETTINGS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.FOREGROUND_SERVICE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 383,
+  "count_service": 33,
+  "count_receiver": 23,
+  "count_provider": 7,
+  "count_exported": 28
+}

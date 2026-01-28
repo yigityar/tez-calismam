@@ -1,0 +1,12 @@
+{
+  "apk_file": "C9E7976CDB763E85F2527E1530F113BC3945D58325949D38921FD316CFB5E04E.apk",
+  "sha256": "c9e7976cdb763e85f2527e1530f113bc3945d58325949d38921fd316cfb5e04e",
+  "package_name": "11",
+  "version_code": "57615",
+  "version_name": "9.16.2",
+  "min_sdk": "21",
+  "target_sdk": "27",
+  "apk_size_kb": 76336,
+  "dex_count": 10,
+  "native_lib_count": 98
+}

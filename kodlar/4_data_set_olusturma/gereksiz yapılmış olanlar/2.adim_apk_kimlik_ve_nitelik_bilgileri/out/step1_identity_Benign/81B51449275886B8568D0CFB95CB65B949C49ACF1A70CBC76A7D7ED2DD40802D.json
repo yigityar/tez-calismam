@@ -1,0 +1,12 @@
+{
+  "apk_file": "81B51449275886B8568D0CFB95CB65B949C49ACF1A70CBC76A7D7ED2DD40802D.apk",
+  "sha256": "81b51449275886b8568d0cfb95cb65b949c49acf1a70cbc76a7d7ed2dd40802d",
+  "package_name": "14",
+  "version_code": "5430",
+  "version_name": "5.4.3",
+  "min_sdk": "30",
+  "target_sdk": "34",
+  "apk_size_kb": 100020,
+  "dex_count": 3,
+  "native_lib_count": 38
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "1D07E00886FB47C20B2ED0D7EFC6A771E27C0A51125E0E05D26369C83D0EF087.apk",
+  "sha256": "1d07e00886fb47c20b2ed0d7efc6a771e27c0a51125e0e05d26369c83d0ef087",
+  "package_name": "12",
+  "version_code": "250",
+  "version_name": "4.5.0",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 175432,
+  "dex_count": 1,
+  "native_lib_count": 169
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "475116ECDE658AF8D6DD54BC4E0C58797D6F99638CF2BB07B7E66B4ED8ADC7EC.apk",
+  "sha256": "475116ecde658af8d6dd54bc4e0c58797d6f99638cf2bb07b7e66b4ed8adc7ec",
+  "package_name": "12",
+  "version_code": "228",
+  "version_name": "2.8.4",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 84428,
+  "dex_count": 6,
+  "native_lib_count": 64
+}

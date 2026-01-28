@@ -1,0 +1,16 @@
+{
+  "apk_file": "D59CB760D521F3AAC636F8E32D35BF56F2A6D8AF8F2EAD70DF5288B172487048.apk",
+  "permissions_list": "android.permission.USE_FULL_SCREEN_INTENT,android.permission.BATTERY_STATS,android.permission.BLUETOOTH_ADMIN,android.permission.INTERNET,android.permission.WAKE_LOCK,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.WRITE_SETTINGS,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.CHANGE_NETWORK_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.RECORD_AUDIO,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.RECEIVED_BOOT_COMPLETED,com.android.launcher.permission.READ_SETTINGS,android.permission.READ_SOCIAL_STREAM,android.permission.WRITE_SOCIAL_STREAM,android.permission.UPDATE_APP_OPS_STATS,android.permission.RECEIVE_USER_PRESENT,android.permission.USE_CREDENTIALS,android.permission.ACCESS_GPS,android.permission.INTERACT_ACROSS_USERS_FULL,android.permission.INTERACT_ACROSS_USERS,android.permission.VIBRATE,android.permission.BROADCAST_STICKY,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH,co.runner.app.permission.MIPUSH_RECEIVE,android.permission.SYSTEM_ALERT_WINDOW,getui.permission.GetuiService.co.runner.app,android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,android.permission.FOREGROUND_SERVICE,com.google.android.providers.gsf.permission.READ_GSERVICES,com.meizu.flyme.push.permission.RECEIVE,co.runner.app.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.ACTIVITY_RECOGNITION,android.permission.READ_SYNC_SETTINGS,android.permission.WRITE_SYNC_SETTINGS,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.NFC,org.simalliance.openmobileap i.SMARTCARD,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_MEDIA_AUDIO,android.permission.READ_MEDIA_IMAGES,android.permission.READ_MEDIA_VIDEO,co.runner.app.permission.RONG_ACCESS_RECEIVER,co.runner.app.permission.PROCESS_PUSH_MSG,co.runner.app.permission.PUSH_PROVIDER,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.vivo.notification.permission.BADGE_ICON,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 564,
+  "count_service": 51,
+  "count_receiver": 19,
+  "count_provider": 26,
+  "count_exported": 20
+}

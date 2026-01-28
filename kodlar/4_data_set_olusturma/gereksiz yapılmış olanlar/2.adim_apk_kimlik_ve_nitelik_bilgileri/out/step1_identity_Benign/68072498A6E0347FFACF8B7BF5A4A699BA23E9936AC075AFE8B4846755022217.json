@@ -1,0 +1,12 @@
+{
+  "apk_file": "68072498A6E0347FFACF8B7BF5A4A699BA23E9936AC075AFE8B4846755022217.apk",
+  "sha256": "68072498a6e0347ffacf8b7bf5a4a699ba23e9936ac075afe8b4846755022217",
+  "package_name": "12",
+  "version_code": "652332",
+  "version_name": "2.33.0",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 135780,
+  "dex_count": 2,
+  "native_lib_count": 70
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "9188A3C10E77946D3CEFF5DD1C460DE725C38077AD64DC6B4B2A16831BCC78BF.apk",
+  "sha256": "9188a3c10e77946d3ceff5dd1c460de725c38077ad64dc6b4b2a16831bcc78bf",
+  "package_name": "12",
+  "version_code": "20300109",
+  "version_name": "3.1.9",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 43764,
+  "dex_count": 6,
+  "native_lib_count": 76
+}

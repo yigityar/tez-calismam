@@ -1,0 +1,12 @@
+{
+  "apk_file": "24E41BA65AC89F9DF28D04313BFB5D677A10CEBEF5E38885D7C0EF299BCD73A6.apk",
+  "sha256": "24e41ba65ac89f9df28d04313bfb5d677a10cebef5e38885d7c0ef299bcd73a6",
+  "package_name": "com.mybank.android.phone",
+  "version_code": "549",
+  "version_name": "4.0.2.070603",
+  "min_sdk": "18",
+  "target_sdk": "26",
+  "apk_size_kb": 94696,
+  "dex_count": 1,
+  "native_lib_count": 76
+}

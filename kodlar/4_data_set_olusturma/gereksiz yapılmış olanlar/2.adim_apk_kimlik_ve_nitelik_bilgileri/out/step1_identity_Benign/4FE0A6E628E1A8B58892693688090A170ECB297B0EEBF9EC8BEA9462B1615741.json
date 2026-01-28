@@ -1,0 +1,12 @@
+{
+  "apk_file": "4FE0A6E628E1A8B58892693688090A170ECB297B0EEBF9EC8BEA9462B1615741.apk",
+  "sha256": "4fe0a6e628e1a8b58892693688090a170ecb297b0eebf9ec8bea9462b1615741",
+  "package_name": "10",
+  "version_code": "210002",
+  "version_name": "12.0.2",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 112572,
+  "dex_count": 13,
+  "native_lib_count": 88
+}

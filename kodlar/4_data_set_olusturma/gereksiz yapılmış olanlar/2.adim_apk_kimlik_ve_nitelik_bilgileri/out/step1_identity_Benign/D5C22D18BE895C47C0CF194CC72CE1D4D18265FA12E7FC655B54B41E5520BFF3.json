@@ -1,0 +1,12 @@
+{
+  "apk_file": "D5C22D18BE895C47C0CF194CC72CE1D4D18265FA12E7FC655B54B41E5520BFF3.apk",
+  "sha256": "d5c22d18be895c47c0cf194cc72ce1d4d18265fa12e7fc655b54b41e5520bff3",
+  "package_name": "6.0-2438415",
+  "version_code": "2128",
+  "version_name": "2.1.28",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 15736,
+  "dex_count": 3,
+  "native_lib_count": 15
+}

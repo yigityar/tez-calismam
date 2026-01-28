@@ -1,0 +1,12 @@
+{
+  "apk_file": "B772F67BD4952123FA927BF4F891AD1383CF4A465D4FB5EEA7B30B2EBCAB8841.apk",
+  "sha256": "b772f67bd4952123fa927bf4f891ad1383cf4a465d4fb5eea7b30b2ebcab8841",
+  "package_name": "13",
+  "version_code": "202316173",
+  "version_name": "7.1.0.1",
+  "min_sdk": "23",
+  "target_sdk": "33",
+  "apk_size_kb": 91536,
+  "dex_count": 1,
+  "native_lib_count": 57
+}

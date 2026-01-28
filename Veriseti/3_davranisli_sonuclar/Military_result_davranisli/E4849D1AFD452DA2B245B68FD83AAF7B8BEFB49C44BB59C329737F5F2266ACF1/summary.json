@@ -1,0 +1,152 @@
+{
+    "apk_name": "E4849D1AFD452DA2B245B68FD83AAF7B8BEFB49C44BB59C329737F5F2266ACF1",
+    "sha256": "e4849d1afd452da2b245b68fd83aaf7b8befb49c44bb59c329737f5f2266acf1",
+    "metadata": {
+        "package_name": "com.agilx.hornadycatalog",
+        "version_code": "252",
+        "version_name": "2021.0423.252",
+        "min_sdk": "19",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.agilx.hornadycatalog.permission.C2D_MESSAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "activities": [
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc640c4f8c3125bc9190.EditionsActivity",
+            "crc640f654757c295e0ca.RegisterActivity",
+            "crc640fc65995b3cd84ca.AcceptActivity",
+            "crc6412028a063eff5423.SelectWeightActivity",
+            "crc641745bb98007bb460.AddNoteActivity",
+            "crc641b11c7c79896a3a7.MultiSelectActivity",
+            "crc642dbcb7078e5d2c6b.CoverPageActivity",
+            "crc643836ecd37d46d8ef.MainActivity",
+            "crc6456a1f3ad097d8b2d.ReloadingBulletsActivity",
+            "crc645808f5382c11cba1.NotificationDetailsActivity",
+            "crc646957603ea1820544.MediaPickerActivity",
+            "crc647649a0ad1e41abf6.EditProfileActivity",
+            "crc6480997b3ef81bf9b2.ZxingActivity",
+            "crc648c2a8721f5f768dd.SubscriptionActivity",
+            "crc6493e42513d5569a6c.HornadyPointsActivity",
+            "crc6498b92eb2159a219e.PurchaseHistoryActivity",
+            "crc649d0a9b25e0e6f3b8.MyProfileActivity",
+            "crc649fe19e15d9d7b139.MyCartridgesActivity",
+            "crc64a502b50d1acdc0a1.SelectSectionActivity",
+            "crc64b8d6dd0927492f2a.SelectCaliberActivity",
+            "crc64bcdcefe17c518ef3.LoginActivity",
+            "crc64c0133575a9b5f568.AddRangeLogActivity",
+            "crc64c650958f7b2369ba.UpdatePasswordActivity",
+            "crc64d21284f920e35f19.BaseListSelectionActivity_1",
+            "crc64d21284f920e35f19.BaseMultiSelectActivity_1",
+            "crc64d21284f920e35f19.ExtensionsBaseActivity",
+            "crc64daa5434506ceb60a.PasswordActivity",
+            "crc64dfff8f4a6f453320.SplashActivity",
+            "crc64e49eaf4d4c1fc430.PurchaseActivity",
+            "crc64ec468eac7490b031.BaseActivity",
+            "net.hockeyapp.android.ExpiryInfoActivity",
+            "net.hockeyapp.android.FeedbackActivity",
+            "net.hockeyapp.android.LoginActivity",
+            "net.hockeyapp.android.PaintActivity",
+            "net.hockeyapp.android.UpdateActivity"
+        ],
+        "services": [
+            "crc642a0d50e1c5b18df7.PushNotificationInstanceIDListenerService",
+            "crc642a0d50e1c5b18df7.PushNotificationListenerService",
+            "crc642a0d50e1c5b18df7.RegistrationIntentService"
+        ],
+        "receivers": [
+            "com.google.android.gms.gcm.GcmReceiver",
+            "crc642a0d50e1c5b18df7.PushNotificationBroadcastReceiver",
+            "crc64cea48322b3427ae9.ConnectivityChangeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.REQUEST_INSTALL_PACKAGES": "signature",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.agilx.hornadycatalog.permission.C2D_MESSAGE": "unknown",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 4,
+            "signature": 1,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 24
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 16.09,
+        "sources_present": true,
+        "java_file_count": 2566
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 3,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 5
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 11,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 9,
+            "scheduling_apis": 9,
+            "dynamic_code": 124
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 154
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 3,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 123
+        }
+    }
+}

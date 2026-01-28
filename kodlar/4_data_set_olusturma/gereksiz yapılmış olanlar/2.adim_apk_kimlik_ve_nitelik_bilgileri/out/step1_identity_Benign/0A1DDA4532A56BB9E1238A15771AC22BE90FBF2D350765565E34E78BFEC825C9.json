@@ -1,0 +1,12 @@
+{
+  "apk_file": "0A1DDA4532A56BB9E1238A15771AC22BE90FBF2D350765565E34E78BFEC825C9.apk",
+  "sha256": "0a1dda4532a56bb9e1238a15771ac22be90fbf2d350765565e34e78bfec825c9",
+  "package_name": "11",
+  "version_code": "33",
+  "version_name": "v4.1",
+  "min_sdk": "5",
+  "target_sdk": "31",
+  "apk_size_kb": 7016,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

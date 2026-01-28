@@ -1,0 +1,12 @@
+{
+  "apk_file": "15FDDE28A23F5921FB9219E798EF98E7F0DF9EC1965322B25738284B01437F26.apk",
+  "sha256": "15fdde28a23f5921fb9219e798ef98e7f0df9ec1965322b25738284b01437f26",
+  "package_name": "13",
+  "version_code": "53",
+  "version_name": "4.0.0",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 91408,
+  "dex_count": 4,
+  "native_lib_count": 22
+}

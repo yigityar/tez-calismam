@@ -1,0 +1,12 @@
+{
+  "apk_file": "CD5B16128F55EE9E442E26BF9261BD6BE85C24ADF932F4872E7B0D182F0AC393.apk",
+  "sha256": "cd5b16128f55ee9e442e26bf9261bd6be85c24adf932f4872e7b0d182f0ac393",
+  "package_name": "14",
+  "version_code": "453",
+  "version_name": "453",
+  "min_sdk": "29",
+  "target_sdk": "35",
+  "apk_size_kb": 69012,
+  "dex_count": 4,
+  "native_lib_count": 0
+}

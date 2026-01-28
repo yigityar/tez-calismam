@@ -1,0 +1,16 @@
+{
+  "apk_file": "387E81700CDE8780D94DB724C8BD6DCD51875B7222F258BB98EE79EDE3692770.apk",
+  "permissions_list": "android.permission.QUERY_ALL_PACKAGES,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.INTERNET,android.permission.CAMERA,android.permission.VIBRATE,android.permission.BAIDU_LOCATION_SERVICE,com.android.launcher.permission.READ_SETTINGS,android.permission.BROADCAST_STICKY,android.permission.RECORD_AUDIO,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.RECEIVE_USER_PRESENT,android.permission.INTERACT_ACROSS_USERS_FULL,android.permission.NFC,org.simalliance.openmobileapi.SMARTCARD,com.feifan.o2o.pay.permission.FFPAY_ENTRY,com.google.android.apps.photos.permission.GOOGLE_PHOTOS,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,android.permission.FLASHLIGHT,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.CHANGE_CONFIGURATION,com.ddsy.songyao.permission.PROCESS_PUSH_MSG,com.ddsy.songyao.permission.PUSH_PROVIDER,com.ddsy.songyao.permission.JPUSH_MESSAGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.ddsy.songyao.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.FOREGROUND_SERVICE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 216,
+  "count_service": 22,
+  "count_receiver": 12,
+  "count_provider": 8,
+  "count_exported": 25
+}

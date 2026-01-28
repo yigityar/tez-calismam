@@ -1,0 +1,12 @@
+{
+  "apk_file": "2A8331290FD8D0A12C8467CD5D039FBFFF003A9D666E1E274159568841147650.apk",
+  "sha256": "2a8331290fd8d0a12c8467cd5d039fbfff003a9d666e1e274159568841147650",
+  "package_name": "13",
+  "version_code": "50",
+  "version_name": "2.2",
+  "min_sdk": "26",
+  "target_sdk": "33",
+  "apk_size_kb": 61392,
+  "dex_count": 2,
+  "native_lib_count": 16
+}

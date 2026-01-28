@@ -1,0 +1,12 @@
+{
+  "apk_file": "5F8804529415F2831D1058CA4548D760A9196AA8CB280A9702F9764660BAA23A.apk",
+  "sha256": "5f8804529415f2831d1058ca4548d760a9196aa8cb280a9702f9764660baa23a",
+  "package_name": "6.0-2438415",
+  "version_code": "40420",
+  "version_name": "4.4.20",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 112676,
+  "dex_count": 7,
+  "native_lib_count": 46
+}

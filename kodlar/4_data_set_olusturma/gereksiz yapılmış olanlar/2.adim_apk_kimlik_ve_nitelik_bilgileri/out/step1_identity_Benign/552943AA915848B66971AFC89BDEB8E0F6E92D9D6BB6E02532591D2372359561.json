@@ -1,0 +1,12 @@
+{
+  "apk_file": "552943AA915848B66971AFC89BDEB8E0F6E92D9D6BB6E02532591D2372359561.apk",
+  "sha256": "552943aa915848b66971afc89bdeb8e0f6e92d9d6bb6e02532591d2372359561",
+  "package_name": "15",
+  "version_code": "57",
+  "version_name": "1.0.57",
+  "min_sdk": "21",
+  "target_sdk": "35",
+  "apk_size_kb": 32160,
+  "dex_count": 1,
+  "native_lib_count": 328
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "971176446A639E154D5787EF65426CCEB3A6C4F04182E3B1EB4F8103C85506D2.apk",
+  "sha256": "971176446a639e154d5787ef65426cceb3a6c4f04182e3b1eb4f8103c85506d2",
+  "package_name": "6.0-2438415",
+  "version_code": "558000",
+  "version_name": "5.58.0",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 11144,
+  "dex_count": 2,
+  "native_lib_count": 10
+}

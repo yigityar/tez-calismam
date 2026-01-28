@@ -1,0 +1,12 @@
+{
+  "apk_file": "C91654513C909479EB23522C92B405476982001CE90A04D31E209D03A1DE943A.apk",
+  "sha256": "c91654513c909479eb23522c92b405476982001ce90a04d31e209d03a1de943a",
+  "package_name": "10",
+  "version_code": "60035",
+  "version_name": "6.0.35",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 112420,
+  "dex_count": 1,
+  "native_lib_count": 112
+}

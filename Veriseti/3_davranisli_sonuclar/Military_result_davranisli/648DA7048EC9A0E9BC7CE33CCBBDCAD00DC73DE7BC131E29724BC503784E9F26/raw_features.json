@@ -1,0 +1,29 @@
+{
+    "java_files": [
+        "com/atakmap/android/compassnav/Compass.java",
+        "com/atakmap/android/compassnav/plugin/CompassNavLifecycle.java",
+        "com/atakmap/android/compassnav/plugin/R.java",
+        "com/atakmap/android/compassnav/plugin/CompassNavTool.java",
+        "com/atakmap/android/compassnav/plugin/a.java",
+        "atakplugin/CompassNav/b.java",
+        "atakplugin/CompassNav/a.java",
+        "atakplugin/CompassNav/c.java"
+    ],
+    "ast_hits_by_file": {
+        "location": [],
+        "microphone": [],
+        "camera": [],
+        "media_projection": [],
+        "dynamic_load": [],
+        "jni": []
+    },
+    "native_libs": [],
+    "dex_files_count": 1,
+    "exported_components": {
+        "activities": [
+            "com.atakmap.app.component"
+        ],
+        "services": [],
+        "receivers": []
+    }
+}

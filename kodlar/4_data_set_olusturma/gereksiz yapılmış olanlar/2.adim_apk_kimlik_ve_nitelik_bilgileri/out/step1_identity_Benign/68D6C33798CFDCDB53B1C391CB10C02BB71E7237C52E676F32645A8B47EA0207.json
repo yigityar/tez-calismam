@@ -1,0 +1,12 @@
+{
+  "apk_file": "68D6C33798CFDCDB53B1C391CB10C02BB71E7237C52E676F32645A8B47EA0207.apk",
+  "sha256": "68d6c33798cfdcdb53b1c391cb10c02bb71e7237c52e676f32645a8b47ea0207",
+  "package_name": "12",
+  "version_code": "20",
+  "version_name": "1.4",
+  "min_sdk": "28",
+  "target_sdk": "30",
+  "apk_size_kb": 28100,
+  "dex_count": 1,
+  "native_lib_count": 24
+}

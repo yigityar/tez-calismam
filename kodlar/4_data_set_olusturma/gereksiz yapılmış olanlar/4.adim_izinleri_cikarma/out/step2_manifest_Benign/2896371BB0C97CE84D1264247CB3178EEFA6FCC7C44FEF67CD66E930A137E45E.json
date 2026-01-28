@@ -1,0 +1,16 @@
+{
+  "apk_file": "2896371BB0C97CE84D1264247CB3178EEFA6FCC7C44FEF67CD66E930A137E45E.apk",
+  "permissions_list": "io.kodular.panoskaragiannhs.IPNew2.permission.MAPS_RECEIVE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.CHANGE_WIFI_STATE,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,com.google.android.providers.gsf.permission.READ_GSERVICES",
+  "has_camera": 0,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 15,
+  "count_service": 3,
+  "count_receiver": 1,
+  "count_provider": 1,
+  "count_exported": 0
+}

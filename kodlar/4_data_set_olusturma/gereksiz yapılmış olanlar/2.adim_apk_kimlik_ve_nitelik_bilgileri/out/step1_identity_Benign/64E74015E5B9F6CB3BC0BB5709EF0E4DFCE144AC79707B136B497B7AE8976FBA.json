@@ -1,0 +1,12 @@
+{
+  "apk_file": "64E74015E5B9F6CB3BC0BB5709EF0E4DFCE144AC79707B136B497B7AE8976FBA.apk",
+  "sha256": "64e74015e5b9f6cb3bc0bb5709ef0e4dfce144ac79707b136b497b7ae8976fba",
+  "package_name": "11",
+  "version_code": "5230",
+  "version_name": "5.2.3",
+  "min_sdk": "24",
+  "target_sdk": "30",
+  "apk_size_kb": 56668,
+  "dex_count": 1,
+  "native_lib_count": 36
+}

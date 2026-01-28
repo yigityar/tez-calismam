@@ -1,0 +1,12 @@
+{
+  "apk_file": "73293BCE716F0EDD88E53FB5D320EA10AA7F541D4470CCBFA6831F5E7FEC06BA.apk",
+  "sha256": "73293bce716f0edd88e53fb5d320ea10aa7f541d4470ccbfa6831f5e7fec06ba",
+  "package_name": "com.adobe.reader",
+  "version_code": "168025",
+  "version_name": "17.1",
+  "min_sdk": "16",
+  "target_sdk": "24",
+  "apk_size_kb": 18472,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

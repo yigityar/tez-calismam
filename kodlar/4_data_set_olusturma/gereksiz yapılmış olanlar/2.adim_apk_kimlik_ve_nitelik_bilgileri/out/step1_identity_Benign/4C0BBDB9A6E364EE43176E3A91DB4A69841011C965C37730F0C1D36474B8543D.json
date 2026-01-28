@@ -1,0 +1,12 @@
+{
+  "apk_file": "4C0BBDB9A6E364EE43176E3A91DB4A69841011C965C37730F0C1D36474B8543D.apk",
+  "sha256": "4c0bbdb9a6e364ee43176e3a91db4a69841011c965c37730f0c1d36474b8543d",
+  "package_name": "10",
+  "version_code": "489367",
+  "version_name": "3.9.18(489367)",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 124788,
+  "dex_count": 24,
+  "native_lib_count": 68
+}

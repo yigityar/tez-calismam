@@ -1,0 +1,16 @@
+{
+  "apk_file": "818CBBD17F0015D3F9E0148A0F7B6BC6427FF2B2E4E7CD672E13D07EBE7E03F6.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.CALL_PHONE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.VIBRATE,android.permission.NFC,android.permission.TRANSMIT_IR,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.READ_PHONE_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.RECEIVE_USER_PRESENT,android.permission.WAKE_LOCK,android.permission.GET_ACCOUNTS,android.permission.RESTART_PACKAGES,android.permission.REORDER_TASKS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.RECEIVE_BOOT_COMPLETED,com.xiaomi.permission.AUTH_SERVICE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.BROADCAST_STICKY,android.permission.GET_PACKAGE_SIZE,android.permission.PROCESS_OUTGOING_CALLS,Android.permission.MODIFY_AUDIO_SETTINGS,android.permission.WRITE_SETTINGS,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.GET_TASKS,com.midea.business.netconfig.permission.JPUSH_MESSAGE,android.permission.READ_CONTACTS,com.midea.ai.appliances.permission.JPUSH_MESSAGE,Android.permission.WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.READ_SETTINGS,android.permission.SEND_SMS,android.hardware.sensor.accelerometer,android.permission.CHANGE_CONFIGURATION,android.permission.USE_CREDENTIALS,android.permission.MANAGE_ACCOUNTS,android.permission.AUTHENTICATE_ACCOUNTS,com.android.launcher.permission.INSTALL_SHORTCUT,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.WRITE_CONTACTS,android.permission.BATTERY_STATS,android.permission.FOREGROUND_SERVICE,com.asus.msa.SupplementaryDID.ACCESS,android.permission.BLUETOOTH_PRIVILEGED,android.permission.CAPTURE_VIDEO_OUTPUT,android.permission.CAPTURE_SECURE_VIDEO_OUTPUT,android.permission.PERMISSIONS_STORAGE,com.midea.ai.appliances.permission.MIPUSH_RECEIVE,com.midea.ai.appliances.permission.C2D_MESSAGE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 543,
+  "count_service": 44,
+  "count_receiver": 29,
+  "count_provider": 12,
+  "count_exported": 14
+}

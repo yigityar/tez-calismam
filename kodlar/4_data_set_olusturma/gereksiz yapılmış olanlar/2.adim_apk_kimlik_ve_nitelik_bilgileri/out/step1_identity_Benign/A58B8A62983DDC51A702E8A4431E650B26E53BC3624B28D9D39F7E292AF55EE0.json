@@ -1,0 +1,12 @@
+{
+  "apk_file": "A58B8A62983DDC51A702E8A4431E650B26E53BC3624B28D9D39F7E292AF55EE0.apk",
+  "sha256": "a58b8a62983ddc51a702e8a4431e650b26e53bc3624b28d9d39f7e292af55ee0",
+  "package_name": "16",
+  "version_code": "50046",
+  "version_name": "2.6",
+  "min_sdk": "17",
+  "target_sdk": "36",
+  "apk_size_kb": 83452,
+  "dex_count": 2,
+  "native_lib_count": 8
+}

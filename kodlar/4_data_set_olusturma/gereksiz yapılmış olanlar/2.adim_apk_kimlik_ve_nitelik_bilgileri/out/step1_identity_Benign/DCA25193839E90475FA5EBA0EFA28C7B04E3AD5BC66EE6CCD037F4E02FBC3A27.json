@@ -1,0 +1,12 @@
+{
+  "apk_file": "DCA25193839E90475FA5EBA0EFA28C7B04E3AD5BC66EE6CCD037F4E02FBC3A27.apk",
+  "sha256": "dca25193839e90475fa5eba0efa28c7b04e3ad5bc66ee6ccd037f4e02fbc3a27",
+  "package_name": "14",
+  "version_code": "202",
+  "version_name": "4.6.081",
+  "min_sdk": "26",
+  "target_sdk": "34",
+  "apk_size_kb": 74924,
+  "dex_count": 1,
+  "native_lib_count": 20
+}

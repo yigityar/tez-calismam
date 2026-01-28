@@ -1,0 +1,12 @@
+{
+  "apk_file": "A402C443CD299153616E600C71B8E21E52B865F66D46BDEBA202B25ABDAE2543.apk",
+  "sha256": "a402c443cd299153616e600c71b8e21e52b865f66d46bdeba202b25abdae2543",
+  "package_name": "12",
+  "version_code": "300802",
+  "version_name": "3.8.2",
+  "min_sdk": "22",
+  "target_sdk": "29",
+  "apk_size_kb": 69224,
+  "dex_count": 1,
+  "native_lib_count": 66
+}

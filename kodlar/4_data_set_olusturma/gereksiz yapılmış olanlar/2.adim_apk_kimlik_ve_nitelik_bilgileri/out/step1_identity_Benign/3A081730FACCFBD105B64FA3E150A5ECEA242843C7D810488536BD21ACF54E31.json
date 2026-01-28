@@ -1,0 +1,12 @@
+{
+  "apk_file": "3A081730FACCFBD105B64FA3E150A5ECEA242843C7D810488536BD21ACF54E31.apk",
+  "sha256": "3a081730faccfbd105b64fa3e150a5ecea242843c7d810488536bd21acf54e31",
+  "package_name": "12",
+  "version_code": "227",
+  "version_name": "3.134",
+  "min_sdk": "19",
+  "target_sdk": "31",
+  "apk_size_kb": 79984,
+  "dex_count": 1,
+  "native_lib_count": 32
+}

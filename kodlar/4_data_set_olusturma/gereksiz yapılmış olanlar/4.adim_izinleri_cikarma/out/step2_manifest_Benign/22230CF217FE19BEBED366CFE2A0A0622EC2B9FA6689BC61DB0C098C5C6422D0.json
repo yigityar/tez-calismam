@@ -1,0 +1,16 @@
+{
+  "apk_file": "22230CF217FE19BEBED366CFE2A0A0622EC2B9FA6689BC61DB0C098C5C6422D0.apk",
+  "permissions_list": "com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.tencent.mobileqq.permission.Pandora,com.tencent.qqmusic.permission.MMOAUTH_CALLBACK,com.tencent.qqmusic.permission.MM_MESSAGE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.BROADCAST_STICKY,com.tencent.qqmusic.permission.SEND_BROADCAST_PERMISSION,android.permission.WRITE_SETTINGS,android.permission.WAKE_LOCK,android.permission.INTERNET,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.WRITE_MEDIA_STORAGE,android.permission.RECORD_AUDIO,android.permission.VIBRATE,android.permission.CHANGE_WIFI_STATE,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.RESTART_PACKAGES,android.permission.SYSTEM_ALERT_WINDOW,android.permission.DISABLE_KEYGUARD,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.ACTIVITY_RECOGNITION,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.qqmusic.qqcbdm,android.permission.EXPAND_STATUS_BAR,android.permission.READ_LOGS,com.tencent.qqmusic.theme.permission,android.permission.CHANGE_NETWORK_STATE,android.permission.REORDER_TASKS,android.permission.CAMERA,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.FOREGROUND_SERVICE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.NFC,org.simalliance.openmobileapi.SMARTCARD,com.tencent.qqmusic.permission.MIPUSH_RECEIVE,com.tencent.qqmusic.WNS_PUSH_BROADCAST,com.miui.personalassistant.permission.WIDGET_READ_SETTINGS,com.miui.personalassistant.permission.WIDGET_WRITE_SETTINGS,android.permission.START_VIEW_PERMISSION_USAGE,android.permission.QUERY_ALL_PACKAGES,android.permission.RECEIVE_USER_PRESENT,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.READ_PRIVILEGED_PHONE_STATE,com.tencent.qqmusic.backtrace.warmed_up,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.tencent.qqmusic.permission.PROCESS_PUSH_MSG,com.tencent.qqmusic.permission.PUSH_PROVIDER",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 424,
+  "count_service": 45,
+  "count_receiver": 30,
+  "count_provider": 17,
+  "count_exported": 36
+}

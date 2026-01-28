@@ -1,0 +1,12 @@
+{
+  "apk_file": "C45A0A30829109AE647F2F1CEE9729C8532B10ECD555DC45AF95A90F6E8CA10F.apk",
+  "sha256": "c45a0a30829109ae647f2f1cee9729c8532b10ecd555dc45af95a90f6e8ca10f",
+  "package_name": "10",
+  "version_code": "497",
+  "version_name": "2.4.8",
+  "min_sdk": "15",
+  "target_sdk": "28",
+  "apk_size_kb": 22932,
+  "dex_count": 1,
+  "native_lib_count": 26
+}

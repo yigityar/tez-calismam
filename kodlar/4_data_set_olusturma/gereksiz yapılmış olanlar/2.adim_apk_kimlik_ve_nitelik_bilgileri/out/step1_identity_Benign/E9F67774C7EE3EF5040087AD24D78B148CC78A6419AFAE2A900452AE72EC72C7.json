@@ -1,0 +1,12 @@
+{
+  "apk_file": "E9F67774C7EE3EF5040087AD24D78B148CC78A6419AFAE2A900452AE72EC72C7.apk",
+  "sha256": "e9f67774c7ee3ef5040087ad24d78b148cc78a6419afae2a900452ae72ec72c7",
+  "package_name": "12",
+  "version_code": "31796",
+  "version_name": "2.23.41",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 52808,
+  "dex_count": 2,
+  "native_lib_count": 28
+}

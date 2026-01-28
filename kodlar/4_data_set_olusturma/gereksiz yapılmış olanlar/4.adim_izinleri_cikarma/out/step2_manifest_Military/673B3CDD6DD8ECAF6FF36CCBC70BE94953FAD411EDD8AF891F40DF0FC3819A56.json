@@ -1,0 +1,16 @@
+{
+  "apk_file": "673B3CDD6DD8ECAF6FF36CCBC70BE94953FAD411EDD8AF891F40DF0FC3819A56.apk",
+  "permissions_list": "android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_MEDIA_STORAGE,android.permission.READ_MEDIA_IMAGES,android.permission.READ_MEDIA_VIDEO,android.permission.BLUETOOTH,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,com.atakmap.android.gbr.pdf.plugin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 4,
+  "count_service": 3,
+  "count_receiver": 2,
+  "count_provider": 1,
+  "count_exported": 4
+}

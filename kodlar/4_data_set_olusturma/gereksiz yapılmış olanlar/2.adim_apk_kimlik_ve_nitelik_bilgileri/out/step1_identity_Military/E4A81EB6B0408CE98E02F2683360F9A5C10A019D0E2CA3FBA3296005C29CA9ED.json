@@ -1,0 +1,12 @@
+{
+  "apk_file": "E4A81EB6B0408CE98E02F2683360F9A5C10A019D0E2CA3FBA3296005C29CA9ED.apk",
+  "sha256": "e4a81eb6b0408ce98e02f2683360f9a5c10a019d0e2ca3fba3296005c29ca9ed",
+  "package_name": "15",
+  "version_code": "1753202135",
+  "version_name": "2.4.0.2 (playstore) (1525894b) - [5.4.0]",
+  "min_sdk": "24",
+  "target_sdk": "34",
+  "apk_size_kb": 11256,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

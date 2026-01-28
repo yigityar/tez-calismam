@@ -1,0 +1,12 @@
+{
+  "apk_file": "4716A447BFC3C4ADF2F2BC288F916D6F6BDF3A776236B9175F2A8D1DE459EAD7.apk",
+  "sha256": "4716a447bfc3c4adf2f2bc288f916d6f6bdf3a776236b9175f2a8d1de459ead7",
+  "package_name": "10",
+  "version_code": "1554",
+  "version_name": "8.50.6",
+  "min_sdk": "23",
+  "target_sdk": "29",
+  "apk_size_kb": 87140,
+  "dex_count": 7,
+  "native_lib_count": 63
+}

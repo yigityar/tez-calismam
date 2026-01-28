@@ -1,0 +1,12 @@
+{
+  "apk_file": "D2A79BE6AA5ABB1F6D7036842D76B6709B3A68EA9B73DF4E2C2050FF49DB0A8B.apk",
+  "sha256": "d2a79be6aa5abb1f6d7036842d76b6709b3a68ea9b73df4e2c2050ff49db0a8b",
+  "package_name": "6.0-2438415",
+  "version_code": "9662000",
+  "version_name": "9.66.20.00",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 158400,
+  "dex_count": 7,
+  "native_lib_count": 48
+}

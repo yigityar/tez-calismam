@@ -1,0 +1,12 @@
+{
+  "apk_file": "2A8D1407DE7DD7343A59906CBAF225A347394A786E5324A150F89E5C49BCEE07.apk",
+  "sha256": "2a8d1407de7dd7343a59906cbaf225a347394a786e5324a150f89e5c49bcee07",
+  "package_name": "11",
+  "version_code": "2036",
+  "version_name": "2.6",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 98780,
+  "dex_count": 2,
+  "native_lib_count": 32
+}

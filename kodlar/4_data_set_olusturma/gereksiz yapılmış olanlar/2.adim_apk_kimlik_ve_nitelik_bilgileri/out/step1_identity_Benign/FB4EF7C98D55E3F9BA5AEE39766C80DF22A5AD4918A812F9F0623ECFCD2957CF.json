@@ -1,0 +1,12 @@
+{
+  "apk_file": "FB4EF7C98D55E3F9BA5AEE39766C80DF22A5AD4918A812F9F0623ECFCD2957CF.apk",
+  "sha256": "fb4ef7c98d55e3f9ba5aee39766c80df22a5ad4918a812f9f0623ecfcd2957cf",
+  "package_name": "10",
+  "version_code": "2020557",
+  "version_name": "5.0.3",
+  "min_sdk": "23",
+  "target_sdk": "29",
+  "apk_size_kb": 174212,
+  "dex_count": 1,
+  "native_lib_count": 62
+}

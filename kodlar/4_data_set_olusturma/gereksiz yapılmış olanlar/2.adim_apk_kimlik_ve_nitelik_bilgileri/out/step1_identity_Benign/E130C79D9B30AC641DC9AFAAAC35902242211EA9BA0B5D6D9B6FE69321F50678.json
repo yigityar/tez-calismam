@@ -1,0 +1,12 @@
+{
+  "apk_file": "E130C79D9B30AC641DC9AFAAAC35902242211EA9BA0B5D6D9B6FE69321F50678.apk",
+  "sha256": "e130c79d9b30ac641dc9afaaac35902242211ea9ba0b5d6d9b6fe69321f50678",
+  "package_name": "12",
+  "version_code": "217",
+  "version_name": "6.9.1",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 93976,
+  "dex_count": 1,
+  "native_lib_count": 36
+}

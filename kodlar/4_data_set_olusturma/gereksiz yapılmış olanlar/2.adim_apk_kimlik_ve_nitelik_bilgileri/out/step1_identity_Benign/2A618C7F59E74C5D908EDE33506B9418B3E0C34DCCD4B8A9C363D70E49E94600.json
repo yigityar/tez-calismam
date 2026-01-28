@@ -1,0 +1,12 @@
+{
+  "apk_file": "2A618C7F59E74C5D908EDE33506B9418B3E0C34DCCD4B8A9C363D70E49E94600.apk",
+  "sha256": "2a618c7f59e74c5d908ede33506b9418b3e0c34dccd4b8a9c363d70e49e94600",
+  "package_name": "13",
+  "version_code": "670",
+  "version_name": "6.70",
+  "min_sdk": "23",
+  "target_sdk": "33",
+  "apk_size_kb": 38648,
+  "dex_count": 2,
+  "native_lib_count": 4
+}

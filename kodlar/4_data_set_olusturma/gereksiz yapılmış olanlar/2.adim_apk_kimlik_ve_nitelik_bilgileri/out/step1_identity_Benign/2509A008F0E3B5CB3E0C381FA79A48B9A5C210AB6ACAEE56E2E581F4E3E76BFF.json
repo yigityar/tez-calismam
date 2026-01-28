@@ -1,0 +1,12 @@
+{
+  "apk_file": "2509A008F0E3B5CB3E0C381FA79A48B9A5C210AB6ACAEE56E2E581F4E3E76BFF.apk",
+  "sha256": "2509a008f0e3b5cb3e0c381fa79a48b9a5c210ab6acaee56e2e581f4e3e76bff",
+  "package_name": "10",
+  "version_code": "942",
+  "version_name": "5.4.1",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 82368,
+  "dex_count": 1,
+  "native_lib_count": 67
+}

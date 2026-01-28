@@ -1,0 +1,16 @@
+{
+  "apk_file": "6F8340EBFB6772C3C65CD6CF654415F6F8B8B48F6D723704A258104573104F96.apk",
+  "permissions_list": "android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WAKE_LOCK,android.permission.INTERNET,android.permission.FOREGROUND_SERVICE,android.permission.CAMERA,com.google.android.c2dm.permission.RECEIVE,com.insidetora.insidetoraapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 4,
+  "count_service": 5,
+  "count_receiver": 3,
+  "count_provider": 4,
+  "count_exported": 7
+}

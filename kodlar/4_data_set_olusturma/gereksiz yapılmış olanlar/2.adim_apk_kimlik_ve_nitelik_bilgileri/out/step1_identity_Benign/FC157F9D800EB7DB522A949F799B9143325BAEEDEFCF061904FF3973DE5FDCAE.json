@@ -1,0 +1,12 @@
+{
+  "apk_file": "FC157F9D800EB7DB522A949F799B9143325BAEEDEFCF061904FF3973DE5FDCAE.apk",
+  "sha256": "fc157f9d800eb7db522a949f799b9143325baeedefcf061904ff3973de5fdcae",
+  "package_name": "12",
+  "version_code": "450000335",
+  "version_name": "3.35",
+  "min_sdk": "16",
+  "target_sdk": "31",
+  "apk_size_kb": 104704,
+  "dex_count": 2,
+  "native_lib_count": 16
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "B98C4A4DEDD701B043F38C9FDDA5A5303B2401AFB057F82CF4B41499A1024606.apk",
+  "sha256": "b98c4a4dedd701b043f38c9fdda5a5303b2401afb057f82cf4b41499a1024606",
+  "package_name": "12",
+  "version_code": "115",
+  "version_name": "2.3.0",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 58080,
+  "dex_count": 1,
+  "native_lib_count": 18
+}

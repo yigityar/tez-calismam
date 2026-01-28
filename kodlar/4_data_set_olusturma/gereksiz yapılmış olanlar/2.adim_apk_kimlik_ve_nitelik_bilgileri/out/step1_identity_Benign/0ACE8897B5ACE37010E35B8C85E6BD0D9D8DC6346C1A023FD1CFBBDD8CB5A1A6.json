@@ -1,0 +1,12 @@
+{
+  "apk_file": "0ACE8897B5ACE37010E35B8C85E6BD0D9D8DC6346C1A023FD1CFBBDD8CB5A1A6.apk",
+  "sha256": "0ace8897b5ace37010e35b8c85e6bd0d9d8dc6346c1a023fd1cfbbdd8cb5a1a6",
+  "package_name": "12",
+  "version_code": "59",
+  "version_name": "3.1.7",
+  "min_sdk": "27",
+  "target_sdk": "31",
+  "apk_size_kb": 39084,
+  "dex_count": 1,
+  "native_lib_count": 336
+}

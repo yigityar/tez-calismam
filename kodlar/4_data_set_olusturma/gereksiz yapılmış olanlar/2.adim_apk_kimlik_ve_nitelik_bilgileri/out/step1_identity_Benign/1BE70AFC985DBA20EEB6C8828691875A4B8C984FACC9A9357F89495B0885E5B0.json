@@ -1,0 +1,12 @@
+{
+  "apk_file": "1BE70AFC985DBA20EEB6C8828691875A4B8C984FACC9A9357F89495B0885E5B0.apk",
+  "sha256": "1be70afc985dba20eeb6c8828691875a4b8c984facc9a9357f89495b0885e5b0",
+  "package_name": "11",
+  "version_code": "119736",
+  "version_name": "1.35.0.119736",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 43484,
+  "dex_count": 1,
+  "native_lib_count": 14
+}

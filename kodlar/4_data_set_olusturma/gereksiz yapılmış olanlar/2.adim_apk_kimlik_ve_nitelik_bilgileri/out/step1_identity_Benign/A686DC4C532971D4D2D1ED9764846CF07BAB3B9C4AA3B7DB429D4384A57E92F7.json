@@ -1,0 +1,12 @@
+{
+  "apk_file": "A686DC4C532971D4D2D1ED9764846CF07BAB3B9C4AA3B7DB429D4384A57E92F7.apk",
+  "sha256": "a686dc4c532971d4d2d1ed9764846cf07bab3b9c4aa3b7db429d4384a57e92f7",
+  "package_name": "10",
+  "version_code": "8007022",
+  "version_name": "8.7.22",
+  "min_sdk": "23",
+  "target_sdk": "29",
+  "apk_size_kb": 155300,
+  "dex_count": 14,
+  "native_lib_count": 96
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "BD3AD4B5052B855CF23A9486000033876CE5B4427BCDD9959655593018DC4FAD.apk",
+  "sha256": "bd3ad4b5052b855cf23a9486000033876ce5b4427bcdd9959655593018dc4fad",
+  "package_name": "9",
+  "version_code": "46",
+  "version_name": "7.1.4",
+  "min_sdk": "16",
+  "target_sdk": "25",
+  "apk_size_kb": 40660,
+  "dex_count": 2,
+  "native_lib_count": 39
+}

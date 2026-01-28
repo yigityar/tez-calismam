@@ -1,0 +1,12 @@
+{
+  "apk_file": "33176BD63B1E0AB721DB3DDAA44226C19AEAC2B6FA3C41807BAA6A501379E115.apk",
+  "sha256": "33176bd63b1e0ab721db3ddaa44226c19aeac2b6fa3c41807baa6a501379e115",
+  "package_name": "11",
+  "version_code": "38",
+  "version_name": "3.8",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 7932,
+  "dex_count": 5,
+  "native_lib_count": 0
+}

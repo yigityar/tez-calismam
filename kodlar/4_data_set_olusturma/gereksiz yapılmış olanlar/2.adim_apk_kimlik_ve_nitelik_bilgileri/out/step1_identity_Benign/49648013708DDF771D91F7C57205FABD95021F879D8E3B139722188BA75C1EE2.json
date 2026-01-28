@@ -1,0 +1,12 @@
+{
+  "apk_file": "49648013708DDF771D91F7C57205FABD95021F879D8E3B139722188BA75C1EE2.apk",
+  "sha256": "49648013708ddf771d91f7c57205fabd95021f879d8e3b139722188ba75c1ee2",
+  "package_name": "11",
+  "version_code": "115",
+  "version_name": "6.3.0",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 38632,
+  "dex_count": 5,
+  "native_lib_count": 22
+}

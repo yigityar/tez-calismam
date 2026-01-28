@@ -1,0 +1,12 @@
+{
+  "apk_file": "B5D2C8CAE5AAF3856F0B3E6FBA83CDF468391BAE953FD833664EED4A343C60C9.apk",
+  "sha256": "b5d2c8cae5aaf3856f0b3e6fba83cdf468391bae953fd833664eed4a343c60c9",
+  "package_name": "11",
+  "version_code": "20231201",
+  "version_name": "4.1.29",
+  "min_sdk": "17",
+  "target_sdk": "30",
+  "apk_size_kb": 46720,
+  "dex_count": 1,
+  "native_lib_count": 79
+}

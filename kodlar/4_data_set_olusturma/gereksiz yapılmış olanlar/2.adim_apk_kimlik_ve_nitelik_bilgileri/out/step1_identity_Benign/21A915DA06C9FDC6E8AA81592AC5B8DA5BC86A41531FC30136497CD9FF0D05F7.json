@@ -1,0 +1,12 @@
+{
+  "apk_file": "21A915DA06C9FDC6E8AA81592AC5B8DA5BC86A41531FC30136497CD9FF0D05F7.apk",
+  "sha256": "21a915da06c9fdc6e8aa81592ac5b8da5bc86a41531fc30136497cd9ff0d05f7",
+  "package_name": "15",
+  "version_code": "433",
+  "version_name": "7.29.1-release",
+  "min_sdk": "26",
+  "target_sdk": "35",
+  "apk_size_kb": 43788,
+  "dex_count": 8,
+  "native_lib_count": 16
+}

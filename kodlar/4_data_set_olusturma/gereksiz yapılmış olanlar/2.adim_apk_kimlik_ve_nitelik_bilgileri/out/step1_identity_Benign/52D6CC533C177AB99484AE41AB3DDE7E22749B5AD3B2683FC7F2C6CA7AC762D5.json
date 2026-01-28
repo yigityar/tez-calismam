@@ -1,0 +1,12 @@
+{
+  "apk_file": "52D6CC533C177AB99484AE41AB3DDE7E22749B5AD3B2683FC7F2C6CA7AC762D5.apk",
+  "sha256": "52d6cc533c177ab99484ae41ab3dde7e22749b5ad3b2683fc7f2c6ca7ac762d5",
+  "package_name": "11",
+  "version_code": "56",
+  "version_name": "1.38.0",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 73472,
+  "dex_count": 7,
+  "native_lib_count": 72
+}

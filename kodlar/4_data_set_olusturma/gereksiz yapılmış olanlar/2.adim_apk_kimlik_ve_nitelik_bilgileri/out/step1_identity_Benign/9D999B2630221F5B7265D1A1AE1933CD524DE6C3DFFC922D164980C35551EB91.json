@@ -1,0 +1,12 @@
+{
+  "apk_file": "9D999B2630221F5B7265D1A1AE1933CD524DE6C3DFFC922D164980C35551EB91.apk",
+  "sha256": "9d999b2630221f5b7265d1a1ae1933cd524de6c3dffc922d164980c35551eb91",
+  "package_name": "cn.jsb.china",
+  "version_code": "712",
+  "version_name": "7.1.2",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 146396,
+  "dex_count": 1,
+  "native_lib_count": 166
+}

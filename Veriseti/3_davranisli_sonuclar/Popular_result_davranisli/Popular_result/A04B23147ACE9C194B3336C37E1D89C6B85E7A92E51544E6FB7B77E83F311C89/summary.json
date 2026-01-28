@@ -1,0 +1,90 @@
+{
+    "apk_name": "A04B23147ACE9C194B3336C37E1D89C6B85E7A92E51544E6FB7B77E83F311C89",
+    "sha256": "a04b23147ace9c194b3336c37e1d89c6b85e7a92e51544e6fb7b77e83f311c89",
+    "metadata": {
+        "package_name": "com.discord",
+        "version_code": "297",
+        "version_name": "2.9.7",
+        "min_sdk": "16",
+        "target_sdk": "24",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.CAMERA",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.INTERNET",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.discord.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "activities": [
+            "com.android.camera.CropImage",
+            "com.discord.screens.ScreenAuthLogin",
+            "com.discord.screens.ScreenAuthMfa",
+            "com.discord.screens.ScreenAuthRegister",
+            "com.discord.screens.ScreenAux",
+            "com.discord.screens.ScreenLoading",
+            "com.discord.screens.ScreenMain"
+        ],
+        "services": [
+            "com.discord.utilities.fcm.NotificationClient$FCMInstanceIdService",
+            "com.discord.utilities.fcm.NotificationClient$FCMMessagingService",
+            "com.discord.utilities.voice.VoiceEngineForegroundService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService"
+        ],
+        "receivers": [
+            "com.discord.utilities.fcm.NotificationClient$NotificationDelete",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.BROADCAST_STICKY": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.MODIFY_AUDIO_SETTINGS": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECORD_AUDIO": "dangerous",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.discord.permission.C2D_MESSAGE": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 7,
+            "dangerous": 5,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 24
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 20.96,
+        "sources_present": true,
+        "java_file_count": 4549
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 1,
+        "camera": 25,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 11
+    },
+    "analysis_state": "complete"
+}

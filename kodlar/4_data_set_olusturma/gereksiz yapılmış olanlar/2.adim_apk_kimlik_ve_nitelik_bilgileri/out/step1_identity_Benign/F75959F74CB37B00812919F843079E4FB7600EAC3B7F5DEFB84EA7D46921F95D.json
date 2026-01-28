@@ -1,0 +1,12 @@
+{
+  "apk_file": "F75959F74CB37B00812919F843079E4FB7600EAC3B7F5DEFB84EA7D46921F95D.apk",
+  "sha256": "f75959f74cb37b00812919f843079e4fb7600eac3b7f5defb84ea7d46921f95d",
+  "package_name": "11",
+  "version_code": "140",
+  "version_name": "2.40",
+  "min_sdk": "24",
+  "target_sdk": "33",
+  "apk_size_kb": 110912,
+  "dex_count": 4,
+  "native_lib_count": 42
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "4DCC024C2A09DAFBA0DC5FFFF4BBBF96F8EC1AA0B15E031B217ED6D1E6A62AA3.apk",
+  "sha256": "4dcc024c2a09dafba0dc5ffff4bbbf96f8ec1aa0b15e031b217ed6d1e6a62aa3",
+  "package_name": "9",
+  "version_code": "130400",
+  "version_name": "13.4.0",
+  "min_sdk": "16",
+  "target_sdk": "28",
+  "apk_size_kb": 71404,
+  "dex_count": 19,
+  "native_lib_count": 69
+}

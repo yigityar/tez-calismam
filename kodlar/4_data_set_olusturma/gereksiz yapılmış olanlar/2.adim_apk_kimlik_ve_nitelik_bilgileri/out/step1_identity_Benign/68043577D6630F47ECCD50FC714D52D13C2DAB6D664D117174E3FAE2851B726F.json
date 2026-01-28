@@ -1,0 +1,12 @@
+{
+  "apk_file": "68043577D6630F47ECCD50FC714D52D13C2DAB6D664D117174E3FAE2851B726F.apk",
+  "sha256": "68043577d6630f47eccd50fc714d52d13c2dab6d664d117174e3fae2851b726f",
+  "package_name": "11",
+  "version_code": "35",
+  "version_name": "2.0.3",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 56588,
+  "dex_count": 1,
+  "native_lib_count": 36
+}

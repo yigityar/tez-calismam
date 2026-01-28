@@ -1,0 +1,16 @@
+{
+  "apk_file": "D73899A75B68A527DE2C7A34934242F0F3F8B4BB454F32B94FB631800FDD4BDE.apk",
+  "permissions_list": "android.permission.ACCESS_NETWORK_STATE,android.permission.INTERNET,android.permission.READ_PHONE_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_FINE_LOCATION,android.permission.READ_CONTACTS,android.permission.WRITE_CONTACTS,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.BROADCAST_STICKY,android.permission.WRITE_SETTINGS,android.permission.ACCESS_WIFI_STATE,android.permission.WAKE_LOCK,android.permission.ACCESS_COARSE_LOCATION,android.permission.CHANGE_WIFI_STATE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.CAMERA,android.permission.VIBRATE,android.permission.BLUETOOTH,android.permission.SYSTEM_ALERT_WINDOW,android.permission.FOREGROUND_SERVICE,android.permission.GET_TASKS,android.permission.REORDER_TASKS,android.permission.READ_PRIVILEGED_PHONE_STATE,android.permission.QUERY_ALL_PACKAGES,com.baidu.autocar.permission.sofire.RECEIVE,android.permission.USE_FINGERPRINT,android.permission.READ_MEDIA_IMAGES,baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.baidu.autocar,android.permission.POST_NOTIFICATIONS,com.vivo.abe.permission.launcher.notification.num,com.vivo.notification.permission.BADGE_ICON,com.huawei.android.launcher.permission.CHANGE_BADGE,com.baidu.autocar.permission.PROCESS_PUSH_MSG,com.baidu.autocar.permission.PUSH_PROVIDER,com.baidu.autocar.permission.MIPUSH_RECEIVE,android.permission.INTERACT_ACROSS_USERS_FULL,android.permission.INTERACT_ACROSS_USERS,android.permission.MANAGE_USERS,com.hihonor.push.permission.READ_PUSH_NOTIFICATION_INFO,com.baidu.autocar.permission.APS_INSTALL,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.CHANGE_NETWORK_STATE,android.permission.MODIFY_PHONE_STATE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 635,
+  "count_service": 79,
+  "count_receiver": 20,
+  "count_provider": 25,
+  "count_exported": 32
+}

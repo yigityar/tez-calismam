@@ -1,0 +1,16 @@
+{
+  "apk_file": "DE3489B3CD791A9942D8F4B2FEF032B0C076D7768E00177B5162433A30A62A3C.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.CAMERA,android.permission.READ_PHONE_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.GET_TASKS,android.permission.VIBRATE,android.permission.DISABLE_KEYGUARD,android.permission.CHANGE_NETWORK_STATE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.WRITE_CALENDAR,android.permission.READ_CALENDAR,android.permission.SYSTEM_ALERT_WINDOW,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.FOREGROUND_SERVICE,android.permission.READ_EXTERNAL_STORAGE,android.permission.RECEIVE_BOOT_COMPLETED,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.SCHEDULE_EXACT_ALARM,getui.permission.GetuiService.com.xiachufang,com.xiachufang.permission.PROCESS_PUSH_MSG,com.xiachufang.permission.PUSH_PROVIDER,com.xiachufang.permission.MIPUSH_RECEIVE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.xiachufang.openadsdk.permission.TT_PANGOLIN,android.permission.REORDER_TASKS,android.permission.ACCESS_COARSE_LOCATION,com.google.android.gms.permission.AD_ID,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 384,
+  "count_service": 30,
+  "count_receiver": 11,
+  "count_provider": 25,
+  "count_exported": 20
+}

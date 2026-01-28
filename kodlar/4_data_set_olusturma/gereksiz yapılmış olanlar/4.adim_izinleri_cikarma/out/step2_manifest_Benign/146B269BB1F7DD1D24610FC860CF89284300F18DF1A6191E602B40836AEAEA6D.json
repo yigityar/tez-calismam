@@ -1,0 +1,16 @@
+{
+  "apk_file": "146B269BB1F7DD1D24610FC860CF89284300F18DF1A6191E602B40836AEAEA6D.apk",
+  "permissions_list": "com.aircap.girlglobe.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE,com.android.vending.BILLING,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.WAKE_LOCK,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.GET_TASKS,android.permission.QUERY_ALL_PACKAGES",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 29,
+  "count_service": 13,
+  "count_receiver": 15,
+  "count_provider": 9,
+  "count_exported": 1
+}

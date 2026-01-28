@@ -1,0 +1,12 @@
+{
+  "apk_file": "972C8A4ADDE142514CF980C471BFB507CFA075F9173CC6E5D3B882AB4636E688.apk",
+  "sha256": "972c8a4adde142514cf980c471bfb507cfa075f9173cc6e5d3b882ab4636e688",
+  "package_name": "6.0-2438415",
+  "version_code": "30700",
+  "version_name": "3.07.0",
+  "min_sdk": "17",
+  "target_sdk": "26",
+  "apk_size_kb": 119672,
+  "dex_count": 2,
+  "native_lib_count": 18
+}

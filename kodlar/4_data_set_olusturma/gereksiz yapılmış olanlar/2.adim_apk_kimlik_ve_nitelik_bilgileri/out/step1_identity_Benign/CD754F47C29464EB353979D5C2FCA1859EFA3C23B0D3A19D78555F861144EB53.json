@@ -1,0 +1,12 @@
+{
+  "apk_file": "CD754F47C29464EB353979D5C2FCA1859EFA3C23B0D3A19D78555F861144EB53.apk",
+  "sha256": "cd754f47c29464eb353979d5c2fca1859efa3c23b0d3a19d78555f861144eb53",
+  "package_name": "com.cgbchina.xpt",
+  "version_code": "20220614",
+  "version_name": "7.3.0",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 137924,
+  "dex_count": 2,
+  "native_lib_count": 107
+}

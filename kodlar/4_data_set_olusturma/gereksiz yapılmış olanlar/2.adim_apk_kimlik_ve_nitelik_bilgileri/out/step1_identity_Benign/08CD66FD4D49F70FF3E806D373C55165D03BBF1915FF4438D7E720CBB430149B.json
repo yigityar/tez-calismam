@@ -1,0 +1,12 @@
+{
+  "apk_file": "08CD66FD4D49F70FF3E806D373C55165D03BBF1915FF4438D7E720CBB430149B.apk",
+  "sha256": "08cd66fd4d49f70ff3e806d373c55165d03bbf1915ff4438d7e720cbb430149b",
+  "package_name": "11",
+  "version_code": "220901",
+  "version_name": "22.9.0",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 164460,
+  "dex_count": 30,
+  "native_lib_count": 156
+}

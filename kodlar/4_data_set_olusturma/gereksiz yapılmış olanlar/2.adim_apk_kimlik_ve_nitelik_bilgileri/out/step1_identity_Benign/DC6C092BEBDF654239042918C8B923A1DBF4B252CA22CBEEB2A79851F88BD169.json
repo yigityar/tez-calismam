@@ -1,0 +1,12 @@
+{
+  "apk_file": "DC6C092BEBDF654239042918C8B923A1DBF4B252CA22CBEEB2A79851F88BD169.apk",
+  "sha256": "dc6c092bebdf654239042918c8b923a1dbf4b252ca22cbeeb2a79851f88bd169",
+  "package_name": "11",
+  "version_code": "10101",
+  "version_name": "1.1.1",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 28936,
+  "dex_count": 1,
+  "native_lib_count": 18
+}

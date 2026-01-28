@@ -1,0 +1,12 @@
+{
+  "apk_file": "AA116B9E727C21876CEE38837B06A605862388697B965AAA1EB92BE143D1DC7E.apk",
+  "sha256": "aa116b9e727c21876cee38837b06a605862388697b965aaa1eb92be143d1dc7e",
+  "package_name": "11",
+  "version_code": "22059",
+  "version_name": "5.29.0",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 49216,
+  "dex_count": 6,
+  "native_lib_count": 70
+}

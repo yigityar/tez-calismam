@@ -1,0 +1,16 @@
+{
+  "apk_file": "33F257A5BE7050FF075B2DEEE0FEE7CDF81E5EF288B1CF5C521DB6A9BABDD70B.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.GET_TASKS,getui.permission.GetuiService.cn.zepeto.main,cn.zepeto.main.permission.MIPUSH_RECEIVE,android.permission.WRITE_SETTINGS,com.meizu.flyme.push.permission.RECEIVE,com.meizu.c2dm.permission.RECEIVE,cn.zepeto.main.push.permission.MESSAGE,cn.zepeto.main.permission.C2D_MESSAGE,cn.zepeto.main.permission.RECEIVE_MSG,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.FOREGROUND_SERVICE,android.permission.CAMERA,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_CONTACTS,com.google.android.gms.permission.AD_ID,com.meizu.flyme.permission.PUSH,android.permission.SCHEDULE_EXACT_ALARM,android.permission.CHANGE_NETWORK_STATE,android.permission.RECORD_AUDIO,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.QUERY_ALL_PACKAGES,android.permission.REORDER_TASKS,cn.zepeto.main.openadsdk.permission.TT_PANGOLIN,com.asus.msa.SupplementaryDID.ACCESS,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.CHANGE_WIFI_STATE,android.permission.WAKE_LOCK,cn.zepeto.main.permission.PROCESS_PUSH_MSG,cn.zepeto.main.permission.PUSH_PROVIDER,com.android.vending.BILLING,android.permission.INTERACT_ACROSS_USERS,android.permission.RECEIVE_BOOT_COMPLETED,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.BLUETOOTH,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 103,
+  "count_service": 47,
+  "count_receiver": 28,
+  "count_provider": 25,
+  "count_exported": 24
+}

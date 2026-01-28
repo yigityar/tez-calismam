@@ -1,0 +1,12 @@
+{
+  "apk_file": "6E36BBDE21B95DB6252328FCC845777EC224CBBC5FDD56D9FC5265AE442714D7.apk",
+  "sha256": "6e36bbde21b95db6252328fcc845777ec224cbbc5fdd56d9fc5265ae442714d7",
+  "package_name": "11",
+  "version_code": "1402",
+  "version_name": "7.2.8",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 115820,
+  "dex_count": 10,
+  "native_lib_count": 105
+}

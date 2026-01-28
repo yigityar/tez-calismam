@@ -1,0 +1,12 @@
+{
+  "apk_file": "52EABE495C4D42E2DB707406D2A67C79D516B86C44DEF85EFC3AD3C72CC4189F.apk",
+  "sha256": "52eabe495c4d42e2db707406d2a67c79d516b86c44def85efc3ad3c72cc4189f",
+  "package_name": "us.zoom.videomeetings",
+  "version_code": "40006",
+  "version_name": "4.0.29656.0413",
+  "min_sdk": "14",
+  "target_sdk": "23",
+  "apk_size_kb": 31432,
+  "dex_count": 1,
+  "native_lib_count": 50
+}

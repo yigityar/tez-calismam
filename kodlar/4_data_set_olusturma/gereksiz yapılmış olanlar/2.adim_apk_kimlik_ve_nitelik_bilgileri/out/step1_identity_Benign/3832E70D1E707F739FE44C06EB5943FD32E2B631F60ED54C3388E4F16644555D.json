@@ -1,0 +1,12 @@
+{
+  "apk_file": "3832E70D1E707F739FE44C06EB5943FD32E2B631F60ED54C3388E4F16644555D.apk",
+  "sha256": "3832e70d1e707f739fe44c06eb5943fd32e2b631f60ed54c3388e4f16644555d",
+  "package_name": "12",
+  "version_code": "23042500",
+  "version_name": "4.25.0",
+  "min_sdk": "24",
+  "target_sdk": "31",
+  "apk_size_kb": 49584,
+  "dex_count": 2,
+  "native_lib_count": 36
+}

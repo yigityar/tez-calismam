@@ -1,0 +1,12 @@
+{
+  "apk_file": "8E7891A56CDCECDF1B0860518E6E69760F3DC12F6BEE870C92DF3EFDD947C8EA.apk",
+  "sha256": "8e7891a56cdcecdf1b0860518e6e69760f3dc12f6bee870c92df3efdd947c8ea",
+  "package_name": "14",
+  "version_code": "47",
+  "version_name": "1.24",
+  "min_sdk": "9",
+  "target_sdk": "34",
+  "apk_size_kb": 15080,
+  "dex_count": 3,
+  "native_lib_count": 15
+}

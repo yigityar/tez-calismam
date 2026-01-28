@@ -1,0 +1,12 @@
+{
+  "apk_file": "0C04CBF9FD6BF67B3F01161B2540951C4411DA16CB8DA07B259ED3701FDB781E.apk",
+  "sha256": "0c04cbf9fd6bf67b3f01161b2540951c4411da16cb8da07b259ed3701fdb781e",
+  "package_name": "13",
+  "version_code": "121",
+  "version_name": "9.31",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 45268,
+  "dex_count": 1,
+  "native_lib_count": 424
+}

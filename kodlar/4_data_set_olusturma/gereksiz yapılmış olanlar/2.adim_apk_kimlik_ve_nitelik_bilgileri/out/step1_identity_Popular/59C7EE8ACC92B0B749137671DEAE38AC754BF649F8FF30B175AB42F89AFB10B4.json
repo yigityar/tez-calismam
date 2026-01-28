@@ -1,0 +1,12 @@
+{
+  "apk_file": "59C7EE8ACC92B0B749137671DEAE38AC754BF649F8FF30B175AB42F89AFB10B4.apk",
+  "sha256": "59c7ee8acc92b0b749137671deae38ac754bf649f8ff30b175ab42f89afb10b4",
+  "package_name": "com.twitter.android",
+  "version_code": "6110056",
+  "version_name": "6.38.0",
+  "min_sdk": "16",
+  "target_sdk": "25",
+  "apk_size_kb": 31700,
+  "dex_count": 3,
+  "native_lib_count": 11
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "BB4031792C110D641B7C0C15517D93C141554CC8015833CB5F503FD2A3926620.apk",
+  "sha256": "bb4031792c110d641b7c0c15517d93c141554cc8015833cb5f503fd2a3926620",
+  "package_name": "10",
+  "version_code": "709989",
+  "version_name": "9.9.89",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 69252,
+  "dex_count": 6,
+  "native_lib_count": 62
+}

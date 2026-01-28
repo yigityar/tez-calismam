@@ -1,0 +1,16 @@
+{
+  "apk_file": "3B6435F6FBA05145E9A4AC34614667C5FCAD8902210BB1956AE03BF203F3CD93.apk",
+  "permissions_list": "android.permission.WAKE_LOCK,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.INTERNET,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH,android.permission.MEDIA_CONTENT_CONTROL,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.FOREGROUND_SERVICE,android.permission.CHANGE_WIFI_STATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.BLUETOOTH_CONNECT,android.permission.VIBRATE,android.permission.BLUETOOTH_SCAN,android.permission.CHANGE_NETWORK_STATE,android.permission.WRITE_SETTINGS,android.permission.POST_NOTIFICATIONS,com.google.android.c2dm.permission.RECEIVE,com.bang_olufsen.OneApp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 13,
+  "count_service": 14,
+  "count_receiver": 16,
+  "count_provider": 6,
+  "count_exported": 12
+}

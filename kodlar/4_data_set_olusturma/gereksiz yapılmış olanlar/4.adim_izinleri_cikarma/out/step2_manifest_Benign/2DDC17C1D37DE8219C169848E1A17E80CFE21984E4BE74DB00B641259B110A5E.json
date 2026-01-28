@@ -1,0 +1,16 @@
+{
+  "apk_file": "2DDC17C1D37DE8219C169848E1A17E80CFE21984E4BE74DB00B641259B110A5E.apk",
+  "permissions_list": "android.permission.WRITE_EXTERNAL_STORAGE,com.android.vending.CHECK_LICENSE,android.permission.INTERNET,android.permission.WAKE_LOCK,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.VIBRATE,com.android.vending.BILLING,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.sonyericsson.home.permission.BROADCAST_BADGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.gms.permission.AD_ID,android.permission.SCHEDULE_EXACT_ALARM,android.permission.READ_EXTERNAL_STORAGE,android.permission.POST_NOTIFICATIONS,com.google.android.c2dm.permission.RECEIVE,com.applovin.array.apphub.permission.BIND_APPHUB_SERVICE,android.permission.ACCESS_ADSERVICES_AD_ID,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,android.permission.ACCESS_ADSERVICES_TOPICS,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.FOREGROUND_SERVICE,com.pixel.gun3d.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,com.pixel.gun3d.permission.C2D_MESSAGE,com.pixel.gun3d.deveventspermission",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 99,
+  "count_service": 23,
+  "count_receiver": 23,
+  "count_provider": 12,
+  "count_exported": 21
+}

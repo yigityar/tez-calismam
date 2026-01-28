@@ -1,0 +1,16 @@
+{
+  "apk_file": "FB4EF7C98D55E3F9BA5AEE39766C80DF22A5AD4918A812F9F0623ECFCD2957CF.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.REORDER_TASKS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WAKE_LOCK,android.permission.BLUETOOTH,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.READ_CONTACTS,android.permission.RECORD_AUDIO,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.BLUETOOTH_ADMIN,android.permission.FOREGROUND_SERVICE,android.permission.READ_PHONE_STATE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.WRITE_SETTINGS,android.permission.VIBRATE,android.permission.ACCESS_COARSE_LOCATION,android.permission.DISABLE_KEYGUARD,android.permission.ACCESS_DOWNLOAD_MANAGER,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.EXPAND_STATUS_BAR,baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.lincoln.lincolnwaycn,com.android.permission.DEEP_LINK_RECEIVER,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.QUERY_ALL_PACKAGES,android.permission.USE_FINGERPRINT,android.permission.CHANGE_NETWORK_STATE,android.permission.GET_TASKS,com.lincoln.lincolnwaycn.permission.sofire.RECEIVE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 78,
+  "count_service": 15,
+  "count_receiver": 13,
+  "count_provider": 8,
+  "count_exported": 9
+}

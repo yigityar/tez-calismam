@@ -1,0 +1,12 @@
+{
+  "apk_file": "7C9769C280F7D2C3A762D7AF5AC4B4C50B090E029A0344806D20D6E2804D176F.apk",
+  "sha256": "7c9769c280f7d2c3a762d7af5ac4b4c50b090e029a0344806d20d6e2804d176f",
+  "package_name": "13",
+  "version_code": "438",
+  "version_name": "1.0.438",
+  "min_sdk": "24",
+  "target_sdk": "33",
+  "apk_size_kb": 53668,
+  "dex_count": 1,
+  "native_lib_count": 34
+}

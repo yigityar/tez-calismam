@@ -1,0 +1,12 @@
+{
+  "apk_file": "6C9283479E9E334CD2FBF17C197B666EA76CA5ED3946B23D3D8B8FB0BADDB8EE.apk",
+  "sha256": "6c9283479e9e334cd2fbf17c197b666ea76ca5ed3946b23d3d8b8fb0baddb8ee",
+  "package_name": "14",
+  "version_code": "121",
+  "version_name": "0.10.1",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "apk_size_kb": 38528,
+  "dex_count": 1,
+  "native_lib_count": 2
+}

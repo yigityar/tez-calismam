@@ -1,0 +1,12 @@
+{
+  "apk_file": "CDF14C62BA726E8BBF2351F8252DB81FC12D01578929BC918B4F4B71BB16BE21.apk",
+  "sha256": "cdf14c62ba726e8bbf2351f8252db81fc12d01578929bc918b4f4b71bb16be21",
+  "package_name": "10",
+  "version_code": "254",
+  "version_name": "8.2.9",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 105108,
+  "dex_count": 2,
+  "native_lib_count": 39
+}

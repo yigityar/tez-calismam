@@ -1,0 +1,16 @@
+{
+  "apk_file": "64E0BF83ACD6CBC3E834F8FE26C52D6A019AFBE52140F2CEE6E5CC7D247C7A5D.apk",
+  "permissions_list": "android.permission.WRITE_EXTERNAL_STORAGE,android.permission.NFC,android.permission.VIBRATE,android.permission.WAKE_LOCK,android.permission.WRITE_SETTINGS,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.INTERNET,android.permission.FOREGROUND_SERVICE,android.permission.ACCESS_FINE_LOCATION,android.permission.NEARBY_WIFI_DEVICES,android.permission.BLUETOOTH_SCAN,android.permission.BLUETOOTH_CONNECT,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 0,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 3,
+  "count_service": 3,
+  "count_receiver": 3,
+  "count_provider": 1,
+  "count_exported": 8
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "03E24CA18D6961C7DAEC096FDC73D0E27A4F85508280986F9F1B5AEEAC77A23D.apk",
+  "sha256": "03e24ca18d6961c7daec096fdc73d0e27a4f85508280986f9f1b5aeeac77a23d",
+  "package_name": "11",
+  "version_code": "32126",
+  "version_name": "7.18.2",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 95868,
+  "dex_count": 8,
+  "native_lib_count": 50
+}

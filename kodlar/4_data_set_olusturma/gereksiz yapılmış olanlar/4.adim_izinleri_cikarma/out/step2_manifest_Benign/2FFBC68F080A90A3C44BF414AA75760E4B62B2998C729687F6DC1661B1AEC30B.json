@@ -1,0 +1,16 @@
+{
+  "apk_file": "2FFBC68F080A90A3C44BF414AA75760E4B62B2998C729687F6DC1661B1AEC30B.apk",
+  "permissions_list": "br.com.as2.recadosamor.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.android.vending.BILLING,android.permission.VIBRATE,android.permission.INTERNET,android.permission.FOREGROUND_SERVICE,android.permission.WAKE_LOCK,android.permission.SCHEDULE_EXACT_ALARM,android.permission.ACCESS_NETWORK_STATE,com.google.android.c2dm.permission.RECEIVE,com.google.android.gms.permission.AD_ID,br.com.as2.recadosamor.permission.C2D_MESSAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 7,
+  "count_service": 13,
+  "count_receiver": 9,
+  "count_provider": 3,
+  "count_exported": 16
+}

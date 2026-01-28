@@ -1,0 +1,12 @@
+{
+  "apk_file": "571467164D4AFFDCDA66DD90A43B352A65824E937C612247058F8B87771BC1D2.apk",
+  "sha256": "571467164d4affdcda66dd90a43b352a65824e937c612247058f8b87771bc1d2",
+  "package_name": "15",
+  "version_code": "1022",
+  "version_name": "2025.1013.1022",
+  "min_sdk": "21",
+  "target_sdk": "35",
+  "apk_size_kb": 45996,
+  "dex_count": 3,
+  "native_lib_count": 400
+}

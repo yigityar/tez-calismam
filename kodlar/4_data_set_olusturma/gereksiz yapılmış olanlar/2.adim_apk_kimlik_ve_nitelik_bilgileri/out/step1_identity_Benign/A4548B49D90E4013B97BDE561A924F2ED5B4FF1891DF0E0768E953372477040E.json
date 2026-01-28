@@ -1,0 +1,12 @@
+{
+  "apk_file": "A4548B49D90E4013B97BDE561A924F2ED5B4FF1891DF0E0768E953372477040E.apk",
+  "sha256": "a4548b49d90e4013b97bde561a924f2ed5b4ff1891df0e0768e953372477040e",
+  "package_name": "6.0-2438415",
+  "version_code": "437",
+  "version_name": "4.3.7",
+  "min_sdk": "19",
+  "target_sdk": "33",
+  "apk_size_kb": 11820,
+  "dex_count": 1,
+  "native_lib_count": 8
+}

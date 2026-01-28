@@ -1,0 +1,12 @@
+{
+  "apk_file": "827C61431532695DDCC77CD3DCB50C23896C0046222C7A308B61667C96CD7081.apk",
+  "sha256": "827c61431532695ddcc77cd3dcb50c23896c0046222c7a308b61667c96cd7081",
+  "package_name": "13",
+  "version_code": "675",
+  "version_name": "5.3.0",
+  "min_sdk": "23",
+  "target_sdk": "33",
+  "apk_size_kb": 97084,
+  "dex_count": 1,
+  "native_lib_count": 42
+}

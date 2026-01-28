@@ -1,0 +1,12 @@
+{
+  "apk_file": "BE0F31B138B75B8A17DEA5E741ACA421F85418FB25A41540F685612ABB5E8546.apk",
+  "sha256": "be0f31b138b75b8a17dea5e741aca421f85418fb25a41540f685612abb5e8546",
+  "package_name": "12",
+  "version_code": "1000014",
+  "version_name": "1.0.14",
+  "min_sdk": "16",
+  "target_sdk": "31",
+  "apk_size_kb": 36944,
+  "dex_count": 2,
+  "native_lib_count": 4
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "4AC7B5C6BE2F5E01A919DAD5FA4821ACE4FDCCD9A9E9C3DA338F18FE47DD8A7C.apk",
+  "sha256": "4ac7b5c6be2f5e01a919dad5fa4821ace4fdccd9a9e9c3da338f18fe47dd8a7c",
+  "package_name": "13",
+  "version_code": "34",
+  "version_name": "1.1.22",
+  "min_sdk": "23",
+  "target_sdk": "33",
+  "apk_size_kb": 98672,
+  "dex_count": 2,
+  "native_lib_count": 14
+}

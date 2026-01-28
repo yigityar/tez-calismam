@@ -1,0 +1,12 @@
+{
+  "apk_file": "D4733F049E4EFF1DB24C31ADA5C5237CA00EA116240A5AC8FF6E76869BBA600A.apk",
+  "sha256": "d4733f049e4eff1db24c31ada5c5237ca00ea116240a5ac8ff6e76869bba600a",
+  "package_name": "12",
+  "version_code": "610",
+  "version_name": "6.0.8",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 73292,
+  "dex_count": 2,
+  "native_lib_count": 16
+}

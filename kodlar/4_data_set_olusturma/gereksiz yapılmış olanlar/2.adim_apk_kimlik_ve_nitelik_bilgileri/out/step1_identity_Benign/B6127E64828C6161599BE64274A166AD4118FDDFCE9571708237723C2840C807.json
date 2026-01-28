@@ -1,0 +1,12 @@
+{
+  "apk_file": "B6127E64828C6161599BE64274A166AD4118FDDFCE9571708237723C2840C807.apk",
+  "sha256": "b6127e64828c6161599be64274a166ad4118fddfce9571708237723c2840c807",
+  "package_name": "11",
+  "version_code": "374",
+  "version_name": "9.6.2",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 74380,
+  "dex_count": 2,
+  "native_lib_count": 67
+}

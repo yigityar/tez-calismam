@@ -1,0 +1,12 @@
+{
+  "apk_file": "6DAD89AC5FDCE63EA69B8F23909A212ACAEE71D08A71116F3BC61703F67CECE2.apk",
+  "sha256": "6dad89ac5fdce63ea69b8f23909a212acaee71d08a71116f3bc61703f67cece2",
+  "package_name": "10",
+  "version_code": "171",
+  "version_name": "4.9.6",
+  "min_sdk": "19",
+  "target_sdk": "29",
+  "apk_size_kb": 74040,
+  "dex_count": 1,
+  "native_lib_count": 52
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "017933955109A97C6ADFDE907E3F7578BB92F2AD412A62F61BD02E0B2EB27592.apk",
+  "permissions_list": "android.permission.READ_PHONE_STATE,android.permission.READ_PHONE_STATE,android.permission.READ_PRIVILEGED_PHONE_STATE,android.permission.USE_FINGERPRINT,android.permission.ACCESS_NETWORK_STATE,android.permission.INTERNET,com.google.android.providers.gsf.permission.READ_GSERVICES,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_NETWORK_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.WAKE_LOCK,android.permission.VIBRATE,android.permission.WRITE_SETTINGS,android.permission.DISABLE_KEYGUARD,android.permission.SYSTEM_ALERT_WINDOW,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.MANAGE_DOCUMENTS,android.permission.CAMERA,com.avanza.ambitwizfbl.permission.C2D_MESSAGE,android.permission.WAKE_LOCK,android.permission.GET_ACCOUNTS,android.permission.READ_PROFILE,android.permission.READ_CONTACTS,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_WIFI_STATE,android.permission.NFC,android.permission.READ_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 114,
+  "count_service": 12,
+  "count_receiver": 7,
+  "count_provider": 5,
+  "count_exported": 10
+}

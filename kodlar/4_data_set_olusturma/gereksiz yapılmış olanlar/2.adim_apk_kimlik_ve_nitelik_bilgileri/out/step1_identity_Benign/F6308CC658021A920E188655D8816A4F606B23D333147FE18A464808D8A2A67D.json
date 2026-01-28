@@ -1,0 +1,12 @@
+{
+  "apk_file": "F6308CC658021A920E188655D8816A4F606B23D333147FE18A464808D8A2A67D.apk",
+  "sha256": "f6308cc658021a920e188655d8816a4f606b23d333147fe18a464808d8a2a67d",
+  "package_name": "11",
+  "version_code": "135",
+  "version_name": "2.15.1",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 48148,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

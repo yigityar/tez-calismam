@@ -1,0 +1,12 @@
+{
+  "apk_file": "7A041E2BE6FF4617F5FDC7EF1606FB9EDA2751CDA933259A20065D8FF2859C4E.apk",
+  "sha256": "7a041e2be6ff4617f5fdc7ef1606fb9eda2751cda933259a20065d8ff2859c4e",
+  "package_name": "11",
+  "version_code": "623045",
+  "version_name": "6.23.45",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 20412,
+  "dex_count": 3,
+  "native_lib_count": 21
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "8D141CD56CF71525F8BC78068C7F228D0B7F860CC9F589236F0FF11ECE94B852.apk",
+  "sha256": "8d141cd56cf71525f8bc78068c7f228d0b7f860cc9f589236f0ff11ece94b852",
+  "package_name": "13",
+  "version_code": "37",
+  "version_name": "22.1.0",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 40864,
+  "dex_count": 1,
+  "native_lib_count": 40
+}

@@ -1,0 +1,76 @@
+{
+    "apk_name": "648DA7048EC9A0E9BC7CE33CCBBDCAD00DC73DE7BC131E29724BC503784E9F26",
+    "sha256": "648da7048ec9a0e9bc7ce33ccbbdcad00dc73de7bc131e29724bc503784e9f26",
+    "metadata": {
+        "package_name": "com.atakmap.android.compassnav.plugin",
+        "version_code": "1740770124",
+        "version_name": "1.0 (8b62eaf6) - [5.4.0]",
+        "min_sdk": "21",
+        "target_sdk": "34",
+        "permissions": [],
+        "activities": [
+            "com.atakmap.app.component"
+        ],
+        "services": [],
+        "receivers": [],
+        "permission_details": {},
+        "risk_counts": {}
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 3.49,
+        "sources_present": true,
+        "java_file_count": 8
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 0,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 0,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 0,
+            "dynamic_code": 0
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 0
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 0,
+            "handler_loop": 0,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 0,
+            "reflection": 0
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "582460A5DC68CD58E869E61CC79CE50F2844761ED0F0670A0C9D3DEAD19BE2AC.apk",
+  "sha256": "582460a5dc68cd58e869e61cc79ce50f2844761ed0f0670a0c9d3dead19be2ac",
+  "package_name": "11",
+  "version_code": "1628",
+  "version_name": "11.20.3",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 170400,
+  "dex_count": 47,
+  "native_lib_count": 95
+}

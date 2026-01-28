@@ -1,0 +1,12 @@
+{
+  "apk_file": "75EDF834605E8F61D618933E64ED3695488E012EE73FC423AD577986B10C6504.apk",
+  "sha256": "75edf834605e8f61d618933e64ed3695488e012ee73fc423ad577986b10c6504",
+  "package_name": "12",
+  "version_code": "7",
+  "version_name": "6.0",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 6980,
+  "dex_count": 4,
+  "native_lib_count": 0
+}

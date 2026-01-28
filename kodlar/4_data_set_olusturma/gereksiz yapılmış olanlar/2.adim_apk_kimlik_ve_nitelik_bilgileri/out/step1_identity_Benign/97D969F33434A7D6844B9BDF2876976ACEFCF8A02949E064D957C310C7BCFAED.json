@@ -1,0 +1,12 @@
+{
+  "apk_file": "97D969F33434A7D6844B9BDF2876976ACEFCF8A02949E064D957C310C7BCFAED.apk",
+  "sha256": "97d969f33434a7d6844b9bdf2876976acefcf8a02949e064d957c310c7bcfaed",
+  "package_name": "13",
+  "version_code": "122",
+  "version_name": "3.34",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 9972,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

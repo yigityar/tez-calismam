@@ -1,0 +1,12 @@
+{
+  "apk_file": "300D99E65F719228FBEC099B44CA1A1356C9BE20082C99B1E35DBFB7C0776863.apk",
+  "sha256": "300d99e65f719228fbec099b44ca1a1356c9be20082c99b1e35dbfb7c0776863",
+  "package_name": "12",
+  "version_code": "219",
+  "version_name": "10.32.2",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 53852,
+  "dex_count": 1,
+  "native_lib_count": 35
+}

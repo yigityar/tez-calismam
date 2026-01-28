@@ -1,0 +1,12 @@
+{
+  "apk_file": "18EFBD21D17F506D66162E7071CA4D023D4C8F5E27F5FF7E26F5EFE0DFC90FAA.apk",
+  "sha256": "18efbd21d17f506d66162e7071ca4d023d4c8f5e27f5ff7e26f5efe0dfc90faa",
+  "package_name": "10",
+  "version_code": "7625",
+  "version_name": "8.18.1.10",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 90560,
+  "dex_count": 14,
+  "native_lib_count": 54
+}

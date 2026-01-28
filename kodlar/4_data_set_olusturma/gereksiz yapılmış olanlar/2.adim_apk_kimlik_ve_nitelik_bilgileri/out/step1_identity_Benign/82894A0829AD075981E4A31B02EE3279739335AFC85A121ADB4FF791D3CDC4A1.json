@@ -1,0 +1,12 @@
+{
+  "apk_file": "82894A0829AD075981E4A31B02EE3279739335AFC85A121ADB4FF791D3CDC4A1.apk",
+  "sha256": "82894a0829ad075981e4a31b02ee3279739335afc85a121adb4ff791d3cdc4a1",
+  "package_name": "6.0-2438415",
+  "version_code": "2007",
+  "version_name": "2.0.07",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 34808,
+  "dex_count": 3,
+  "native_lib_count": 36
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "A94CB4DA850DE50D9E71EE4C062C8ABD83C2546EEA7A3004EDD93200F2D70CF7.apk",
+  "sha256": "a94cb4da850de50d9e71ee4c062c8abd83c2546eea7a3004edd93200f2d70cf7",
+  "package_name": "11",
+  "version_code": "20221005",
+  "version_name": "3.5",
+  "min_sdk": "9",
+  "target_sdk": "30",
+  "apk_size_kb": 17656,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

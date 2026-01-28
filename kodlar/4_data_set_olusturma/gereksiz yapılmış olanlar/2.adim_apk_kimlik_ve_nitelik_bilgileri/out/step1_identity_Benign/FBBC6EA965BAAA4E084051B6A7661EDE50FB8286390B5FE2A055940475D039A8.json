@@ -1,0 +1,12 @@
+{
+  "apk_file": "FBBC6EA965BAAA4E084051B6A7661EDE50FB8286390B5FE2A055940475D039A8.apk",
+  "sha256": "fbbc6ea965baaa4e084051b6a7661ede50fb8286390b5fe2a055940475d039a8",
+  "package_name": "12",
+  "version_code": "6960",
+  "version_name": "6.9.60",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 53296,
+  "dex_count": 8,
+  "native_lib_count": 42
+}

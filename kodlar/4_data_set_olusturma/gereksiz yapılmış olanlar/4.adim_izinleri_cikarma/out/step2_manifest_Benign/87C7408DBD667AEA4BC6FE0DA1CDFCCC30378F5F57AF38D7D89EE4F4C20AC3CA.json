@@ -1,0 +1,16 @@
+{
+  "apk_file": "87C7408DBD667AEA4BC6FE0DA1CDFCCC30378F5F57AF38D7D89EE4F4C20AC3CA.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.FOREGROUND_SERVICE,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.ACCESS_FINE_LOCATION,android.permission.QUERY_ALL_PACKAGES,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.READ_CONTACTS,android.permission.READ_PROFILE,android.permission.READ_PHONE_STATE,android.permission.READ_PHONE_NUMBERS,android.permission.GET_ACCOUNTS,android.permission.WAKE_LOCK,android.permission.SYSTEM_ALERT_WINDOW,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.USE_FINGERPRINT,android.permission.USE_BIOMETRIC,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.CALL_PHONE,android.permission.CAMERA,android.permission.ACCESS_COARSE_LOCATION,android.permission.GET_TASKS,android.permission.ACTIVITY_RECOGNITION,android.permission.NFC,android.permission.VIBRATE,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.REQUEST_DELETE_PACKAGES,com.google.android.gms.permission.AD_ID,viva.republica.loginsupport.permission.USER_PROVIDER_ACCESS,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.c2dm.permission.RECEIVE,android.permission.READ_PRIVILEGED_PHONE_STATE,android.permission.USE_IRIS,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 747,
+  "count_service": 22,
+  "count_receiver": 30,
+  "count_provider": 12,
+  "count_exported": 23
+}

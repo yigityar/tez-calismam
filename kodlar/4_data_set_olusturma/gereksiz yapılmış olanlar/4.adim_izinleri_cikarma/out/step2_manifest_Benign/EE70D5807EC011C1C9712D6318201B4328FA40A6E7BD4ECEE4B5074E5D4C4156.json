@@ -1,0 +1,16 @@
+{
+  "apk_file": "EE70D5807EC011C1C9712D6318201B4328FA40A6E7BD4ECEE4B5074E5D4C4156.apk",
+  "permissions_list": "android.permission.READ_PHONE_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.READ_PRIVILEGED_PHONE_STATE,android.permission.INTERNET,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.ACCESS_NETWORK_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WAKE_LOCK,android.permission.VIBRATE,android.permission.DISABLE_KEYGUARD,jp.naver.SJLGPP.permission.NNI_MESSAGE,com.google.android.c2dm.permission.RECEIVE,jp.naver.SJLGPP.permission.C2D_MESSAGE,android.permission.C2D_MESSAGE,com.android.vending.BILLING,android.permission.KILL_BACKGROUND_PROCESSES,com.google.android.gms.permission.AD_ID,android.permission.FOREGROUND_SERVICE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 58,
+  "count_service": 17,
+  "count_receiver": 12,
+  "count_provider": 8,
+  "count_exported": 6
+}

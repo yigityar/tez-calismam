@@ -1,0 +1,12 @@
+{
+  "apk_file": "5C971005919FAF0EE718D8DFE8A47ED5FA8A532BA08E6844EF02E28EF6840F5B.apk",
+  "sha256": "5c971005919faf0ee718d8dfe8a47ed5fa8a532ba08e6844ef02e28ef6840f5b",
+  "package_name": "12",
+  "version_code": "916",
+  "version_name": "9.1.6",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 85084,
+  "dex_count": 1,
+  "native_lib_count": 46
+}

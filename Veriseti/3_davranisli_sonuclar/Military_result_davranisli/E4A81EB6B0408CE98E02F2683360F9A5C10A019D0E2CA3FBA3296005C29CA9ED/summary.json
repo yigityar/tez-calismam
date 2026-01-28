@@ -1,0 +1,116 @@
+{
+    "apk_name": "E4A81EB6B0408CE98E02F2683360F9A5C10A019D0E2CA3FBA3296005C29CA9ED",
+    "sha256": "e4a81eb6b0408ce98e02f2683360f9a5c10a019d0e2ca3fba3296005c29ca9ed",
+    "metadata": {
+        "package_name": "com.atakmap.android.atos.plugin",
+        "version_code": "1753202135",
+        "version_name": "2.4.0.2 (playstore) (1525894b) - [5.4.0]",
+        "min_sdk": "24",
+        "target_sdk": "34",
+        "permissions": [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.BLUETOOTH_CONNECT",
+            "android.permission.BLUETOOTH_SCAN",
+            "android.permission.INTERNET",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_PRIVILEGED_PHONE_STATE",
+            "android.permission.USB_PERMISSION",
+            "com.atakmap.android.atos.plugin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "com.atakmap.app.component",
+            "com.toughstump.atos.activity.AtosActivity",
+            "com.toughstump.atos.activity.pref.prefactivity.PreferencesActivity"
+        ],
+        "services": [
+            "com.atakmap.android.atos.accessory.service.CommandLinkService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_BACKGROUND_LOCATION": "dangerous",
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.BLUETOOTH_ADMIN": "normal",
+            "android.permission.BLUETOOTH_CONNECT": "dangerous",
+            "android.permission.BLUETOOTH_SCAN": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.READ_PRIVILEGED_PHONE_STATE": "unknown",
+            "android.permission.USB_PERMISSION": "unknown",
+            "com.atakmap.android.atos.plugin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 6,
+            "normal": 5,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 22.32,
+        "sources_present": true,
+        "java_file_count": 3778
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 0,
+        "camera": 8,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 2,
+            "webview_interop": 0,
+            "content_access": 2,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 16,
+            "dynamic_code": 153
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 176
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 4,
+            "handler_loop": 12,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 152
+        }
+    }
+}

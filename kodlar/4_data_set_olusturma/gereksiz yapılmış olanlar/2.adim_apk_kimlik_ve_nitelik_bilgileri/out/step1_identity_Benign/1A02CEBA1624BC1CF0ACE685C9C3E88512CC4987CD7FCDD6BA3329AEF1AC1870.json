@@ -1,0 +1,12 @@
+{
+  "apk_file": "1A02CEBA1624BC1CF0ACE685C9C3E88512CC4987CD7FCDD6BA3329AEF1AC1870.apk",
+  "sha256": "1a02ceba1624bc1cf0ace685c9c3e88512cc4987cd7fcdd6ba3329aef1ac1870",
+  "package_name": "10",
+  "version_code": "300170",
+  "version_name": "3.1.7",
+  "min_sdk": "19",
+  "target_sdk": "29",
+  "apk_size_kb": 119456,
+  "dex_count": 2,
+  "native_lib_count": 60
+}

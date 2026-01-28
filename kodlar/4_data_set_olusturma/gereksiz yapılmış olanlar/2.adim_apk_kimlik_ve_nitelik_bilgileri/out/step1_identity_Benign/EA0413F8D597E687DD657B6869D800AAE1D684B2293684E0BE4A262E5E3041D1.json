@@ -1,0 +1,12 @@
+{
+  "apk_file": "EA0413F8D597E687DD657B6869D800AAE1D684B2293684E0BE4A262E5E3041D1.apk",
+  "sha256": "ea0413f8d597e687dd657b6869d800aae1d684b2293684e0be4a262e5e3041d1",
+  "package_name": "13",
+  "version_code": "2130200",
+  "version_name": "2.13.2",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 127008,
+  "dex_count": 1,
+  "native_lib_count": 38
+}

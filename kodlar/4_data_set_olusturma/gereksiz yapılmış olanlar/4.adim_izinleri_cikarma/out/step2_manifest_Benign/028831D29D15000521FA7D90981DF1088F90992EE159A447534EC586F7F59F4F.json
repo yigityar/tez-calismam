@@ -1,0 +1,16 @@
+{
+  "apk_file": "028831D29D15000521FA7D90981DF1088F90992EE159A447534EC586F7F59F4F.apk",
+  "permissions_list": "android.permission.GET_ACCOUNTS,android.permission.CALL_PHONE,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.READ_PHONE_STATE,android.permission.READ_PHONE_NUMBERS,android.permission.VIBRATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.WAKE_LOCK,android.permission.RESTART_PACKAGES,android.permission.GET_TASKS,android.permission.CHANGE_NETWORK_STATE,android.permission.BROADCAST_STICKY,android.permission.REORDER_TASKS,android.permission.USE_FINGERPRINT,android.permission.USE_BIOMETRIC,com.android.launcher.permission.INSTALL_SHORTCUT,com.ssfutures.futuresnet3.BroadcastPermission,android.permission.CAMERA,android.permission.READ_LOGS,android.permission.DISABLE_KEYGUARD,android.permission.SYSTEM_ALERT_WINDOW,android.permission.EXPAND_STATUS_BAR,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.ACCESS_COARSE_LOCATION,com.samsung.android.camera.iris.permission.USE_IRIS,com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE,com.samsung.android.pass.permissions.USE_PASS_SERVICE,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,android.permission.FOREGROUND_SERVICE,android.permission.REQUEST_DELETE_PACKAGES,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 17,
+  "count_service": 12,
+  "count_receiver": 11,
+  "count_provider": 3,
+  "count_exported": 5
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "6A9AF37DF3A36A8D1E144E44979E1983A5D5EF18AE2674EE2D146156CCED1EEB.apk",
+  "permissions_list": "android.permission.FOREGROUND_SERVICE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,com.android.vending.BILLING,android.permission.INTERNET,android.permission.READ_EXTERNAL_STORAGE,com.google.android.gms.permission.AD_ID,android.permission.CAMERA,android.permission.VIBRATE,android.permission.ACCESS_NETWORK_STATE,android.permission.WAKE_LOCK,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,android.permission.ACCESS_ADSERVICES_AD_ID,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.ACCESS_ADSERVICES_TOPICS,info.yogantara.yytestgps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.android.vending.CHECK_LICENSE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 16,
+  "count_service": 11,
+  "count_receiver": 11,
+  "count_provider": 5,
+  "count_exported": 4
+}

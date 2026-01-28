@@ -1,0 +1,174 @@
+{
+    "apk_name": "FE15F085ECA164880AB5E61926C77036FBEF854E7612F3E8A9E0E66F9F854BE8",
+    "sha256": "fe15f085eca164880ab5e61926c77036fbef854e7612f3e8a9e0e66f9f854be8",
+    "metadata": {
+        "package_name": "com.pangu.devgpl",
+        "version_code": "62",
+        "version_name": "2.4.8",
+        "min_sdk": "26",
+        "target_sdk": "34",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.BLUETOOTH_CONNECT",
+            "android.permission.BLUETOOTH_SCAN",
+            "android.permission.CAMERA",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.FLASHLIGHT",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WRITE_SETTINGS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID",
+            "com.pangu.devgpl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "com.lxj.xpopup.util.XPermission$PermissionActivity",
+            "com.pangu.dev.SplashActivity",
+            "com.pangu.gpl.view.AmmunitionActivity",
+            "com.pangu.gpl.view.BlueOtaUpdateActivity",
+            "com.pangu.gpl.view.BluetoothActivity",
+            "com.pangu.gpl.view.BluetoothRemoteActivity",
+            "com.pangu.gpl.view.ChangeInfoActivity",
+            "com.pangu.gpl.view.ClickActivity",
+            "com.pangu.gpl.view.CoriolisEffectActivity",
+            "com.pangu.gpl.view.CustomTableActivity",
+            "com.pangu.gpl.view.CustomTableHotListActivity",
+            "com.pangu.gpl.view.CustomTableListActivity",
+            "com.pangu.gpl.view.DiscalActivity",
+            "com.pangu.gpl.view.DragCurveActivity",
+            "com.pangu.gpl.view.FFPSetActivity",
+            "com.pangu.gpl.view.FhxSetActivity",
+            "com.pangu.gpl.view.GplActivity",
+            "com.pangu.gpl.view.GunCoefficientActivity",
+            "com.pangu.gpl.view.GunInfoActivity",
+            "com.pangu.gpl.view.GunModeActivity",
+            "com.pangu.gpl.view.MeasureAngularActivity",
+            "com.pangu.gpl.view.MeasurementUnitActivity",
+            "com.pangu.gpl.view.MoaActivity",
+            "com.pangu.gpl.view.MoveTargetActivity",
+            "com.pangu.gpl.view.OtherConversionActivity",
+            "com.pangu.gpl.view.OtherDataActivity",
+            "com.pangu.gpl.view.OtherSettingActivity",
+            "com.pangu.gpl.view.SightSetActivity",
+            "com.pangu.gpl.view.TableSettingsActivity",
+            "com.pangu.gpl.view.ToolsActivity",
+            "com.pangu.gpl.view.TrajectoryTableActivity",
+            "com.pangu.gpl.view.UnitConversionActivity",
+            "com.pangu.gpl.view.WindDegreeActivity",
+            "com.pangu.gpl.view.ZeroTempActivity",
+            "com.pangu.my.view.AppKeyDescriptionActivity",
+            "com.pangu.my.view.AppManualActivity",
+            "com.pangu.my.view.AppVersionActivity",
+            "com.pangu.my.view.IntroductionActivity",
+            "com.pangu.my.view.OTAUpdateActivity",
+            "per.goweii.anylayer.LayerActivity"
+        ],
+        "services": [
+            "androidx.camera.core.impl.MetadataHolderService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService"
+        ],
+        "receivers": [
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_NOTIFICATION_POLICY": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.BLUETOOTH_ADMIN": "normal",
+            "android.permission.BLUETOOTH_CONNECT": "dangerous",
+            "android.permission.BLUETOOTH_SCAN": "dangerous",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.CHANGE_WIFI_STATE": "normal",
+            "android.permission.FLASHLIGHT": "unknown",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECORD_AUDIO": "dangerous",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WRITE_SETTINGS": "signature",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown",
+            "com.pangu.devgpl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 8,
+            "normal": 8,
+            "unknown": 4,
+            "signature": 1
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 24.67,
+        "sources_present": true,
+        "java_file_count": 5636
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 25,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 2
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 2,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 1,
+            "content_access": 13,
+            "audio_control": 1,
+            "vibration": 1,
+            "network_io": 2,
+            "scheduling_apis": 38,
+            "dynamic_code": 173
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 232
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 0,
+            "handler_loop": 36,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 3
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 171
+        }
+    }
+}

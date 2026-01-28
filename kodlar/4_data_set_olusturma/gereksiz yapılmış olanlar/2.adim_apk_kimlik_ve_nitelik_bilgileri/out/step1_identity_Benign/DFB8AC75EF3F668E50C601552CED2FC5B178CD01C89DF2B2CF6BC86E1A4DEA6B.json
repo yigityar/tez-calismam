@@ -1,0 +1,12 @@
+{
+  "apk_file": "DFB8AC75EF3F668E50C601552CED2FC5B178CD01C89DF2B2CF6BC86E1A4DEA6B.apk",
+  "sha256": "dfb8ac75ef3f668e50c601552ced2fc5b178cd01c89df2b2cf6bc86e1a4dea6b",
+  "package_name": "14",
+  "version_code": "10503",
+  "version_name": "1.5.3",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "apk_size_kb": 31312,
+  "dex_count": 1,
+  "native_lib_count": 2
+}

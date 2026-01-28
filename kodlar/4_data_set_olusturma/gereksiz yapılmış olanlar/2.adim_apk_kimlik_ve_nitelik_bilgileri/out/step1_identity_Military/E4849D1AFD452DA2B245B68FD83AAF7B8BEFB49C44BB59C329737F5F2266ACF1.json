@@ -1,0 +1,12 @@
+{
+  "apk_file": "E4849D1AFD452DA2B245B68FD83AAF7B8BEFB49C44BB59C329737F5F2266ACF1.apk",
+  "sha256": "e4849d1afd452da2b245b68fd83aaf7b8befb49c44bb59c329737f5f2266acf1",
+  "package_name": "11",
+  "version_code": "252",
+  "version_name": "2021.0423.252",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 42572,
+  "dex_count": 1,
+  "native_lib_count": 24
+}

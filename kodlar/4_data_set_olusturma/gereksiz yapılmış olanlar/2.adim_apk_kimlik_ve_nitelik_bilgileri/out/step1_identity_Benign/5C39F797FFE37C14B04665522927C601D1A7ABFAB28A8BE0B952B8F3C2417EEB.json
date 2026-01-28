@@ -1,0 +1,12 @@
+{
+  "apk_file": "5C39F797FFE37C14B04665522927C601D1A7ABFAB28A8BE0B952B8F3C2417EEB.apk",
+  "sha256": "5c39f797ffe37c14b04665522927c601d1a7abfab28a8be0b952b8f3c2417eeb",
+  "package_name": "11",
+  "version_code": "117",
+  "version_name": "7.3.9",
+  "min_sdk": "13",
+  "target_sdk": "32",
+  "apk_size_kb": 13132,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

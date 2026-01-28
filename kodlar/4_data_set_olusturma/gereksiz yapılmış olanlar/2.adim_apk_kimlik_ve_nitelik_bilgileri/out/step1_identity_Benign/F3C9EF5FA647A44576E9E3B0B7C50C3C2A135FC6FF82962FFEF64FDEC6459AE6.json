@@ -1,0 +1,12 @@
+{
+  "apk_file": "F3C9EF5FA647A44576E9E3B0B7C50C3C2A135FC6FF82962FFEF64FDEC6459AE6.apk",
+  "sha256": "f3c9ef5fa647a44576e9e3b0b7c50c3c2a135fc6ff82962ffef64fdec6459ae6",
+  "package_name": "11",
+  "version_code": "1150",
+  "version_name": "15.13.0",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 112808,
+  "dex_count": 9,
+  "native_lib_count": 70
+}

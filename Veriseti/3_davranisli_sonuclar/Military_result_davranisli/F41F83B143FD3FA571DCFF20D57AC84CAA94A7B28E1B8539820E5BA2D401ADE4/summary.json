@@ -1,0 +1,89 @@
+{
+    "apk_name": "F41F83B143FD3FA571DCFF20D57AC84CAA94A7B28E1B8539820E5BA2D401ADE4",
+    "sha256": "f41f83b143fd3fa571dcff20d57ac84caa94a7b28e1b8539820e5ba2d401ade4",
+    "metadata": {
+        "package_name": "com.davesprojects.acftcalc",
+        "version_code": "8",
+        "version_name": "3.5",
+        "min_sdk": "26",
+        "target_sdk": "35",
+        "permissions": [
+            "android.permission.INTERNET",
+            "com.davesprojects.acftcalc.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "com.davesprojects.acftcalc.MainActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver"
+        ],
+        "permission_details": {
+            "android.permission.INTERNET": "normal",
+            "com.davesprojects.acftcalc.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "normal": 1,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 29.54,
+        "sources_present": true,
+        "java_file_count": 4278
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 0,
+        "camera": 4,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 6,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 5,
+            "scheduling_apis": 19,
+            "dynamic_code": 190
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 223
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 4,
+            "handler_loop": 15,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 0,
+            "reflection": 190
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "5D68411A971BDD101380AF3822179FB8110820662B41A384400DD53B4744E242.apk",
+  "sha256": "5d68411a971bdd101380af3822179fb8110820662b41a384400dd53b4744e242",
+  "package_name": "10",
+  "version_code": "404266",
+  "version_name": "9.39.1",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 156048,
+  "dex_count": 14,
+  "native_lib_count": 296
+}

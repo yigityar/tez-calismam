@@ -1,0 +1,12 @@
+{
+  "apk_file": "CD7DB5F9B7216B72AABAC94F81347BCE6A81E013A0E576F604B59884D39DFF8A.apk",
+  "sha256": "cd7db5f9b7216b72aabac94f81347bce6a81e013a0e576f604b59884d39dff8a",
+  "package_name": "11",
+  "version_code": "198",
+  "version_name": "6.3.11",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 42272,
+  "dex_count": 1,
+  "native_lib_count": 32
+}

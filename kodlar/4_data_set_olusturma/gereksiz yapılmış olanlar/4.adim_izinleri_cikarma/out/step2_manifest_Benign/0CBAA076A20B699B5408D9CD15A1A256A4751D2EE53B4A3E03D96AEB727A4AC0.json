@@ -1,0 +1,16 @@
+{
+  "apk_file": "0CBAA076A20B699B5408D9CD15A1A256A4751D2EE53B4A3E03D96AEB727A4AC0.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.FOREGROUND_SERVICE,android.permission.RECORD_AUDIO,android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.CHANGE_NETWORK_STATE,com.shanbay.listen.permission.JPUSH_MESSAGE,android.permission.POST_NOTIFICATIONS,com.huawei.android.launcher.permission.CHANGE_BADGE,com.vivo.notification.permission.BADGE_ICON,com.hihonor.android.launcher.permission.CHANGE_BADGE,android.permission.GET_TASKS,com.shanbay.listen.permission.PROCESS_PUSH_MSG,com.shanbay.listen.permission.PUSH_PROVIDER,com.meizu.flyme.permission.PUSH,com.meizu.flyme.push.permission.RECEIVE,com.shanbay.listen.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.shanbay.listen.permission.C2D_MESSAGE,com.shanbay.listen.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 263,
+  "count_service": 34,
+  "count_receiver": 15,
+  "count_provider": 18,
+  "count_exported": 28
+}

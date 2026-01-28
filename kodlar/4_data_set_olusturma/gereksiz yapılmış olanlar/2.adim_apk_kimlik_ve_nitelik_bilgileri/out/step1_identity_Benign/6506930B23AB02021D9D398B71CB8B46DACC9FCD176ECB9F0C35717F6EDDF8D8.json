@@ -1,0 +1,12 @@
+{
+  "apk_file": "6506930B23AB02021D9D398B71CB8B46DACC9FCD176ECB9F0C35717F6EDDF8D8.apk",
+  "sha256": "6506930b23ab02021d9d398b71cb8b46dacc9fcd176ecb9f0c35717f6eddf8d8",
+  "package_name": "12",
+  "version_code": "800130250",
+  "version_name": "13.2.0",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 62568,
+  "dex_count": 8,
+  "native_lib_count": 48
+}

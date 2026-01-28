@@ -1,0 +1,12 @@
+{
+  "apk_file": "776F88FFC23E78AE4AACC3BF9D244705DDAF7909E58E43AF4FA88F86A74E5D16.apk",
+  "sha256": "776f88ffc23e78ae4aacc3bf9d244705ddaf7909e58e43af4fa88f86a74e5d16",
+  "package_name": "6.0-2438415",
+  "version_code": "139",
+  "version_name": "2.39.64",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 103372,
+  "dex_count": 6,
+  "native_lib_count": 6
+}

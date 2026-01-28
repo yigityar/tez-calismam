@@ -1,0 +1,12 @@
+{
+  "apk_file": "E2DD9E55258759D2A60CBC68232D82184A0EA7C8CD4AF848A4713F50A7663B69.apk",
+  "sha256": "e2dd9e55258759d2a60cbc68232d82184a0ea7c8cd4af848a4713f50a7663b69",
+  "package_name": "15",
+  "version_code": "257",
+  "version_name": "4.3.6",
+  "min_sdk": "24",
+  "target_sdk": "35",
+  "apk_size_kb": 93140,
+  "dex_count": 5,
+  "native_lib_count": 10
+}

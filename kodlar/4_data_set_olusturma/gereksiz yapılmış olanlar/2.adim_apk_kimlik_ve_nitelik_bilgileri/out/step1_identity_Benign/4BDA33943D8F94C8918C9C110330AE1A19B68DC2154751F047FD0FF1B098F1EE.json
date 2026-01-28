@@ -1,0 +1,12 @@
+{
+  "apk_file": "4BDA33943D8F94C8918C9C110330AE1A19B68DC2154751F047FD0FF1B098F1EE.apk",
+  "sha256": "4bda33943d8f94c8918c9c110330ae1a19b68dc2154751f047fd0ff1b098f1ee",
+  "package_name": "10",
+  "version_code": "13060500",
+  "version_name": "13.0.6.6048",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 89772,
+  "dex_count": 18,
+  "native_lib_count": 68
+}

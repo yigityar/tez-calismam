@@ -1,0 +1,12 @@
+{
+  "apk_file": "175B10A25839E682C2F32243CE43A70514959FF06499FAEAE195763B76603160.apk",
+  "sha256": "175b10a25839e682c2f32243ce43a70514959ff06499faeae195763b76603160",
+  "package_name": "13",
+  "version_code": "20",
+  "version_name": "2.3.3",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 49964,
+  "dex_count": 1,
+  "native_lib_count": 18
+}

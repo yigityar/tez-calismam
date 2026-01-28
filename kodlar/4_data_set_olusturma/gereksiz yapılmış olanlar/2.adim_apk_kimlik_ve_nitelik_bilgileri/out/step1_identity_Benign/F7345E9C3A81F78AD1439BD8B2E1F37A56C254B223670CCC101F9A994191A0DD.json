@@ -1,0 +1,12 @@
+{
+  "apk_file": "F7345E9C3A81F78AD1439BD8B2E1F37A56C254B223670CCC101F9A994191A0DD.apk",
+  "sha256": "f7345e9c3a81f78ad1439bd8b2e1f37a56c254b223670ccc101f9a994191a0dd",
+  "package_name": "13",
+  "version_code": "78006",
+  "version_name": "9.0.605",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 129944,
+  "dex_count": 11,
+  "native_lib_count": 125
+}

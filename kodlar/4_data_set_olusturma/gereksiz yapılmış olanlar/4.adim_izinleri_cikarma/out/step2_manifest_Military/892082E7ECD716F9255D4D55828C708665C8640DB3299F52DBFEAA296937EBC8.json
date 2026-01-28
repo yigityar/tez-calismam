@@ -1,0 +1,16 @@
+{
+  "apk_file": "892082E7ECD716F9255D4D55828C708665C8640DB3299F52DBFEAA296937EBC8.apk",
+  "permissions_list": "",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 1,
+  "count_service": 0,
+  "count_receiver": 0,
+  "count_provider": 0,
+  "count_exported": 1
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "BF64E1DEEA8C39EAEEF7472000E64274FAF02E910463AE2A76B23934A0C210E6.apk",
+  "sha256": "bf64e1deea8c39eaeef7472000e64274faf02e910463ae2a76b23934a0c210e6",
+  "package_name": "12",
+  "version_code": "55",
+  "version_name": "55",
+  "min_sdk": "22",
+  "target_sdk": "31",
+  "apk_size_kb": 65936,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

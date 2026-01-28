@@ -1,0 +1,12 @@
+{
+  "apk_file": "8A8CF642B41649004066E0BA9B319A35BA105C565FC60BE20C1F8846E4421189.apk",
+  "sha256": "8a8cf642b41649004066e0ba9b319a35ba105c565fc60be20c1f8846e4421189",
+  "package_name": "10",
+  "version_code": "447",
+  "version_name": "9.5.2",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 97292,
+  "dex_count": 1,
+  "native_lib_count": 54
+}

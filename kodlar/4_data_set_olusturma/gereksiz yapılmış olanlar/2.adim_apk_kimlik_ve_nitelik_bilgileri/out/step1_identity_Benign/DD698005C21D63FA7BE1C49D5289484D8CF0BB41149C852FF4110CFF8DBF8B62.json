@@ -1,0 +1,12 @@
+{
+  "apk_file": "DD698005C21D63FA7BE1C49D5289484D8CF0BB41149C852FF4110CFF8DBF8B62.apk",
+  "sha256": "dd698005c21d63fa7be1c49d5289484d8cf0bb41149c852ff4110cff8dbf8b62",
+  "package_name": "11",
+  "version_code": "264",
+  "version_name": "3.1.23",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 43680,
+  "dex_count": 2,
+  "native_lib_count": 212
+}

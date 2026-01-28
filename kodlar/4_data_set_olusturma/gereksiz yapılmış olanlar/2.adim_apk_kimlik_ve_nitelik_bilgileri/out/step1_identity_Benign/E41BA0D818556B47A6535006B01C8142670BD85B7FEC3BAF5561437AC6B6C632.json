@@ -1,0 +1,12 @@
+{
+  "apk_file": "E41BA0D818556B47A6535006B01C8142670BD85B7FEC3BAF5561437AC6B6C632.apk",
+  "sha256": "e41ba0d818556b47a6535006b01c8142670bd85b7fec3baf5561437ac6b6c632",
+  "package_name": "12",
+  "version_code": "1000008",
+  "version_name": "1.0.8",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 31468,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "2F7AF7D4208364F5A60230439B3E5B4DB1C7135237B814F966B3BE5F65E9D92B.apk",
+  "sha256": "2f7af7d4208364f5a60230439b3e5b4db1c7135237b814f966b3be5f65e9d92b",
+  "package_name": "6.0-2438415",
+  "version_code": "183",
+  "version_name": "4.0.22.183",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 16288,
+  "dex_count": 3,
+  "native_lib_count": 28
+}

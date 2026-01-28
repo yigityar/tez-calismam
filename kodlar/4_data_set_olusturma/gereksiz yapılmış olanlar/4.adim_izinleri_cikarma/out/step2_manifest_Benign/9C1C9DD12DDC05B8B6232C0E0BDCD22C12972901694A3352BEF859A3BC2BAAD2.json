@@ -1,0 +1,16 @@
+{
+  "apk_file": "9C1C9DD12DDC05B8B6232C0E0BDCD22C12972901694A3352BEF859A3BC2BAAD2.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_CONFIGURATION,android.permission.READ_PHONE_STATE,android.permission.READ_LOGS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.WRITE_SETTINGS,com.android.launcher.permission.INSTALL_SHORTCUT,android.permission.ACCESS_DOWNLOAD_MANAGER,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.GET_PACKAGE_SIZE,android.permission.GET_TASKS,android.permission.INTERACT_ACROSS_USERS_FULL,android.permission.READ_EXTERNAL_STORAGE,android.permission.RECEIVE_USER_PRESENT,android.permission.SYSTEM_ALERT_WINDOW,android.permission.VIBRATE,android.permission.WAKE_LOCK,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.CAMERA,android.permission.FOREGROUND_SERVICE,android.permission.WRITE_CALENDAR,android.permission.READ_CALENDAR,android.permission.ACTIVITY_RECOGNITION,com.asus.msa.SupplementaryDID.ACCESS,android.permission.CHANGE_WIFI_MULTICAST_STATE,freemme.permission.msa,android.permission.QUERY_ALL_PACKAGES,android.permission.REORDER_TASKS,android.zhibo8.openadsdk.permission.TT_PANGOLIN,android.permission.RECORD_AUDIO,android.permission.BLUETOOTH_CONNECT,android.zhibo8.permission.JPUSH_MESSAGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.vivo.notification.permission.BADGE_ICON,android.permission.POST_NOTIFICATIONS,com.meizu.flyme.permission.PUSH,com.meizu.flyme.push.permission.RECEIVE,android.zhibo8.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,android.zhibo8.permission.C2D_MESSAGE,android.zhibo8.permission.MIPUSH_RECEIVE,android.zhibo8.permission.PROCESS_PUSH_MSG,android.zhibo8.permission.PUSH_PROVIDER,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.BROADCAST_STICKY,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,com.hihonor.permission.MANAGE_FOLD_SCREEN,com.hihonor.permission.MANAGE_FOLD_SCREEN_PRIVILEGED",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 374,
+  "count_service": 42,
+  "count_receiver": 18,
+  "count_provider": 24,
+  "count_exported": 31
+}

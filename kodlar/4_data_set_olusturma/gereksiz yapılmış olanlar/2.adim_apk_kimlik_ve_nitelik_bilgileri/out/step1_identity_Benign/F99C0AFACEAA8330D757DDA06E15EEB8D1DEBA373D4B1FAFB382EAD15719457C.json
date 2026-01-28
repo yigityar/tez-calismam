@@ -1,0 +1,12 @@
+{
+  "apk_file": "F99C0AFACEAA8330D757DDA06E15EEB8D1DEBA373D4B1FAFB382EAD15719457C.apk",
+  "sha256": "f99c0afaceaa8330d757dda06e15eeb8d1deba373d4b1fafb382ead15719457c",
+  "package_name": "12",
+  "version_code": "1517",
+  "version_name": "88.5",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 51544,
+  "dex_count": 8,
+  "native_lib_count": 25
+}

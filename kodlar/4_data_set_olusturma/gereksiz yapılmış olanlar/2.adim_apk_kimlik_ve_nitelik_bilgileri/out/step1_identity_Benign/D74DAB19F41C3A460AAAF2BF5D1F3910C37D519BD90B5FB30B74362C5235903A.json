@@ -1,0 +1,12 @@
+{
+  "apk_file": "D74DAB19F41C3A460AAAF2BF5D1F3910C37D519BD90B5FB30B74362C5235903A.apk",
+  "sha256": "d74dab19f41c3a460aaaf2bf5d1f3910c37d519bd90b5fb30b74362c5235903a",
+  "package_name": "11",
+  "version_code": "266",
+  "version_name": "4.246",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 42708,
+  "dex_count": 1,
+  "native_lib_count": 16
+}

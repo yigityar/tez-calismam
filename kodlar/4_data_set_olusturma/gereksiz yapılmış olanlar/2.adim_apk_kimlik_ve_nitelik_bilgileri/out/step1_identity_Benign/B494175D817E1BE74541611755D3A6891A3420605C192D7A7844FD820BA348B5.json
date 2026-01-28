@@ -1,0 +1,12 @@
+{
+  "apk_file": "B494175D817E1BE74541611755D3A6891A3420605C192D7A7844FD820BA348B5.apk",
+  "sha256": "b494175d817e1be74541611755d3a6891a3420605c192d7a7844fd820ba348b5",
+  "package_name": "10",
+  "version_code": "556003",
+  "version_name": "5.56.0.556003",
+  "min_sdk": "22",
+  "target_sdk": "27",
+  "apk_size_kb": 67032,
+  "dex_count": 8,
+  "native_lib_count": 101
+}

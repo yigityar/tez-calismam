@@ -1,0 +1,16 @@
+{
+  "apk_file": "E057F80D6ACA8A17BF381D5DD013C3A5779E644660C94479BC0CFC9D6974D6B7.apk",
+  "permissions_list": "android.permission.READ_LOGS,android.permission.INTERNET,android.permission.GET_TASKS,android.permission.NFC,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.CAMERA,android.permission.VIBRATE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_CONFIGURATION,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH_SCAN,android.permission.BLUETOOTH_ADVERTISE,android.permission.BLUETOOTH_CONNECT,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_MEDIA_LOCATION ,android.permission.READ_MEDIA_AUDIO,android.permission.READ_MEDIA_IMAGES,android.permission.POST_NOTIFICATIONS,com.google.android.gms.permission.AD_ID,android.permission.REQUEST_DELETE_PACKAGES,android.permission.FOREGROUND_SERVICE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 94,
+  "count_service": 4,
+  "count_receiver": 1,
+  "count_provider": 1,
+  "count_exported": 6
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "23ABB478CD2E0F6639D790FE89F7CCA1A900BBA2D6544D60D5D477E07307D1BB.apk",
+  "sha256": "23abb478cd2e0f6639d790fe89f7cca1a900bba2d6544d60d5d477e07307d1bb",
+  "package_name": "12",
+  "version_code": "3",
+  "version_name": "CHIHUAHUAmovil",
+  "min_sdk": "7",
+  "target_sdk": "31",
+  "apk_size_kb": 6264,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

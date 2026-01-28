@@ -1,0 +1,12 @@
+{
+  "apk_file": "E5E5571B77C6F758F81946F556C19383728CCB840C372AC09294EF9A82DFD494.apk",
+  "sha256": "e5e5571b77c6f758f81946f556c19383728ccb840c372ac09294ef9a82dfd494",
+  "package_name": "13",
+  "version_code": "1295",
+  "version_name": "19.1.0",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 152140,
+  "dex_count": 16,
+  "native_lib_count": 77
+}

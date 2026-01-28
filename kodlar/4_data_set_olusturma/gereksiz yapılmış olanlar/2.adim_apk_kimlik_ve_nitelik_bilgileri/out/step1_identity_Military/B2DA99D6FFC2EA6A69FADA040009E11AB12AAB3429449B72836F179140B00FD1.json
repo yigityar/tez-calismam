@@ -1,0 +1,12 @@
+{
+  "apk_file": "B2DA99D6FFC2EA6A69FADA040009E11AB12AAB3429449B72836F179140B00FD1.apk",
+  "sha256": "b2da99d6ffc2ea6a69fada040009e11ab12aab3429449b72836f179140b00fd1",
+  "package_name": "16",
+  "version_code": "4102",
+  "version_name": "13.00.01.11",
+  "min_sdk": "29",
+  "target_sdk": "36",
+  "apk_size_kb": 24568,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

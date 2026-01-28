@@ -1,0 +1,12 @@
+{
+  "apk_file": "C1FEC52BE8DA7FFDA7BD7736F2FFA539F49858571914DE3E5AFAC4F39D242847.apk",
+  "sha256": "c1fec52be8da7ffda7bd7736f2ffa539f49858571914de3e5afac4f39d242847",
+  "package_name": "11",
+  "version_code": "707001",
+  "version_name": "7.7.0.11",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 40704,
+  "dex_count": 9,
+  "native_lib_count": 45
+}

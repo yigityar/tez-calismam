@@ -1,0 +1,16 @@
+{
+  "apk_file": "D36EA0088CE7C05C11D6994B25748945733C0C477E8DEBB76E622088CA11598A.apk",
+  "permissions_list": "android.permission.RECORD_AUDIO,android.permission.VIBRATE,android.permission.INTERNET,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_FINE_LOCATION,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.USE_CREDENTIALS,android.permission.CALL_PHONE,com.google.android.gms.permission.AD_ID,android.permission.ACCESS_COARSE_LOCATION,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.WAKE_LOCK,android.permission.FOREGROUND_SERVICE,android.permission.ACTIVITY_RECOGNITION,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,com.google.android.gms.permission.ACTIVITY_RECOGNITION,com.huawei.hms.permission.ACTIVITY_RECOGNITION,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 22,
+  "count_service": 19,
+  "count_receiver": 22,
+  "count_provider": 8,
+  "count_exported": 10
+}

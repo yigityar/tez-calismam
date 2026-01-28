@@ -1,0 +1,12 @@
+{
+  "apk_file": "14AA38EA4035461EBD0A005EC030168D3B2BD491568216B783DF88F272B1B3ED.apk",
+  "sha256": "14aa38ea4035461ebd0a005ec030168d3b2bd491568216b783df88f272b1b3ed",
+  "package_name": "10",
+  "version_code": "88",
+  "version_name": "2.6.6",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 101264,
+  "dex_count": 1,
+  "native_lib_count": 46
+}

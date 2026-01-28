@@ -1,0 +1,12 @@
+{
+  "apk_file": "BABBE03B1A5B311CAC7B308859D042D1DCEF88A167DB629F38E190224ABDAC89.apk",
+  "sha256": "babbe03b1a5b311cac7b308859d042d1dcef88a167db629f38e190224abdac89",
+  "package_name": "10",
+  "version_code": "153",
+  "version_name": "8.1.1",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 69108,
+  "dex_count": 1,
+  "native_lib_count": 44
+}

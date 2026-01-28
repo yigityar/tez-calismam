@@ -1,0 +1,12 @@
+{
+  "apk_file": "3B9966283E573AC60743446E4026BE1F390A7AD962569EB69770734872E289AF.apk",
+  "sha256": "3b9966283e573ac60743446e4026be1f390a7ad962569eb69770734872e289af",
+  "package_name": "9",
+  "version_code": "10040",
+  "version_name": "10.0.4.0",
+  "min_sdk": "17",
+  "target_sdk": "27",
+  "apk_size_kb": 138640,
+  "dex_count": 1,
+  "native_lib_count": 95
+}

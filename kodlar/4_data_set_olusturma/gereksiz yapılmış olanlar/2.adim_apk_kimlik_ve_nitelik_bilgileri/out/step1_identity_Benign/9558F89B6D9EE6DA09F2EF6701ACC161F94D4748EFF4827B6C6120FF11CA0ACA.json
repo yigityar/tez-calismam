@@ -1,0 +1,12 @@
+{
+  "apk_file": "9558F89B6D9EE6DA09F2EF6701ACC161F94D4748EFF4827B6C6120FF11CA0ACA.apk",
+  "sha256": "9558f89b6d9ee6da09f2ef6701acc161f94d4748eff4827b6c6120ff11ca0aca",
+  "package_name": "11",
+  "version_code": "1070",
+  "version_name": "9.18.0",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 194548,
+  "dex_count": 1,
+  "native_lib_count": 123
+}

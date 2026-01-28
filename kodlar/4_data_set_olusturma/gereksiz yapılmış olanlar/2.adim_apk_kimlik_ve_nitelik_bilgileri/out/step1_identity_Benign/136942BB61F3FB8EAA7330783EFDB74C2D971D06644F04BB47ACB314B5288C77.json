@@ -1,0 +1,12 @@
+{
+  "apk_file": "136942BB61F3FB8EAA7330783EFDB74C2D971D06644F04BB47ACB314B5288C77.apk",
+  "sha256": "136942bb61f3fb8eaa7330783efdb74c2d971d06644f04bb47acb314b5288c77",
+  "package_name": "12",
+  "version_code": "12311",
+  "version_name": "2.19.0+12311",
+  "min_sdk": "24",
+  "target_sdk": "31",
+  "apk_size_kb": 97464,
+  "dex_count": 4,
+  "native_lib_count": 8
+}

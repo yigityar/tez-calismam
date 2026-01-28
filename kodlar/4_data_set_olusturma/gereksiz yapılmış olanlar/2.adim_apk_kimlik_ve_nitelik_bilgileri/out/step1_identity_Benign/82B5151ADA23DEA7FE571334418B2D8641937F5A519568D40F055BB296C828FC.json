@@ -1,0 +1,12 @@
+{
+  "apk_file": "82B5151ADA23DEA7FE571334418B2D8641937F5A519568D40F055BB296C828FC.apk",
+  "sha256": "82b5151ada23dea7fe571334418b2d8641937f5a519568d40f055bb296c828fc",
+  "package_name": "10",
+  "version_code": "1527",
+  "version_name": "8.48.4",
+  "min_sdk": "23",
+  "target_sdk": "29",
+  "apk_size_kb": 83484,
+  "dex_count": 7,
+  "native_lib_count": 58
+}

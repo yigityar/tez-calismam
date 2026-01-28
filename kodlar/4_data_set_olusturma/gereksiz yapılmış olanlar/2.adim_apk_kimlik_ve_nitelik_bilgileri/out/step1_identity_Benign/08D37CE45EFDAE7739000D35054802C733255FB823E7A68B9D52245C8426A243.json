@@ -1,0 +1,12 @@
+{
+  "apk_file": "08D37CE45EFDAE7739000D35054802C733255FB823E7A68B9D52245C8426A243.apk",
+  "sha256": "08d37ce45efdae7739000d35054802c733255fb823e7a68b9d52245c8426a243",
+  "package_name": "10",
+  "version_code": "10732001",
+  "version_name": "7.3.2",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 101048,
+  "dex_count": 17,
+  "native_lib_count": 99
+}

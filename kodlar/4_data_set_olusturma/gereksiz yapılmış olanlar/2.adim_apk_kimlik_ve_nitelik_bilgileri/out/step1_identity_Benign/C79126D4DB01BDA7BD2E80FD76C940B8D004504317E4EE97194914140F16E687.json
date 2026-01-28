@@ -1,0 +1,12 @@
+{
+  "apk_file": "C79126D4DB01BDA7BD2E80FD76C940B8D004504317E4EE97194914140F16E687.apk",
+  "sha256": "c79126d4db01bda7bd2e80fd76c940b8d004504317e4ee97194914140f16e687",
+  "package_name": "11",
+  "version_code": "2835",
+  "version_name": "10.1.20.2835",
+  "min_sdk": "18",
+  "target_sdk": "29",
+  "apk_size_kb": 95212,
+  "dex_count": 20,
+  "native_lib_count": 80
+}

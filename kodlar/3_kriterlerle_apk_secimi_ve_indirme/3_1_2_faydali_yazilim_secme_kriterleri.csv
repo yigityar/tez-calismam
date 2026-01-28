@@ -1,0 +1,7 @@
+Kriter No,Kriter Adı,Eşik / Kural,Amaç,Akademik Gerekçe
+1,Temiz Yazılım Tanımı (Ground Truth - Benign),vt_detection == 0,Zararsız olduğu tespit edilmiş yazılımlar,"Yaklaşık 70 güvenlik motorunun hiçbirinin uyarı vermediği uygulamalar seçilmiştir. Bu grup, LLM'in ""Gizli OPSEC Riski"" (virüs olmayan ama tehlikeli izin isteyen) tespit yeteneğini ölçmek için kullanılacaktır."
+2,Zaman filtresi,dex_date >= 2022-01-01,Güncel uygulamalar,Modern Android API ve izin modeli
+3,Alt APK boyutu,apk_size > 5 MB,Trivial uygulamaları elemek,Tek ekran / wrapper dışlama
+4,Üst APK boyutu (core),apk_size ≤ 200 MB,En çok kullanılan uygulamaları içermesi,Yaygın non-gaming app üst bandı
+5,Kod Yoğunluğu ve Karmaşıklığı,dex_size > 1 MB,wrapper (kabuk) uygulamaları elemek,"Basit web arayüzleri (Wrappers) ve işlevsiz (Hello World) uygulamaları veri setinden çıkarmak amacıyla eşik değeri yükseltilmiştir. 1 MB üzerindeki DEX boyutu, uygulamanın LLM tarafından analiz edilebilecek düzeyde algoritmik karmaşıklığa ve fonksiyonel yetkinliğe sahip olduğunu gösterir."
+6,Veri Bütünlüğü (Data Integrity),pkg_name (Paket Adı) ve sha256 değeri DOLU olanlar.,Paket ismi ve hash değeri olması,"Uygulamanın meta verilerini (Manifest, İzinler) çekebilmek ve APK'sını indirebilmek için bu anahtar verilerin eksiksiz olması teknik bir zorunluluktur."

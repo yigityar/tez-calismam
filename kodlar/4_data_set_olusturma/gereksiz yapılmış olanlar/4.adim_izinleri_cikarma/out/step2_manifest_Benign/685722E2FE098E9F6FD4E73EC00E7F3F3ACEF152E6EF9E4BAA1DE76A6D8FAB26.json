@@ -1,0 +1,16 @@
+{
+  "apk_file": "685722E2FE098E9F6FD4E73EC00E7F3F3ACEF152E6EF9E4BAA1DE76A6D8FAB26.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.READ_CONTACTS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.USE_BIOMETRIC,android.permission.USE_FINGERPRINT,android.permission.SYSTEM_ALERT_WINDOW,android.permission.CAMERA,android.permission.VIBRATE,android.permission.HIGH_SAMPLING_RATE_SENSORS,com.google.android.c2dm.permission.RECEIVE,com.huawei.hwid.permission.gameservice.archive.access.provider,com.dbs.ideal.permission.PROCESS_PUSH_MSG,com.dbs.ideal.permission.PUSH_PROVIDER,android.permission.WAKE_LOCK,com.google.android.gms.permission.AD_ID,android.permission.REORDER_TASKS,android.permission.FOREGROUND_SERVICE,android.permission.READ_DEVICE_CONFIG,com.google.android.providers.gsf.permission.READ_GSERVICES",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 46,
+  "count_service": 19,
+  "count_receiver": 7,
+  "count_provider": 9,
+  "count_exported": 12
+}

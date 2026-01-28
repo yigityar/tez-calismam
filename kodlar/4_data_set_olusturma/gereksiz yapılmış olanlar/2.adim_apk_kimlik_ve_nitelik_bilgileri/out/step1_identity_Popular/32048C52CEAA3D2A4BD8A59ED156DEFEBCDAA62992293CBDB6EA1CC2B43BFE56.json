@@ -1,0 +1,12 @@
+{
+  "apk_file": "32048C52CEAA3D2A4BD8A59ED156DEFEBCDAA62992293CBDB6EA1CC2B43BFE56.apk",
+  "sha256": "32048c52ceaa3d2a4bd8a59ed156defebcdaa62992293cbdb6ea1cc2b43bfe56",
+  "package_name": "9",
+  "version_code": "2019072516",
+  "version_name": "12.3.6",
+  "min_sdk": "16",
+  "target_sdk": "28",
+  "apk_size_kb": 84876,
+  "dex_count": 8,
+  "native_lib_count": 47
+}

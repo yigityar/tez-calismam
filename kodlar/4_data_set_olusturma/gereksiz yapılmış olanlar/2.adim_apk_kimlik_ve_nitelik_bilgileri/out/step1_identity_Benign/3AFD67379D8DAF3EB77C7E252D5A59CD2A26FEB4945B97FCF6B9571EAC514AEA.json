@@ -1,0 +1,12 @@
+{
+  "apk_file": "3AFD67379D8DAF3EB77C7E252D5A59CD2A26FEB4945B97FCF6B9571EAC514AEA.apk",
+  "sha256": "3afd67379d8daf3eb77c7e252d5a59cd2a26feb4945b97fcf6b9571eac514aea",
+  "package_name": "10",
+  "version_code": "6003001",
+  "version_name": "6.3.1",
+  "min_sdk": "19",
+  "target_sdk": "29",
+  "apk_size_kb": 118508,
+  "dex_count": 1,
+  "native_lib_count": 134
+}

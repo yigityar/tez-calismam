@@ -1,0 +1,12 @@
+{
+  "apk_file": "1DB5DA422BB8A4328BCEAB91F9C2E31BD1371EF9EF499C7415A2F887209C61AC.apk",
+  "sha256": "1db5da422bb8a4328bceab91f9c2e31bd1371ef9ef499c7415a2f887209c61ac",
+  "package_name": "11",
+  "version_code": "49",
+  "version_name": "1.4.9",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 73048,
+  "dex_count": 1,
+  "native_lib_count": 41
+}

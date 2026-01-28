@@ -1,0 +1,12 @@
+{
+  "apk_file": "07E6F0A9F3EF51EC2D8B9D8E2614E8B161CC83EE654D011C888399D66E1199B8.apk",
+  "sha256": "07e6f0a9f3ef51ec2d8b9d8e2614e8b161cc83ee654d011c888399d66e1199b8",
+  "package_name": "6.0-2438415",
+  "version_code": "282645492",
+  "version_name": "23.8.1-2",
+  "min_sdk": "26",
+  "target_sdk": "33",
+  "apk_size_kb": 86016,
+  "dex_count": 9,
+  "native_lib_count": 18
+}

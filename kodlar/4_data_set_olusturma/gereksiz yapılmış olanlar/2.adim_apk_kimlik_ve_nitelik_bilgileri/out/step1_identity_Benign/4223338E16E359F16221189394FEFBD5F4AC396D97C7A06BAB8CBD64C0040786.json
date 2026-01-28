@@ -1,0 +1,12 @@
+{
+  "apk_file": "4223338E16E359F16221189394FEFBD5F4AC396D97C7A06BAB8CBD64C0040786.apk",
+  "sha256": "4223338e16e359f16221189394fefbd5f4ac396d97c7a06bab8cbd64c0040786",
+  "package_name": "11",
+  "version_code": "8021",
+  "version_name": "8.0.21",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 59380,
+  "dex_count": 12,
+  "native_lib_count": 81
+}

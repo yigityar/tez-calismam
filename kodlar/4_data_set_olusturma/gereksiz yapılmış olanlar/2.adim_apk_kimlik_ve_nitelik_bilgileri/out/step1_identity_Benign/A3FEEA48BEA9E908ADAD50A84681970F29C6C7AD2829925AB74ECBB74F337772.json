@@ -1,0 +1,12 @@
+{
+  "apk_file": "A3FEEA48BEA9E908ADAD50A84681970F29C6C7AD2829925AB74ECBB74F337772.apk",
+  "sha256": "a3feea48bea9e908adad50a84681970f29c6c7ad2829925ab74ecbb74f337772",
+  "package_name": "12",
+  "version_code": "1665138368",
+  "version_name": "2.03.7",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 99872,
+  "dex_count": 2,
+  "native_lib_count": 56
+}

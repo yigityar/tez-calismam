@@ -1,0 +1,12 @@
+{
+  "apk_file": "A4739439CF7491791DB64706C1B437CAB75DCFB59D525AD23C838EDE57A23CD4.apk",
+  "sha256": "a4739439cf7491791db64706c1b437cab75dcfb59d525ad23c838ede57a23cd4",
+  "package_name": "com.ebay.mobile",
+  "version_code": "93",
+  "version_name": "5.5.1.17",
+  "min_sdk": "19",
+  "target_sdk": "24",
+  "apk_size_kb": 21900,
+  "dex_count": 2,
+  "native_lib_count": 3
+}

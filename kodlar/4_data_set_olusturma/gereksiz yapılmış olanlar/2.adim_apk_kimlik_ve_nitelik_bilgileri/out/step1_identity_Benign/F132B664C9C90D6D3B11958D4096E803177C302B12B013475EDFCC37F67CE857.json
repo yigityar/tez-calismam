@@ -1,0 +1,12 @@
+{
+  "apk_file": "F132B664C9C90D6D3B11958D4096E803177C302B12B013475EDFCC37F67CE857.apk",
+  "sha256": "f132b664c9c90d6d3b11958d4096e803177c302b12b013475edfcc37f67ce857",
+  "package_name": "11",
+  "version_code": "320",
+  "version_name": "3.2",
+  "min_sdk": "22",
+  "target_sdk": "30",
+  "apk_size_kb": 7584,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

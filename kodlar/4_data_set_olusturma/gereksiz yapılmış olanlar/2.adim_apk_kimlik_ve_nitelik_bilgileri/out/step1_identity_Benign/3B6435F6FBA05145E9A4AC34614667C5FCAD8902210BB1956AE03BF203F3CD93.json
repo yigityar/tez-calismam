@@ -1,0 +1,12 @@
+{
+  "apk_file": "3B6435F6FBA05145E9A4AC34614667C5FCAD8902210BB1956AE03BF203F3CD93.apk",
+  "sha256": "3b6435f6fba05145e9a4ac34614667c5fcad8902210bb1956ae03bf203f3cd93",
+  "package_name": "13",
+  "version_code": "58855",
+  "version_name": "5.6.0.231219-54530",
+  "min_sdk": "28",
+  "target_sdk": "33",
+  "apk_size_kb": 109736,
+  "dex_count": 2,
+  "native_lib_count": 14
+}

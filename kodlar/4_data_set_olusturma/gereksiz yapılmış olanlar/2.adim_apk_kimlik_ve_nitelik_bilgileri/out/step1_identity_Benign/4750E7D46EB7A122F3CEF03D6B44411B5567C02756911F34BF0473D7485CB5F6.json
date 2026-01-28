@@ -1,0 +1,12 @@
+{
+  "apk_file": "4750E7D46EB7A122F3CEF03D6B44411B5567C02756911F34BF0473D7485CB5F6.apk",
+  "sha256": "4750e7d46eb7a122f3cef03d6b44411b5567c02756911f34bf0473d7485cb5f6",
+  "package_name": "11",
+  "version_code": "22081901",
+  "version_name": "20.12.70",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 94212,
+  "dex_count": 7,
+  "native_lib_count": 16
+}

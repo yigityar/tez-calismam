@@ -1,0 +1,12 @@
+{
+  "apk_file": "737DB1AFBDC77C0362AC4F176B4C1A9F5B961950493155D2A0656390543B6576.apk",
+  "sha256": "737db1afbdc77c0362ac4f176b4c1a9f5b961950493155d2a0656390543b6576",
+  "package_name": "9",
+  "version_code": "127",
+  "version_name": "8.3.6",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 58440,
+  "dex_count": 1,
+  "native_lib_count": 24
+}

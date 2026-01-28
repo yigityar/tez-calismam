@@ -1,0 +1,16 @@
+{
+  "apk_file": "70F54932F5893032C12AB2FC14D1115F172AAA3FA5267460A748BCF7872971F9.apk",
+  "permissions_list": "android.permission.MODIFY_AUDIO_SETTINGS,android.permission.INTERNET,android.permission.CHANGE_NETWORK_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.VIBRATE,android.permission.READ_PHONE_STATE,android.permission.BLUETOOTH,MediaStore.Images.Media.INTERNAL_CONTENT_URI,MediaStore.Images.Media.EXTERNAL_CONTENT_URI,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.WRITE_SETTINGS,android.permission.RECORD_AUDIO,android.permission.GET_TASKS,android.permission.WAKE_LOCK,android.permission.CAMERA,android.permission.INTERACT_ACROSS_USERS_FULL,android.permission.SYSTEM_ALERT_WINDOW,com.zq.live.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.android.alarm.permission.SET_ALARM,android.permission.RECORD_VIDEO,android.permission.FOREGROUND_SERVICE,android.permission.GET_ACCOUNTS,android.permission.USE_CREDENTIALS,com.xiaomi.permission.AUTH_SERVICE,android.permission.USE_CREDENTIALS,android.permission.GET_ACCOUNTS,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.MANAGE_ACCOUNTS,com.xiaomi.permission.AUTH_SERVICE,android.permission.ACCESS_DOWNLOAD_MANAGER,com.xiaomi.sdk.permission.APP,com.xiaomi.market.sdk.UPDATE,android.permission.ACCESS_NOTIFICATION_POLICY,android.permission.ACCESS_SURFACE_FLINGER,android.permission.BLUETOOTH_ADMIN,com.android.vending.BILLING,android.permission.BROADCAST_STICKY,android.permission.CAPTURE_AUDIO_OUTPUT,android.permission.CAPTURE_VIDEO_OUTPUT,android.permission.CHANGE_CONFIGURATION,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.DISABLE_KEYGUARD,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.FLASHLIGHT,android.permission.MOUNT_FORMAT_FILESYSTEMS,android.permission.OVERRIDE_WIFI_CONFIG,android.permission.PACKAGE_USAGE_STATS,android.permission.READ_CONTACTS,android.permission.READ_LOGS,android.permission.READ_FRAME_BUFFER,android.permission.READ_PHONE_SINTERNETWIFI_STATE,android.permission.READ_PRIVILEGED_PHONE_STATE,android.permission.RECEIVE_BOOT_COMPLETED,com.android.launcher.permission.READ_SETTINGS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.TETHER_PRIVILEGE,android.permission.WRITE_CONTACTS,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.zq.live.permission.RONG_ACCESS_RECEIVER,com.zq.live.permission.PROCESS_PUSH_MSG,com.zq.live.permission.PUSH_PROVIDER,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.QUERY_ALL_PACKAGES",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 214,
+  "count_service": 21,
+  "count_receiver": 14,
+  "count_provider": 14,
+  "count_exported": 18
+}

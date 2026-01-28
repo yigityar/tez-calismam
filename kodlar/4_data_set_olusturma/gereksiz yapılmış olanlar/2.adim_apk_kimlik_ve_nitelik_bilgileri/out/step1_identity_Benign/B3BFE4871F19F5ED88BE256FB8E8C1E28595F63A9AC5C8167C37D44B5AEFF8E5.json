@@ -1,0 +1,12 @@
+{
+  "apk_file": "B3BFE4871F19F5ED88BE256FB8E8C1E28595F63A9AC5C8167C37D44B5AEFF8E5.apk",
+  "sha256": "b3bfe4871f19f5ed88be256fb8e8c1e28595f63a9ac5c8167c37d44b5aeff8e5",
+  "package_name": "14",
+  "version_code": "83",
+  "version_name": "20240730.83-mn",
+  "min_sdk": "24",
+  "target_sdk": "34",
+  "apk_size_kb": 41044,
+  "dex_count": 2,
+  "native_lib_count": 488
+}

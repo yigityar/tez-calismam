@@ -1,0 +1,12 @@
+{
+  "apk_file": "6114DAE9A8FFB857C6030B5BA78A0D05CEFD814C1AF07A7D23D948953DCEB360.apk",
+  "sha256": "6114dae9a8ffb857c6030b5ba78a0d05cefd814c1af07a7d23d948953dceb360",
+  "package_name": "11",
+  "version_code": "2090301",
+  "version_name": "2.09.03",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 108760,
+  "dex_count": 1,
+  "native_lib_count": 18
+}

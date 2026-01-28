@@ -1,0 +1,12 @@
+{
+  "apk_file": "E35E88016649046F36A2F19DA8BFC3F774661761C45624195A3E9138828B9028.apk",
+  "sha256": "e35e88016649046f36a2f19da8bfc3f774661761c45624195a3e9138828b9028",
+  "package_name": "com.gzbank.mbank.externalpk",
+  "version_code": "49",
+  "version_name": "4.4.9",
+  "min_sdk": "16",
+  "target_sdk": "26",
+  "apk_size_kb": 105416,
+  "dex_count": 1,
+  "native_lib_count": 23
+}

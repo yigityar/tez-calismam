@@ -1,0 +1,12 @@
+{
+  "apk_file": "C9BE9C8478D9D4E3036D0E3A34A8D8798D0F98C0FC1308D18214D1FA1C993CAB.apk",
+  "sha256": "c9be9c8478d9d4e3036d0e3a34a8d8798d0f98c0fc1308d18214d1fa1c993cab",
+  "package_name": "12",
+  "version_code": "2512",
+  "version_name": "3.13",
+  "min_sdk": "21",
+  "target_sdk": "32",
+  "apk_size_kb": 49532,
+  "dex_count": 3,
+  "native_lib_count": 37
+}

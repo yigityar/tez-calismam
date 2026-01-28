@@ -1,0 +1,12 @@
+{
+  "apk_file": "2ED055133FE9F7EEA8E5B820B9669A066A21AB05F074B5E314F9437DD0B9C14D.apk",
+  "sha256": "2ed055133fe9f7eea8e5b820b9669a066a21ab05f074b5e314f9437dd0b9c14d",
+  "package_name": "11",
+  "version_code": "26",
+  "version_name": "1.15.2",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 25040,
+  "dex_count": 1,
+  "native_lib_count": 14
+}

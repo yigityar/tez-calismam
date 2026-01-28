@@ -1,0 +1,12 @@
+{
+  "apk_file": "EF166DD80F4071CF15E92D5E78DB78895210A379DA5200BB26161267F601E7C3.apk",
+  "sha256": "ef166dd80f4071cf15e92d5e78db78895210a379da5200bb26161267f601e7c3",
+  "package_name": "10",
+  "version_code": "1201",
+  "version_name": "8.2.0.1163",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 79804,
+  "dex_count": 3,
+  "native_lib_count": 51
+}

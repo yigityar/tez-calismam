@@ -1,0 +1,12 @@
+{
+  "apk_file": "D020DD14891553CED1DC0A43623C6B4323B40B6A2B22E0BE7DC0395E8843265F.apk",
+  "sha256": "d020dd14891553ced1dc0a43623c6b4323b40b6a2b22e0be7dc0395e8843265f",
+  "package_name": "12",
+  "version_code": "122",
+  "version_name": "1.15.1",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 23732,
+  "dex_count": 1,
+  "native_lib_count": 14
+}

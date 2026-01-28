@@ -1,0 +1,12 @@
+{
+  "apk_file": "75BCA710D09B1C34DF1CE9149178F3FAE78BC2075824DA3ADEF917937841F95C.apk",
+  "sha256": "75bca710d09b1c34df1ce9149178f3fae78bc2075824da3adef917937841f95c",
+  "package_name": "R",
+  "version_code": "86341",
+  "version_name": "1.8.0.3",
+  "min_sdk": "16",
+  "target_sdk": "26",
+  "apk_size_kb": 120088,
+  "dex_count": 1,
+  "native_lib_count": 13
+}

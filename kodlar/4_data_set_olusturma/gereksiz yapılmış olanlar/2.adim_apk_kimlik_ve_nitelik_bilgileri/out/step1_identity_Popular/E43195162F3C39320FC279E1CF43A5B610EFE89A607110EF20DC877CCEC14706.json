@@ -1,0 +1,12 @@
+{
+  "apk_file": "E43195162F3C39320FC279E1CF43A5B610EFE89A607110EF20DC877CCEC14706.apk",
+  "sha256": "e43195162f3c39320fc279e1cf43a5b610efe89a607110ef20dc877ccec14706",
+  "package_name": "10",
+  "version_code": "111207000",
+  "version_name": "6.1.2",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 41608,
+  "dex_count": 5,
+  "native_lib_count": 22
+}

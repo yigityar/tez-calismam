@@ -1,0 +1,96 @@
+{
+    "apk_name": "ED92C64D4F859AF4EAE9F560F9AE3056FA4CF8677395D438B3602FD1D5D2B48E",
+    "sha256": "ed92c64d4f859af4eae9f560f9ae3056fa4cf8677395d438b3602fd1d5d2b48e",
+    "metadata": {
+        "package_name": "org.name.ACFTScoreCalculator",
+        "version_code": "4",
+        "version_name": "1.2.0",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "com.facebook.react.devsupport.DevSettingsActivity",
+            "org.name.ACFTScoreCalculator.MainActivity"
+        ],
+        "services": [],
+        "receivers": [],
+        "permission_details": {
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.SYSTEM_ALERT_WINDOW": "signature",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 2,
+            "dangerous": 2,
+            "signature": 1,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 25.33,
+        "sources_present": true,
+        "java_file_count": 4445
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 7,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 36
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 2,
+            "webview_interop": 0,
+            "content_access": 12,
+            "audio_control": 1,
+            "vibration": 2,
+            "network_io": 20,
+            "scheduling_apis": 21,
+            "dynamic_code": 187
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 245
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 15,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 185
+        }
+    }
+}

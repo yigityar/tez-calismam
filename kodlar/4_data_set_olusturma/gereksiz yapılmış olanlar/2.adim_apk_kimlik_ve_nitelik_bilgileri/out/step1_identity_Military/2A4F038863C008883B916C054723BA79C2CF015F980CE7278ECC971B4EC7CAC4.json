@@ -1,0 +1,12 @@
+{
+  "apk_file": "2A4F038863C008883B916C054723BA79C2CF015F980CE7278ECC971B4EC7CAC4.apk",
+  "sha256": "2a4f038863c008883b916c054723ba79c2cf015f980ce7278ecc971b4ec7cac4",
+  "package_name": "16",
+  "version_code": "21",
+  "version_name": "1.1.13",
+  "min_sdk": "25",
+  "target_sdk": "36",
+  "apk_size_kb": 11700,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

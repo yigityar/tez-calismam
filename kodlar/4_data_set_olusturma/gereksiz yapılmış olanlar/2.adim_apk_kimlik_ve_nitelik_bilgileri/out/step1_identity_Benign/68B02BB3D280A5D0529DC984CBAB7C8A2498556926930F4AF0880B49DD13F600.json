@@ -1,0 +1,12 @@
+{
+  "apk_file": "68B02BB3D280A5D0529DC984CBAB7C8A2498556926930F4AF0880B49DD13F600.apk",
+  "sha256": "68b02bb3d280a5d0529dc984cbab7c8a2498556926930f4af0880b49dd13f600",
+  "package_name": "12",
+  "version_code": "125",
+  "version_name": "8.2.0",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 128740,
+  "dex_count": 2,
+  "native_lib_count": 52
+}

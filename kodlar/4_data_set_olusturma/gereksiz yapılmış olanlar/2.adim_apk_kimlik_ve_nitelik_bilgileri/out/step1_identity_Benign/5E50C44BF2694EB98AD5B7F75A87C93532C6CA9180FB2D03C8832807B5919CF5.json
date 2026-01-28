@@ -1,0 +1,12 @@
+{
+  "apk_file": "5E50C44BF2694EB98AD5B7F75A87C93532C6CA9180FB2D03C8832807B5919CF5.apk",
+  "sha256": "5e50c44bf2694eb98ad5b7f75a87c93532c6ca9180fb2d03c8832807b5919cf5",
+  "package_name": "15",
+  "version_code": "657",
+  "version_name": "4.45.2",
+  "min_sdk": "24",
+  "target_sdk": "35",
+  "apk_size_kb": 80236,
+  "dex_count": 5,
+  "native_lib_count": 20
+}

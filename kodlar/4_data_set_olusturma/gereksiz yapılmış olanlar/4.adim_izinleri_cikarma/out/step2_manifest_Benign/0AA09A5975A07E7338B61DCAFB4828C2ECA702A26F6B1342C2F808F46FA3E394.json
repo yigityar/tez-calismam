@@ -1,0 +1,16 @@
+{
+  "apk_file": "0AA09A5975A07E7338B61DCAFB4828C2ECA702A26F6B1342C2F808F46FA3E394.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.CAMERA,android.permission.WRITE_EXTERNAL_STORAGE,com.symbol.emdk.permission.EMDK,android.permission.ACCESS_NETWORK_STATE,android.permission.WAKE_LOCK,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.honeywell.decode.permission.DECODE,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 5,
+  "count_service": 0,
+  "count_receiver": 1,
+  "count_provider": 2,
+  "count_exported": 1
+}

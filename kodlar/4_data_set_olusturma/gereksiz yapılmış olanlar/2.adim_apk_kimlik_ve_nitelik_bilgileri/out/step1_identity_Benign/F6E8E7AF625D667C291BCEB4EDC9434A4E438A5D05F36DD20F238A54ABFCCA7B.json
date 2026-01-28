@@ -1,0 +1,12 @@
+{
+  "apk_file": "F6E8E7AF625D667C291BCEB4EDC9434A4E438A5D05F36DD20F238A54ABFCCA7B.apk",
+  "sha256": "f6e8e7af625d667c291bceb4edc9434a4e438a5d05f36dd20f238a54abfcca7b",
+  "package_name": "11",
+  "version_code": "210",
+  "version_name": "10.67.0",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 49472,
+  "dex_count": 1,
+  "native_lib_count": 27
+}

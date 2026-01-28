@@ -1,0 +1,12 @@
+{
+  "apk_file": "641DE7A134DFBCAFE4436D945D5DDA6D186B29D8C44997B61A88F030347B5B4C.apk",
+  "sha256": "641de7a134dfbcafe4436d945d5dda6d186b29d8c44997b61a88f030347b5b4c",
+  "package_name": "14",
+  "version_code": "188",
+  "version_name": "4.18.0.188-playstore-8c9300b",
+  "min_sdk": "23",
+  "target_sdk": "34",
+  "apk_size_kb": 31968,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

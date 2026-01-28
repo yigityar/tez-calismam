@@ -1,0 +1,12 @@
+{
+  "apk_file": "6831DFC9D711A6D63032F457385447367C2DC0028B6058AC3CE8452D82956614.apk",
+  "sha256": "6831dfc9d711a6d63032f457385447367c2dc0028b6058ac3ce8452d82956614",
+  "package_name": "11",
+  "version_code": "47",
+  "version_name": "5.1.9",
+  "min_sdk": "13",
+  "target_sdk": "30",
+  "apk_size_kb": 6260,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

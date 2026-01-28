@@ -1,0 +1,12 @@
+{
+  "apk_file": "BEDF0C09BA2C0AEB1243362214F869B9120BD18B49513D97DE445BEC513C393F.apk",
+  "sha256": "bedf0c09ba2c0aeb1243362214f869b9120bd18b49513d97de445bec513c393f",
+  "package_name": "11",
+  "version_code": "514",
+  "version_name": "5.0.14",
+  "min_sdk": "22",
+  "target_sdk": "26",
+  "apk_size_kb": 171624,
+  "dex_count": 1,
+  "native_lib_count": 117
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "3478DB39BABCDC7AB702EFA267F65BEDEEA0F1062FDF21C42A31299E136E6E37.apk",
+  "sha256": "3478db39babcdc7ab702efa267f65bedeea0f1062fdf21c42a31299e136e6e37",
+  "package_name": "12",
+  "version_code": "12091",
+  "version_name": "5.35.1",
+  "min_sdk": "19",
+  "target_sdk": "31",
+  "apk_size_kb": 118908,
+  "dex_count": 1,
+  "native_lib_count": 77
+}

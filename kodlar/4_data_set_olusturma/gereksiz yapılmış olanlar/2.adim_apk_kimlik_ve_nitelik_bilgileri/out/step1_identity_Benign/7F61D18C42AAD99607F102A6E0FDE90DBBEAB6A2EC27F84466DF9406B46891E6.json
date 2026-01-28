@@ -1,0 +1,12 @@
+{
+  "apk_file": "7F61D18C42AAD99607F102A6E0FDE90DBBEAB6A2EC27F84466DF9406B46891E6.apk",
+  "sha256": "7f61d18c42aad99607f102a6e0fde90dbbeab6a2ec27f84466df9406b46891e6",
+  "package_name": "13",
+  "version_code": "36",
+  "version_name": "1.11.15",
+  "min_sdk": "18",
+  "target_sdk": "33",
+  "apk_size_kb": 38728,
+  "dex_count": 1,
+  "native_lib_count": 30
+}

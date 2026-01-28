@@ -1,0 +1,12 @@
+{
+  "apk_file": "7D29982FFF6DDEB814476367BCD28E7461B515138739E483537F86C67539A9B4.apk",
+  "sha256": "7d29982fff6ddeb814476367bcd28e7461b515138739e483537f86c67539a9b4",
+  "package_name": "10",
+  "version_code": "486035",
+  "version_name": "3.9.8(486035)",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 130112,
+  "dex_count": 23,
+  "native_lib_count": 57
+}

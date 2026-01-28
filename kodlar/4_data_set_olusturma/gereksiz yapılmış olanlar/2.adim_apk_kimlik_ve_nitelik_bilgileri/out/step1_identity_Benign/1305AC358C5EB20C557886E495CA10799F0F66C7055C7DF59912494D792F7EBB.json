@@ -1,0 +1,12 @@
+{
+  "apk_file": "1305AC358C5EB20C557886E495CA10799F0F66C7055C7DF59912494D792F7EBB.apk",
+  "sha256": "1305ac358c5eb20c557886e495ca10799f0f66c7055c7df59912494d792f7ebb",
+  "package_name": "10",
+  "version_code": "610780",
+  "version_name": "6.10.78",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 50592,
+  "dex_count": 4,
+  "native_lib_count": 39
+}

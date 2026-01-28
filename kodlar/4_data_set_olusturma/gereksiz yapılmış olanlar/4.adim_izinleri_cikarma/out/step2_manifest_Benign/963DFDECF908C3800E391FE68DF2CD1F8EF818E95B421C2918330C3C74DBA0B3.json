@@ -1,0 +1,16 @@
+{
+  "apk_file": "963DFDECF908C3800E391FE68DF2CD1F8EF818E95B421C2918330C3C74DBA0B3.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.POST_NOTIFICATIONS,android.permission.RECORD_AUDIO,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.ACCESS_NETWORK_STATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_MEDIA_IMAGES,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.VIBRATE,android.permission.CAMERA,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.USE_FINGERPRINT,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.READ_PROFILE,android.permission.READ_CONTACTS,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.NFC,android.permission.QUERY_ALL_PACKAGES,com.google.android.c2dm.permission.RECEIVE,android.permission.WAKE_LOCK,android.permission.ACCESS_WIFI_STATE,android.permission.USE_BIOMETRIC,com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_PHONE_STATE,com.android.vending.CHECK_LICENSE,android.permission.FOREGROUND_SERVICE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.CHANGE_WIFI_STATE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 11,
+  "count_service": 16,
+  "count_receiver": 14,
+  "count_provider": 9,
+  "count_exported": 11
+}

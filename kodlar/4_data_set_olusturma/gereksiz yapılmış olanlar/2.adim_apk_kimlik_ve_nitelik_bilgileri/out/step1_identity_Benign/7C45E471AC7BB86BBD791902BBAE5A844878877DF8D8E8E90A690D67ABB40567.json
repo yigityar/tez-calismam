@@ -1,0 +1,12 @@
+{
+  "apk_file": "7C45E471AC7BB86BBD791902BBAE5A844878877DF8D8E8E90A690D67ABB40567.apk",
+  "sha256": "7c45e471ac7bb86bbd791902bbae5a844878877df8d8e8e90a690d67abb40567",
+  "package_name": "9",
+  "version_code": "10420",
+  "version_name": "10.4.2.0",
+  "min_sdk": "19",
+  "target_sdk": "27",
+  "apk_size_kb": 155664,
+  "dex_count": 1,
+  "native_lib_count": 99
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "33F745CA2917AB6E48A49071FAE8BE37FF0093A3A9E4A993E894D2524B1C3AD4.apk",
+  "sha256": "33f745ca2917ab6e48a49071fae8be37ff0093a3a9e4a993e894d2524b1c3ad4",
+  "package_name": "10",
+  "version_code": "3610",
+  "version_name": "2.3.30",
+  "min_sdk": "16",
+  "target_sdk": "28",
+  "apk_size_kb": 71028,
+  "dex_count": 9,
+  "native_lib_count": 80
+}

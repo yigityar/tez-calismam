@@ -1,0 +1,12 @@
+{
+  "apk_file": "68E8A283610BAF211ADB839753857781F6593BD7ABA7FFE436E750B58CE164A4.apk",
+  "sha256": "68e8a283610baf211adb839753857781f6593bd7aba7ffe436e750b58ce164a4",
+  "package_name": "13",
+  "version_code": "24000947",
+  "version_name": "12.0.0",
+  "min_sdk": "24",
+  "target_sdk": "33",
+  "apk_size_kb": 113608,
+  "dex_count": 6,
+  "native_lib_count": 24
+}

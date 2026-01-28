@@ -1,0 +1,12 @@
+{
+  "apk_file": "BDE8D6507A8E51CE0070ED05EB942B5D105E637572DB134D08195980EC942A7A.apk",
+  "sha256": "bde8d6507a8e51ce0070ed05eb942b5d105e637572db134d08195980ec942a7a",
+  "package_name": "12",
+  "version_code": "20600",
+  "version_name": "2.6",
+  "min_sdk": "24",
+  "target_sdk": "33",
+  "apk_size_kb": 48244,
+  "dex_count": 1,
+  "native_lib_count": 30
+}

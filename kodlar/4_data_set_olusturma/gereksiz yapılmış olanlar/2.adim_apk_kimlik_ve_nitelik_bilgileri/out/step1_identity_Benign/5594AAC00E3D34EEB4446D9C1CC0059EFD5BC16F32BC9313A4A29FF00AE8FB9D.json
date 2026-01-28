@@ -1,0 +1,12 @@
+{
+  "apk_file": "5594AAC00E3D34EEB4446D9C1CC0059EFD5BC16F32BC9313A4A29FF00AE8FB9D.apk",
+  "sha256": "5594aac00e3d34eeb4446d9c1cc0059efd5bc16f32bc9313a4a29ff00ae8fb9d",
+  "package_name": "9",
+  "version_code": "65203",
+  "version_name": "6.5.2",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 47008,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

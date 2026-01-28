@@ -1,0 +1,12 @@
+{
+  "apk_file": "8B15DE62682A849D24090A88931598DF976016ABE2E294CE9C6BE6D0EE179B70.apk",
+  "sha256": "8b15de62682a849d24090a88931598df976016abe2e294ce9c6be6d0ee179b70",
+  "package_name": "6.0-2438415",
+  "version_code": "88749",
+  "version_name": "6.7.0",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 35312,
+  "dex_count": 2,
+  "native_lib_count": 100
+}

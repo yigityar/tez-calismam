@@ -1,0 +1,12 @@
+{
+  "apk_file": "4109D4E5F7B352B15E2FF3B8FE60C408DD95419939009267EDE8A39B372CABAF.apk",
+  "sha256": "4109d4e5f7b352b15e2ff3b8fe60c408dd95419939009267ede8a39b372cabaf",
+  "package_name": "12",
+  "version_code": "44",
+  "version_name": "5.4",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 39136,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

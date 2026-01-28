@@ -1,0 +1,12 @@
+{
+  "apk_file": "69EFE7E7F190124450711DD37653E5552B3025D904DAC7E01F9498F474287932.apk",
+  "sha256": "69efe7e7f190124450711dd37653e5552b3025d904dac7e01f9498f474287932",
+  "package_name": "11",
+  "version_code": "104",
+  "version_name": "4.6.0",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 48092,
+  "dex_count": 1,
+  "native_lib_count": 56
+}

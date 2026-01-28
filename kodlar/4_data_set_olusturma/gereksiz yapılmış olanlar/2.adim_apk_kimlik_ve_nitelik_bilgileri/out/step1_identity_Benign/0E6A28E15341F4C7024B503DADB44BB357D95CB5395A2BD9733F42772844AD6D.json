@@ -1,0 +1,12 @@
+{
+  "apk_file": "0E6A28E15341F4C7024B503DADB44BB357D95CB5395A2BD9733F42772844AD6D.apk",
+  "sha256": "0e6a28e15341f4c7024b503dadb44bb357d95cb5395a2bd9733f42772844ad6d",
+  "package_name": "12",
+  "version_code": "20220812",
+  "version_name": "9.23.0",
+  "min_sdk": "23",
+  "target_sdk": "28",
+  "apk_size_kb": 134380,
+  "dex_count": 5,
+  "native_lib_count": 64
+}

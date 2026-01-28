@@ -1,0 +1,12 @@
+{
+  "apk_file": "E0DAC8CFA9422D07A4BB769C1E22B8DCB7D5C3188E962007EE97153A36E361E8.apk",
+  "sha256": "e0dac8cfa9422d07a4bb769c1e22b8dcb7d5c3188e962007ee97153a36e361e8",
+  "package_name": "13",
+  "version_code": "308604325",
+  "version_name": "392.0.0.12.106",
+  "min_sdk": "28",
+  "target_sdk": "33",
+  "apk_size_kb": 53648,
+  "dex_count": 8,
+  "native_lib_count": 21
+}

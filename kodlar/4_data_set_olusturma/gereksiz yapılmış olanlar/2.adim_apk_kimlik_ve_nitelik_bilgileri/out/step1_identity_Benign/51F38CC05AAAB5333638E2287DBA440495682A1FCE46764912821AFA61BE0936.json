@@ -1,0 +1,12 @@
+{
+  "apk_file": "51F38CC05AAAB5333638E2287DBA440495682A1FCE46764912821AFA61BE0936.apk",
+  "sha256": "51f38cc05aaab5333638e2287dba440495682a1fce46764912821afa61be0936",
+  "package_name": "10",
+  "version_code": "5095",
+  "version_name": "5.9.5",
+  "min_sdk": "21",
+  "target_sdk": "27",
+  "apk_size_kb": 66252,
+  "dex_count": 7,
+  "native_lib_count": 59
+}

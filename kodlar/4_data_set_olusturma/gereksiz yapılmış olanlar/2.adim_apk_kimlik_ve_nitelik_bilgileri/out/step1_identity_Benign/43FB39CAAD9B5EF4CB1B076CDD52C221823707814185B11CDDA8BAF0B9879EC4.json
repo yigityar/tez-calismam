@@ -1,0 +1,12 @@
+{
+  "apk_file": "43FB39CAAD9B5EF4CB1B076CDD52C221823707814185B11CDDA8BAF0B9879EC4.apk",
+  "sha256": "43fb39caad9b5ef4cb1b076cdd52c221823707814185b11cdda8baf0b9879ec4",
+  "package_name": "14",
+  "version_code": "138",
+  "version_name": "3.8",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "apk_size_kb": 16724,
+  "dex_count": 4,
+  "native_lib_count": 28
+}

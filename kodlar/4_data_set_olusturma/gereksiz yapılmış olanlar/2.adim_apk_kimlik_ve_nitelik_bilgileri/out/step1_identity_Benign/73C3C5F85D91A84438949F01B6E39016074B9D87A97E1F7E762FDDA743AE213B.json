@@ -1,0 +1,12 @@
+{
+  "apk_file": "73C3C5F85D91A84438949F01B6E39016074B9D87A97E1F7E762FDDA743AE213B.apk",
+  "sha256": "73c3c5f85d91a84438949f01b6e39016074b9d87a97e1f7e762fdda743ae213b",
+  "package_name": "13",
+  "version_code": "160846",
+  "version_name": "2.1.25",
+  "min_sdk": "19",
+  "target_sdk": "33",
+  "apk_size_kb": 25052,
+  "dex_count": 2,
+  "native_lib_count": 24
+}

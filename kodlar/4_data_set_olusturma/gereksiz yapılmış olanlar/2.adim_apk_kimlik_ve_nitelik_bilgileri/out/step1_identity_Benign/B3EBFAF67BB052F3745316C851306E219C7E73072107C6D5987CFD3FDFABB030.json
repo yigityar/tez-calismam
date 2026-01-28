@@ -1,0 +1,12 @@
+{
+  "apk_file": "B3EBFAF67BB052F3745316C851306E219C7E73072107C6D5987CFD3FDFABB030.apk",
+  "sha256": "b3ebfaf67bb052f3745316c851306e219c7e73072107c6d5987cfd3fdfabb030",
+  "package_name": "9",
+  "version_code": "202204288",
+  "version_name": "5.0.4.4",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 118788,
+  "dex_count": 1,
+  "native_lib_count": 34
+}

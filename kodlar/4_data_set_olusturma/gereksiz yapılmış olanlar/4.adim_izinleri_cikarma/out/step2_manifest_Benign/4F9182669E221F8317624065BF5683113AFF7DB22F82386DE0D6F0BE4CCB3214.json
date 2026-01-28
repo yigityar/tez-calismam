@@ -1,0 +1,16 @@
+{
+  "apk_file": "4F9182669E221F8317624065BF5683113AFF7DB22F82386DE0D6F0BE4CCB3214.apk",
+  "permissions_list": "android.permission.READ_CONTACTS,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.BATTERY_STATS,android.permission.READ_PHONE_STATE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.INTERNET,android.permission.BLUETOOTH,android.permission.BLUETOOTH_CONNECT,android.permission.CAMERA,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.RECORD_AUDIO,android.permission.WAKE_LOCK,android.permission.BIND_NOTIFICATION_LISTENER_SERVICE,android.permission.VIBRATE,android.permission.GET_ACCOUNTS,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.ACCESS_FINE_LOCATION,com.google.android.gms.permission.AD_ID,com.ubieva.cura.doctorapp.droid.permission.C2D_MESSAGE,com.ubieva.cura.doctorapp.droid.permission.MAPS_RECEIVE,com.google.android.providers.gsf.permission.READ_GSERVICES,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.BROADCAST_STICKY,android.permission.USE_FULL_SCREEN_INTENT,android.permission.POST_NOTIFICATIONS,android.permission.ACCESS_COARSE_LOCATION,com.google.android.c2dm.permission.RECEIVE,android.permission.READ_MEDIA_IMAGES,android.permission.READ_MEDIA_VIDEO,android.permission.FOREGROUND_SERVICE,com.ubieva.cura.doctorapp.droid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 54,
+  "count_service": 14,
+  "count_receiver": 22,
+  "count_provider": 7,
+  "count_exported": 12
+}

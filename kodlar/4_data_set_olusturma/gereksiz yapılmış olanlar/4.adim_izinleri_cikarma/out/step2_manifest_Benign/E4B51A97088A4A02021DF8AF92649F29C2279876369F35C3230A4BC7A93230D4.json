@@ -1,0 +1,16 @@
+{
+  "apk_file": "E4B51A97088A4A02021DF8AF92649F29C2279876369F35C3230A4BC7A93230D4.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.VIBRATE,android.permission.FOREGROUND_SERVICE,android.permission.RECORD_VIDEO,android.permission.CAMERA,android.permission.READ_PHONE_STATE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.RECORD_AUDIO,android.permission.READ_LOGS,android.permission.REORDER_TASKS,android.permission.DEVICE_POWER,android.permission.WAKE_LOCK,android.permission.GET_TASKS,MediaStore.Images.Media.INTERNAL_CONTENT_URI,MediaStore.Images.Media.EXTERNAL_CONTENT_URI,android.permission.WAKE_LOCK,android.permission.RAISED_THREAD_PRIORITY,android.permission.CHANGE_WIFI_STATE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.BLUETOOTH,com.kwai.videoeditor.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.meizu.flyme.push.permission.RECEIVE,com.kwai.videoeditor.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.kwai.videoeditor.permission.C2D_MESSAGE,android.permission.QUERY_ALL_PACKAGES,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.huawei.launcher2.permission.WRITE_SETTINGS,com.huawei.launcher3.permission.WRITE_SETTINGS,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.vivo.notification.permission.BADGE_ICON,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.majeur.launcher.permission.UPDATE_BADGE,android.permission.READ_APP_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,android.permission.REQUEST_INSTALL_PACKAGES,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.android.vending.CHECK_LICENSE,com.kwai.videoeditor.refreshToken.ALLOW_RECEIVED,com.meizu.flyme.permission.PUSH,android.permission.MODIFY_AUDIO_SETTINGS,com.kwai.videoeditor.permission.PROCESS_PUSH_MSG,com.kwai.videoeditor.permission.PUSH_PROVIDER,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 207,
+  "count_service": 52,
+  "count_receiver": 15,
+  "count_provider": 20,
+  "count_exported": 27
+}

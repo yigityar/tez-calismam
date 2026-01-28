@@ -1,0 +1,12 @@
+{
+  "apk_file": "F2EEA28A088BAEF2A4ED2BF2F3AE7A3260BCBFC73D09CCBFFE3DBC28B5D664FB.apk",
+  "sha256": "f2eea28a088baef2a4ed2bf2f3ae7a3260bcbfc73d09ccbffe3dbc28b5d664fb",
+  "package_name": "13",
+  "version_code": "9027213",
+  "version_name": "2022.5104.1",
+  "min_sdk": "23",
+  "target_sdk": "33",
+  "apk_size_kb": 38728,
+  "dex_count": 1,
+  "native_lib_count": 5
+}

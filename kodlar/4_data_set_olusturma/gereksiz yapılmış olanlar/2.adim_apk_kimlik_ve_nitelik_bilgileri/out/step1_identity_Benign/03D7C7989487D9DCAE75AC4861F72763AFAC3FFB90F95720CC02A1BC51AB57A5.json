@@ -1,0 +1,12 @@
+{
+  "apk_file": "03D7C7989487D9DCAE75AC4861F72763AFAC3FFB90F95720CC02A1BC51AB57A5.apk",
+  "sha256": "03d7c7989487d9dcae75ac4861f72763afac3ffb90f95720cc02a1bc51ab57a5",
+  "package_name": "10",
+  "version_code": "2022041309",
+  "version_name": "5.19.1",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 61588,
+  "dex_count": 1,
+  "native_lib_count": 25
+}

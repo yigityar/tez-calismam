@@ -1,0 +1,12 @@
+{
+  "apk_file": "56E42DD186CEDE92F04A0080044B45AA7B66E3CBAE2954429931DAD1D5BC976B.apk",
+  "sha256": "56e42dd186cede92f04a0080044b45aa7b66e3cbae2954429931dad1d5bc976b",
+  "package_name": "13",
+  "version_code": "54",
+  "version_name": "2.29.11",
+  "min_sdk": "23",
+  "target_sdk": "33",
+  "apk_size_kb": 40848,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

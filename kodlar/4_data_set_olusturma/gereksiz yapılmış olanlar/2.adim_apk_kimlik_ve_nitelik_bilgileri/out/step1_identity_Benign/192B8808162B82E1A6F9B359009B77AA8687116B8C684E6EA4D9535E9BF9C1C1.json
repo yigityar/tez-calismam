@@ -1,0 +1,12 @@
+{
+  "apk_file": "192B8808162B82E1A6F9B359009B77AA8687116B8C684E6EA4D9535E9BF9C1C1.apk",
+  "sha256": "192b8808162b82e1a6f9b359009b77aa8687116b8c684e6ea4d9535e9bf9c1c1",
+  "package_name": "6.0-2438415",
+  "version_code": "18",
+  "version_name": "1.15",
+  "min_sdk": "19",
+  "target_sdk": "32",
+  "apk_size_kb": 67732,
+  "dex_count": 1,
+  "native_lib_count": 8
+}

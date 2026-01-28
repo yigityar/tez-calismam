@@ -1,0 +1,12 @@
+{
+  "apk_file": "38910C50717F76D87D5D6E23A6B2E91344D0BCBFE3DE39F02468B210FCD250E6.apk",
+  "sha256": "38910c50717f76d87d5d6e23a6b2e91344d0bcbfe3de39f02468b210fcd250e6",
+  "package_name": "10",
+  "version_code": "1069",
+  "version_name": "6.0.38.1",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 119152,
+  "dex_count": 1,
+  "native_lib_count": 122
+}

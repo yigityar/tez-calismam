@@ -1,0 +1,12 @@
+{
+  "apk_file": "3A9D6B9811FB3471162213830F1191DD5044AF83CE46F800F63773BC8061FC84.apk",
+  "sha256": "3a9d6b9811fb3471162213830f1191dd5044af83ce46f800f63773bc8061fc84",
+  "package_name": "com.roblox.client",
+  "version_code": "126",
+  "version_name": "2.252.80145",
+  "min_sdk": "15",
+  "target_sdk": "23",
+  "apk_size_kb": 46996,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

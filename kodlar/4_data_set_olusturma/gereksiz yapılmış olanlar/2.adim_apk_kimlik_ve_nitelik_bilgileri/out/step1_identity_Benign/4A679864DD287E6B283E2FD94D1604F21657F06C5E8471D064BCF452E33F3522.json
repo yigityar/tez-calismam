@@ -1,0 +1,12 @@
+{
+  "apk_file": "4A679864DD287E6B283E2FD94D1604F21657F06C5E8471D064BCF452E33F3522.apk",
+  "sha256": "4a679864dd287e6b283e2fd94d1604f21657f06c5e8471d064bcf452e33f3522",
+  "package_name": "12",
+  "version_code": "62300",
+  "version_name": "6.2.3.0",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 51140,
+  "dex_count": 1,
+  "native_lib_count": 53
+}

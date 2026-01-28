@@ -1,0 +1,12 @@
+{
+  "apk_file": "E90B6D397F1DDA4EAE3DE924AA3F7E3D26485946148083C974078EFC7D5AD684.apk",
+  "sha256": "e90b6d397f1dda4eae3de924aa3f7e3d26485946148083c974078efc7d5ad684",
+  "package_name": "12",
+  "version_code": "97",
+  "version_name": "0.90.88",
+  "min_sdk": "16",
+  "target_sdk": "30",
+  "apk_size_kb": 14436,
+  "dex_count": 3,
+  "native_lib_count": 34
+}

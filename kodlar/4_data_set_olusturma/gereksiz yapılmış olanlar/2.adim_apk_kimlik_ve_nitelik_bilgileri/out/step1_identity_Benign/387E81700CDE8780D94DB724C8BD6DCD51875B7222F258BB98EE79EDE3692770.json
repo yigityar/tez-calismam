@@ -1,0 +1,12 @@
+{
+  "apk_file": "387E81700CDE8780D94DB724C8BD6DCD51875B7222F258BB98EE79EDE3692770.apk",
+  "sha256": "387e81700cde8780d94db724c8bd6dcd51875b7222f258bb98ee79ede3692770",
+  "package_name": "11",
+  "version_code": "149",
+  "version_name": "6.6.1",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 73032,
+  "dex_count": 1,
+  "native_lib_count": 54
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "0ACDF291B981A8F6F28CD24370198AE8BA98E2A9202F143BB8120C986717EC21.apk",
+  "sha256": "0acdf291b981a8f6f28cd24370198ae8ba98e2a9202f143bb8120c986717ec21",
+  "package_name": "12",
+  "version_code": "552",
+  "version_name": "4.33.1",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 35112,
+  "dex_count": 3,
+  "native_lib_count": 8
+}

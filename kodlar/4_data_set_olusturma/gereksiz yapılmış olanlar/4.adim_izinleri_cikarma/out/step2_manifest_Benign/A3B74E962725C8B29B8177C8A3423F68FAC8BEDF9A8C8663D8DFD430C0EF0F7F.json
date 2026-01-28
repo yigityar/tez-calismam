@@ -1,0 +1,16 @@
+{
+  "apk_file": "A3B74E962725C8B29B8177C8A3423F68FAC8BEDF9A8C8663D8DFD430C0EF0F7F.apk",
+  "permissions_list": "android.permission.ACCESS_NETWORK_STATE,android.permission.REORDER_TASKS,com.google.android.gms.permission.AD_ID,android.permission.INTERNET,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.NEARBY_WIFI_DEVICES,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.GET_TASKS,android.permission.READ_PHONE_STATE,android.permission.CAMERA,android.permission.POST_NOTIFICATIONS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.READ_MEDIA_IMAGES,android.permission.READ_MEDIA_VIDEO,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,android.permission.ACCESS_ADSERVICES_AD_ID,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.USE_BIOMETRIC,android.permission.USE_FINGERPRINT,com.chic.point.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.android.vending.CHECK_LICENSE,com.chic.point.permission.PROCESS_PUSH_MSG,com.chic.point.permission.PUSH_PROVIDER",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 115,
+  "count_service": 18,
+  "count_receiver": 8,
+  "count_provider": 15,
+  "count_exported": 19
+}

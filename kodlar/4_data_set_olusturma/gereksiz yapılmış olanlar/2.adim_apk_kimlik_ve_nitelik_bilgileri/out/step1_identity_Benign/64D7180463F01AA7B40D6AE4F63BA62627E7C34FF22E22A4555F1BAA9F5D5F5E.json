@@ -1,0 +1,12 @@
+{
+  "apk_file": "64D7180463F01AA7B40D6AE4F63BA62627E7C34FF22E22A4555F1BAA9F5D5F5E.apk",
+  "sha256": "64d7180463f01aa7b40d6ae4f63ba62627e7c34ff22e22a4555f1baa9f5d5f5e",
+  "package_name": "9",
+  "version_code": "6001800",
+  "version_name": "6.0.18",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 110676,
+  "dex_count": 1,
+  "native_lib_count": 42
+}

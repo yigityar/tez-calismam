@@ -1,0 +1,12 @@
+{
+  "apk_file": "9E2EDDDB55E4A2A95C550EFB61A96F432D3CC7A72C12CE110CC14BDCE73D72F9.apk",
+  "sha256": "9e2edddb55e4a2a95c550efb61a96f432d3cc7a72c12ce110cc14bdce73d72f9",
+  "package_name": "11",
+  "version_code": "96789580",
+  "version_name": "2.9.0",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 57820,
+  "dex_count": 9,
+  "native_lib_count": 84
+}

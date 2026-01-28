@@ -1,0 +1,12 @@
+{
+  "apk_file": "C2656FC96F5D8097BDA5F4ADC230FB5F699BF822FE998E5C597B7709268C85FF.apk",
+  "sha256": "c2656fc96f5d8097bda5f4adc230fb5f699bf822fe998e5c597b7709268c85ff",
+  "package_name": "14",
+  "version_code": "269",
+  "version_name": "2.4.7",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "apk_size_kb": 68780,
+  "dex_count": 2,
+  "native_lib_count": 32
+}

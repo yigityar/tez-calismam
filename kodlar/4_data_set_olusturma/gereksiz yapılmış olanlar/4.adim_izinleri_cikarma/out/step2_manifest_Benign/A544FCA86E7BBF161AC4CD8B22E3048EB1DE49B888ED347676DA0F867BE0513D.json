@@ -1,0 +1,16 @@
+{
+  "apk_file": "A544FCA86E7BBF161AC4CD8B22E3048EB1DE49B888ED347676DA0F867BE0513D.apk",
+  "permissions_list": "android.permission.CHANGE_WIFI_STATE,android.permission.DISABLE_KEYGUARD,android.permission.MANAGE_ACCOUNTS,android.permission.GET_ACCOUNTS,android.permission.RECEIVE_USER_PRESENT,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WAKE_LOCK,android.permission.READ_PHONE_STATE,android.permission.VIBRATE,android.permission.CAMERA,android.permission.ACCESS_WIFI_STATE,android.permission.CALL_PHONE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.RECEIVE_BOOT_COMPLETED,com.huawei.addviewpermission,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.NFC,android.permission.CHANGE_NETWORK_STATE,android.permission.RECORD_AUDIO,org.simalliance.openmobileapi.SMARTCARD,android.permission.BLUETOOTH,Android.permission.GET_TASKS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.WRITE_SETTINGS,MediaStore.Images.Media.INTERNAL_CONTENT_URI,MediaStore.Images.Media.EXTERNAL_CONTENT_URI,android.permission.FOREGROUND_SERVICE,android.permission.USE_FULL_SCREEN_INTENT,android.permission.READ_PRIVILEGED_PHONE_STATE,com.meizu.flyme.push.permission.RECEIVE,com.vivo.notification.permission.BADGE_ICON,com.huawei.android.launcher.permission.CHANGE_BADGE ,com.hihonor.android.launcher.permission.CHANGE_BADGE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.gzhzcj.permission.JPUSH_MESSAGE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,com.huawei.android.launcher.permission.CHANGE_BADGE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.GET_TASKS,android.permission.QUERY_ALL_PACKAGES,com.gzhzcj.permission.PROCESS_PUSH_MSG,com.gzhzcj.permission.PUSH_PROVIDER,com.gzhzcj.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 294,
+  "count_service": 26,
+  "count_receiver": 15,
+  "count_provider": 12,
+  "count_exported": 30
+}

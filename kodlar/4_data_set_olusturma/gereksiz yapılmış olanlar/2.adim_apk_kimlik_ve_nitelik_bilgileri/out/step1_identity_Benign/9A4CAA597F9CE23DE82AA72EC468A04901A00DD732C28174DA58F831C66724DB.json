@@ -1,0 +1,12 @@
+{
+  "apk_file": "9A4CAA597F9CE23DE82AA72EC468A04901A00DD732C28174DA58F831C66724DB.apk",
+  "sha256": "9a4caa597f9ce23de82aa72ec468a04901a00dd732c28174da58f831c66724db",
+  "package_name": "6.0-2438415",
+  "version_code": "26",
+  "version_name": "2.5.1",
+  "min_sdk": "16",
+  "target_sdk": "30",
+  "apk_size_kb": 49608,
+  "dex_count": 6,
+  "native_lib_count": 14
+}

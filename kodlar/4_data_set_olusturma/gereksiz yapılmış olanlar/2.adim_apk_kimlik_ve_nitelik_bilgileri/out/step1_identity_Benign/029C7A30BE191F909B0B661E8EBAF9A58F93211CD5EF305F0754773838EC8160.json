@@ -1,0 +1,12 @@
+{
+  "apk_file": "029C7A30BE191F909B0B661E8EBAF9A58F93211CD5EF305F0754773838EC8160.apk",
+  "sha256": "029c7a30be191f909b0b661e8ebaf9a58f93211cd5ef305f0754773838ec8160",
+  "package_name": "com.fengjr.mobile",
+  "version_code": "107",
+  "version_name": "2.9.8",
+  "min_sdk": "16",
+  "target_sdk": "22",
+  "apk_size_kb": 33288,
+  "dex_count": 3,
+  "native_lib_count": 34
+}

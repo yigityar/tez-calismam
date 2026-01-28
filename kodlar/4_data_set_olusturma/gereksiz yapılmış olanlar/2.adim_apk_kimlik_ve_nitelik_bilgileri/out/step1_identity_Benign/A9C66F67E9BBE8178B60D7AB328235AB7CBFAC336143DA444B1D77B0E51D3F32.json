@@ -1,0 +1,12 @@
+{
+  "apk_file": "A9C66F67E9BBE8178B60D7AB328235AB7CBFAC336143DA444B1D77B0E51D3F32.apk",
+  "sha256": "a9c66f67e9bbe8178b60d7ab328235ab7cbfac336143da444b1d77b0e51d3f32",
+  "package_name": "12",
+  "version_code": "8789",
+  "version_name": "3.12.1.4",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 47628,
+  "dex_count": 1,
+  "native_lib_count": 32
+}

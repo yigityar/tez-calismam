@@ -1,0 +1,12 @@
+{
+  "apk_file": "C85043162EEB7600C903889C32EB8D85541DF876B76FE43DC8CBE5B1E31D7FA7.apk",
+  "sha256": "c85043162eeb7600c903889c32eb8d85541df876b76fe43dc8cbe5b1e31d7fa7",
+  "package_name": "13",
+  "version_code": "5521",
+  "version_name": "552",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 53448,
+  "dex_count": 1,
+  "native_lib_count": 14
+}

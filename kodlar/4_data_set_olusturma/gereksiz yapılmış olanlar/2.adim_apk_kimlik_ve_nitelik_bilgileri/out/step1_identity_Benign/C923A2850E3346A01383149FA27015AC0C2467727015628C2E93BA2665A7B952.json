@@ -1,0 +1,12 @@
+{
+  "apk_file": "C923A2850E3346A01383149FA27015AC0C2467727015628C2E93BA2665A7B952.apk",
+  "sha256": "c923a2850e3346a01383149fa27015ac0c2467727015628c2e93ba2665a7b952",
+  "package_name": "9",
+  "version_code": "69",
+  "version_name": "3.2.4",
+  "min_sdk": "22",
+  "target_sdk": "26",
+  "apk_size_kb": 129108,
+  "dex_count": 2,
+  "native_lib_count": 66
+}

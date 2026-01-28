@@ -1,0 +1,12 @@
+{
+  "apk_file": "0ED1BC2880B2C483C58908E8CDAEB58E5318B8B24CAF6AF7625B57AD404F936A.apk",
+  "sha256": "0ed1bc2880b2c483c58908e8cdaeb58e5318b8b24caf6af7625b57ad404f936a",
+  "package_name": "10",
+  "version_code": "707995",
+  "version_name": "9.9.5",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 70196,
+  "dex_count": 6,
+  "native_lib_count": 62
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "6A41E736ED3BC93AE2A3D6E840BC42892E2937144115C93000753980939C2D24.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.USE_FULL_SCREEN_INTENT,android.permission.PACKAGE_USAGE_STATS,android.permission.BLUETOOTH_SCAN,android.permission.CAMERA,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.FOREGROUND_SERVICE,android.permission.READ_PHONE_STATE,android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,android.permission.VIBRATE,android.permission.RECORD_AUDIO,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.WAKE_LOCK,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.SYSTEM_ALERT_WINDOW,android.permission.BLUETOOTH_CONNECT,android.permission.SCHEDULE_EXACT_ALARM,android.permission.CALL_PHONE,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_SETTINGS,android.permission.READ_CONTACTS,android.permission.GET_ACCOUNTS,android.permission.USE_CREDENTIALS,android.permission.MANAGE_ACCOUNTS,android.permission.AUTHENTICATE_ACCOUNTS,com.yandex.permission.READ_CREDENTIALS.,com.yandex.permission.AM_COMMUNICATION,com.google.android.gms.permission.AD_ID,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.USE_BIOMETRIC,android.permission.USE_FINGERPRINT,android.permission.CHANGE_WIFI_STATE,com.google.android.c2dm.permission.RECEIVE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 72,
+  "count_service": 37,
+  "count_receiver": 32,
+  "count_provider": 17,
+  "count_exported": 31
+}

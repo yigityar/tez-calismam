@@ -1,0 +1,16 @@
+{
+  "apk_file": "45B04E5FE8ED7ED1A84049BAA0039F012F3A1E6AACE899EE0DD2F86670667DEF.apk",
+  "permissions_list": "android.permission.REQUEST_INSTALL_PACKAGES,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.CAMERA,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.DISABLE_KEYGUARD,android.permission.EXPAND_STATUS_BAR,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.RECORD_AUDIO,android.permission.WAKE_LOCK,android.permission.SYSTEM_ALERT_WINDOW,android.permission.REORDER_TASKS,android.permission.ZTE_HEARTYSERVICE_MANAGEMENT,android.permission.VIBRATE,android.permission.INTERNET,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.FOREGROUND_SERVICE,android.permission.QUERY_ALL_PACKAGES,android.permission.FLASHLIGHT,android.permission.CHANGE_CONFIGURATION,android.permission.READ_LOGS,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.NFC,com.sdu.didi.gsui.permission.MIPUSH_RECEIVE,android.permission.BLUETOOTH_PRIVILEGED,android.permission.BROADCAST_STICKY,com.sdu.didi.gsui.permission.PROCESS_PUSH_MSG,com.sdu.didi.gsui.permission.PUSH_PROVIDER,android.permission.POST_NOTIFICATIONS,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 410,
+  "count_service": 32,
+  "count_receiver": 23,
+  "count_provider": 24,
+  "count_exported": 27
+}

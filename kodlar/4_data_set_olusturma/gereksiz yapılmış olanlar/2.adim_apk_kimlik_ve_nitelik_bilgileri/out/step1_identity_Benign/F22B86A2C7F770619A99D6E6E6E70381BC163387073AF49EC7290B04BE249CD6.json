@@ -1,0 +1,12 @@
+{
+  "apk_file": "F22B86A2C7F770619A99D6E6E6E70381BC163387073AF49EC7290B04BE249CD6.apk",
+  "sha256": "f22b86a2c7f770619a99d6e6e6e70381bc163387073af49ec7290b04be249cd6",
+  "package_name": "11",
+  "version_code": "14",
+  "version_name": "14",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 26424,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

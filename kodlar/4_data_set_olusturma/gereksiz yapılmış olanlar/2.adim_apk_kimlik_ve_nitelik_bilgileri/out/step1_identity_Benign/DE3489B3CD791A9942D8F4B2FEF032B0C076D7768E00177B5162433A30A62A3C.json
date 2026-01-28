@@ -1,0 +1,12 @@
+{
+  "apk_file": "DE3489B3CD791A9942D8F4B2FEF032B0C076D7768E00177B5162433A30A62A3C.apk",
+  "sha256": "de3489b3cd791a9942d8f4b2fef032b0c076d7768e00177b5162433a30a62a3c",
+  "package_name": "12",
+  "version_code": "766",
+  "version_name": "8.4.8",
+  "min_sdk": "16",
+  "target_sdk": "31",
+  "apk_size_kb": 60532,
+  "dex_count": 6,
+  "native_lib_count": 56
+}

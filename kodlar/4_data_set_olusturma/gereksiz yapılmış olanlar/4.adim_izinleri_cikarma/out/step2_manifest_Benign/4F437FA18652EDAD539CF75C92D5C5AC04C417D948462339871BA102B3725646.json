@@ -1,0 +1,16 @@
+{
+  "apk_file": "4F437FA18652EDAD539CF75C92D5C5AC04C417D948462339871BA102B3725646.apk",
+  "permissions_list": "com.qti.permission.PROFILER,android.permission.SYSTEM_ALERT_WINDOW,android.permission.VIBRATE,android.permission.CHANGE_WIFI_STATE,android.permission.FLASHLIGHT,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.GET_TASKS,android.permission.RESTART_PACKAGES,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.CHANGE_CONFIGURATION,android.permission.INTERNET,android.permission.WAKE_LOCK,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_SETTINGS,android.permission.POST_NOTIFICATIONS,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,android.permission.READ_MEDIA_IMAGES,android.permission.READ_MEDIA_AUDIO,android.permission.READ_MEDIA_VIDEO,com.android.vending.BILLING,getui.permission.GetuiService.com.qjzj4399kr.google,com.qjzj4399kr.google.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE,android.permission.FOREGROUND_SERVICE,com.samsung.android.iap.permission.BILLING,com.google.android.gms.permission.AD_ID,android.permission.ACCESS_MEDIA_LOCATION,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 43,
+  "count_service": 15,
+  "count_receiver": 10,
+  "count_provider": 7,
+  "count_exported": 13
+}

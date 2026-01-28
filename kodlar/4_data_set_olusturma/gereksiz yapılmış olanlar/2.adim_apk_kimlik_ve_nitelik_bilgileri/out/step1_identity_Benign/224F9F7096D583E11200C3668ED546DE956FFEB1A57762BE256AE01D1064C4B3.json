@@ -1,0 +1,12 @@
+{
+  "apk_file": "224F9F7096D583E11200C3668ED546DE956FFEB1A57762BE256AE01D1064C4B3.apk",
+  "sha256": "224f9f7096d583e11200c3668ed546de956ffeb1a57762be256ae01d1064c4b3",
+  "package_name": "13",
+  "version_code": "207",
+  "version_name": "2.13.1",
+  "min_sdk": "22",
+  "target_sdk": "33",
+  "apk_size_kb": 51192,
+  "dex_count": 2,
+  "native_lib_count": 28
+}

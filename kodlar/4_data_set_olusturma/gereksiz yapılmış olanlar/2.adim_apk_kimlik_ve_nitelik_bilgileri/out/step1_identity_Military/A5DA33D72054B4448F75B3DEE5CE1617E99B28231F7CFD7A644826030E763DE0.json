@@ -1,0 +1,12 @@
+{
+  "apk_file": "A5DA33D72054B4448F75B3DEE5CE1617E99B28231F7CFD7A644826030E763DE0.apk",
+  "sha256": "a5da33d72054b4448f75b3dee5ce1617e99b28231f7cfd7a644826030e763de0",
+  "package_name": "15",
+  "version_code": "30007",
+  "version_name": "3.0",
+  "min_sdk": "24",
+  "target_sdk": "35",
+  "apk_size_kb": 170696,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

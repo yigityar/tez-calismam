@@ -1,0 +1,12 @@
+{
+  "apk_file": "673B3CDD6DD8ECAF6FF36CCBC70BE94953FAD411EDD8AF891F40DF0FC3819A56.apk",
+  "sha256": "673b3cdd6dd8ecaf6ff36ccbc70be94953fad411edd8af891f40df0fc3819a56",
+  "package_name": "15",
+  "version_code": "20250517",
+  "version_name": "1.2.7 () - [5.4.0]",
+  "min_sdk": "26",
+  "target_sdk": "34",
+  "apk_size_kb": 23324,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

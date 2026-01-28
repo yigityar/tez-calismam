@@ -1,0 +1,16 @@
+{
+  "apk_file": "4E66DC3F31205FB0E65B7669E2249A96FF72FEBEDF01BAF34E4ED773F37681D2.apk",
+  "permissions_list": "android.permission.MODIFY_AUDIO_SETTINGS,android.permission.RECORD_AUDIO,android.permission.GET_ACCOUNTS,android.permission.USE_FINGERPRINT,android.permission.WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,android.permission.READ_PHONE_STATE,android.permission.CALL_PHONE,com.google.android.gms.permission.AD_ID,com.hmkcode.android.gcm.permission.C2D_MESSAGE,android.permission.CAMERA,android.permission.VIBRATE,android.permission.ACCESS_WIFI_STATE,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_CONTACTS,android.permission.WRITE_CONTACTS,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,com.base.bankalfalah.BaseApplication.permission.MAPS_RECEIVE,com.google.android.providers.gsf.permission.READ_GSERVICES,android.permission.USE_BIOMETRIC,com.google.android.gms.permission.ACTIVITY_RECOGNITION,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.hardware.camera.autofocus,android.permission.READ_LOGS,android.permission.RECORD_VIDEO,android.permission.BATTERY_STATS",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 665,
+  "count_service": 12,
+  "count_receiver": 9,
+  "count_provider": 5,
+  "count_exported": 7
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "A8D349F5E116E97F8703D76E89F9B3A7C607F7A0DAF0E2C17940F18C1820E540.apk",
+  "permissions_list": "android.permission.DETECT_SCREEN_CAPTURE,android.permission.READ_PHONE_STATE,org.simalliance.openmobileapi.SMARTCARD,android.permission.INTERNET,android.permission.WAKE_LOCK,android.permission.READ_MEDIA_IMAGES,android.permission.READ_MEDIA_AUDIO,android.permission.READ_MEDIA_VIDEO,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,android.permission.NFC,android.permission.CAMERA,android.permission.VIBRATE,android.permission.ACCESS_FINE_LOCATION,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,android.permission.USE_BIOMETRIC,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.READ_CONTACTS,android.permission.POST_NOTIFICATIONS,com.google.android.gms.permission.AD_ID,android.permission.WRITE_SETTINGS,android.permission.health.READ_STEPS,android.permission.health.READ_EXERCISE,android.permission.health.READ_SPEED,android.permission.health.READ_DISTANCE,android.permission.health.READ_HEALTH_DATA_IN_BACKGROUND,android.permission.FOREGROUND_SERVICE,android.permission.FOREGROUND_SERVICE_DATA_SYNC,android.permission.FOREGROUND_SERVICE_HEALTH,android.permission.USE_FINGERPRINT,com.google.android.c2dm.permission.RECEIVE,com.easycard.wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,android.permission.ACCESS_ADSERVICES_AD_ID,android.permission.RECEIVE_BOOT_COMPLETED",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 33,
+  "count_service": 22,
+  "count_receiver": 14,
+  "count_provider": 7,
+  "count_exported": 14
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "358F869B846CD934473597C8B849C1D3C0D438F3C53F0D3699E6E5F7F8217F8A.apk",
+  "permissions_list": "android.permission.READ_EXTERNAL_STORAGE,android.permission.GET_TASKS,android.permission.NEW_TASK,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.INTERNET,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.READ_PHONE_STATE,android.permission.WAKE_LOCK,android.permission.VIBRATE,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.WRITE_SETTINGS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.RECEIVE_USER_PRESENT,android.permission.BATTERY_STATS,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.CHANGE_NETWORK_STATE,android.permission.ACCESS_NOTIFICATION_POLICY,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.BLUETOOTH_ADMIN,android.permission.CALL_PHONE,android.permission.FOREGROUND_SERVICE,android.permission.RECORD_AUDIO,com.android.alarm.permission.SET_ALARM,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.BLUETOOTH,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,com.meizu.flyme.push.permission.RECEIVE,me.ele.crowdsource.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,me.ele.crowdsource.permission.C2D_MESSAGE,android.permission.BIND_ACCESSIBILITY_SERVICE,android.permission.ACCESS_COARSE_UPDATES,MediaStore.Images.Media.INTERNAL_CONTENT_URI,MediaStore.Images.Media.EXTERNAL_CONTENT_URI,android.permission.READ_SETTINGS,me.ele.crowdsource.permission.MIPUSH_RECEIVE,cn.cyberidentity.certification.AUTH,me.ele.crowdsource.permission.PROCESS_PUSH_MSG,me.ele.crowdsource.permission.PUSH_PROVIDER,com.vivo.notification.permission.BADGE_ICON,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 308,
+  "count_service": 66,
+  "count_receiver": 24,
+  "count_provider": 24,
+  "count_exported": 28
+}

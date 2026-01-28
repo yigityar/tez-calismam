@@ -1,0 +1,12 @@
+{
+  "apk_file": "2518A1A570DF06BC45FB0A03A9313698E32AF9B6A1996A8899F13EBBE54B3882.apk",
+  "sha256": "2518a1a570df06bc45fb0a03a9313698e32af9b6a1996a8899f13ebbe54b3882",
+  "package_name": "10",
+  "version_code": "12317000",
+  "version_name": "12.3.1.3032",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 56656,
+  "dex_count": 11,
+  "native_lib_count": 47
+}

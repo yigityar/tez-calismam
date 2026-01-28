@@ -1,0 +1,12 @@
+{
+  "apk_file": "207B17DC5DF3A1CC61C872D69F2216E04789AB8BD30A9BB499F9EF6170392A58.apk",
+  "sha256": "207b17dc5df3a1cc61c872d69f2216e04789ab8bd30a9bb499f9ef6170392a58",
+  "package_name": "9",
+  "version_code": "37",
+  "version_name": "37",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 8272,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

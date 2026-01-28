@@ -1,0 +1,12 @@
+{
+  "apk_file": "2ED507A50243631357A7B68FF9A1BE4232D6325667B977BD2E6D80655A8E4611.apk",
+  "sha256": "2ed507a50243631357a7b68ff9a1be4232d6325667b977bd2e6d80655a8e4611",
+  "package_name": "12",
+  "version_code": "81359",
+  "version_name": "11.6.5",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 63988,
+  "dex_count": 9,
+  "native_lib_count": 52
+}

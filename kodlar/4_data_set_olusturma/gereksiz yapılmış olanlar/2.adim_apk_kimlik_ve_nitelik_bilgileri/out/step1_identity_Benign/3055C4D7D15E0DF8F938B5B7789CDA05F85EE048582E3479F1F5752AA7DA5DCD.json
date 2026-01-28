@@ -1,0 +1,12 @@
+{
+  "apk_file": "3055C4D7D15E0DF8F938B5B7789CDA05F85EE048582E3479F1F5752AA7DA5DCD.apk",
+  "sha256": "3055c4d7d15e0df8f938b5b7789cda05f85ee048582e3479f1f5752aa7da5dcd",
+  "package_name": "11",
+  "version_code": "16",
+  "version_name": "Lenin Search 16",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 22604,
+  "dex_count": 1,
+  "native_lib_count": 24
+}

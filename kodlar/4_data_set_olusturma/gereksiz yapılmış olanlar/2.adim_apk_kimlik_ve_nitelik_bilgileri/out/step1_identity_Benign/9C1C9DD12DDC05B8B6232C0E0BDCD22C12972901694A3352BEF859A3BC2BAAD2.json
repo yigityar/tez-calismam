@@ -1,0 +1,12 @@
+{
+  "apk_file": "9C1C9DD12DDC05B8B6232C0E0BDCD22C12972901694A3352BEF859A3BC2BAAD2.apk",
+  "sha256": "9c1c9dd12ddc05b8b6232c0e0bdcd22c12972901694a3352bef859a3bc2baad2",
+  "package_name": "9",
+  "version_code": "253",
+  "version_name": "6.2.8",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 111680,
+  "dex_count": 2,
+  "native_lib_count": 85
+}

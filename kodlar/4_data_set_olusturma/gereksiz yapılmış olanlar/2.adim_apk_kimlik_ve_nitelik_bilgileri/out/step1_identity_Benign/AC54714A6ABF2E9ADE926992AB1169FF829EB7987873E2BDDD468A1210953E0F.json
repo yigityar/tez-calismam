@@ -1,0 +1,12 @@
+{
+  "apk_file": "AC54714A6ABF2E9ADE926992AB1169FF829EB7987873E2BDDD468A1210953E0F.apk",
+  "sha256": "ac54714a6abf2e9ade926992ab1169ff829eb7987873e2bddd468a1210953e0f",
+  "package_name": "11",
+  "version_code": "17",
+  "version_name": "3.2.2",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 23688,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

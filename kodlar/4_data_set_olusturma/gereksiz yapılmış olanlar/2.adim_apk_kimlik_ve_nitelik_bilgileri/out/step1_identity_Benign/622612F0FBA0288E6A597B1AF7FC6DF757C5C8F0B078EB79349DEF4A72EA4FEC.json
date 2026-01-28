@@ -1,0 +1,12 @@
+{
+  "apk_file": "622612F0FBA0288E6A597B1AF7FC6DF757C5C8F0B078EB79349DEF4A72EA4FEC.apk",
+  "sha256": "622612f0fba0288e6a597b1af7fc6df757c5c8f0b078eb79349def4a72ea4fec",
+  "package_name": "10",
+  "version_code": "198",
+  "version_name": "10.23.5",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 43692,
+  "dex_count": 1,
+  "native_lib_count": 31
+}

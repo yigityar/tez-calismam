@@ -1,0 +1,12 @@
+{
+  "apk_file": "A52DADF4322D80BDC281DAF009B3B081351D0D8412297784998DD6DB2F67370B.apk",
+  "sha256": "a52dadf4322d80bdc281daf009b3b081351d0d8412297784998dd6db2f67370b",
+  "package_name": "13",
+  "version_code": "9661",
+  "version_name": "Orsay 0.9.661",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 65984,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

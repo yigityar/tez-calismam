@@ -1,0 +1,12 @@
+{
+  "apk_file": "3FE070C343EF750E760E8C0ADAFD7A2AFA8BFBB0A4E959456ED18EE0831B1DEA.apk",
+  "sha256": "3fe070c343ef750e760e8c0adafd7a2afa8bfbb0a4e959456ed18ee0831b1dea",
+  "package_name": "11",
+  "version_code": "400207",
+  "version_name": "4.4.7",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 22672,
+  "dex_count": 1,
+  "native_lib_count": 7
+}

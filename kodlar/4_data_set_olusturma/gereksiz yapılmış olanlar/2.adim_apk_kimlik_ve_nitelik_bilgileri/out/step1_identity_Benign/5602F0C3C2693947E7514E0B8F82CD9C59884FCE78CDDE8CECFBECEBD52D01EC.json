@@ -1,0 +1,12 @@
+{
+  "apk_file": "5602F0C3C2693947E7514E0B8F82CD9C59884FCE78CDDE8CECFBECEBD52D01EC.apk",
+  "sha256": "5602f0c3c2693947e7514e0b8f82cd9c59884fce78cdde8cecfbecebd52d01ec",
+  "package_name": "10",
+  "version_code": "19662080",
+  "version_name": "2.11.0.10",
+  "min_sdk": "24",
+  "target_sdk": "29",
+  "apk_size_kb": 69680,
+  "dex_count": 11,
+  "native_lib_count": 75
+}

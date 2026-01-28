@@ -1,0 +1,12 @@
+{
+  "apk_file": "63470D080BB20AB93D790FC48EA858162CB5B1A13FDBBA5EA32CD3C7AC8652CD.apk",
+  "sha256": "63470d080bb20ab93d790fc48ea858162cb5b1a13fdbba5ea32cd3c7ac8652cd",
+  "package_name": "12",
+  "version_code": "41914183",
+  "version_name": "24.7.1",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 28236,
+  "dex_count": 2,
+  "native_lib_count": 7
+}

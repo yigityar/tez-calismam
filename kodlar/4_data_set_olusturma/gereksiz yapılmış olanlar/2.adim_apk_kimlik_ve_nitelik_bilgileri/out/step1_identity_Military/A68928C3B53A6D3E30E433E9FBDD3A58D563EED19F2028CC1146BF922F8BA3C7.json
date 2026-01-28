@@ -1,0 +1,12 @@
+{
+  "apk_file": "A68928C3B53A6D3E30E433E9FBDD3A58D563EED19F2028CC1146BF922F8BA3C7.apk",
+  "sha256": "a68928c3b53a6d3e30e433e9fbdd3a58d563eed19f2028cc1146bf922f8ba3c7",
+  "package_name": "15",
+  "version_code": "289",
+  "version_name": "1.18.11",
+  "min_sdk": "21",
+  "target_sdk": "35",
+  "apk_size_kb": 28604,
+  "dex_count": 4,
+  "native_lib_count": 0
+}

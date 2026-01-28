@@ -1,0 +1,12 @@
+{
+  "apk_file": "7565FA541613D45AE58F515C0D84795750A398554DC2E93240A7C3FF08CEFD83.apk",
+  "sha256": "7565fa541613d45ae58f515c0d84795750a398554dc2e93240a7c3ff08cefd83",
+  "package_name": "11",
+  "version_code": "703",
+  "version_name": "4.4.3",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 65292,
+  "dex_count": 2,
+  "native_lib_count": 9
+}

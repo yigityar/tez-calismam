@@ -1,0 +1,12 @@
+{
+  "apk_file": "899D6F224EB9516DCA30259425C3841C6987B126055BDD351384DDE10002D4BE.apk",
+  "sha256": "899d6f224eb9516dca30259425c3841c6987b126055bdd351384dde10002d4be",
+  "package_name": "15",
+  "version_code": "60801009",
+  "version_name": "6.8.1.9",
+  "min_sdk": "23",
+  "target_sdk": "35",
+  "apk_size_kb": 17432,
+  "dex_count": 3,
+  "native_lib_count": 0
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "7EF92586ABDFAE6AF25C6206F31DF576D1361088D8DBB8FECF4B4D2AAD8E60DB.apk",
+  "sha256": "7ef92586abdfae6af25c6206f31df576d1361088d8dbb8fecf4b4d2aad8e60db",
+  "package_name": "11",
+  "version_code": "82016",
+  "version_name": "8.2.0",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 66692,
+  "dex_count": 8,
+  "native_lib_count": 86
+}

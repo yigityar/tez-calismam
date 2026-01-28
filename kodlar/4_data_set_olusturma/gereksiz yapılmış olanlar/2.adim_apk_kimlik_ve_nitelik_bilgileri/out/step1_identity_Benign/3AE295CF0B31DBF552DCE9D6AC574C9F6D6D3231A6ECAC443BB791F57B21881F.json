@@ -1,0 +1,12 @@
+{
+  "apk_file": "3AE295CF0B31DBF552DCE9D6AC574C9F6D6D3231A6ECAC443BB791F57B21881F.apk",
+  "sha256": "3ae295cf0b31dbf552dce9d6ac574c9f6d6d3231a6ecac443bb791f57b21881f",
+  "package_name": "13",
+  "version_code": "50735",
+  "version_name": "1.10.5073",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 60524,
+  "dex_count": 2,
+  "native_lib_count": 85
+}

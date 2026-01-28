@@ -1,0 +1,12 @@
+{
+  "apk_file": "3E845731EE9432B53334519759713AE4AFE43CDA25C6F2706417AE8470E8E8C5.apk",
+  "sha256": "3e845731ee9432b53334519759713ae4afe43cda25c6f2706417ae8470e8e8c5",
+  "package_name": "10",
+  "version_code": "110004006",
+  "version_name": "10.4.6",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 61568,
+  "dex_count": 1,
+  "native_lib_count": 33
+}

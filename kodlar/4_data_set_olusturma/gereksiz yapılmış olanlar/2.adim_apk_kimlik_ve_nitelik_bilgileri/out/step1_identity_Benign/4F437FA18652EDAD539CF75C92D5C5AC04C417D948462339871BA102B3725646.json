@@ -1,0 +1,12 @@
+{
+  "apk_file": "4F437FA18652EDAD539CF75C92D5C5AC04C417D948462339871BA102B3725646.apk",
+  "sha256": "4f437fa18652edad539cf75c92d5c5ac04c417d948462339871ba102b3725646",
+  "package_name": "R",
+  "version_code": "400",
+  "version_name": "1.36.40",
+  "min_sdk": "16",
+  "target_sdk": "34",
+  "apk_size_kb": 74072,
+  "dex_count": 3,
+  "native_lib_count": 11
+}

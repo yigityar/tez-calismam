@@ -1,0 +1,12 @@
+{
+  "apk_file": "FB8EEA9E1FDFA37281293251BD9FDACB0A22A104D780B7CAF28EF078C66A2815.apk",
+  "sha256": "fb8eea9e1fdfa37281293251bd9fdacb0a22a104d780b7caf28ef078c66a2815",
+  "package_name": "12",
+  "version_code": "95",
+  "version_name": "4.3.2",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 13724,
+  "dex_count": 2,
+  "native_lib_count": 14
+}

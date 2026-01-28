@@ -1,0 +1,12 @@
+{
+  "apk_file": "26B631311C6FA788A6A81E2F3654B59994C2FA598CAD76A7497F7DB2329F0E1F.apk",
+  "sha256": "26b631311c6fa788a6a81e2f3654b59994c2fa598cad76a7497f7db2329f0e1f",
+  "package_name": "6.0-2438415",
+  "version_code": "19",
+  "version_name": "3.0",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 21788,
+  "dex_count": 16,
+  "native_lib_count": 0
+}

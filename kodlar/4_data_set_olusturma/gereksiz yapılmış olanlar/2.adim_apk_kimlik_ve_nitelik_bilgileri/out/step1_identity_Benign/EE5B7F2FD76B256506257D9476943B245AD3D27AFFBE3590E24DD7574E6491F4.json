@@ -1,0 +1,12 @@
+{
+  "apk_file": "EE5B7F2FD76B256506257D9476943B245AD3D27AFFBE3590E24DD7574E6491F4.apk",
+  "sha256": "ee5b7f2fd76b256506257d9476943b245ad3d27affbe3590e24dd7574e6491f4",
+  "package_name": "13",
+  "version_code": "7900000",
+  "version_name": "7.90.0",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 128212,
+  "dex_count": 1,
+  "native_lib_count": 39
+}

@@ -1,0 +1,160 @@
+{
+    "apk_name": "E96E968F60B7A9E32CE0401F1F499367DC4431BA28C812D3940752EE057DD4E3",
+    "sha256": "e96e968f60b7a9e32ce0401f1f499367dc4431ba28c812d3940752ee057dd4e3",
+    "metadata": {
+        "package_name": "com.wave.wtquiz",
+        "version_code": "300",
+        "version_name": "3.0.0",
+        "min_sdk": "23",
+        "target_sdk": "35",
+        "permissions": [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            "android.permission.ACCESS_ADSERVICES_TOPICS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.BILLING",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.wave.wtquiz.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "androidx.credentials.playservices.HiddenActivity",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.android.billingclient.api.ProxyBillingActivityV2",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.NotificationHandlerActivity",
+            "com.google.android.gms.ads.OutOfContextTestingActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.google.firebase.auth.internal.GenericIdpActivity",
+            "com.google.firebase.auth.internal.RecaptchaActivity",
+            "com.pairip.licensecheck.LicenseActivity",
+            "com.revenuecat.purchases.amazon.purchasing.ProxyAmazonBillingActivity",
+            "com.wave.MainActivity",
+            "io.flutter.plugins.urllauncher.WebViewActivity"
+        ],
+        "services": [
+            "androidx.credentials.playservices.CredentialProviderMetadataHolder",
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.ads.AdService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.google.firebase.sessions.SessionLifecycleService",
+            "io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService",
+            "io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.amazon.device.iap.ResponseReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_ADSERVICES_AD_ID": "unknown",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION": "unknown",
+            "android.permission.ACCESS_ADSERVICES_TOPICS": "unknown",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.android.vending.BILLING": "unknown",
+            "com.android.vending.CHECK_LICENSE": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES": "unknown",
+            "com.wave.wtquiz.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "unknown": 10,
+            "normal": 4,
+            "dangerous": 2
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 40.16,
+        "sources_present": true,
+        "java_file_count": 14868
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 7,
+        "media_projection": 2,
+        "dynamic_load": 0,
+        "jni": 10
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 2,
+            "webview_interop": 14,
+            "content_access": 4,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 45,
+            "dynamic_code": 303
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 368
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 3,
+            "handler_loop": 38,
+            "job_scheduler": 4
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 1
+        },
+        "dynamic_features": {
+            "jni_usage": 7,
+            "dynamic_loading": 2,
+            "reflection": 296
+        }
+    }
+}

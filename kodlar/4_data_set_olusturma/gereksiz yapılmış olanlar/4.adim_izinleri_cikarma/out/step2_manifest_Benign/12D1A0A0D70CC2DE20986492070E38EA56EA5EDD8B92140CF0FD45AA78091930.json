@@ -1,0 +1,16 @@
+{
+  "apk_file": "12D1A0A0D70CC2DE20986492070E38EA56EA5EDD8B92140CF0FD45AA78091930.apk",
+  "permissions_list": "android.permission.FOREGROUND_SERVICE,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.GET_TASKS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.INTERNET,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,com.android.launcher.permission.INSTALL_SHORTCUT,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.PACKAGE_USAGE_STATS,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.GET_PACKAGE_SIZE,android.permission.CLEAR_APP_CACHE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.WAKE_LOCK,android.permission.MANAGE_EXTERNAL_STORAGE,android.permission.QUERY_ALL_PACKAGES,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 99,
+  "count_service": 19,
+  "count_receiver": 20,
+  "count_provider": 7,
+  "count_exported": 6
+}

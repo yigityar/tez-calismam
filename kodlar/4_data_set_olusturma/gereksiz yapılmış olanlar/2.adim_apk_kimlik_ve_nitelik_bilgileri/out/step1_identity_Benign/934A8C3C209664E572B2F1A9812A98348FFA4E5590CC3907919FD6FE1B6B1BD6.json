@@ -1,0 +1,12 @@
+{
+  "apk_file": "934A8C3C209664E572B2F1A9812A98348FFA4E5590CC3907919FD6FE1B6B1BD6.apk",
+  "sha256": "934a8c3c209664e572b2f1a9812a98348ffa4e5590cc3907919fd6fe1b6b1bd6",
+  "package_name": "12",
+  "version_code": "21050504",
+  "version_name": "5.5.4",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 26160,
+  "dex_count": 3,
+  "native_lib_count": 13
+}

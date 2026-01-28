@@ -1,0 +1,12 @@
+{
+  "apk_file": "5F89ED9DDCD604DDEA4CB160D2F6D1263308C7800B251384409379ADC48FE434.apk",
+  "sha256": "5f89ed9ddcd604ddea4cb160d2f6d1263308c7800b251384409379adc48fe434",
+  "package_name": "10",
+  "version_code": "9099",
+  "version_name": "4.7.0",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 129616,
+  "dex_count": 1,
+  "native_lib_count": 64
+}

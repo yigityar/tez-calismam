@@ -1,0 +1,12 @@
+{
+  "apk_file": "EE1034FDBCDF6E71D9F0BC2EB6A3646B6CD68C7A08AD120C9D0F69CC5B229332.apk",
+  "sha256": "ee1034fdbcdf6e71d9f0bc2eb6a3646b6cd68c7a08ad120c9d0f69cc5b229332",
+  "package_name": "10",
+  "version_code": "5111",
+  "version_name": "5.11.0",
+  "min_sdk": "21",
+  "target_sdk": "27",
+  "apk_size_kb": 67900,
+  "dex_count": 7,
+  "native_lib_count": 60
+}

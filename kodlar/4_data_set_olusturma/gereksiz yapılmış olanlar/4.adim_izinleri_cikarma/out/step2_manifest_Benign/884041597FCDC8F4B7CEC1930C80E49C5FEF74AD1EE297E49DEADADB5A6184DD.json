@@ -1,0 +1,16 @@
+{
+  "apk_file": "884041597FCDC8F4B7CEC1930C80E49C5FEF74AD1EE297E49DEADADB5A6184DD.apk",
+  "permissions_list": "com.beanfun.debug.permission.INVOKE_RECEIVER,android.permission.READ_MEDIA_IMAGES,android.permission.READ_MEDIA_VIDEO,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_NETWORK_STATE,android.permission.CAMERA,android.permission.INTERNET,android.permission.RECORD_AUDIO,android.permission.SYSTEM_ALERT_WINDOW,android.permission.VIBRATE,android.permission.READ_CONTACTS,android.permission.WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,com.google.android.providers.gsf.permission.READ_GSERVICES,android.permission.RECEIVE_BOOT_COMPLETED,tw.beanfun.permission.C2D_MESSAGE,android.permission.ACTION_MANAGE_OVERLAY_PERMISSION,android.permission.SYSTEM_OVERLAY_WINDOW,com.android.vending.BILLING,android.permission.ACCESS_WIFI_STATE,android.permission.READ_PHONE_STATE,android.permission.USE_FULL_SCREEN_INTENT,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.MANAGE_OWN_CALLS,android.permission.ANSWER_PHONE_CALLS,android.permission.FOREGROUND_SERVICE,com.google.android.gms.permission.AD_ID,android.permission.POST_NOTIFICATIONS,android.permission.FLASHLIGHT,android.permission.CALL_PHONE,android.permission.USE_FINGERPRINT,android.permission.USE_FINGERPRINT,com.gamapay.gamapaysdk.permission.C2D_MESSAGE,android.permission.WRITE_INTERNAL_STORAGE,android.permission.GET_ACCOUNTS,android.permission.MANAGE_ACCOUNTS,android.permission.USE_CREDENTIALS,android.permission.CHANGE_CONFIGURATION,android.permission.SET_WALLPAPER,android.permission.USE_BIOMETRIC,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.gamania.beanfun.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.majeur.launcher.permission.UPDATE_BADGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,android.permission.READ_APP_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 224,
+  "count_service": 17,
+  "count_receiver": 17,
+  "count_provider": 10,
+  "count_exported": 18
+}

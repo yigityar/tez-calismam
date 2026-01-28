@@ -1,0 +1,12 @@
+{
+  "apk_file": "9B0B0DE616DBE85D8B0CDD03338BB19CF9FCD0836B00B50FF679067AC9E4AF6A.apk",
+  "sha256": "9b0b0de616dbe85d8b0cdd03338bb19cf9fcd0836b00b50ff679067ac9e4af6a",
+  "package_name": "11",
+  "version_code": "1888",
+  "version_name": "6.30.2",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 71800,
+  "dex_count": 5,
+  "native_lib_count": 103
+}

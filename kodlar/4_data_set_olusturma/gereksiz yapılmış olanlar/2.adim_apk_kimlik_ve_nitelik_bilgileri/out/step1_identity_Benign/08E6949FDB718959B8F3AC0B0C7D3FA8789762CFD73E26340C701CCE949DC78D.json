@@ -1,0 +1,12 @@
+{
+  "apk_file": "08E6949FDB718959B8F3AC0B0C7D3FA8789762CFD73E26340C701CCE949DC78D.apk",
+  "sha256": "08e6949fdb718959b8f3ac0b0c7d3fa8789762cfd73e26340c701cce949dc78d",
+  "package_name": "com.chinamworld.main",
+  "version_code": "865",
+  "version_name": "5.7.6",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 199648,
+  "dex_count": 7,
+  "native_lib_count": 58
+}

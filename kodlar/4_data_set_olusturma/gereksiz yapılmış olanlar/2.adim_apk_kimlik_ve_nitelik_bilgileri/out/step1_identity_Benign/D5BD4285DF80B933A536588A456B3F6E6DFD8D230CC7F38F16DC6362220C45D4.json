@@ -1,0 +1,12 @@
+{
+  "apk_file": "D5BD4285DF80B933A536588A456B3F6E6DFD8D230CC7F38F16DC6362220C45D4.apk",
+  "sha256": "d5bd4285df80b933a536588a456b3f6e6dfd8d230cc7f38f16dc6362220c45d4",
+  "package_name": "com.bishang.bsread",
+  "version_code": "6",
+  "version_name": "1.0.5",
+  "min_sdk": "14",
+  "target_sdk": "22",
+  "apk_size_kb": 6848,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

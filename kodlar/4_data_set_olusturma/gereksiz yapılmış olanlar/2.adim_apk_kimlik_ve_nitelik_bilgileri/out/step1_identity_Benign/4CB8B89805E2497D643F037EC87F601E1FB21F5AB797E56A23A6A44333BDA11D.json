@@ -1,0 +1,12 @@
+{
+  "apk_file": "4CB8B89805E2497D643F037EC87F601E1FB21F5AB797E56A23A6A44333BDA11D.apk",
+  "sha256": "4cb8b89805e2497d643f037ec87f601e1fb21f5ab797e56a23a6a44333bda11d",
+  "package_name": "11",
+  "version_code": "20330",
+  "version_name": "2.0.33",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 63820,
+  "dex_count": 3,
+  "native_lib_count": 37
+}

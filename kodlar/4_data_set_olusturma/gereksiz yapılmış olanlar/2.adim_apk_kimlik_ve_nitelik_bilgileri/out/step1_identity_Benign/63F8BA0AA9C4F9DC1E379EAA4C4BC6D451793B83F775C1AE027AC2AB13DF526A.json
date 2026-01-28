@@ -1,0 +1,12 @@
+{
+  "apk_file": "63F8BA0AA9C4F9DC1E379EAA4C4BC6D451793B83F775C1AE027AC2AB13DF526A.apk",
+  "sha256": "63f8ba0aa9c4f9dc1e379eaa4c4bc6d451793b83f775c1ae027ac2ab13df526a",
+  "package_name": "12",
+  "version_code": "568",
+  "version_name": "0.1.485",
+  "min_sdk": "24",
+  "target_sdk": "30",
+  "apk_size_kb": 73516,
+  "dex_count": 4,
+  "native_lib_count": 10
+}

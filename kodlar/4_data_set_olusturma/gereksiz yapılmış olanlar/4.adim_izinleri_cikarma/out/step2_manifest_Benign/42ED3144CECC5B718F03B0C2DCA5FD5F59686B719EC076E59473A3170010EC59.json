@@ -1,0 +1,16 @@
+{
+  "apk_file": "42ED3144CECC5B718F03B0C2DCA5FD5F59686B719EC076E59473A3170010EC59.apk",
+  "permissions_list": "com.android.launcher.permission.INSTALL_SHORTCUT,android.permission.CAMERA,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_PHONE_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.NFC,android.permission.RECORD_AUDIO,android.permission.GET_TASKS,com.android.launcher.permission.UNINSTALL_SHORTCUT,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.READ_CONTACTS,android.permission.INTERNET,com.htc.launcher.permission.UPDATE_SHORTCUT,android.permission.BROADCAST_STICKY,android.permission.CALL_PHONE,android.permission.USE_FINGERPRINT,android.permission.READ_EXTERNAL_STORAGE,android.permission.REQUEST_INSTALL_PACKAGES,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.qdccb.bank.permission.MIPUSH_RECEIVE,com.qdccb.bank.permission.MIPUSH_RECEIVE,com.huawei.permission.ACCESS_HW_KEYSTORE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.VIBRATE,android.permission.USE_BIOMETRIC,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.ACCESS_GPS,android.permission.WRITE_SETTINGS,android.permission.BLUETOOTH,android.permission.READ_SETTINGS,android.permission.WAKE_LOCK,com.huawei.android.launcher.permission.CHANGE_BADGE,android.permission.ZTE_HEARTYSERVICE_MANAGEMENT,android.permission.REORDER_TASKS,android.permission.FLASHLIGHT,android.permission.CHANGE_NETWORK_STATE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 192,
+  "count_service": 42,
+  "count_receiver": 15,
+  "count_provider": 6,
+  "count_exported": 6
+}

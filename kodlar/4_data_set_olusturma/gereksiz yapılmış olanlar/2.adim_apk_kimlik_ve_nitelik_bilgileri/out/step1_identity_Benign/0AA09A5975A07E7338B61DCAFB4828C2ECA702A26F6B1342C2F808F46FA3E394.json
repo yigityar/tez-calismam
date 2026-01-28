@@ -1,0 +1,12 @@
+{
+  "apk_file": "0AA09A5975A07E7338B61DCAFB4828C2ECA702A26F6B1342C2F808F46FA3E394.apk",
+  "sha256": "0aa09a5975a07e7338b61dcafb4828c2eca702a26f6b1342c2f808f46fa3e394",
+  "package_name": "11",
+  "version_code": "79053",
+  "version_name": "5.8.0",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 22076,
+  "dex_count": 2,
+  "native_lib_count": 24
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "54A9E0A471F41F6FD3EAA45F87CD9ED67868F3ED63CFDA75BDF5EA016E5EE52C.apk",
+  "sha256": "54a9e0a471f41f6fd3eaa45f87cd9ed67868f3ed63cfda75bdf5ea016e5ee52c",
+  "package_name": "14",
+  "version_code": "31039",
+  "version_name": "4.10.39",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "apk_size_kb": 94884,
+  "dex_count": 1,
+  "native_lib_count": 20
+}

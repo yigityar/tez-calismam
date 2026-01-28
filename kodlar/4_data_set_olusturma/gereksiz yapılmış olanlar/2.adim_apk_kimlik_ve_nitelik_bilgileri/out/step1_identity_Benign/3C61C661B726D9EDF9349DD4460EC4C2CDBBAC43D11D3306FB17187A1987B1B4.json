@@ -1,0 +1,12 @@
+{
+  "apk_file": "3C61C661B726D9EDF9349DD4460EC4C2CDBBAC43D11D3306FB17187A1987B1B4.apk",
+  "sha256": "3c61c661b726d9edf9349dd4460ec4c2cdbbac43d11d3306fb17187a1987b1b4",
+  "package_name": "13",
+  "version_code": "24010401",
+  "version_name": "20.15.40",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 81336,
+  "dex_count": 7,
+  "native_lib_count": 10
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "CF042A3DB634B0411211DD4044EA629F34EBAFBF7BCABBCF9FB6C251DFDC512B.apk",
+  "sha256": "cf042a3db634b0411211dd4044ea629f34ebafbf7bcabbcf9fb6c251dfdc512b",
+  "package_name": "11",
+  "version_code": "5",
+  "version_name": "3.0.20124",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 78156,
+  "dex_count": 2,
+  "native_lib_count": 31
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "1465D832C23A2D13A5405DB9FFB98EC108D04E820C67030A9414606D746551AD.apk",
+  "sha256": "1465d832c23a2d13a5405db9ffb98ec108d04e820c67030a9414606d746551ad",
+  "package_name": "15",
+  "version_code": "35",
+  "version_name": "35",
+  "min_sdk": "21",
+  "target_sdk": "35",
+  "apk_size_kb": 3100,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

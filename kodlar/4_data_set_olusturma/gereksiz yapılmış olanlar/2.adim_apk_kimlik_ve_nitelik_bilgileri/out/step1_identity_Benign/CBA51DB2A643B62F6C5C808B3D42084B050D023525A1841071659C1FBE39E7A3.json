@@ -1,0 +1,12 @@
+{
+  "apk_file": "CBA51DB2A643B62F6C5C808B3D42084B050D023525A1841071659C1FBE39E7A3.apk",
+  "sha256": "cba51db2a643b62f6c5c808b3d42084b050d023525a1841071659c1fbe39e7a3",
+  "package_name": "6.0-2438415",
+  "version_code": "206",
+  "version_name": "2.0.6",
+  "min_sdk": "17",
+  "target_sdk": "30",
+  "apk_size_kb": 97608,
+  "dex_count": 8,
+  "native_lib_count": 8
+}

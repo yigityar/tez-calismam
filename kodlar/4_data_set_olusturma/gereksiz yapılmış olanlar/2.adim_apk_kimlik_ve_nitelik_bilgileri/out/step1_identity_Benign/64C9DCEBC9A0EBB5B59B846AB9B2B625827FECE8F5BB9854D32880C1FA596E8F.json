@@ -1,0 +1,12 @@
+{
+  "apk_file": "64C9DCEBC9A0EBB5B59B846AB9B2B625827FECE8F5BB9854D32880C1FA596E8F.apk",
+  "sha256": "64c9dcebc9a0ebb5b59b846ab9b2b625827fece8f5bb9854d32880c1fa596e8f",
+  "package_name": "12",
+  "version_code": "129",
+  "version_name": "2.95",
+  "min_sdk": "22",
+  "target_sdk": "31",
+  "apk_size_kb": 80056,
+  "dex_count": 1,
+  "native_lib_count": 36
+}

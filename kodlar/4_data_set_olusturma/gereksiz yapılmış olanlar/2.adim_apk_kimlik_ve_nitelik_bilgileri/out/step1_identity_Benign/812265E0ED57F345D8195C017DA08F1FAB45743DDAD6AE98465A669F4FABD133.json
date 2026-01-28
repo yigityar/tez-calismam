@@ -1,0 +1,12 @@
+{
+  "apk_file": "812265E0ED57F345D8195C017DA08F1FAB45743DDAD6AE98465A669F4FABD133.apk",
+  "sha256": "812265e0ed57f345d8195c017da08f1fab45743ddad6ae98465a669f4fabd133",
+  "package_name": "com.nemo.vidmate",
+  "version_code": "346",
+  "version_name": "3.46",
+  "min_sdk": "14",
+  "target_sdk": "17",
+  "apk_size_kb": 7824,
+  "dex_count": 2,
+  "native_lib_count": 14
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "C1579821F1889C5A61BD28A13A43991C712D95A6032CA4F7BC5F28A6E83CFEE7.apk",
+  "sha256": "c1579821f1889c5a61bd28a13a43991c712d95a6032ca4f7bc5f28a6e83cfee7",
+  "package_name": "com.iss.weihaibank",
+  "version_code": "462",
+  "version_name": "4.6.2",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 137928,
+  "dex_count": 1,
+  "native_lib_count": 164
+}

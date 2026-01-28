@@ -1,0 +1,12 @@
+{
+  "apk_file": "3AD323B9FD674AFCB42F8632E13FA50530787E64E4BE0F52B6AC634B16C1F43E.apk",
+  "sha256": "3ad323b9fd674afcb42f8632e13fa50530787e64e4be0f52b6ac634b16c1f43e",
+  "package_name": "10",
+  "version_code": "58400",
+  "version_name": "5.84.00",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 120564,
+  "dex_count": 9,
+  "native_lib_count": 86
+}

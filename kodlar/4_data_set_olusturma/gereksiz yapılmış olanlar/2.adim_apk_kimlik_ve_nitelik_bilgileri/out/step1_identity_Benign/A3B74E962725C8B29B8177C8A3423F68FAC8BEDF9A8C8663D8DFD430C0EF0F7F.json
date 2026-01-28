@@ -1,0 +1,12 @@
+{
+  "apk_file": "A3B74E962725C8B29B8177C8A3423F68FAC8BEDF9A8C8663D8DFD430C0EF0F7F.apk",
+  "sha256": "a3b74e962725c8b29b8177c8a3423f68fac8bedf9a8c8663d8dfd430c0ef0f7f",
+  "package_name": "14",
+  "version_code": "574",
+  "version_name": "3.3.1",
+  "min_sdk": "24",
+  "target_sdk": "34",
+  "apk_size_kb": 37928,
+  "dex_count": 1,
+  "native_lib_count": 18
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "811CFB8D4C6254B0D0726312A32923FFE3C5F9983BFF2A067A8657FC72A03F84.apk",
+  "sha256": "811cfb8d4c6254b0d0726312a32923ffe3c5f9983bff2a067a8657fc72a03f84",
+  "package_name": "10",
+  "version_code": "157",
+  "version_name": "8.1.5",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 77032,
+  "dex_count": 1,
+  "native_lib_count": 46
+}

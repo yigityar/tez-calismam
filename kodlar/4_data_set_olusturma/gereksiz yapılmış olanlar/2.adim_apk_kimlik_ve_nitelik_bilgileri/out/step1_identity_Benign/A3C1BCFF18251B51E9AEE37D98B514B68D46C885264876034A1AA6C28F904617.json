@@ -1,0 +1,12 @@
+{
+  "apk_file": "A3C1BCFF18251B51E9AEE37D98B514B68D46C885264876034A1AA6C28F904617.apk",
+  "sha256": "a3c1bcff18251b51e9aee37d98b514b68d46c885264876034a1aa6c28f904617",
+  "package_name": "11",
+  "version_code": "8030",
+  "version_name": "8.0.30",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 61288,
+  "dex_count": 12,
+  "native_lib_count": 80
+}

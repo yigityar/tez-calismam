@@ -1,0 +1,12 @@
+{
+  "apk_file": "A275FE2FA50B2982DD83BDA82CA30764289C04393712C2B724A684B526C0DD2D.apk",
+  "sha256": "a275fe2fa50b2982dd83bda82ca30764289c04393712c2b724a684b526c0dd2d",
+  "package_name": "9",
+  "version_code": "39650",
+  "version_name": "4.265.10005",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 62084,
+  "dex_count": 10,
+  "native_lib_count": 25
+}

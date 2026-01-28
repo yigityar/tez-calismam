@@ -1,0 +1,12 @@
+{
+  "apk_file": "71C9FD1155F7667136EFCDDE924406D8BEA3FCC64D8B39C624AAAF4263DF17C5.apk",
+  "sha256": "71c9fd1155f7667136efcdde924406d8bea3fcc64d8b39c624aaaf4263df17c5",
+  "package_name": "12",
+  "version_code": "168",
+  "version_name": "3.14.2",
+  "min_sdk": "22",
+  "target_sdk": "26",
+  "apk_size_kb": 76728,
+  "dex_count": 12,
+  "native_lib_count": 49
+}

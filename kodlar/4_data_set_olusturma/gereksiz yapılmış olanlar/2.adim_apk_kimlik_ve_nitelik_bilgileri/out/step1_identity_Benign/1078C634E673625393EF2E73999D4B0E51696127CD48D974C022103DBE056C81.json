@@ -1,0 +1,12 @@
+{
+  "apk_file": "1078C634E673625393EF2E73999D4B0E51696127CD48D974C022103DBE056C81.apk",
+  "sha256": "1078c634e673625393ef2e73999d4b0e51696127cd48d974c022103dbe056c81",
+  "package_name": "12",
+  "version_code": "638",
+  "version_name": "2.038",
+  "min_sdk": "19",
+  "target_sdk": "31",
+  "apk_size_kb": 8188,
+  "dex_count": 2,
+  "native_lib_count": 12
+}

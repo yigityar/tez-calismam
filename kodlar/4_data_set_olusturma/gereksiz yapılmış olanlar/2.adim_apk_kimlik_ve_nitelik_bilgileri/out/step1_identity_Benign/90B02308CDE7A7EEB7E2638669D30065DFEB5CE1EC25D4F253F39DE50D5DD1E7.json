@@ -1,0 +1,12 @@
+{
+  "apk_file": "90B02308CDE7A7EEB7E2638669D30065DFEB5CE1EC25D4F253F39DE50D5DD1E7.apk",
+  "sha256": "90b02308cde7a7eeb7e2638669d30065dfeb5ce1ec25d4f253f39de50d5dd1e7",
+  "package_name": "11",
+  "version_code": "78602",
+  "version_name": "7.86.0",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 103332,
+  "dex_count": 1,
+  "native_lib_count": 56
+}

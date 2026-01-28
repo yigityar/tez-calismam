@@ -1,0 +1,12 @@
+{
+  "apk_file": "3C17B867B4F15EDF2CBC443B20CDA794610BF1F88555CA666DEF61C8E04741C0.apk",
+  "sha256": "3c17b867b4f15edf2cbc443b20cda794610bf1f88555ca666def61c8e04741c0",
+  "package_name": "11",
+  "version_code": "5365",
+  "version_name": "3.12.20",
+  "min_sdk": "22",
+  "target_sdk": "27",
+  "apk_size_kb": 74196,
+  "dex_count": 10,
+  "native_lib_count": 102
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "83DFC5AAB05C632E5E507B1ED6DEEEEFA511C98C02AE1258F7FF8CCC0B5CAB50.apk",
+  "sha256": "83dfc5aab05c632e5e507b1ed6deeeefa511c98c02ae1258f7ff8ccc0b5cab50",
+  "package_name": "9",
+  "version_code": "1050",
+  "version_name": "7.85.0",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 63272,
+  "dex_count": 7,
+  "native_lib_count": 35
+}

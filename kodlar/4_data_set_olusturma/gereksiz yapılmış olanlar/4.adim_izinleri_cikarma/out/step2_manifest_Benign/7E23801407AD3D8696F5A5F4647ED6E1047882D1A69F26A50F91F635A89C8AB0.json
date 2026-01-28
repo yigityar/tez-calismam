@@ -1,0 +1,16 @@
+{
+  "apk_file": "7E23801407AD3D8696F5A5F4647ED6E1047882D1A69F26A50F91F635A89C8AB0.apk",
+  "permissions_list": "android.permission.NFC,org.simalliance.openmobileapi.SMARTCARD,com.china3s.android.permission.JPUSH_MESSAGE,com.android.launcher.permission.READ_SETTINGS,android.permission.FOREGROUND_SERVICE,android.permission.INTERNET,android.permission.READ_PHONE_STATE,android.permission.READ_CONTACTS,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.CAMERA,android.permission.READ_LOGS,android.permission.WAKE_LOCK,android.permission.WRITE_SETTINGS,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.FLASHLIGHT,android.permission.VIBRATE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.SYSTEM_ALERT_WINDOW,android.permission.RECEIVE_USER_PRESENT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.china3s.android.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.FOREGROUND_SERVICE,android.permission.GET_ACCOUNTS,android.permission.AUTHENTICATE_ACCOUNTS,com.china3s.android.permission.PROCESS_PUSH_MSG,com.china3s.android.permission.PUSH_PROVIDER,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,android.permission.GET_TASKS,getui.permission.GetuiService.com.china3s.android,com.meizu.flyme.push.permission.RECEIVE,com.meizu.c2dm.permission.RECEIVE,com.china3s.android.push.permission.MESSAGE,com.china3s.android.permission.C2D_MESSAGE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 304,
+  "count_service": 22,
+  "count_receiver": 11,
+  "count_provider": 12,
+  "count_exported": 23
+}

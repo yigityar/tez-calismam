@@ -1,0 +1,16 @@
+{
+  "apk_file": "90B02308CDE7A7EEB7E2638669D30065DFEB5CE1EC25D4F253F39DE50D5DD1E7.apk",
+  "permissions_list": "android.permission.MODIFY_AUDIO_SETTINGS,android.permission.WAKE_LOCK,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.CHANGE_WIFI_STATE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.FOREGROUND_SERVICE,android.permission.MANAGE_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.READ_EXTERNAL_STORAGE,com.alpha.lagouapk.permission.JPUSH_MESSAGE,android.permission.RECEIVE_USER_PRESENT,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.READ_LOGS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.FOREGROUND_SERVICE,android.webkit.permission.PLUGIN,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.alpha.lagouapk.andpermission.bridge,com.huawei.android.launcher.permission.CHANGE_BADGE,android.permission.CHANGE_NETWORK_STATE,com.alpha.lagouapk.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.alpha.lagouapk.permission.PROCESS_PUSH_MSG,com.alpha.lagouapk.permission.PUSH_PROVIDER,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 371,
+  "count_service": 36,
+  "count_receiver": 18,
+  "count_provider": 12,
+  "count_exported": 21
+}

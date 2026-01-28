@@ -1,0 +1,12 @@
+{
+  "apk_file": "43F9D7ED6E9C5932BCBD4C04B2A092F9237F85E936DAACFBCA5076BC9D238EBC.apk",
+  "sha256": "43f9d7ed6e9c5932bcbd4c04b2a092f9237f85e936daacfbca5076bc9d238ebc",
+  "package_name": "11",
+  "version_code": "490",
+  "version_name": "9.0.48.3",
+  "min_sdk": "18",
+  "target_sdk": "28",
+  "apk_size_kb": 96556,
+  "dex_count": 15,
+  "native_lib_count": 67
+}

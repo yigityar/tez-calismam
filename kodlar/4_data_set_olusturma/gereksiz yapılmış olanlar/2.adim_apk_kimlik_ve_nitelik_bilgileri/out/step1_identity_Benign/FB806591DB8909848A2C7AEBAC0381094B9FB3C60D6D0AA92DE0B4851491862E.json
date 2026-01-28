@@ -1,0 +1,12 @@
+{
+  "apk_file": "FB806591DB8909848A2C7AEBAC0381094B9FB3C60D6D0AA92DE0B4851491862E.apk",
+  "sha256": "fb806591db8909848a2c7aebac0381094b9fb3c60d6d0aa92de0b4851491862e",
+  "package_name": "11",
+  "version_code": "1246",
+  "version_name": "6.2.1.0",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 48604,
+  "dex_count": 5,
+  "native_lib_count": 40
+}

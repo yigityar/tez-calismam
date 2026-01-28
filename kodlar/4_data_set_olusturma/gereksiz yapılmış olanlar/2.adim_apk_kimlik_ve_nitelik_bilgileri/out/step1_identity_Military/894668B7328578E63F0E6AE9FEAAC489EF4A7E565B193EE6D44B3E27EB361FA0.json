@@ -1,0 +1,12 @@
+{
+  "apk_file": "894668B7328578E63F0E6AE9FEAAC489EF4A7E565B193EE6D44B3E27EB361FA0.apk",
+  "sha256": "894668b7328578e63f0e6ae9feaac489ef4a7e565b193ee6d44b3e27eb361fa0",
+  "package_name": "com.discipleskies.android.gpswaypointsnavigator",
+  "version_code": "149",
+  "version_name": "8.73",
+  "min_sdk": "9",
+  "target_sdk": "21",
+  "apk_size_kb": 7776,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

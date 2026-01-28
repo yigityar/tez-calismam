@@ -1,0 +1,12 @@
+{
+  "apk_file": "97292DD278B75C555D91784EA3EBFEC3A88F4CD555F6FDC6FCBD008FB5E8A58D.apk",
+  "sha256": "97292dd278b75c555d91784ea3ebfec3a88f4cd555f6fdc6fcbd008fb5e8a58d",
+  "package_name": "14",
+  "version_code": "136",
+  "version_name": "136.0.1",
+  "min_sdk": "24",
+  "target_sdk": "34",
+  "apk_size_kb": 66676,
+  "dex_count": 3,
+  "native_lib_count": 34
+}

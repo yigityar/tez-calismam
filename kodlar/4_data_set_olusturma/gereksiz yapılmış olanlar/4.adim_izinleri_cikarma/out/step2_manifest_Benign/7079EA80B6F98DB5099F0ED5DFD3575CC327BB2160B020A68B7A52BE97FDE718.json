@@ -1,0 +1,16 @@
+{
+  "apk_file": "7079EA80B6F98DB5099F0ED5DFD3575CC327BB2160B020A68B7A52BE97FDE718.apk",
+  "permissions_list": "android.permission.INTERNET,com.google.android.c2dm.permission.RECEIVE,nz.co.sporty.midcanterburyrugby.permission.C2D_MESSAGE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.ACCESS_NETWORK_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.READ_EXTERNAL_STORAGE,android.permission.WAKE_LOCK",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 10,
+  "count_service": 7,
+  "count_receiver": 5,
+  "count_provider": 5,
+  "count_exported": 4
+}

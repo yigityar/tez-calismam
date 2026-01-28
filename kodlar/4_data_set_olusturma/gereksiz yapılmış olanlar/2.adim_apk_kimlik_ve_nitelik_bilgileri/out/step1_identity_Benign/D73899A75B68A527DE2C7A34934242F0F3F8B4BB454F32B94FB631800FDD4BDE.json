@@ -1,0 +1,12 @@
+{
+  "apk_file": "D73899A75B68A527DE2C7A34934242F0F3F8B4BB454F32B94FB631800FDD4BDE.apk",
+  "sha256": "d73899a75b68a527de2c7a34934242f0f3f8b4bb454f32b94fb631800fdd4bde",
+  "package_name": "11",
+  "version_code": "96789693",
+  "version_name": "2.31.1",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 60580,
+  "dex_count": 8,
+  "native_lib_count": 48
+}

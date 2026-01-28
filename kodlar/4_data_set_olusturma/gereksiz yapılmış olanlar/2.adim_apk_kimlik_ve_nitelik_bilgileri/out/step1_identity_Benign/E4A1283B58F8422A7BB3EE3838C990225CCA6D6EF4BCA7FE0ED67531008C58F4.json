@@ -1,0 +1,12 @@
+{
+  "apk_file": "E4A1283B58F8422A7BB3EE3838C990225CCA6D6EF4BCA7FE0ED67531008C58F4.apk",
+  "sha256": "e4a1283b58f8422a7bb3ee3838c990225cca6d6ef4bca7fe0ed67531008c58f4",
+  "package_name": "10",
+  "version_code": "146",
+  "version_name": "7.7.4",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 133052,
+  "dex_count": 14,
+  "native_lib_count": 86
+}

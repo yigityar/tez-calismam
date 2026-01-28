@@ -1,0 +1,16 @@
+{
+  "apk_file": "CD143F4B8368BECACD268F572691C4B2C4FE56089CAE8633F3C97E8F11552A7A.apk",
+  "permissions_list": "com.kugou.permission.ACCESS_DOWNLOAD_MANAGER,com.kugou.permission.ACCESS_DOWNLOAD_MANAGER_ADVANCED,com.kugou.permission.SEND_DOWNLOAD_COMPLETED_INTENTS,com.sing.kugou.android.permission.ACCESS_KUGOU_SERVICE,android.permission.FOREGROUND_SERVICE,android.permission.INTERNET,android.permission.WAKE_LOCK,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.USE_FULL_SCREEN_INTENT,android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.SYSTEM_ALERT_WINDOW,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.MANAGE_ACCOUNTS,com.android.launcher.permission.READ_SETTINGS,android.permission.EXPAND_STATUS_BAR,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.RAISED_THREAD_PRIORITY,android.permission.RESTART_PACKAGES,android.permission.BROADCAST_STICKY,android.permission.WRITE_SETTINGS,android.permission.RECEIVE_USER_PRESENT,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.READ_LOGS,android.permission.VIBRATE,android.permission.ACCESS_DOWNLOAD_MANAGER,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.DISABLE_KEYGUARD,android.permission.READ_CONTACTS,android.permission.USE_FULL_SCREEN_INTENT,android.permission.FLASHLIGHT,com.sing.permission.ACCESS_DOWNLOAD_MANAGER,com.sing.permission.ACCESS_DOWNLOAD_MANAGER_ADVANCED,com.sing.permission.SEND_DOWNLOAD_COMPLETED_INTENTS,android.permission.GET_TASKS,com.sing.client.permission.MIPUSH_RECEIVE,com.meizu.flyme.push.permission.RECEIVE,com.sing.client.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.sing.client.permission.C2D_MESSAGE,android.permission.SYSTEM_OVERLAY_WINDOW,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.REQUEST_INSTALL_PACKAGES,com.sing.client.permission.PROCESS_PUSH_MSG,com.sing.client.permission.PUSH_PROVIDER,android.permission.LOCAL_MAC_ADDRESS,android.permission.READ_APN_SETTINGS,android.permission.CHANGE_NETWORK_STATE,com.sing.client.permission.TMF_SHARK,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 417,
+  "count_service": 27,
+  "count_receiver": 7,
+  "count_provider": 26,
+  "count_exported": 10
+}

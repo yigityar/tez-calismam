@@ -1,0 +1,12 @@
+{
+  "apk_file": "E9E9D793CA0929B690A58044621369115015F45F53050557E65BF070F08B425C.apk",
+  "sha256": "e9e9d793ca0929b690a58044621369115015f45f53050557e65bf070f08b425c",
+  "package_name": "12",
+  "version_code": "50",
+  "version_name": "2.3.2",
+  "min_sdk": "19",
+  "target_sdk": "32",
+  "apk_size_kb": 44684,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

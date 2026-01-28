@@ -1,0 +1,12 @@
+{
+  "apk_file": "42F3F7321BF1294FC671A7B54A28292F32E1DFE23C889491A6F350A554A61D5E.apk",
+  "sha256": "42f3f7321bf1294fc671a7b54a28292f32e1dfe23c889491a6f350a554a61d5e",
+  "package_name": "12",
+  "version_code": "9022400",
+  "version_name": "9.2.24",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 146524,
+  "dex_count": 8,
+  "native_lib_count": 55
+}

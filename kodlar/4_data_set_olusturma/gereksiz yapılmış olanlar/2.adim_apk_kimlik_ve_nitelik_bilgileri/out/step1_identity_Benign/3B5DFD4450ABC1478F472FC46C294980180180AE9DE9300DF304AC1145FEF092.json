@@ -1,0 +1,12 @@
+{
+  "apk_file": "3B5DFD4450ABC1478F472FC46C294980180180AE9DE9300DF304AC1145FEF092.apk",
+  "sha256": "3b5dfd4450abc1478f472fc46c294980180180ae9de9300df304ac1145fef092",
+  "package_name": "12",
+  "version_code": "97",
+  "version_name": "1.0.0.20221108",
+  "min_sdk": "25",
+  "target_sdk": "31",
+  "apk_size_kb": 41008,
+  "dex_count": 1,
+  "native_lib_count": 32
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "C53A2285B1370A2E1AB410E97F6BB32597CB9C3D807DF2DC5E69B00571BC27CE.apk",
+  "sha256": "c53a2285b1370a2e1ab410e97f6bb32597cb9c3d807df2dc5e69b00571bc27ce",
+  "package_name": "9",
+  "version_code": "540",
+  "version_name": "6.3.10",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 98600,
+  "dex_count": 21,
+  "native_lib_count": 74
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "7E23801407AD3D8696F5A5F4647ED6E1047882D1A69F26A50F91F635A89C8AB0.apk",
+  "sha256": "7e23801407ad3d8696f5a5f4647ed6e1047882d1a69f26a50f91f635a89c8ab0",
+  "package_name": "10",
+  "version_code": "7102",
+  "version_name": "7.0.21",
+  "min_sdk": "17",
+  "target_sdk": "27",
+  "apk_size_kb": 58028,
+  "dex_count": 1,
+  "native_lib_count": 60
+}

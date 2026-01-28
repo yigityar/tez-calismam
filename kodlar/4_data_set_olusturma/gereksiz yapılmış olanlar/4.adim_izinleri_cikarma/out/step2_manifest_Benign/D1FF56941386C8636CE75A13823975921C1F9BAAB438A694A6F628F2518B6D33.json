@@ -1,0 +1,16 @@
+{
+  "apk_file": "D1FF56941386C8636CE75A13823975921C1F9BAAB438A694A6F628F2518B6D33.apk",
+  "permissions_list": "android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.INTERNET,android.permission.POST_NOTIFICATIONS,android.permission.CAMERA,android.permission.BATTERY_STATS,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.VIBRATE,android.permission.WAKE_LOCK,android.permission.DEVICE_POWER,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_PHONE_STATE,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH,com.netease.uu.sdk.QUERY_GAMES,android.permission.GET_TASKS,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_GPS,android.permission.READ_CONTACTS,android.permission.WRITE_CONTACTS,android.permission.FOREGROUND_SERVICE,android.permission.FOREGROUND_SERVICE_DATA_SYNC,com.google.android.gms.permission.AD_ID,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.FLASHLIGHT,android.permission.BLUETOOTH_CONNECT,com.netease.g78na.gb.permission.ngpush,com.netease.g78na.gb.permission.ngpush,android.permission.READ_MEDIA_IMAGES,com.google.android.c2dm.permission.RECEIVE,com.android.vending.BILLING,android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 40,
+  "count_service": 19,
+  "count_receiver": 8,
+  "count_provider": 13,
+  "count_exported": 24
+}

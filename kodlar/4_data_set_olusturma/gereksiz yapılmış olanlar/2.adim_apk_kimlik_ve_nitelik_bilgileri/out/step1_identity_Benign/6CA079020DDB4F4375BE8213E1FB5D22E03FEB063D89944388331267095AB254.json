@@ -1,0 +1,12 @@
+{
+  "apk_file": "6CA079020DDB4F4375BE8213E1FB5D22E03FEB063D89944388331267095AB254.apk",
+  "sha256": "6ca079020ddb4f4375be8213e1fb5d22e03feb063d89944388331267095ab254",
+  "package_name": "6.0-2438415",
+  "version_code": "44",
+  "version_name": "cartoon_cat-2",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 14240,
+  "dex_count": 4,
+  "native_lib_count": 0
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "DE829D4690F4C39FFDF056F4499E33FDB3B91C2414744DD33D37D4B69A67ABA6.apk",
+  "sha256": "de829d4690f4c39ffdf056f4499e33fdb3b91c2414744dd33d37d4b69a67aba6",
+  "package_name": "11",
+  "version_code": "26",
+  "version_name": "26",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 7036,
+  "dex_count": 4,
+  "native_lib_count": 0
+}

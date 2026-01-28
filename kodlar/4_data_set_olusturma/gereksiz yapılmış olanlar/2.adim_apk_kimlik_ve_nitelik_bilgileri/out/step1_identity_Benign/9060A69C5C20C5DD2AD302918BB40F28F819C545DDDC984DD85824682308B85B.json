@@ -1,0 +1,12 @@
+{
+  "apk_file": "9060A69C5C20C5DD2AD302918BB40F28F819C545DDDC984DD85824682308B85B.apk",
+  "sha256": "9060a69c5c20c5dd2ad302918bb40f28f819c545dddc984dd85824682308b85b",
+  "package_name": "14",
+  "version_code": "1724774453",
+  "version_name": "2.47.5",
+  "min_sdk": "22",
+  "target_sdk": "34",
+  "apk_size_kb": 61184,
+  "dex_count": 2,
+  "native_lib_count": 512
+}

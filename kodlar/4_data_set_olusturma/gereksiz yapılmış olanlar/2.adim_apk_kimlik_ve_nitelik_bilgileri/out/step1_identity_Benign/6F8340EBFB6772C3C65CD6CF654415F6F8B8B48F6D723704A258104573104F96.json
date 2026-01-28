@@ -1,0 +1,12 @@
+{
+  "apk_file": "6F8340EBFB6772C3C65CD6CF654415F6F8B8B48F6D723704A258104573104F96.apk",
+  "sha256": "6f8340ebfb6772c3c65cd6cf654415f6f8b8b48f6d723704a258104573104f96",
+  "package_name": "13",
+  "version_code": "80020202",
+  "version_name": "2.2.2",
+  "min_sdk": "26",
+  "target_sdk": "33",
+  "apk_size_kb": 47948,
+  "dex_count": 2,
+  "native_lib_count": 28
+}

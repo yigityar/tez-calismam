@@ -1,0 +1,12 @@
+{
+  "apk_file": "26EC22DFD937640872493553E7A407068531F19C7C62E46B8D0C1CEE200F136A.apk",
+  "sha256": "26ec22dfd937640872493553e7a407068531f19c7c62e46b8d0c1cee200f136a",
+  "package_name": "10",
+  "version_code": "7108",
+  "version_name": "7.1.0",
+  "min_sdk": "19",
+  "target_sdk": "27",
+  "apk_size_kb": 58452,
+  "dex_count": 1,
+  "native_lib_count": 62
+}

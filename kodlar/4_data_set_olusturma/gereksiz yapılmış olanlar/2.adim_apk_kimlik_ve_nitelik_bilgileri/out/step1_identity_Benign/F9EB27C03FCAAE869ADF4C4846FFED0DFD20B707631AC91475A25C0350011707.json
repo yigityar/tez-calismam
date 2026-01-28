@@ -1,0 +1,12 @@
+{
+  "apk_file": "F9EB27C03FCAAE869ADF4C4846FFED0DFD20B707631AC91475A25C0350011707.apk",
+  "sha256": "f9eb27c03fcaae869adf4c4846ffed0dfd20b707631ac91475a25c0350011707",
+  "package_name": "12",
+  "version_code": "53",
+  "version_name": "2.3.5",
+  "min_sdk": "19",
+  "target_sdk": "32",
+  "apk_size_kb": 44684,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

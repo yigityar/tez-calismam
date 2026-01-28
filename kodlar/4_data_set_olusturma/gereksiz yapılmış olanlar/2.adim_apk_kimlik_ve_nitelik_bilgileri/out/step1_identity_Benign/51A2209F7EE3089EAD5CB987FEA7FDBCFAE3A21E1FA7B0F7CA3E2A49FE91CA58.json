@@ -1,0 +1,12 @@
+{
+  "apk_file": "51A2209F7EE3089EAD5CB987FEA7FDBCFAE3A21E1FA7B0F7CA3E2A49FE91CA58.apk",
+  "sha256": "51a2209f7ee3089ead5cb987fea7fdbcfae3a21e1fa7b0f7ca3e2a49fe91ca58",
+  "package_name": "11",
+  "version_code": "117",
+  "version_name": "1.12.6",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 32392,
+  "dex_count": 4,
+  "native_lib_count": 33
+}

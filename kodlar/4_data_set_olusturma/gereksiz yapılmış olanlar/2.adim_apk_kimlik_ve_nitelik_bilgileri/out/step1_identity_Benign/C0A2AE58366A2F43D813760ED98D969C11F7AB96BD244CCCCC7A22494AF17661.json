@@ -1,0 +1,12 @@
+{
+  "apk_file": "C0A2AE58366A2F43D813760ED98D969C11F7AB96BD244CCCCC7A22494AF17661.apk",
+  "sha256": "c0a2ae58366a2f43d813760ed98d969c11f7ab96bd244ccccc7a22494af17661",
+  "package_name": "11",
+  "version_code": "32114",
+  "version_name": "7.18.0",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 85592,
+  "dex_count": 8,
+  "native_lib_count": 49
+}

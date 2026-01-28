@@ -1,0 +1,12 @@
+{
+  "apk_file": "1A4FC894A5D0269223C06D1AF06F53E1747E9478FD3E6B861534AFC4EFB825CD.apk",
+  "sha256": "1a4fc894a5d0269223c06d1af06f53e1747e9478fd3e6b861534afc4efb825cd",
+  "package_name": "14",
+  "version_code": "223",
+  "version_name": "6.5.0",
+  "min_sdk": "28",
+  "target_sdk": "34",
+  "apk_size_kb": 110552,
+  "dex_count": 3,
+  "native_lib_count": 16
+}

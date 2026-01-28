@@ -1,0 +1,12 @@
+{
+  "apk_file": "1B2D7D8458E013B9E18482C67C5060BA15B4F9C36D3D515D0BD3DEB072ADC274.apk",
+  "sha256": "1b2d7d8458e013b9e18482c67c5060ba15b4f9c36d3d515d0bd3deb072adc274",
+  "package_name": "14",
+  "version_code": "401047",
+  "version_name": "4.7",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "apk_size_kb": 20384,
+  "dex_count": 2,
+  "native_lib_count": 7
+}

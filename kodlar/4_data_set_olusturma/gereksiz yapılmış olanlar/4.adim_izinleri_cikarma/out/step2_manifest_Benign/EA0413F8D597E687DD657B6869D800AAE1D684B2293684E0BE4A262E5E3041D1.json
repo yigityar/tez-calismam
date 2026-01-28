@@ -1,0 +1,16 @@
+{
+  "apk_file": "EA0413F8D597E687DD657B6869D800AAE1D684B2293684E0BE4A262E5E3041D1.apk",
+  "permissions_list": "com.fenbi.android.gaozhong.permission.SHARED_ACCOUNT,com.fenbi.android.solar.permission.SHARED_ACCOUNT,android.permission.WAKE_LOCK,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.BLUETOOTH,android.permission.FOREGROUND_SERVICE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.READ_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.REORDER_TASKS,android.permission.ACCESS_NOTIFICATION_POLICY,android.permission.READ_PHONE_STATE,com.google.android.gms.permission.AD_ID,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.RECEIVE_BOOT_COMPLETED,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,android.permission.CHANGE_NETWORK_STATE,com.yuantiku.collie.permission.PROCESS_PUSH_MSG,com.yuantiku.collie.permission.PUSH_PROVIDER,android.permission.POST_NOTIFICATIONS,com.yuantiku.collie.permission.MIPUSH_RECEIVE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 140,
+  "count_service": 35,
+  "count_receiver": 16,
+  "count_provider": 19,
+  "count_exported": 29
+}

@@ -1,0 +1,93 @@
+{
+    "apk_name": "BDE8D6507A8E51CE0070ED05EB942B5D105E637572DB134D08195980EC942A7A",
+    "sha256": "bde8d6507a8e51ce0070ed05eb942b5d105e637572db134d08195980ec942a7a",
+    "metadata": {
+        "package_name": "com.acidremap.PPPAspirusMedEvacEMSProtocols",
+        "version_code": "20600",
+        "version_name": "2.6",
+        "min_sdk": "24",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CALL_PHONE",
+            "android.permission.INTERNET",
+            "com.android.vending.CHECK_LICENSE"
+        ],
+        "activities": [
+            "com.acidremap.pppbase.AddProtocolActivity",
+            "com.acidremap.pppbase.NotesActivity",
+            "com.acidremap.pppbase.TabsFragmentActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ],
+        "services": [],
+        "receivers": [],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.CALL_PHONE": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "com.android.vending.CHECK_LICENSE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 2,
+            "dangerous": 1,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 30
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 20.15,
+        "sources_present": true,
+        "java_file_count": 3967
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 27,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 5
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 2,
+            "content_access": 2,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 3,
+            "scheduling_apis": 6,
+            "dynamic_code": 105
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 118
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 0,
+            "handler_loop": 6,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 104
+        }
+    }
+}

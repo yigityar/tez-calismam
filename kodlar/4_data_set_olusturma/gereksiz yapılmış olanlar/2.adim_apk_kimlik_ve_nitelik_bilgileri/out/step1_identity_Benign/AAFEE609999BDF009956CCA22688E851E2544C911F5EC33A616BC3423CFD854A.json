@@ -1,0 +1,12 @@
+{
+  "apk_file": "AAFEE609999BDF009956CCA22688E851E2544C911F5EC33A616BC3423CFD854A.apk",
+  "sha256": "aafee609999bdf009956cca22688e851e2544c911f5ec33a616bc3423cfd854a",
+  "package_name": "10",
+  "version_code": "82",
+  "version_name": "4.0.1.1",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 39676,
+  "dex_count": 5,
+  "native_lib_count": 31
+}

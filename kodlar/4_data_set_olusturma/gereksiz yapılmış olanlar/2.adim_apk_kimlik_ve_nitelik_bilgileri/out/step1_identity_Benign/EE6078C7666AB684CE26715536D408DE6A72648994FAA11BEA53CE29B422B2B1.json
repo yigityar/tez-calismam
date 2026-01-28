@@ -1,0 +1,12 @@
+{
+  "apk_file": "EE6078C7666AB684CE26715536D408DE6A72648994FAA11BEA53CE29B422B2B1.apk",
+  "sha256": "ee6078c7666ab684ce26715536d408de6a72648994faa11bea53ce29b422b2b1",
+  "package_name": "11",
+  "version_code": "1003000",
+  "version_name": "1.3.0",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 15936,
+  "dex_count": 1,
+  "native_lib_count": 3
+}

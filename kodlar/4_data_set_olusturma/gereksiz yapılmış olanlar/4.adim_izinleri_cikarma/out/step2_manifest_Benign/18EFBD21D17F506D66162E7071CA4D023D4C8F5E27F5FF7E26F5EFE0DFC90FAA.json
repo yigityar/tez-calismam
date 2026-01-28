@@ -1,0 +1,16 @@
+{
+  "apk_file": "18EFBD21D17F506D66162E7071CA4D023D4C8F5E27F5FF7E26F5EFE0DFC90FAA.apk",
+  "permissions_list": "android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CAMERA,android.permission.CHANGE_WIFI_STATE,android.permission.INTERNET,android.permission.MANAGE_ACCOUNTS,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.RECORD_AUDIO,android.permission.VIBRATE,android.permission.CHANGE_NETWORK_STATE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.WAKE_LOCK,android.permission.GET_TASKS,android.permission.WRITE_SETTINGS,android.permission.FOREGROUND_SERVICE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.QUERY_ALL_PACKAGES,android.permission.REORDER_TASKS,com.by.butter.camera.openadsdk.permission.TT_PANGOLIN,com.asus.msa.SupplementaryDID.ACCESS,com.google.android.gms.permission.AD_ID,getui.permission.GetuiService.com.by.butter.camera,com.by.butter.camera.permission.MIPUSH_RECEIVE,com.meizu.flyme.push.permission.RECEIVE,com.meizu.c2dm.permission.RECEIVE,com.by.butter.camera.push.permission.MESSAGE,com.by.butter.camera.permission.C2D_MESSAGE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.by.butter.camera.permission.PROCESS_PUSH_MSG,com.by.butter.camera.permission.PUSH_PROVIDER,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 301,
+  "count_service": 43,
+  "count_receiver": 21,
+  "count_provider": 32,
+  "count_exported": 27
+}

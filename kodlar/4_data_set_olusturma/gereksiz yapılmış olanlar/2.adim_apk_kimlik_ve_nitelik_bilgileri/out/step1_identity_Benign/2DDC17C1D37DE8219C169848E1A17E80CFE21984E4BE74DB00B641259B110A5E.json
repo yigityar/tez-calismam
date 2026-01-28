@@ -1,0 +1,12 @@
+{
+  "apk_file": "2DDC17C1D37DE8219C169848E1A17E80CFE21984E4BE74DB00B641259B110A5E.apk",
+  "sha256": "2ddc17c1d37de8219c169848e1a17e80cfe21984e4be74db00b641259b110a5e",
+  "package_name": "13",
+  "version_code": "407285",
+  "version_name": "24.6.3",
+  "min_sdk": "22",
+  "target_sdk": "33",
+  "apk_size_kb": 98472,
+  "dex_count": 12,
+  "native_lib_count": 12
+}

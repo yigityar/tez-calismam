@@ -1,0 +1,16 @@
+{
+  "apk_file": "79C996ABDCFCBF0F5E36001377F8B748E5282C68DC6E5ADD27805EAF944A0E11.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.VIBRATE,android.permission.RECORD_AUDIO,android.permission.CAMERA,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,com.meiyou.doctor.permission.MIPUSH_RECEIVE,android.permission.USE_BIOMETRIC,android.permission.USE_FINGERPRINT,android.permission.CHANGE_CONFIGURATION,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_MEDIA_AUDIO,android.permission.READ_MEDIA_IMAGES,android.permission.READ_MEDIA_VIDEO,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.SYSTEM_ALERT_WINDOW,android.permission.SYSTEM_OVERLAY_WINDOW,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.majeur.launcher.permission.UPDATE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.huawei.launcher3.permission.READ_SETTINGS,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.authentication.HW_ACCESS_AUTH_SERVICE,android.permission.READ_APP_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,org.simalliance.openmobileapi.SMARTCARD,com.meiyou.doctor.permission.PROCESS_PUSH_MSG,com.meiyou.doctor.permission.PUSH_PROVIDER,android.permission.FOREGROUND_SERVICE,android.permission.BLUETOOTH,android.permission.READ_PRIVILEGED_PHONE_STATE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 119,
+  "count_service": 22,
+  "count_receiver": 7,
+  "count_provider": 14,
+  "count_exported": 10
+}

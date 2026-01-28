@@ -1,0 +1,12 @@
+{
+  "apk_file": "C9081271769AECAF8D8B50932ECF10ECE1D64BD4475B18D2DE750AA548127B9A.apk",
+  "sha256": "c9081271769aecaf8d8b50932ecf10ece1d64bd4475b18d2de750aa548127b9a",
+  "package_name": "11",
+  "version_code": "54",
+  "version_name": "1.2.34.54",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 33364,
+  "dex_count": 1,
+  "native_lib_count": 14
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "83569D92A73F55815DE2E331B81A178206C298219037C9BE69F6D30602D9D20B.apk",
+  "permissions_list": "android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.BLUETOOTH,cn.neoclub.uki.permission.VIRTUAL_IMAGE,cn.neoclub.uki.permission.UKI_ACCOUNT,cn.neoclub.uki.message.permission.IM_SERVICE,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.GET_TASKS,android.permission.INTERNET,android.permission.READ_CONTACTS,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.RECORD_AUDIO,android.permission.REORDER_TASKS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.SYSTEM_ALERT_WINDOW,android.permission.VIBRATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.WRITE_SETTINGS,android.permission.READ_PHONE_STATE,android.permission.INTERNET,android.permission.CAMERA,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.ACCESS_NETWORK_STATE,android.permission.BLUETOOTH,android.permission.ACCESS_WIFI_STATE,cn.neoclub.uki.permission.JPUSH_MESSAGE,android.permission.RECEIVE_USER_PRESENT,android.permission.INTERNET,android.permission.READ_PHONE_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.CHANGE_NETWORK_STATE,android.permission.FOREGROUND_SERVICE,android.permission.GET_TASKS,android.permission.VIBRATE,cn.neoclub.uki.permission.MIPUSH_RECEIVE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.READ_PHONE_STATE,android.permission.GET_TASKS,android.permission.VIBRATE,com.meizu.c2dm.permission.RECEIVE,cn.neoclub.uki.permission.C2D_MESSAGE,com.meizu.flyme.push.permission.RECEIVE,cn.neoclub.uki.push.permission.MESSAGE,android.permission.READ_PRIVILEGED_PHONE_STATE,android.permission.WAKE_LOCK,android.permission.RECEIVE_BOOT_COMPLETED,cn.neoclub.uki.permission.PROCESS_PUSH_MSG,cn.neoclub.uki.permission.PUSH_PROVIDER,android.permission.READ_SETTINGS,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,android.permission.MANAGE_EXTERNAL_STORAGE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 187,
+  "count_service": 28,
+  "count_receiver": 20,
+  "count_provider": 15,
+  "count_exported": 17
+}

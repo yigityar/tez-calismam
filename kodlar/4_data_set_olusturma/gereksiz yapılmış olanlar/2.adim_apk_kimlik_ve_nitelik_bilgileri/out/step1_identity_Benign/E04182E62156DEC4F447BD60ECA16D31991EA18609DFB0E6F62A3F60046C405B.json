@@ -1,0 +1,12 @@
+{
+  "apk_file": "E04182E62156DEC4F447BD60ECA16D31991EA18609DFB0E6F62A3F60046C405B.apk",
+  "sha256": "e04182e62156dec4f447bd60eca16d31991ea18609dfb0e6f62a3f60046c405b",
+  "package_name": "11",
+  "version_code": "1846",
+  "version_name": "6.28.1",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 70684,
+  "dex_count": 5,
+  "native_lib_count": 103
+}

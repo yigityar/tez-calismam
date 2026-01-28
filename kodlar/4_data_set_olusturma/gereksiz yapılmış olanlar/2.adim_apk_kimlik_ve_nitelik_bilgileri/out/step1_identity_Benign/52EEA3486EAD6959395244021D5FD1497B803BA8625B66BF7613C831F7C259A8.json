@@ -1,0 +1,12 @@
+{
+  "apk_file": "52EEA3486EAD6959395244021D5FD1497B803BA8625B66BF7613C831F7C259A8.apk",
+  "sha256": "52eea3486ead6959395244021d5fd1497b803ba8625b66bf7613c831f7c259a8",
+  "package_name": "11",
+  "version_code": "20220103",
+  "version_name": "03-01-2022",
+  "min_sdk": "9",
+  "target_sdk": "30",
+  "apk_size_kb": 6680,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

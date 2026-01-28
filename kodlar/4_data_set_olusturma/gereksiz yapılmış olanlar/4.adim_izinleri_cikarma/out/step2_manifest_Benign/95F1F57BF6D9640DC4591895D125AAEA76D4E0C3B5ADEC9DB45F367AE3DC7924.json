@@ -1,0 +1,16 @@
+{
+  "apk_file": "95F1F57BF6D9640DC4591895D125AAEA76D4E0C3B5ADEC9DB45F367AE3DC7924.apk",
+  "permissions_list": "android.permission.ACCESS_WIFI_STATE,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.USE_FINGERPRINT,android.permission.CALL_PHONE,android.permission.BAIDU_LOCATION_SERVICE,android.permission.ACCESS_GPS,android.permission.VIBRATE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.READ_CONTACTS,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.RESTART_PACKAGES,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.BIND_NFC_SERVICE,android.permission.NFC,android.permission.BLUETOOTH,android.permission.READ_PHONE_STATE,android.permission.ACCESS_ASSISTED_GPS,android.permission.ACCESS_LOCATION,android.permission.WAKE_LOCK,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.UPDATE_DEVICE_STATS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.BROADCAST_STICKY,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,com.yitong.xian.mbank.permission.MIPUSH_RECEIVE,android.permission.GET_TASKS,com.android.launcher.permission.READ_SETTINGS,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.REORDER_TASKS,android.permission.FLAG_ACTIVITY_NEW_TASK,android.permission.BLUETOOTH_ADMIN,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.FOREGROUND_SERVICE,com.alipay.permission.ALIPAY_UPDATE_CREDENTIALS,com.android.launcher.permission.INSTALL_SHORTCUT,com.yunos.permission.TYID_MGR_SERVICE,android.permission.AUTHENTICATE_ACCOUNTS,com.alipay.permission.ALIPAY_USE_CREDENTIALS,com.aliyun.permission.TYID_MGR_SERVICE,android.permission.BATTERY_STATS,com.taobao.permission.UPDATE_CREDENTIALS,com.yunos.permission.STORAGE_SERVICE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.android.launcher.permission.UNINSTALL_SHORTCUT,android.permission.USE_CREDENTIALS,com.yunos.permission.TYID_SERVICE,com.taobao.permission.USE_CREDENTIALS,android.permission.MANAGE_ACCOUNTS,android.permission.GET_ACCOUNTS,com.htc.launcher.permission.READ_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.aliyun.permission.TYID_SERVICE,com.htc.launcher.permission.UPDATE_SHORTCUT,android.permission.WRITE_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,android.permission.READ_PROFILE,com.aliyun.permission.STORAGE_SERVICE,nxp.permission.ACCESS_WALLET_SERVICE,com.samsung.android.authservice.permission.READ_CONTENT_PROVIDER,android.permission.MANAGE_FINGERPRINT,android.permission.BLUETOOTH_PRIVILEGED,android.hardware.camera.autofocus,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.PACKAGE_USAGE_STATS,android.permission.ZTE_HEARTYSERVICE_MANAGEMENT,com.huawei.android.launcher.permission.CHANGE_BADGE,android.permission.READ_SETTINGS",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 209,
+  "count_service": 38,
+  "count_receiver": 16,
+  "count_provider": 5,
+  "count_exported": 5
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "7ECE37F51B91BD2A691325103C2D682F55F8DC0014E730E589D617D879921CD3.apk",
+  "sha256": "7ece37f51b91bd2a691325103c2d682f55f8dc0014e730e589d617d879921cd3",
+  "package_name": "com.microsoft.office.word",
+  "version_code": "2002343673",
+  "version_name": "16.0.7329.1015",
+  "min_sdk": "19",
+  "target_sdk": "23",
+  "apk_size_kb": 61232,
+  "dex_count": 2,
+  "native_lib_count": 4
+}

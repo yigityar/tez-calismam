@@ -1,0 +1,12 @@
+{
+  "apk_file": "39FD5A9975B95B3DB417CF1B7EADFCE2B6A815069429EF2BFB901F5F0C5E4A60.apk",
+  "sha256": "39fd5a9975b95b3db417cf1b7eadfce2b6a815069429ef2bfb901f5f0c5e4a60",
+  "package_name": "10",
+  "version_code": "356",
+  "version_name": "7.10.5",
+  "min_sdk": "19",
+  "target_sdk": "29",
+  "apk_size_kb": 67988,
+  "dex_count": 1,
+  "native_lib_count": 36
+}

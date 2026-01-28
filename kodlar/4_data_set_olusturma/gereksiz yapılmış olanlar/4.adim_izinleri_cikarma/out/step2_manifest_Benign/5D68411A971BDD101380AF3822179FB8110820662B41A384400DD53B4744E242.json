@@ -1,0 +1,16 @@
+{
+  "apk_file": "5D68411A971BDD101380AF3822179FB8110820662B41A384400DD53B4744E242.apk",
+  "permissions_list": "android.permission.CAMERA,android.permission.READ_CONTACTS,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.RECORD_AUDIO,android.permission.CALL_PHONE,android.permission.READ_PHONE_STATE,android.permission.READ_CALL_LOG,android.permission.SYSTEM_ALERT_WINDOW,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.VIBRATE,android.permission.CHANGE_WIFI_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.GET_TASKS,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.USE_FINGERPRINT,android.permission.REORDER_TASKS,com.anjuke.android.newbroker.permission.MIPUSH_RECEIVE,getui.permission.GetuiService.com.anjuke.android.newbroker,oppo.permission.OPPO_COMPONENT_SAFE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.FOREGROUND_SERVICE,android.permission.ACCESS_NOTIFICATION_POLICY,android.permission.WAKE_LOCK,android.permission.WRITE_SETTINGS,android.permission.FLASHLIGHT,android.permission.USE_FULL_SCREEN_INTENT,android.permission.USE_FACEAUTHENTICATION,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.DEVICE_POWER,android.permission.BLUETOOTH,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.anjuke.android.newbroker.permissions.DOWNLOAD_BROADCAST,android.permission.INTERACT_ACROSS_USERS_FULL,com.soter.permission.ACCESS_SOTER_KEYSTORE,android.permission.USE_FACERECOGNITION,android.permission.ACCESS_COARSE_UPDATES,com.wuba.permission.ACCESS_LOGIN_STATE,com.anjuke.android.newbroker.permission.PROCESS_PUSH_MSG,com.anjuke.android.newbroker.permission.PUSH_PROVIDER,android.permission.READ_SETTINGS,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH_PRIVILEGED,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 685,
+  "count_service": 53,
+  "count_receiver": 15,
+  "count_provider": 20,
+  "count_exported": 34
+}

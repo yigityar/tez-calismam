@@ -1,0 +1,12 @@
+{
+  "apk_file": "685722E2FE098E9F6FD4E73EC00E7F3F3ACEF152E6EF9E4BAA1DE76A6D8FAB26.apk",
+  "sha256": "685722e2fe098e9f6fd4e73ec00e7f3f3acef152e6ef9e4baa1de76a6d8fab26",
+  "package_name": "12",
+  "version_code": "313",
+  "version_name": "3.9.2",
+  "min_sdk": "26",
+  "target_sdk": "31",
+  "apk_size_kb": 43656,
+  "dex_count": 2,
+  "native_lib_count": 16
+}

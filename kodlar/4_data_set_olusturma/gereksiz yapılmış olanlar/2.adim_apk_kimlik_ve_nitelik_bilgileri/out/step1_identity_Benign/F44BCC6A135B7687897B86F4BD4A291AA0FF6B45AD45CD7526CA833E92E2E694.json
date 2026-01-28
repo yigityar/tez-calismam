@@ -1,0 +1,12 @@
+{
+  "apk_file": "F44BCC6A135B7687897B86F4BD4A291AA0FF6B45AD45CD7526CA833E92E2E694.apk",
+  "sha256": "f44bcc6a135b7687897b86f4bd4a291aa0ff6b45ad45cd7526ca833e92e2e694",
+  "package_name": "11",
+  "version_code": "40",
+  "version_name": "4.0",
+  "min_sdk": "16",
+  "target_sdk": "30",
+  "apk_size_kb": 5940,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

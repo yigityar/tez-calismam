@@ -1,0 +1,16 @@
+{
+  "apk_file": "3991C9E1C8620557028AF851F4F94052071A84F809F8BBFCE63AD94D9B7CFA3E.apk",
+  "permissions_list": "android.permission.CAMERA,android.permission.USE_FINGERPRINT,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.USE_BIOMETRIC",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 2,
+  "count_service": 1,
+  "count_receiver": 2,
+  "count_provider": 1,
+  "count_exported": 1
+}

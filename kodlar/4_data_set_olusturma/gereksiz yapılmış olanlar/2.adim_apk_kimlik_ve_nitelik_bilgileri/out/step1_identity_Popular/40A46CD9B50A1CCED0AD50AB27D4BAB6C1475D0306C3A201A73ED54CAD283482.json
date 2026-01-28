@@ -1,0 +1,12 @@
+{
+  "apk_file": "40A46CD9B50A1CCED0AD50AB27D4BAB6C1475D0306C3A201A73ED54CAD283482.apk",
+  "sha256": "40a46cd9b50a1cced0ad50ab27d4bab6c1475d0306c3a201a73ed54cad283482",
+  "package_name": "com.microsoft.office.excel",
+  "version_code": "2002343673",
+  "version_name": "16.0.7329.1015",
+  "min_sdk": "19",
+  "target_sdk": "23",
+  "apk_size_kb": 58916,
+  "dex_count": 2,
+  "native_lib_count": 4
+}

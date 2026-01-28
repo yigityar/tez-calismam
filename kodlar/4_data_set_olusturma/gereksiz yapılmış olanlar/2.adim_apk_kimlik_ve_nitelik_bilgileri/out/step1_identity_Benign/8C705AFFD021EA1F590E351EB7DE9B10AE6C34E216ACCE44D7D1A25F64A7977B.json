@@ -1,0 +1,12 @@
+{
+  "apk_file": "8C705AFFD021EA1F590E351EB7DE9B10AE6C34E216ACCE44D7D1A25F64A7977B.apk",
+  "sha256": "8c705affd021ea1f590e351eb7de9b10ae6c34e216acce44d7d1a25f64a7977b",
+  "package_name": "12",
+  "version_code": "800003",
+  "version_name": "8.0.3",
+  "min_sdk": "23",
+  "target_sdk": "32",
+  "apk_size_kb": 56556,
+  "dex_count": 2,
+  "native_lib_count": 14
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "DE829D4690F4C39FFDF056F4499E33FDB3B91C2414744DD33D37D4B69A67ABA6.apk",
+  "permissions_list": "android.launcher.permission.INSTALL_SHORTCUT,android.permission.VIBRATE,android.permission.RECORD_AUDIO,android.permission.WRITE_EXTERNAL_STORAGE,android.webkit.resource.VIDEO_CAPTURE,android.permission.ACCESS_FINE_LOCATION,android.webkit.resource.AUDIO_CAPTURE,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.CAMERA,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_DOWNLOAD_MANAGER",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 3,
+  "count_service": 0,
+  "count_receiver": 0,
+  "count_provider": 1,
+  "count_exported": 0
+}

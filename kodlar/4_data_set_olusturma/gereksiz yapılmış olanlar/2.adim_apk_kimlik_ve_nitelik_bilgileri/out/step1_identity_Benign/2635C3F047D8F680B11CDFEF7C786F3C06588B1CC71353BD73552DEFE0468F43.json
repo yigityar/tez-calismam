@@ -1,0 +1,12 @@
+{
+  "apk_file": "2635C3F047D8F680B11CDFEF7C786F3C06588B1CC71353BD73552DEFE0468F43.apk",
+  "sha256": "2635c3f047d8f680b11cdfef7c786f3c06588b1cc71353bd73552defe0468f43",
+  "package_name": "11",
+  "version_code": "114",
+  "version_name": "22.04.250",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 52640,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

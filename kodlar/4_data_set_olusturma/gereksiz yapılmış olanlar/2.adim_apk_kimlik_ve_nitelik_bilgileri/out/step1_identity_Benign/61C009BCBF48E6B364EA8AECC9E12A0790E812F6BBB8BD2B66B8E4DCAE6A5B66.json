@@ -1,0 +1,12 @@
+{
+  "apk_file": "61C009BCBF48E6B364EA8AECC9E12A0790E812F6BBB8BD2B66B8E4DCAE6A5B66.apk",
+  "sha256": "61c009bcbf48e6b364ea8aecc9e12a0790e812f6bbb8bd2b66b8e4dcae6a5b66",
+  "package_name": "12",
+  "version_code": "102",
+  "version_name": "5.2.8",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 174884,
+  "dex_count": 1,
+  "native_lib_count": 162
+}

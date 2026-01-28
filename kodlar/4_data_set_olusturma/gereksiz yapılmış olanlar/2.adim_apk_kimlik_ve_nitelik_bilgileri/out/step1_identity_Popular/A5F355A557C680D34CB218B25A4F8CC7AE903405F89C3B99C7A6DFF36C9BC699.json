@@ -1,0 +1,12 @@
+{
+  "apk_file": "A5F355A557C680D34CB218B25A4F8CC7AE903405F89C3B99C7A6DFF36C9BC699.apk",
+  "sha256": "a5f355a557c680d34cb218b25a4f8cc7ae903405f89c3b99c7a6dff36c9bc699",
+  "package_name": "14",
+  "version_code": "1812",
+  "version_name": "5.139.5-china",
+  "min_sdk": "28",
+  "target_sdk": "33",
+  "apk_size_kb": 81172,
+  "dex_count": 7,
+  "native_lib_count": 49
+}

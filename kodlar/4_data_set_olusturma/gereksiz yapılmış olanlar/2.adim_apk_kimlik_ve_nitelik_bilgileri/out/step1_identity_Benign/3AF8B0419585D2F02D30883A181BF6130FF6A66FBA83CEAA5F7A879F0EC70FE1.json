@@ -1,0 +1,12 @@
+{
+  "apk_file": "3AF8B0419585D2F02D30883A181BF6130FF6A66FBA83CEAA5F7A879F0EC70FE1.apk",
+  "sha256": "3af8b0419585d2f02d30883a181bf6130ff6a66fba83ceaa5f7a879f0ec70fe1",
+  "package_name": "11",
+  "version_code": "63",
+  "version_name": "1.1.7",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 27136,
+  "dex_count": 1,
+  "native_lib_count": 16
+}

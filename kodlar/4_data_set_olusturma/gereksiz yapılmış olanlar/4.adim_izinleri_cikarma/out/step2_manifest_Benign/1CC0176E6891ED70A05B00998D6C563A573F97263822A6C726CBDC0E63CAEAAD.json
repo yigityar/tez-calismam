@@ -1,0 +1,16 @@
+{
+  "apk_file": "1CC0176E6891ED70A05B00998D6C563A573F97263822A6C726CBDC0E63CAEAAD.apk",
+  "permissions_list": "android.permission.ACCESS_NETWORK_STATE,android.permission.INTERNET,android.permission.CAMERA,android.permission.WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,com.enerbank.loan_application.permission.C2D_MESSAGE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 3,
+  "count_service": 3,
+  "count_receiver": 6,
+  "count_provider": 2,
+  "count_exported": 3
+}

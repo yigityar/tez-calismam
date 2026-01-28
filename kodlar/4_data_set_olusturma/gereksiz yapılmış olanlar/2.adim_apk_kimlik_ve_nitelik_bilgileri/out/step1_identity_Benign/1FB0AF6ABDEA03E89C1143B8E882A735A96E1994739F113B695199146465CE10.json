@@ -1,0 +1,12 @@
+{
+  "apk_file": "1FB0AF6ABDEA03E89C1143B8E882A735A96E1994739F113B695199146465CE10.apk",
+  "sha256": "1fb0af6abdea03e89c1143b8e882a735a96e1994739f113b695199146465ce10",
+  "package_name": "10",
+  "version_code": "420",
+  "version_name": "4.2.0",
+  "min_sdk": "23",
+  "target_sdk": "29",
+  "apk_size_kb": 89056,
+  "dex_count": 15,
+  "native_lib_count": 70
+}

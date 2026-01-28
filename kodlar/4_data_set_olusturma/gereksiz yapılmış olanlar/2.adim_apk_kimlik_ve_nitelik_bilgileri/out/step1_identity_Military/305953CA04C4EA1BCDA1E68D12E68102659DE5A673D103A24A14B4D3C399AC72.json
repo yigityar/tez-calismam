@@ -1,0 +1,12 @@
+{
+  "apk_file": "305953CA04C4EA1BCDA1E68D12E68102659DE5A673D103A24A14B4D3C399AC72.apk",
+  "sha256": "305953ca04c4ea1bcda1e68d12e68102659de5a673d103a24a14b4d3c399ac72",
+  "package_name": "15",
+  "version_code": "5128",
+  "version_name": "2.5.8.3",
+  "min_sdk": "23",
+  "target_sdk": "35",
+  "apk_size_kb": 25400,
+  "dex_count": 5,
+  "native_lib_count": 0
+}

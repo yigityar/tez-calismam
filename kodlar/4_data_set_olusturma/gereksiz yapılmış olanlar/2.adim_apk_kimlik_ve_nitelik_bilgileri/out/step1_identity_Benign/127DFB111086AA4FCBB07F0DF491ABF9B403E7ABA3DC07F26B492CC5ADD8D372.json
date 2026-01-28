@@ -1,0 +1,12 @@
+{
+  "apk_file": "127DFB111086AA4FCBB07F0DF491ABF9B403E7ABA3DC07F26B492CC5ADD8D372.apk",
+  "sha256": "127dfb111086aa4fcbb07f0df491abf9b403e7aba3dc07f26b492cc5add8d372",
+  "package_name": "13",
+  "version_code": "39",
+  "version_name": "3.1.20",
+  "min_sdk": "23",
+  "target_sdk": "33",
+  "apk_size_kb": 49976,
+  "dex_count": 2,
+  "native_lib_count": 34
+}

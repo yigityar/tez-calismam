@@ -1,0 +1,12 @@
+{
+  "apk_file": "83F998F79525C87E42CCDE4DD23AA7D5C0A16B0756367E252A272FEE6D550A06.apk",
+  "sha256": "83f998f79525c87e42ccde4dd23aa7d5c0a16b0756367e252a272fee6d550a06",
+  "package_name": "9",
+  "version_code": "50020000",
+  "version_name": "5.2.0",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 50648,
+  "dex_count": 5,
+  "native_lib_count": 52
+}

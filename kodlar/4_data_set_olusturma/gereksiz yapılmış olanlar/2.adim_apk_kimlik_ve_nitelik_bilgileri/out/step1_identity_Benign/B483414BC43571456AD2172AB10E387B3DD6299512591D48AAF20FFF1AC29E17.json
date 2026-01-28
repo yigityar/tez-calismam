@@ -1,0 +1,12 @@
+{
+  "apk_file": "B483414BC43571456AD2172AB10E387B3DD6299512591D48AAF20FFF1AC29E17.apk",
+  "sha256": "b483414bc43571456ad2172ab10e387b3dd6299512591d48aaf20fff1ac29e17",
+  "package_name": "10",
+  "version_code": "352",
+  "version_name": "7.9.4",
+  "min_sdk": "19",
+  "target_sdk": "29",
+  "apk_size_kb": 62468,
+  "dex_count": 1,
+  "native_lib_count": 30
+}

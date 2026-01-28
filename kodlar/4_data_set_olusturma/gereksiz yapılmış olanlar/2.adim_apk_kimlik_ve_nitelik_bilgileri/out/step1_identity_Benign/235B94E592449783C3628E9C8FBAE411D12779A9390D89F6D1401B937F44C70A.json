@@ -1,0 +1,12 @@
+{
+  "apk_file": "235B94E592449783C3628E9C8FBAE411D12779A9390D89F6D1401B937F44C70A.apk",
+  "sha256": "235b94e592449783c3628e9c8fbae411d12779a9390d89f6d1401b937f44c70a",
+  "package_name": "10",
+  "version_code": "226",
+  "version_name": "5.5.6",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 85164,
+  "dex_count": 1,
+  "native_lib_count": 34
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "DD9845B5DA232E520DBC62E1E2E53C19A60C962A97FC08195722AED1FED82CC7.apk",
+  "sha256": "dd9845b5da232e520dbc62e1e2e53c19a60c962a97fc08195722aed1fed82cc7",
+  "package_name": "6.0-2438415",
+  "version_code": "2011231726",
+  "version_name": "2.5.3",
+  "min_sdk": "22",
+  "target_sdk": "36",
+  "apk_size_kb": 31484,
+  "dex_count": 1,
+  "native_lib_count": 200
+}

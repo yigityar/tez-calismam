@@ -1,0 +1,12 @@
+{
+  "apk_file": "A4D4966FEC1F8A6647C11AD5BE9651D8927570C1C47CF81D5DCC63EB493383BD.apk",
+  "sha256": "a4d4966fec1f8a6647c11ad5be9651d8927570c1c47cf81d5dcc63eb493383bd",
+  "package_name": "9",
+  "version_code": "33",
+  "version_name": "2.2.2",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 9392,
+  "dex_count": 1,
+  "native_lib_count": 14
+}

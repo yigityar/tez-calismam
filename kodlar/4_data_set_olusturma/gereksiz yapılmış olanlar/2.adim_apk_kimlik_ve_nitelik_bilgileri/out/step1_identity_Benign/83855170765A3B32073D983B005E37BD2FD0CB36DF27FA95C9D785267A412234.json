@@ -1,0 +1,12 @@
+{
+  "apk_file": "83855170765A3B32073D983B005E37BD2FD0CB36DF27FA95C9D785267A412234.apk",
+  "sha256": "83855170765a3b32073d983b005e37bd2fd0cb36df27fa95c9d785267a412234",
+  "package_name": "13",
+  "version_code": "180",
+  "version_name": "0.40.0",
+  "min_sdk": "28",
+  "target_sdk": "33",
+  "apk_size_kb": 56780,
+  "dex_count": 2,
+  "native_lib_count": 32
+}

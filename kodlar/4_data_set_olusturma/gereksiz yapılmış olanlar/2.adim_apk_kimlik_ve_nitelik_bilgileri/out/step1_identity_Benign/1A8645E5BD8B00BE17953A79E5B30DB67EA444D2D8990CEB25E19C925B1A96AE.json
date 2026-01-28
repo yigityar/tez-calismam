@@ -1,0 +1,12 @@
+{
+  "apk_file": "1A8645E5BD8B00BE17953A79E5B30DB67EA444D2D8990CEB25E19C925B1A96AE.apk",
+  "sha256": "1a8645e5bd8b00be17953a79e5b30db67ea444d2d8990ceb25e19c925b1a96ae",
+  "package_name": "9",
+  "version_code": "135069709",
+  "version_name": "8.13.0.13",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 169436,
+  "dex_count": 21,
+  "native_lib_count": 65
+}

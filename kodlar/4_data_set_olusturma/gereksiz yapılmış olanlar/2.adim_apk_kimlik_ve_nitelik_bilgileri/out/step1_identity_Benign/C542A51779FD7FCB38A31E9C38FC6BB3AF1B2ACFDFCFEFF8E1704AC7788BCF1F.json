@@ -1,0 +1,12 @@
+{
+  "apk_file": "C542A51779FD7FCB38A31E9C38FC6BB3AF1B2ACFDFCFEFF8E1704AC7788BCF1F.apk",
+  "sha256": "c542a51779fd7fcb38a31e9c38fc6bb3af1b2acfdfcfeff8e1704ac7788bcf1f",
+  "package_name": "11",
+  "version_code": "1253",
+  "version_name": "5.61",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 78412,
+  "dex_count": 1,
+  "native_lib_count": 24
+}

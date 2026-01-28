@@ -1,0 +1,16 @@
+{
+  "apk_file": "6A1B3E4CA937804225E79A5A86DDD5FD169C3B8425D44BE9F7A6891E829D7B28.apk",
+  "permissions_list": "io.kodular.bengalappsindia.banglacalendarapp.permission.C2D_MESSAGE,com.google.android.gms.permission.AD_ID,android.permission.FLASHLIGHT,com.sonyericsson.home.permission.BROADCAST_BADGE,com.htc.launcher.permission.READ_SETTINGS,android.permission.FOREGROUND_SERVICE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.WRITE_EXTERNAL_STORAGE,com.huawei.android.launcher.permission.WRITE_SETTINGS,me.everything.badger.permission.BADGE_COUNT_READ,com.sec.android.provider.badge.permission.WRITE,com.sec.android.provider.badge.permission.READ,android.permission.ACCESS_NETWORK_STATE,android.permission.WAKE_LOCK,com.anddoes.launcher.permission.UPDATE_COUNT,android.permission.ACCESS_WIFI_STATE,com.google.android.c2dm.permission.RECEIVE,com.oppo.launcher.permission.WRITE_SETTINGS,android.permission.READ_APP_BADGE,android.permission.VIBRATE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.majeur.launcher.permission.UPDATE_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.htc.launcher.permission.UPDATE_SHORTCUT,android.permission.INTERNET,com.huawei.android.launcher.permission.READ_SETTINGS,android.permission.CAMERA,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,me.everything.badger.permission.BADGE_COUNT_WRITE,com.oppo.launcher.permission.READ_SETTINGS",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 16,
+  "count_service": 12,
+  "count_receiver": 12,
+  "count_provider": 2,
+  "count_exported": 16
+}

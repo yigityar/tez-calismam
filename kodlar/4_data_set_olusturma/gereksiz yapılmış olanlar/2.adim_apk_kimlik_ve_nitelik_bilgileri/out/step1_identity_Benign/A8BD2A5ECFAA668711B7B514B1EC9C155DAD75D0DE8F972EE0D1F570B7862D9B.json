@@ -1,0 +1,12 @@
+{
+  "apk_file": "A8BD2A5ECFAA668711B7B514B1EC9C155DAD75D0DE8F972EE0D1F570B7862D9B.apk",
+  "sha256": "a8bd2a5ecfaa668711b7b514b1ec9c155dad75d0de8f972ee0d1f570b7862d9b",
+  "package_name": "9",
+  "version_code": "10903",
+  "version_name": "1.9.3",
+  "min_sdk": "22",
+  "target_sdk": "28",
+  "apk_size_kb": 45200,
+  "dex_count": 1,
+  "native_lib_count": 32
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "3E7AA849DC2172924950C6E44FB05B7AE1C93FC024AFC0EAA0588B75F35EC9F8.apk",
+  "sha256": "3e7aa849dc2172924950c6e44fb05b7ae1c93fc024afc0eaa0588b75f35ec9f8",
+  "package_name": "12",
+  "version_code": "235",
+  "version_name": "4.3.5",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 128060,
+  "dex_count": 1,
+  "native_lib_count": 151
+}

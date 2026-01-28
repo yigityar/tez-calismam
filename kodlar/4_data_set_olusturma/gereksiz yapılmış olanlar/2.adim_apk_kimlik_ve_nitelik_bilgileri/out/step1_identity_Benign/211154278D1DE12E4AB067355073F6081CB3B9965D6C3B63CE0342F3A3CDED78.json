@@ -1,0 +1,12 @@
+{
+  "apk_file": "211154278D1DE12E4AB067355073F6081CB3B9965D6C3B63CE0342F3A3CDED78.apk",
+  "sha256": "211154278d1de12e4ab067355073f6081cb3b9965d6c3b63ce0342f3a3cded78",
+  "package_name": "12",
+  "version_code": "381569023",
+  "version_name": "142.0.0.10.221",
+  "min_sdk": "16",
+  "target_sdk": "30",
+  "apk_size_kb": 84336,
+  "dex_count": 3,
+  "native_lib_count": 10
+}

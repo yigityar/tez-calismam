@@ -1,0 +1,12 @@
+{
+  "apk_file": "28726C3959C4955915D156D0B04335F6498522054DAB3D2D37D9B14C3D22D0BC.apk",
+  "sha256": "28726c3959c4955915d156d0b04335f6498522054dab3d2d37d9b14c3d22d0bc",
+  "package_name": "11",
+  "version_code": "65",
+  "version_name": "2.7.6",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 40656,
+  "dex_count": 1,
+  "native_lib_count": 32
+}

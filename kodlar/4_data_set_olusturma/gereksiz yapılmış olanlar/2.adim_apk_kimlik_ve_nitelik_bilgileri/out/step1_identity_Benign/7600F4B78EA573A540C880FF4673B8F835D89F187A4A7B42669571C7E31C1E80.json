@@ -1,0 +1,12 @@
+{
+  "apk_file": "7600F4B78EA573A540C880FF4673B8F835D89F187A4A7B42669571C7E31C1E80.apk",
+  "sha256": "7600f4b78ea573a540c880ff4673b8f835d89f187a4a7b42669571c7e31c1e80",
+  "package_name": "11",
+  "version_code": "352",
+  "version_name": "9.5.7",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 70896,
+  "dex_count": 2,
+  "native_lib_count": 67
+}

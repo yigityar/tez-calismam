@@ -1,0 +1,12 @@
+{
+  "apk_file": "EB518D8CE1A5BA8A40AFDA6773977BDEBE0FB2C7B059CC97D66EBA1C538425D8.apk",
+  "sha256": "eb518d8ce1a5ba8a40afda6773977bdebe0fb2c7b059cc97d66eba1c538425d8",
+  "package_name": "com.icbc.wapc",
+  "version_code": "172",
+  "version_name": "4.1.2",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 174572,
+  "dex_count": 4,
+  "native_lib_count": 116
+}

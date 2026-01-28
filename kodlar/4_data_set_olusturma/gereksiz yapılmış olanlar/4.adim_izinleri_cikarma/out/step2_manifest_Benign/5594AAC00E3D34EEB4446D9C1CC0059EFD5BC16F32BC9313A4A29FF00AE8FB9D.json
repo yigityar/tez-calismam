@@ -1,0 +1,16 @@
+{
+  "apk_file": "5594AAC00E3D34EEB4446D9C1CC0059EFD5BC16F32BC9313A4A29FF00AE8FB9D.apk",
+  "permissions_list": "android.permission.CHANGE_NETWORK_STATE,android.permission.GET_TASKS,android.permission.VIBRATE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.INTERNET,android.permission.READ_PHONE_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.READ_LOGS,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.CAMERA,com.android.launcher.permission.INSTALL_SHORTCUT,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.USE_FINGERPRINT,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.WRITE_SECURE_SETTINGS,android.permission.WRITE_SETTINGS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.WAKE_LOCK,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.FOREGROUND_SERVICE,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,com.huawei.android.launcher.permission.CHANGE_BADGE,com.eastmoney.android.fund.permission.MIPUSH_RECEIVE,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.READ_EXTERNAL_STORAGE,android.permission.RECORD_AUDIO,com.eastmoney.android.fund.permission.PROCESS_PUSH_MSG,com.eastmoney.android.fund.permission.PUSH_PROVIDER,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.INTERACT_ACROSS_USERS_FULL,android.permission.GET_TOP_ACTIVITY_INFO,android.permission.REORDER_TASKS,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.DISABLE_KEYGUARD",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 113,
+  "count_service": 17,
+  "count_receiver": 7,
+  "count_provider": 11,
+  "count_exported": 12
+}

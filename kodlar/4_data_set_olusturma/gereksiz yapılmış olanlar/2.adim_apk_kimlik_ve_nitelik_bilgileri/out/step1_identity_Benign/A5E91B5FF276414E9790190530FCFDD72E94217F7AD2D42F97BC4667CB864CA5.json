@@ -1,0 +1,12 @@
+{
+  "apk_file": "A5E91B5FF276414E9790190530FCFDD72E94217F7AD2D42F97BC4667CB864CA5.apk",
+  "sha256": "a5e91b5ff276414e9790190530fcfdd72e94217f7ad2d42f97bc4667cb864ca5",
+  "package_name": "12",
+  "version_code": "2022150012",
+  "version_name": "2022.15.0.1+2",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 97888,
+  "dex_count": 3,
+  "native_lib_count": 10
+}

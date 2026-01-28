@@ -1,0 +1,12 @@
+{
+  "apk_file": "FA0853C9E7A49340100CB1E29969D8E790756393C142F4A8BA027B9FB5EA21A8.apk",
+  "sha256": "fa0853c9e7a49340100cb1e29969d8e790756393c142f4a8ba027b9fb5ea21a8",
+  "package_name": "9",
+  "version_code": "22905",
+  "version_name": "2.29.5",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 99352,
+  "dex_count": 2,
+  "native_lib_count": 15
+}

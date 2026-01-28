@@ -1,0 +1,12 @@
+{
+  "apk_file": "B3124EF48460F77B3638400AB0CB83467E779D1E8EC44EFC9857CB08525E4546.apk",
+  "sha256": "b3124ef48460f77b3638400ab0cb83467e779d1e8ec44efc9857cb08525e4546",
+  "package_name": "13",
+  "version_code": "1028124",
+  "version_name": "0.12.4",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 77340,
+  "dex_count": 1,
+  "native_lib_count": 2
+}

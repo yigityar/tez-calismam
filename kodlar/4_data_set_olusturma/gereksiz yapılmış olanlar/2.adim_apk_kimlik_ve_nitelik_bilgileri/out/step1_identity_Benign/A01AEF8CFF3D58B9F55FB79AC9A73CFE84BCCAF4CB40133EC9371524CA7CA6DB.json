@@ -1,0 +1,12 @@
+{
+  "apk_file": "A01AEF8CFF3D58B9F55FB79AC9A73CFE84BCCAF4CB40133EC9371524CA7CA6DB.apk",
+  "sha256": "a01aef8cff3d58b9f55fb79ac9a73cfe84bccaf4cb40133ec9371524ca7ca6db",
+  "package_name": "10",
+  "version_code": "487463",
+  "version_name": "3.9.12(487463)",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 118632,
+  "dex_count": 23,
+  "native_lib_count": 59
+}

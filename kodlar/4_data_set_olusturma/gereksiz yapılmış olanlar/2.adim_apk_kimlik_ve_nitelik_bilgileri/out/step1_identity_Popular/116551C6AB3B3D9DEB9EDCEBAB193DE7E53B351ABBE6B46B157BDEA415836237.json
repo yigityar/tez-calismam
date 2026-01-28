@@ -1,0 +1,12 @@
+{
+  "apk_file": "116551C6AB3B3D9DEB9EDCEBAB193DE7E53B351ABBE6B46B157BDEA415836237.apk",
+  "sha256": "116551c6ab3b3d9deb9edcebab193de7e53b351abbe6b46b157bdea415836237",
+  "package_name": "16",
+  "version_code": "466016093",
+  "version_name": "534.0.0.56.76",
+  "min_sdk": "30",
+  "target_sdk": "36",
+  "apk_size_kb": 145432,
+  "dex_count": 16,
+  "native_lib_count": 11
+}

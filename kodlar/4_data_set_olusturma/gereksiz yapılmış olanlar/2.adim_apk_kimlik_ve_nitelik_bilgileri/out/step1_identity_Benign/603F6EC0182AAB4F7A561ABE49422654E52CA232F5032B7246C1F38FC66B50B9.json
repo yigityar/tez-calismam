@@ -1,0 +1,12 @@
+{
+  "apk_file": "603F6EC0182AAB4F7A561ABE49422654E52CA232F5032B7246C1F38FC66B50B9.apk",
+  "sha256": "603f6ec0182aab4f7a561abe49422654e52ca232f5032b7246c1f38fc66b50b9",
+  "package_name": "10",
+  "version_code": "10070",
+  "version_name": "4.0.21",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 109552,
+  "dex_count": 1,
+  "native_lib_count": 157
+}

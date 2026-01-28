@@ -1,0 +1,93 @@
+{
+    "apk_name": "85BC8AEFD38A96E4F175D8DFB3A69B2C16103053E9BD47AE25BB9E6D90174436",
+    "sha256": "85bc8aefd38a96e4f175d8dfb3a69b2c16103053e9bd47ae25bb9e6d90174436",
+    "metadata": {
+        "package_name": "com.app.phoneticalphabet",
+        "version_code": "45",
+        "version_name": "2.6",
+        "min_sdk": "23",
+        "target_sdk": "35",
+        "permissions": [
+            "android.permission.VIBRATE",
+            "com.app.phoneticalphabet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "androidx.compose.ui.tooling.PreviewActivity",
+            "com.app.phoneticalphabet.MainActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver"
+        ],
+        "permission_details": {
+            "android.permission.VIBRATE": "normal",
+            "com.app.phoneticalphabet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "normal": 1,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 4,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 53.74,
+        "sources_present": true,
+        "java_file_count": 11186
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 0,
+        "camera": 15,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 2
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 7,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 1,
+            "scheduling_apis": 19,
+            "dynamic_code": 219
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 249
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 4,
+            "handler_loop": 15,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 217
+        }
+    }
+}

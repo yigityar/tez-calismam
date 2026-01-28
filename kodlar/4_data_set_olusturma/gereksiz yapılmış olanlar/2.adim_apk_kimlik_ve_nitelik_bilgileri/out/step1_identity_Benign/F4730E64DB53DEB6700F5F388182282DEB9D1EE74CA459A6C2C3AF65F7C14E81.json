@@ -1,0 +1,12 @@
+{
+  "apk_file": "F4730E64DB53DEB6700F5F388182282DEB9D1EE74CA459A6C2C3AF65F7C14E81.apk",
+  "sha256": "f4730e64db53deb6700f5f388182282deb9d1ee74ca459a6c2c3af65f7c14e81",
+  "package_name": "12",
+  "version_code": "6865",
+  "version_name": "6.8.65",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 99908,
+  "dex_count": 1,
+  "native_lib_count": 92
+}

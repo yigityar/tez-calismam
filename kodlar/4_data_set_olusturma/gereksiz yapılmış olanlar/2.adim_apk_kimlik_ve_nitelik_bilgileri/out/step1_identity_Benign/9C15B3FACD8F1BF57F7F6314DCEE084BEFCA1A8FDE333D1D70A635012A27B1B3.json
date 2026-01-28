@@ -1,0 +1,12 @@
+{
+  "apk_file": "9C15B3FACD8F1BF57F7F6314DCEE084BEFCA1A8FDE333D1D70A635012A27B1B3.apk",
+  "sha256": "9c15b3facd8f1bf57f7f6314dcee084befca1a8fde333d1d70a635012a27b1b3",
+  "package_name": "12",
+  "version_code": "82206",
+  "version_name": "23.1.0",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 62480,
+  "dex_count": 1,
+  "native_lib_count": 22
+}

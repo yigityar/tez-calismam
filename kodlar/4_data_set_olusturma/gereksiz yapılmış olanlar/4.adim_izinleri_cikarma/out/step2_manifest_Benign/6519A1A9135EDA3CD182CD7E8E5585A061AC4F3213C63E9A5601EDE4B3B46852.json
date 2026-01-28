@@ -1,0 +1,16 @@
+{
+  "apk_file": "6519A1A9135EDA3CD182CD7E8E5585A061AC4F3213C63E9A5601EDE4B3B46852.apk",
+  "permissions_list": "android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.BLUETOOTH_ADMIN,android.permission.BLUETOOTH,android.permission.GET_ACCOUNTS,android.permission.READ_PROFILE,android.permission.READ_CONTACTS,android.permission.ACCESS_NETWORK_STATE,com.huawei.android.launcher.permission.CHANGE_BADGE,android.permission.ACCESS_WIFI_STATE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.BODY_SENSORS,android.permission.ACTIVITY_RECOGNITION,com.cib.cibmb.permission.HCE_PUSH_MESSAGE,android.permission.INTERNET,android.permission.CAMERA,android.permission.SYSTEM_ALERT_WINDOW,android.permission.READ_LOGS,android.permission.VIBRATE,android.permission.FLASHLIGHT,android.permission.USE_FINGERPRINT,android.permission.USE_BIOMETRIC,com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,android.permission.NFC,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,com.android.launcher.permission.WRITE_SETTINGS,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher.permission.READ_SETTINGS,com.bbk.launcher2.permission.READ_SETTINGS,com.bbk.launcher2.permission.WRITE_SETTINGS,android.permission.CHANGE_NETWORK_STATE,android.permission.WAKE_LOCK,android.permission.SENSOR_INFO,android.permission.SENSOR_ENABLE,android.permission.GET_TASKS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.huawei.android.launcher.permission.READ_SETTINGS,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.REORDER_TASKS,android.permission.FLAG_ACTIVITY_NEW_TASK,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.FOREGROUND_SERVICE,android.permission.REORDER_TASKS,com.cib.cibmb.permission.FIN_APPLET_RECEIVER,com.cib.cibmb.permission.MIPUSH_RECEIVE,android.permission.READ_PRIVILEGED_PHONE_STATE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 266,
+  "count_service": 36,
+  "count_receiver": 15,
+  "count_provider": 10,
+  "count_exported": 8
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "1BF8DCAA0C66CB429EAB3A8D8C3A33C70F4298718FF44ADE73141F4571A7720B.apk",
+  "sha256": "1bf8dcaa0c66cb429eab3a8d8c3a33c70f4298718ff44ade73141f4571a7720b",
+  "package_name": "com.ciji.jjk",
+  "version_code": "32",
+  "version_name": "6.9.4",
+  "min_sdk": "14",
+  "target_sdk": "22",
+  "apk_size_kb": 28424,
+  "dex_count": 1,
+  "native_lib_count": 34
+}

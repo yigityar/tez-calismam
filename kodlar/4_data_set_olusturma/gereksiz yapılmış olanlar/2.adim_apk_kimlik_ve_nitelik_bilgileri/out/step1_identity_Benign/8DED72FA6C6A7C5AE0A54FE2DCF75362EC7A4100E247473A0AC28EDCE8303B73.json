@@ -1,0 +1,12 @@
+{
+  "apk_file": "8DED72FA6C6A7C5AE0A54FE2DCF75362EC7A4100E247473A0AC28EDCE8303B73.apk",
+  "sha256": "8ded72fa6c6a7c5ae0a54fe2dcf75362ec7a4100e247473a0ac28edce8303b73",
+  "package_name": "10",
+  "version_code": "2204003",
+  "version_name": "22.04.3",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 102636,
+  "dex_count": 1,
+  "native_lib_count": 12
+}

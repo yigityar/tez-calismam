@@ -1,0 +1,16 @@
+{
+  "apk_file": "8B09A10A5C2A2CCD197400060E650AFC05ADF840C46FDBA9D8C94D377180F170.apk",
+  "permissions_list": "android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.BROADCAST_STICKY,android.permission.GET_ACCOUNTS,android.permission.INTERNET,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.NFC,android.permission.READ_PHONE_STATE,android.permission.WAKE_LOCK,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,android.permission.CHANGE_WIFI_MULTICAST_STATE,com.google.android.c2dm.permission.RECEIVE,com.spotify.music.permission.C2D_MESSAGE,com.spotify.music.permission.INTERNAL_BROADCAST,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,com.spotify.music.permission.SECURED_BROADCAST,android.permission.USE_CREDENTIALS,android.permission.MANAGE_ACCOUNTS,com.sony.snei.np.android.account.provider.permission.DUID_READ_PROVIDER",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 96,
+  "count_service": 45,
+  "count_receiver": 17,
+  "count_provider": 3,
+  "count_exported": 15
+}

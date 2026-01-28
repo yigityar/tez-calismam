@@ -1,0 +1,12 @@
+{
+  "apk_file": "CDDE8E7B9FCA40D492B481625B5C91009156C48ECD7DE73FD36FBBC825E2902D.apk",
+  "sha256": "cdde8e7b9fca40d492b481625b5c91009156c48ecd7de73fd36fbbc825e2902d",
+  "package_name": "com.gf.miaoda",
+  "version_code": "30955008",
+  "version_name": "3.9.55",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 44908,
+  "dex_count": 1,
+  "native_lib_count": 30
+}

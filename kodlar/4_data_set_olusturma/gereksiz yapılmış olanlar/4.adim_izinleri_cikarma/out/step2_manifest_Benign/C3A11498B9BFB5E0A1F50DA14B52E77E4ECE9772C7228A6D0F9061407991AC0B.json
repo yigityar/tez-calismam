@@ -1,0 +1,16 @@
+{
+  "apk_file": "C3A11498B9BFB5E0A1F50DA14B52E77E4ECE9772C7228A6D0F9061407991AC0B.apk",
+  "permissions_list": "android.permission.READ_PHONE_STATE,android.permission.USE_FINGERPRINT,android.permission.ACCESS_MEDIA_LOCATION,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.INTERNET,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.VIBRATE,android.permission.WRITE_SETTINGS,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.READ_EXTERNAL_STORAGE,android.permission.WAKE_LOCK,android.permission.CAMERA,android.permission.PACKAGE_USAGE_STATS,com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.FOREGROUND_SERVICE,android.permission.RECORD_AUDIO,android.permission.BROADCAST_PACKAGE_ADDED,android.permission.BROADCAST_PACKAGE_CHANGED,android.permission.BROADCAST_PACKAGE_INSTALL,android.permission.BROADCAST_PACKAGE_REPLACED,android.permission.RESTART_PACKAGES,android.permission.GET_TASKS,android.permission.CHANGE_NETWORK_STATE,com.google.android.providers.gsf.permission.READ_GSERVICES,com.android.launcher.permission.READ_SETTINGS,android.permission.FLASHLIGHT",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 291,
+  "count_service": 19,
+  "count_receiver": 12,
+  "count_provider": 10,
+  "count_exported": 13
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "73AEE93AADFDAD9F32F8DDBBE6780AA030684E480859885C9D23D4AD2C22099C.apk",
+  "sha256": "73aee93aadfdad9f32f8ddbbe6780aa030684e480859885c9d23d4ad2c22099c",
+  "package_name": "9",
+  "version_code": "203299",
+  "version_name": "6.3.7",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 100960,
+  "dex_count": 1,
+  "native_lib_count": 39
+}

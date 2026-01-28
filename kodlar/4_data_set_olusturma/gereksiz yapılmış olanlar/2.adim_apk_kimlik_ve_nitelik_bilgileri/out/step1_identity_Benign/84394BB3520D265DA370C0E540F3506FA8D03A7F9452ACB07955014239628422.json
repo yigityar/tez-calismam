@@ -1,0 +1,12 @@
+{
+  "apk_file": "84394BB3520D265DA370C0E540F3506FA8D03A7F9452ACB07955014239628422.apk",
+  "sha256": "84394bb3520d265da370c0e540f3506fa8d03a7f9452acb07955014239628422",
+  "package_name": "11",
+  "version_code": "32871",
+  "version_name": "7.22.0",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 100888,
+  "dex_count": 9,
+  "native_lib_count": 50
+}

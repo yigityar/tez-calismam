@@ -1,0 +1,16 @@
+{
+  "apk_file": "97969837FA58FAFD24BA0B60F59C1CED0598F0EB61C9B9AA2CD302C963319879.apk",
+  "permissions_list": "android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.CAMERA,android.permission.INTERNET,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.INTERNET,org.simalliance.openmobileapi.SMARTCARD,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,com.moutai.mall.permission.MIPUSH_RECEIVE,com.meizu.flyme.push.permission.RECEIVE,com.moutai.mall.permission.C2D_MESSAGE,com.moutai.mall.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.ACCESS_CONTENT_PROVIDERS_EXTERNALLY,com.meizu.flyme.permission.PUSH,com.moutai.mall.permission.PROCESS_PUSH_MSG,com.moutai.mall.permission.PUSH_PROVIDER,android.permission.FOREGROUND_SERVICE,android.permission.REQUEST_INSTALL_PACKAGES,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 90,
+  "count_service": 18,
+  "count_receiver": 14,
+  "count_provider": 11,
+  "count_exported": 14
+}

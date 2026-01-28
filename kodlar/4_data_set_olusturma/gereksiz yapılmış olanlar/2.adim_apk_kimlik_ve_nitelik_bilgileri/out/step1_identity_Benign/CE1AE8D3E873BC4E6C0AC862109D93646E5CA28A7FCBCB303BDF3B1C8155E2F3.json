@@ -1,0 +1,12 @@
+{
+  "apk_file": "CE1AE8D3E873BC4E6C0AC862109D93646E5CA28A7FCBCB303BDF3B1C8155E2F3.apk",
+  "sha256": "ce1ae8d3e873bc4e6c0ac862109d93646e5ca28a7fcbcb303bdf3b1c8155e2f3",
+  "package_name": "14",
+  "version_code": "6171400",
+  "version_name": "6.17.14",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 110420,
+  "dex_count": 1,
+  "native_lib_count": 25
+}

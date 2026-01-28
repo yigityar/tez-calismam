@@ -1,0 +1,12 @@
+{
+  "apk_file": "EC9775B5AB596E7D1A64E102F5C4487BBE930A37A49F903C1DA7A141DC3A018E.apk",
+  "sha256": "ec9775b5ab596e7d1a64e102f5c4487bbe930a37a49f903c1da7a141dc3a018e",
+  "package_name": "6.0-2438415",
+  "version_code": "2193",
+  "version_name": "2.1.9",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 74928,
+  "dex_count": 3,
+  "native_lib_count": 75
+}

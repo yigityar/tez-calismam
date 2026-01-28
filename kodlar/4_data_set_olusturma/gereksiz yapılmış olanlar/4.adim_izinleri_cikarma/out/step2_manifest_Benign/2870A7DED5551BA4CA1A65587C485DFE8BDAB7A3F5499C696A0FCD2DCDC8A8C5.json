@@ -1,0 +1,16 @@
+{
+  "apk_file": "2870A7DED5551BA4CA1A65587C485DFE8BDAB7A3F5499C696A0FCD2DCDC8A8C5.apk",
+  "permissions_list": "android.permission.NFC,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.ACCESS_NETWORK_STATE,android.permission.INTERNET,android.permission.WAKE_LOCK,android.permission.CAMERA,android.permission.VIBRATE,android.permission.ACCESS_FINE_LOCATION,android.permission.READ_CONTACTS,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.FOREGROUND_SERVICE,com.google.android.c2dm.permission.RECEIVE,com.sitael.vending.permission.PROCESS_PUSH_MSG,com.sitael.vending.permission.PUSH_PROVIDER,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.REQUEST_INSTALL_PACKAGES,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 89,
+  "count_service": 20,
+  "count_receiver": 17,
+  "count_provider": 13,
+  "count_exported": 9
+}

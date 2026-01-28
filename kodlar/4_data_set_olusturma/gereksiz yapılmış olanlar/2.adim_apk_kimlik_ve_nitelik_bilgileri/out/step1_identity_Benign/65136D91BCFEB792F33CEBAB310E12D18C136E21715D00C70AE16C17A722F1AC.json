@@ -1,0 +1,12 @@
+{
+  "apk_file": "65136D91BCFEB792F33CEBAB310E12D18C136E21715D00C70AE16C17A722F1AC.apk",
+  "sha256": "65136d91bcfeb792f33cebab310e12d18c136e21715d00c70ae16c17a722f1ac",
+  "package_name": "12",
+  "version_code": "220816",
+  "version_name": "220816",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 48624,
+  "dex_count": 1,
+  "native_lib_count": 14
+}

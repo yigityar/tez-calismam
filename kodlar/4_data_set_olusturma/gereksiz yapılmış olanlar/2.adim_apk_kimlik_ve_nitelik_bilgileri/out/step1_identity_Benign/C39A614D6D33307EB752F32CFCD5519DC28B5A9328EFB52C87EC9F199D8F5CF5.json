@@ -1,0 +1,12 @@
+{
+  "apk_file": "C39A614D6D33307EB752F32CFCD5519DC28B5A9328EFB52C87EC9F199D8F5CF5.apk",
+  "sha256": "c39a614d6d33307eb752f32cfcd5519dc28b5a9328efb52c87ec9f199d8f5cf5",
+  "package_name": "12",
+  "version_code": "2022103101",
+  "version_name": "22.21.2022103101",
+  "min_sdk": "26",
+  "target_sdk": "31",
+  "apk_size_kb": 56468,
+  "dex_count": 2,
+  "native_lib_count": 30
+}

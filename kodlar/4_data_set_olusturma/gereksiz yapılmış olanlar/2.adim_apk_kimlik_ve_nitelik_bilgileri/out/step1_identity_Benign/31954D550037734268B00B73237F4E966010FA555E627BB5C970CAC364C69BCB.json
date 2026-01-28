@@ -1,0 +1,12 @@
+{
+  "apk_file": "31954D550037734268B00B73237F4E966010FA555E627BB5C970CAC364C69BCB.apk",
+  "sha256": "31954d550037734268b00b73237f4e966010fa555e627bb5c970cac364c69bcb",
+  "package_name": "10",
+  "version_code": "253",
+  "version_name": "8.2.8",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 104328,
+  "dex_count": 2,
+  "native_lib_count": 38
+}

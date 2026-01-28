@@ -1,0 +1,12 @@
+{
+  "apk_file": "9FA1890192F1DEFE5AE81C58EA36E3B3A5BF63C9F2B29A2C66942C6B574A8690.apk",
+  "sha256": "9fa1890192f1defe5ae81c58ea36e3b3a5bf63c9f2b29a2c66942c6b574a8690",
+  "package_name": "6.0-2438415",
+  "version_code": "71014",
+  "version_name": "7.1.14",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 57144,
+  "dex_count": 2,
+  "native_lib_count": 22
+}

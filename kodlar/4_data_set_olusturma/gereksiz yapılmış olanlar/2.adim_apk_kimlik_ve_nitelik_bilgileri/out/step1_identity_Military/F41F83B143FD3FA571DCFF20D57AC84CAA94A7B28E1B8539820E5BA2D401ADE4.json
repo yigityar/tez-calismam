@@ -1,0 +1,12 @@
+{
+  "apk_file": "F41F83B143FD3FA571DCFF20D57AC84CAA94A7B28E1B8539820E5BA2D401ADE4.apk",
+  "sha256": "f41f83b143fd3fa571dcff20d57ac84caa94a7b28e1b8539820e5ba2d401ade4",
+  "package_name": "16",
+  "version_code": "8",
+  "version_name": "3.5",
+  "min_sdk": "26",
+  "target_sdk": "35",
+  "apk_size_kb": 13912,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

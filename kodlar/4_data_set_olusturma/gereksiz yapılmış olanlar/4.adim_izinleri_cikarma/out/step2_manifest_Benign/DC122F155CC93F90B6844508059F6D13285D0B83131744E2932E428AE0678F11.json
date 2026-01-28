@@ -1,0 +1,16 @@
+{
+  "apk_file": "DC122F155CC93F90B6844508059F6D13285D0B83131744E2932E428AE0678F11.apk",
+  "permissions_list": "android.permission.GET_ACCOUNTS,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.permission.sec.SDK_LAUNCHER,android.permission.NFC,android.permission.INTERNET,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.BLUETOOTH,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.READ_PHONE_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.WAKE_LOCK,android.permission.SYSTEM_ALERT_WINDOW,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.GET_TASKS,android.permission.REORDER_TASKS,android.permission.CHANGE_CONFIGURATION,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.DISABLE_KEYGUARD,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.BROADCAST_STICKY,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.ACCESS_MOCK_LOCATION,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher.permission.READ_SETTINGS,android.permission.CALL_PHONE,android.permission.READ_CONTACTS,android.permission.WRITE_CONTACTS,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,com.huawei.pushagent.permission.RICHMEDIA_PROVIDER,android.permission.WRITE_SETTINGS,android.permission.RECEIVE_USER_PRESENT,android.permission.RESTART_PACKAGES,android.permission.READ_LOGS,android.permission.BATTERY_STATS,android.permission.READ_SYNC_SETTINGS,android.permission.WRITE_SYNC_SETTINGS,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.READ_APP_BADGE,com.htc.launcher.permission.UPDATE_SHORTCUT,com.sonyericsson.home.permission.BROADCAST_BADGE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.USE_FULL_SCREEN_INTENT,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.FOREGROUND_SERVICE,com.zwfw.YueZhengYi.permission.INNER_IPC_BROADCAST,android.permission.USE_FINGERPRINT,com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.zwfw.YueZhengYi.permission.MIPUSH_RECEIVE,com.bbk.launcher2.permission.READ_SETTINGS,android.permission.QUERY_ALL_PACKAGES,com.android.launcher.permission.WRITE_SETTINGS,android.permission.BLUETOOTH_ADMIN,android.permission.ACCESS_NOTIFICATION_POLICY,com.zwfw.YueZhengYi.permission.PROCESS_PUSH_MSG,com.zwfw.YueZhengYi.permission.PUSH_PROVIDER,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 676,
+  "count_service": 57,
+  "count_receiver": 32,
+  "count_provider": 20,
+  "count_exported": 20
+}

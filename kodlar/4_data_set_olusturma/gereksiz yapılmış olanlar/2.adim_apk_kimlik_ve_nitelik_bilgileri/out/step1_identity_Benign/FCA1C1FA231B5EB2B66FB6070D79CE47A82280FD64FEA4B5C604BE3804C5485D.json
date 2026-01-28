@@ -1,0 +1,12 @@
+{
+  "apk_file": "FCA1C1FA231B5EB2B66FB6070D79CE47A82280FD64FEA4B5C604BE3804C5485D.apk",
+  "sha256": "fca1c1fa231b5eb2b66fb6070d79ce47a82280fd64fea4b5c604be3804c5485d",
+  "package_name": "12",
+  "version_code": "63",
+  "version_name": "1.0",
+  "min_sdk": "24",
+  "target_sdk": "31",
+  "apk_size_kb": 23204,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

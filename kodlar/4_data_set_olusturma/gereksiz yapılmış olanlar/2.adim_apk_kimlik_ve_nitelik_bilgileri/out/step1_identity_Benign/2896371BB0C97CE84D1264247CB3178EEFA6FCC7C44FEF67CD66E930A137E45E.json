@@ -1,0 +1,12 @@
+{
+  "apk_file": "2896371BB0C97CE84D1264247CB3178EEFA6FCC7C44FEF67CD66E930A137E45E.apk",
+  "sha256": "2896371bb0c97ce84d1264247cb3178eefa6fcc7c44fef67cd66e930a137e45e",
+  "package_name": "11",
+  "version_code": "22",
+  "version_name": "2.74",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 10592,
+  "dex_count": 7,
+  "native_lib_count": 0
+}

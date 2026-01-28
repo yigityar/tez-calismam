@@ -1,0 +1,16 @@
+{
+  "apk_file": "D45CBBC4CAD9045B304794CC5294EE6B47FC12FAD6872105DA0B6F9CAC126E1D.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_DOWNLOAD_MANAGER,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.VIBRATE,android.permission.GET_TASKS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.FOREGROUND_SERVICE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.hihonor.android.launcher.permission.CHANGE_BADGE,android.permission.VIBRATE,android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.WAKE_LOCK,android.permission.RECEIVE_USER_PRESENT,android.permission.READ_LOGS,android.permission.DISABLE_KEYGUARD,android.permission.BROADCAST_STICKY,android.permission.WRITE_SETTINGS,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.READ_PHONE_STATE,android.permission.CHANGE_NETWORK_STATE,com.cctv.yangshipin.app.androidp.permission.TMF_SHARK,com.asus.msa.SupplementaryDID.ACCESS,android.permission.SCHEDULE_EXACT_ALARM,android.permission.RESTART_PACKAGES,com.cctv.yangshipin.app.androidp.permission.XGPUSH_RECEIVE,com.cctv.yangshipin.app.androidp.permission.PROCESS_PUSH_MSG,com.cctv.yangshipin.app.androidp.permission.PUSH_PROVIDER,com.cctv.yangshipin.app.androidp.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.meizu.flyme.permission.PUSH,com.meizu.flyme.push.permission.RECEIVE,com.cctv.yangshipin.app.androidp.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.cctv.yangshipin.app.androidp.permission.C2D_MESSAGE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 123,
+  "count_service": 19,
+  "count_receiver": 9,
+  "count_provider": 15,
+  "count_exported": 18
+}

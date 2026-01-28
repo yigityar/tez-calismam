@@ -1,0 +1,16 @@
+{
+  "apk_file": "E0DAC8CFA9422D07A4BB769C1E22B8DCB7D5C3188E962007EE97153A36E361E8.apk",
+  "permissions_list": "android.permission.READ_MEDIA_AUDIO,android.permission.READ_MEDIA_VIDEO,android.permission.READ_MEDIA_IMAGES,com.facebook.katana.provider.ACCESS,android.permission.POST_NOTIFICATIONS,android.permission.SCHEDULE_EXACT_ALARM,android.permission.INTERNET,android.permission.GET_ACCOUNTS,android.permission.ACCESS_NETWORK_STATE,android.permission.WAKE_LOCK,android.permission.VIBRATE,android.permission.READ_CONTACTS,android.permission.READ_PROFILE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.READ_PHONE_NUMBERS,android.permission.ACCESS_WIFI_STATE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.READ_SYNC_SETTINGS,android.permission.RECEIVE_SMS,android.permission.RECEIVE_MMS,android.permission.READ_SMS,android.permission.WRITE_SMS,android.permission.SEND_SMS,android.permission.CHANGE_NETWORK_STATE,android.permission.RECORD_AUDIO,android.permission.SYSTEM_ALERT_WINDOW,android.permission.CALL_PHONE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.MANAGE_ACCOUNTS,android.permission.WRITE_CONTACTS,android.permission.WRITE_SYNC_SETTINGS,com.google.android.gms.permission.AD_ID,android.permission.BLUETOOTH,android.permission.NFC,com.facebook.orca.provider.ACCESS,com.facebook.permission.prod.FB_APP_COMMUNICATION,com.facebook.mlite.provider.ACCESS,android.permission.CAMERA,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,com.google.android.providers.gsf.permission.READ_GSERVICES,com.huawei.android.launcher.permission.CHANGE_BADGE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,android.permission.USE_FULL_SCREEN_INTENT,android.permission.READ_EXTERNAL_STORAGE,com.facebook.orca.permission.CROSS_PROCESS_BROADCAST_MANAGER,com.facebook.receiver.permission.ACCESS,com.facebook.orca.provider.ACCESS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,android.permission.CHANGE_WIFI_STATE,android.permission.USE_BIOMETRIC,android.permission.MANAGE_OWN_CALLS,com.facebook.orca.permission.RECEIVE_ADM_MESSAGE,com.amazon.device.messaging.permission.RECEIVE,com.nokia.pushnotifications.permission.RECEIVE,com.android.launcher.permission.INSTALL_SHORTCUT,com.facebook.orca.permission.CREATE_SHORTCUT,android.permission.FOREGROUND_SERVICE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.USE_FINGERPRINT,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 1,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 408,
+  "count_service": 114,
+  "count_receiver": 75,
+  "count_provider": 19,
+  "count_exported": 86
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "5E005CA88EEFD4BE3FF1C0FDDE1E43C1E7B8E0F33BFCD93E4C8C1E4DB5EBB5C3.apk",
+  "sha256": "5e005ca88eefd4be3ff1c0fdde1e43c1e7b8e0f33bfcd93e4c8c1e4db5ebb5c3",
+  "package_name": "10",
+  "version_code": "231",
+  "version_name": "3.6.1",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 108160,
+  "dex_count": 1,
+  "native_lib_count": 72
+}

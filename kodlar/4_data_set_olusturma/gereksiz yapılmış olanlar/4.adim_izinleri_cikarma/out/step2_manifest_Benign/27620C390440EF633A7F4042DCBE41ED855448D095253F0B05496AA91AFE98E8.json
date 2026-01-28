@@ -1,0 +1,16 @@
+{
+  "apk_file": "27620C390440EF633A7F4042DCBE41ED855448D095253F0B05496AA91AFE98E8.apk",
+  "permissions_list": "android.permission.MODIFY_AUDIO_SETTINGS,android.permission.INTERNET,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,com.android.vending.CHECK_LICENSE,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,com.google.android.gms.permission.AD_ID,com.applovin.array.apphub.permission.BIND_APPHUB_SERVICE,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_ADSERVICES_TOPICS,android.permission.WAKE_LOCK,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.ACCESS_ADSERVICES_AD_ID,android.permission.FOREGROUND_SERVICE,com.mobage.ww.a1912.Godus_Android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.android.vending.BILLING",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 37,
+  "count_service": 13,
+  "count_receiver": 11,
+  "count_provider": 6,
+  "count_exported": 5
+}

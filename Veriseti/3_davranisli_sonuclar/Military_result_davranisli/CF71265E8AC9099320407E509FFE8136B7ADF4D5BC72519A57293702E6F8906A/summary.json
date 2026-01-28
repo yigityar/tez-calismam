@@ -1,0 +1,158 @@
+{
+    "apk_name": "CF71265E8AC9099320407E509FFE8136B7ADF4D5BC72519A57293702E6F8906A",
+    "sha256": "cf71265e8ac9099320407e509ffe8136b7adf4d5bc72519a57293702e6f8906a",
+    "metadata": {
+        "package_name": "com.oyak.mobile",
+        "version_code": "39",
+        "version_name": "2.1.2",
+        "min_sdk": "19",
+        "target_sdk": "28",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.oyak.mobile.permission.C2D_MESSAGE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE"
+        ],
+        "activities": [
+            "com.facebook.react.devsupport.DevSettingsActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.onesignal.PermissionsActivity",
+            "com.oyak.mobile.MainActivity"
+        ],
+        "services": [
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.onesignal.GcmIntentJobService",
+            "com.onesignal.GcmIntentService",
+            "com.onesignal.NotificationRestoreService",
+            "com.onesignal.RestoreJobService",
+            "com.onesignal.RestoreKickoffJobService",
+            "com.onesignal.SyncJobService",
+            "com.onesignal.SyncService"
+        ],
+        "receivers": [
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.onesignal.BootUpReceiver",
+            "com.onesignal.GcmBroadcastReceiver",
+            "com.onesignal.NotificationOpenedReceiver",
+            "com.onesignal.UpgradeReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_APP_BADGE": "unknown",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.SYSTEM_ALERT_WINDOW": "signature",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.anddoes.launcher.permission.UPDATE_COUNT": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.htc.launcher.permission.READ_SETTINGS": "unknown",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT": "unknown",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE": "unknown",
+            "com.huawei.android.launcher.permission.READ_SETTINGS": "unknown",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS": "signature",
+            "com.majeur.launcher.permission.UPDATE_BADGE": "unknown",
+            "com.oppo.launcher.permission.READ_SETTINGS": "unknown",
+            "com.oppo.launcher.permission.WRITE_SETTINGS": "signature",
+            "com.oyak.mobile.permission.C2D_MESSAGE": "unknown",
+            "com.sec.android.provider.badge.permission.READ": "unknown",
+            "com.sec.android.provider.badge.permission.WRITE": "unknown",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE": "unknown",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE": "unknown",
+            "me.everything.badger.permission.BADGE_COUNT_READ": "unknown",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 4,
+            "normal": 5,
+            "unknown": 16,
+            "signature": 3
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 44
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 16.7,
+        "sources_present": true,
+        "java_file_count": 3717
+    },
+    "ast_analysis": {
+        "location": 10,
+        "microphone": 0,
+        "camera": 20,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 19
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 2,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 2,
+            "webview_interop": 1,
+            "content_access": 19,
+            "audio_control": 1,
+            "vibration": 2,
+            "network_io": 19,
+            "scheduling_apis": 33,
+            "dynamic_code": 173
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 252
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 8,
+            "handler_loop": 23,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 172
+        }
+    }
+}

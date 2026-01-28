@@ -1,0 +1,16 @@
+{
+  "apk_file": "6E36BBDE21B95DB6252328FCC845777EC224CBBC5FDD56D9FC5265AE442714D7.apk",
+  "permissions_list": "android.permission.GET_TASKS,com.jd.b2b.permission.PUSH_MESSAGE,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.INTERNET,android.permission.READ_PHONE_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.CAMERA,android.permission.SYSTEM_ALERT_WINDOW,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.WAKE_LOCK,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.RECEIVE_USER_PRESENT,android.permission.CALL_PHONE,android.permission.FLASHLIGHT,android.permission.READ_EXTERNAL_STORAGE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.READ_LOGS,android.permission.WRITE_SETTINGS,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.FOREGROUND_SERVICE,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.MANAGE_NEWLAND,android.permission.MANAGE_NEWLANDUART3,com.android.browser.permission.READ_HISTORY_BOOKMARKS,android.permission.REORDER_TASKS,android.permission.NFC,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,com.jd.permissions.MSG_BROADCAST,android.permission.DISABLE_KEYGUARD,android.permission.ACCESS_DOWNLOAD_MANAGER,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.EXPAND_STATUS_BAR,android.permission.RECORD_AUDIO,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher.permission.READ_SETTINGS,com.jd.b2b.permission.PROCESS_PUSH_MSG,com.jd.b2b.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.jd.b2b.permission.PUSH_PROVIDER,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 347,
+  "count_service": 32,
+  "count_receiver": 24,
+  "count_provider": 17,
+  "count_exported": 17
+}

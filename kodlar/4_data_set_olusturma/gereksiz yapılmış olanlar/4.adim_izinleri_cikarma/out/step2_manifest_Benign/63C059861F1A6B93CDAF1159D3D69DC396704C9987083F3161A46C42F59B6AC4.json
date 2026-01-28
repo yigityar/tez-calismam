@@ -1,0 +1,16 @@
+{
+  "apk_file": "63C059861F1A6B93CDAF1159D3D69DC396704C9987083F3161A46C42F59B6AC4.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.BLUETOOTH,android.permission.CAMERA,android.permission.CAPTURE_AUDIO_OUTPUT,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.MEDIA_CONTENT_CONTROL,android.permission.READ_CONTACTS,android.permission.READ_PHONE_STATE,android.permission.READ_PRIVILEGED_PHONE_STATE,nl.roxelane.memorylane.companion.permission.C2D_MESSAGE,android.permission.WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,android.permission.FOREGROUND_SERVICE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.POST_NOTIFICATIONS,android.permission.VIBRATE,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.majeur.launcher.permission.UPDATE_BADGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,android.permission.READ_APP_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 15,
+  "count_service": 14,
+  "count_receiver": 17,
+  "count_provider": 6,
+  "count_exported": 12
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "6E8434169CC11DA74788271C656FC5AA7018DC69906A3B8020803705C4C06006.apk",
+  "sha256": "6e8434169cc11da74788271c656fc5aa7018dc69906a3b8020803705c4c06006",
+  "package_name": "14",
+  "version_code": "184",
+  "version_name": "2.71",
+  "min_sdk": "28",
+  "target_sdk": "34",
+  "apk_size_kb": 133440,
+  "dex_count": 3,
+  "native_lib_count": 42
+}

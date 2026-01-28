@@ -1,0 +1,12 @@
+{
+  "apk_file": "ED26FB72C118DA6458EB8A8EBEA9225978880ED610381B8D6E49049CD9AB242A.apk",
+  "sha256": "ed26fb72c118da6458eb8a8ebea9225978880ed610381b8d6e49049cd9ab242a",
+  "package_name": "6.0-2438415",
+  "version_code": "108",
+  "version_name": "V5.5.3",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 82984,
+  "dex_count": 3,
+  "native_lib_count": 50
+}

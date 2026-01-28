@@ -1,0 +1,12 @@
+{
+  "apk_file": "B04C951DFA055FF76D856C071B020A6E9B6C2CDBCE48D98C9CE41A8BCB141590.apk",
+  "sha256": "b04c951dfa055ff76d856c071b020a6e9b6c2cdbce48d98c9ce41a8bcb141590",
+  "package_name": "11",
+  "version_code": "538",
+  "version_name": "9.0.75.3",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 111860,
+  "dex_count": 17,
+  "native_lib_count": 78
+}

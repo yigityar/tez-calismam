@@ -1,0 +1,12 @@
+{
+  "apk_file": "8BF1AA5B5AF3A79EA3793C2411A1EB492DE864853E018097CC91755116B56AE2.apk",
+  "sha256": "8bf1aa5b5af3a79ea3793c2411a1eb492de864853e018097cc91755116b56ae2",
+  "package_name": "11",
+  "version_code": "29",
+  "version_name": "4.5",
+  "min_sdk": "30",
+  "target_sdk": "30",
+  "apk_size_kb": 48056,
+  "dex_count": 1,
+  "native_lib_count": 24
+}

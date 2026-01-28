@@ -1,0 +1,12 @@
+{
+  "apk_file": "7FC09FDD67C24A4BADD068BDEF1E669D1C4E6B52F058DF34DE3C13BF0AF26E9C.apk",
+  "sha256": "7fc09fdd67c24a4badd068bdef1e669d1c4e6b52f058df34de3c13bf0af26e9c",
+  "package_name": "9",
+  "version_code": "1927",
+  "version_name": "10.55.5.0",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 57732,
+  "dex_count": 7,
+  "native_lib_count": 39
+}

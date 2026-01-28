@@ -1,0 +1,16 @@
+{
+  "apk_file": "3E7AA849DC2172924950C6E44FB05B7AE1C93FC024AFC0EAA0588B75F35EC9F8.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.CHANGE_WIFI_STATE,android.permission.FOREGROUND_SERVICE,android.permission.VIBRATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.READ_PHONE_STATE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.RECORD_AUDIO,android.permission.CHANGE_NETWORK_STATE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_PRIVILEGED_PHONE_STATE,android.permission.FLASHLIGHT,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.ACCESS_BACKGROUND_LOCATION,com.qijia.o2o.permission.JPUSH_MESSAGE,android.permission.WAKE_LOCK,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,com.huawei.android.launcher.permission.CHANGE_BADGE,com.qijia.o2o.permission.MIPUSH_RECEIVE,com.android.launcher.permission.READ_SETTINGS,android.permission.GET_TASKS,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.RECEIVE_USER_PRESENT,android.permission.DISABLE_KEYGUARD,android.permission.USE_FULL_SCREEN_INTENT,android.permission.SYSTEM_ALERT_WINDOW,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.WRITE_SETTINGS,com.vivo.notification.permission.BADGE_ICON,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.QUERY_ALL_PACKAGES,com.qijia.o2o.permission.PROCESS_PUSH_MSG,com.qijia.o2o.permission.PUSH_PROVIDER,com.meizu.flyme.permission.PUSH,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 293,
+  "count_service": 24,
+  "count_receiver": 16,
+  "count_provider": 12,
+  "count_exported": 34
+}

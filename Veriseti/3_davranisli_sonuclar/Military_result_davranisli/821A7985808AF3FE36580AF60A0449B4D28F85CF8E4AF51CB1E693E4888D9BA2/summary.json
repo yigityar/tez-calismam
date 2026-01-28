@@ -1,0 +1,116 @@
+{
+    "apk_name": "821A7985808AF3FE36580AF60A0449B4D28F85CF8E4AF51CB1E693E4888D9BA2",
+    "sha256": "821a7985808af3fe36580af60a0449b4d28f85cf8e4af51cb1e693e4888d9ba2",
+    "metadata": {
+        "package_name": "com.ballistic.calculator.strelok",
+        "version_code": "28",
+        "version_name": "1.96",
+        "min_sdk": "24",
+        "target_sdk": "34",
+        "permissions": [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.BILLING",
+            "com.ballistic.calculator.strelok.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.android.billingclient.api.ProxyBillingActivityV2",
+            "com.ballistic.calculator.strelok.MainActivity",
+            "com.ballistic.calculator.strelok.ScreenSlidePagerActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.sessions.SessionLifecycleService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_ADSERVICES_AD_ID": "unknown",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION": "unknown",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.android.vending.BILLING": "unknown",
+            "com.ballistic.calculator.strelok.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "unknown": 6,
+            "normal": 3
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 17.8,
+        "sources_present": true,
+        "java_file_count": 3361
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 2,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 5,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 10,
+            "dynamic_code": 115
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 130
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 0,
+            "handler_loop": 8,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 0,
+            "reflection": 115
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "5A77AA6E52CBBD80FF31F6BBBAA8824115325DD1A9DDB24CDF62938659CFAD20.apk",
+  "sha256": "5a77aa6e52cbbd80ff31f6bbbaa8824115325dd1a9ddb24cdf62938659cfad20",
+  "package_name": "10",
+  "version_code": "56600",
+  "version_name": "5.66.0",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 102680,
+  "dex_count": 8,
+  "native_lib_count": 83
+}

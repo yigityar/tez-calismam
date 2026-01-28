@@ -1,0 +1,12 @@
+{
+  "apk_file": "A2DB45A837BCE98924A942CE73F1AADC6CBFE0C287FBB11DEDC24315FEBFEE85.apk",
+  "sha256": "a2db45a837bce98924a942ce73f1aadc6cbfe0c287fbb11dedc24315febfee85",
+  "package_name": "com.icbc.im",
+  "version_code": "174",
+  "version_name": "5.1.9",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 152484,
+  "dex_count": 1,
+  "native_lib_count": 86
+}

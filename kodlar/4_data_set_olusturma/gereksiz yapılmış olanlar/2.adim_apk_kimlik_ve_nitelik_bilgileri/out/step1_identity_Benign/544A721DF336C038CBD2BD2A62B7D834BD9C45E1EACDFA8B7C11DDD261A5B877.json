@@ -1,0 +1,12 @@
+{
+  "apk_file": "544A721DF336C038CBD2BD2A62B7D834BD9C45E1EACDFA8B7C11DDD261A5B877.apk",
+  "sha256": "544a721df336c038cbd2bd2a62b7d834bd9c45e1eacdfa8b7c11ddd261a5b877",
+  "package_name": "6.0-2438415",
+  "version_code": "9621020",
+  "version_name": "9.62.10.20",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 75760,
+  "dex_count": 8,
+  "native_lib_count": 36
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "0CF2B570EA80E9021B0AE02DFB6F3CF225DEA1010F8CDD067AFC63FF53B6A20B.apk",
+  "sha256": "0cf2b570ea80e9021b0ae02dfb6f3cf225dea1010f8cdd067afc63ff53b6a20b",
+  "package_name": "12",
+  "version_code": "601600202",
+  "version_name": "6.16.2",
+  "min_sdk": "21",
+  "target_sdk": "32",
+  "apk_size_kb": 58704,
+  "dex_count": 4,
+  "native_lib_count": 28
+}

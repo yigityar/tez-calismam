@@ -1,0 +1,12 @@
+{
+  "apk_file": "F3CCE435A5B436123D604A398599A4F713B841C1E578094ECF5452EDBDD3B316.apk",
+  "sha256": "f3cce435a5b436123d604a398599a4f713b841c1e578094ecf5452edbdd3b316",
+  "package_name": "16",
+  "version_code": "15",
+  "version_name": "3.4",
+  "min_sdk": "29",
+  "target_sdk": "36",
+  "apk_size_kb": 13312,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

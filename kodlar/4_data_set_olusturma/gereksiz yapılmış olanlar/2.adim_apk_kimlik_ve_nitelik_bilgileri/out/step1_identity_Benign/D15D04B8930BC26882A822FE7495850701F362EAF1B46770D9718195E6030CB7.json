@@ -1,0 +1,12 @@
+{
+  "apk_file": "D15D04B8930BC26882A822FE7495850701F362EAF1B46770D9718195E6030CB7.apk",
+  "sha256": "d15d04b8930bc26882a822fe7495850701f362eaf1b46770d9718195e6030cb7",
+  "package_name": "12",
+  "version_code": "205",
+  "version_name": "1.0.7",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 9248,
+  "dex_count": 3,
+  "native_lib_count": 0
+}

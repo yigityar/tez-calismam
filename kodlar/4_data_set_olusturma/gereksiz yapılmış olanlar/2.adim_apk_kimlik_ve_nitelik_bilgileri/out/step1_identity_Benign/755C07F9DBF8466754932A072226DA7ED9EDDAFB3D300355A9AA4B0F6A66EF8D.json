@@ -1,0 +1,12 @@
+{
+  "apk_file": "755C07F9DBF8466754932A072226DA7ED9EDDAFB3D300355A9AA4B0F6A66EF8D.apk",
+  "sha256": "755c07f9dbf8466754932a072226da7ed9eddafb3d300355a9aa4b0f6a66ef8d",
+  "package_name": "com.icbc.im",
+  "version_code": "178",
+  "version_name": "5.2.3",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 152096,
+  "dex_count": 1,
+  "native_lib_count": 86
+}

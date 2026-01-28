@@ -1,0 +1,12 @@
+{
+  "apk_file": "6B99D06DF0D36FD2676E440A3034804BBE767A1DEE901ADE3FB5ACB1DDBE54CC.apk",
+  "sha256": "6b99d06df0d36fd2676e440a3034804bbe767a1dee901ade3fb5acb1ddbe54cc",
+  "package_name": "14",
+  "version_code": "70",
+  "version_name": "8.0",
+  "min_sdk": "25",
+  "target_sdk": "34",
+  "apk_size_kb": 57268,
+  "dex_count": 1,
+  "native_lib_count": 596
+}

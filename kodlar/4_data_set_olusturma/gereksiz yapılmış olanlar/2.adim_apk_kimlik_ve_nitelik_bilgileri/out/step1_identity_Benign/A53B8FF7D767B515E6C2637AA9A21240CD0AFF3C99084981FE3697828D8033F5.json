@@ -1,0 +1,12 @@
+{
+  "apk_file": "A53B8FF7D767B515E6C2637AA9A21240CD0AFF3C99084981FE3697828D8033F5.apk",
+  "sha256": "a53b8ff7d767b515e6c2637aa9a21240cd0aff3c99084981fe3697828d8033f5",
+  "package_name": "13",
+  "version_code": "195",
+  "version_name": "5.18.1",
+  "min_sdk": "24",
+  "target_sdk": "33",
+  "apk_size_kb": 94104,
+  "dex_count": 9,
+  "native_lib_count": 284
+}

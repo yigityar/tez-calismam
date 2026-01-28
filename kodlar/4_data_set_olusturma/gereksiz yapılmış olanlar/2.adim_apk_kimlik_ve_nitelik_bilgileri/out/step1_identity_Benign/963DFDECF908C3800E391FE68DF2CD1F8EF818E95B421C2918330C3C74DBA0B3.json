@@ -1,0 +1,12 @@
+{
+  "apk_file": "963DFDECF908C3800E391FE68DF2CD1F8EF818E95B421C2918330C3C74DBA0B3.apk",
+  "sha256": "963dfdecf908c3800e391fe68df2cd1f8ef818e95b421c2918330c3c74dba0b3",
+  "package_name": "13",
+  "version_code": "103145856",
+  "version_name": "6.2.0",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 101140,
+  "dex_count": 2,
+  "native_lib_count": 71
+}

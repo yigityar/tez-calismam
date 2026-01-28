@@ -1,0 +1,12 @@
+{
+  "apk_file": "F37D2195D520B2E82BC3FF46D3E891713E7BBDAA64FE070B8FAED34572F75DB7.apk",
+  "sha256": "f37d2195d520b2e82bc3ff46d3e891713e7bbdaa64fe070b8faed34572f75db7",
+  "package_name": "9",
+  "version_code": "54",
+  "version_name": "4.1.4",
+  "min_sdk": "16",
+  "target_sdk": "26",
+  "apk_size_kb": 6408,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "F21CB42BEEFD3977187E3184F4E84BF4BF4C2E6E0D3B853F45BD5C218E3267B0.apk",
+  "sha256": "f21cb42beefd3977187e3184f4e84bf4bf4c2e6e0d3b853f45bd5c218e3267b0",
+  "package_name": "11",
+  "version_code": "3323",
+  "version_name": "2.7.0.3323",
+  "min_sdk": "26",
+  "target_sdk": "30",
+  "apk_size_kb": 124428,
+  "dex_count": 4,
+  "native_lib_count": 502
+}

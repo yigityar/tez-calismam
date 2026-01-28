@@ -1,0 +1,12 @@
+{
+  "apk_file": "63D03E858CA48E2A95BF00BE92B6CD25E7E911BDBD2C1D964171538691D240E5.apk",
+  "sha256": "63d03e858ca48e2a95bf00be92b6cd25e7e911bdbd2c1d964171538691d240e5",
+  "package_name": "11",
+  "version_code": "66218",
+  "version_name": "10.4.3",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 92600,
+  "dex_count": 11,
+  "native_lib_count": 177
+}

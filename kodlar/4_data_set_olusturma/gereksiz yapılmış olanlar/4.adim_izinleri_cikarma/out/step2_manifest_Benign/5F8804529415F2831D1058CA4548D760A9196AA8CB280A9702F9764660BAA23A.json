@@ -1,0 +1,16 @@
+{
+  "apk_file": "5F8804529415F2831D1058CA4548D760A9196AA8CB280A9702F9764660BAA23A.apk",
+  "permissions_list": "android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.INTERNET,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.DISABLE_KEYGUARD,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.WAKE_LOCK,android.permission.RECEIVE_USER_PRESENT,android.permission.READ_SETTINGS,android.permission.READ_EXTERNAL_STORAGE,android.permission.CHANGE_NETWORK_STATE,android.permission.VIBRATE,android.permission.REQUEST_INSTALL_PACKAGES,com.tvbc.maiduidui.openadsdk.permission.TT_PANGOLIN,android.permission.SCHEDULE_EXACT_ALARM,getui.permission.GetuiService.com.tvbc.maiduidui,com.vivo.notification.permission.BADGE_ICON,com.tvbc.maiduidui.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.meizu.flyme.push.permission.RECEIVE,com.meizu.c2dm.permission.RECEIVE,com.tvbc.maiduidui.push.permission.MESSAGE,com.tvbc.maiduidui.permission.C2D_MESSAGE,com.tvbc.maiduidui.permission.PROCESS_PUSH_MSG,com.tvbc.maiduidui.permission.PUSH_PROVIDER,android.permission.FOREGROUND_SERVICE,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.majeur.launcher.permission.UPDATE_BADGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.hihonor.android.launcher.permission.CHANGE_BADGE,android.permission.READ_APP_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,com.meizu.flyme.permission.PUSH,android.permission.BLUETOOTH_CONNECT,com.google.android.gms.permission.AD_ID,android.permission.QUERY_ALL_PACKAGES,android.permission.REORDER_TASKS,android.permission.SET_WALLPAPER,com.asus.msa.SupplementaryDID.ACCESS,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 252,
+  "count_service": 34,
+  "count_receiver": 13,
+  "count_provider": 23,
+  "count_exported": 22
+}

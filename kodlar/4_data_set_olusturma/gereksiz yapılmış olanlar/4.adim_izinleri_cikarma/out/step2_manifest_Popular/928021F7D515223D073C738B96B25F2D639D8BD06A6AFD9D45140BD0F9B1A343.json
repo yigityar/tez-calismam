@@ -1,0 +1,16 @@
+{
+  "apk_file": "928021F7D515223D073C738B96B25F2D639D8BD06A6AFD9D45140BD0F9B1A343.apk",
+  "permissions_list": "com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.GET_ACCOUNTS,android.permission.WAKE_LOCK,com.king.candycrushsaga.permission.C2D_MESSAGE,com.king.cross.kingapp.provider.ACCESS,com.google.android.c2dm.permission.RECEIVE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 2,
+  "count_service": 5,
+  "count_receiver": 4,
+  "count_provider": 1,
+  "count_exported": 2
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "F6EC260D787899CD32CDA37DF60A66B81F5D15C837143C5C0E9046E0F5967F7A.apk",
+  "sha256": "f6ec260d787899cd32cda37df60a66b81f5d15c837143c5c0e9046e0f5967f7a",
+  "package_name": "13",
+  "version_code": "400998",
+  "version_name": "1.99.8",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 77840,
+  "dex_count": 2,
+  "native_lib_count": 115
+}

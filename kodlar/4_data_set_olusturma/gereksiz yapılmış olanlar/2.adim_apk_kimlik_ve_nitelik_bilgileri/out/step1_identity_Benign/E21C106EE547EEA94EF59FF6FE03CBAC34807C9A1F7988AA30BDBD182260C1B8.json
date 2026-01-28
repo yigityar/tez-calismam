@@ -1,0 +1,12 @@
+{
+  "apk_file": "E21C106EE547EEA94EF59FF6FE03CBAC34807C9A1F7988AA30BDBD182260C1B8.apk",
+  "sha256": "e21c106ee547eea94ef59ff6fe03cbac34807c9a1f7988aa30bdbd182260c1b8",
+  "package_name": "10",
+  "version_code": "111005",
+  "version_name": "11.10.5",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 107940,
+  "dex_count": 13,
+  "native_lib_count": 87
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "ECF3A5A3132C0945CA036A99C5AFB1FD24F7B04C34C3F83AE19ED785BF5A9407.apk",
+  "sha256": "ecf3a5a3132c0945ca036a99c5afb1fd24f7b04c34c3f83ae19ed785bf5a9407",
+  "package_name": "12",
+  "version_code": "68",
+  "version_name": "1.3.3",
+  "min_sdk": "26",
+  "target_sdk": "31",
+  "apk_size_kb": 26712,
+  "dex_count": 2,
+  "native_lib_count": 16
+}

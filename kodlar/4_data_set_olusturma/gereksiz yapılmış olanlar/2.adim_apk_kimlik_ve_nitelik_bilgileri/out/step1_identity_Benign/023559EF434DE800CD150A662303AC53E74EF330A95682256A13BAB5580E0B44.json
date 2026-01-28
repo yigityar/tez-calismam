@@ -1,0 +1,12 @@
+{
+  "apk_file": "023559EF434DE800CD150A662303AC53E74EF330A95682256A13BAB5580E0B44.apk",
+  "sha256": "023559ef434de800cd150a662303ac53e74ef330a95682256a13bab5580e0b44",
+  "package_name": "12",
+  "version_code": "39",
+  "version_name": "1.4.2",
+  "min_sdk": "19",
+  "target_sdk": "31",
+  "apk_size_kb": 63944,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "969458B13B2E6D4B48FC9343DEB7C937420FFEA15B469D9732E23A08241A0077.apk",
+  "sha256": "969458b13b2e6d4b48fc9343deb7c937420ffea15b469d9732e23a08241a0077",
+  "package_name": "9",
+  "version_code": "7050",
+  "version_name": "7.0.5",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 82432,
+  "dex_count": 6,
+  "native_lib_count": 62
+}

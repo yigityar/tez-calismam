@@ -1,0 +1,12 @@
+{
+  "apk_file": "4F9D78F10B0C45031CB967F1D1C3775C961C70EED4414D469788A371C026CC5F.apk",
+  "sha256": "4f9d78f10b0c45031cb967f1d1c3775c961c70eed4414d469788a371c026cc5f",
+  "package_name": "14",
+  "version_code": "174",
+  "version_name": "V1.0.74",
+  "min_sdk": "26",
+  "target_sdk": "34",
+  "apk_size_kb": 52904,
+  "dex_count": 6,
+  "native_lib_count": 0
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "B2DA99D6FFC2EA6A69FADA040009E11AB12AAB3429449B72836F179140B00FD1.apk",
+  "permissions_list": "android.permission.RECORD_AUDIO,android.permission.INTERNET,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.READ_CONTACTS,android.permission.CALL_PHONE,android.permission.READ_PHONE_STATE,android.permission.ANSWER_PHONE_CALLS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.POST_NOTIFICATIONS,android.permission.SEND_SMS,android.permission.CAMERA,android.permission.WRITE_CONTACTS,android.permission.GET_ACCOUNTS,android.permission.CONNECTIVITY_USE_RESTRICTED_NETWORKS,android.permission.BLUETOOTH,android.permission.BLUETOOTH_CONNECT,android.permission.FOREGROUND_SERVICE_CAMERA,android.permission.FOREGROUND_SERVICE_LOCATION,android.permission.FOREGROUND_SERVICE_MICROPHONE,android.permission.FOREGROUND_SERVICE_PHONE_CALL,android.permission.MANAGE_OWN_CALLS,android.permission.BLUETOOTH_SCAN,com.verizon.ptt.API_ACCESS,com.verizon.ptt.LITE_ACCESS,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.VIBRATE,android.permission.BROADCAST_STICKY,android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,android.permission.WAKE_LOCK,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.EXPAND_STATUS_BAR,android.permission.WRITE_SETTINGS,android.permission.BLUETOOTH_ADMIN,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.MANAGE_ACCOUNTS,android.permission.FOREGROUND_SERVICE,android.permission.WRITE_SYNC_SETTINGS,android.permission.CONNECTIVITY_INTERNAL,android.permission.USE_FULL_SCREEN_INTENT,android.permission.SYSTEM_ALERT_WINDOW,com.verizon.pushtotalkplus.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 4,
+  "count_service": 10,
+  "count_receiver": 19,
+  "count_provider": 3,
+  "count_exported": 9
+}

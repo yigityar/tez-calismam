@@ -1,0 +1,12 @@
+{
+  "apk_file": "76FC05D287F455ADF48085F935F963F775522B99578BDF82E3F7FEB5F4A1976D.apk",
+  "sha256": "76fc05d287f455adf48085f935f963f775522b99578bdf82e3f7feb5f4a1976d",
+  "package_name": "9",
+  "version_code": "8869",
+  "version_name": "4.1.1",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 113480,
+  "dex_count": 1,
+  "native_lib_count": 73
+}

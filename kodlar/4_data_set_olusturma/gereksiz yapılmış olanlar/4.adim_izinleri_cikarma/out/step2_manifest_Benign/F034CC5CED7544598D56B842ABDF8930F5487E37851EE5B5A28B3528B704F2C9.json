@@ -1,0 +1,16 @@
+{
+  "apk_file": "F034CC5CED7544598D56B842ABDF8930F5487E37851EE5B5A28B3528B704F2C9.apk",
+  "permissions_list": "android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.POST_NOTIFICATIONS,android.permission.ACCESS_NETWORK_STATE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.webkit.PermissionRequest,android.permission.CALL_PHONE,android.permission.FOREGROUND_SERVICE,android.permission.FOREGROUND_SERVICE_LOCATION,android.permission.DETECT_SCREEN_CAPTURE,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.ACCESS_NOTIFICATION_POLICY,android.permission.ACCESS_WIFI_STATE,android.permission.BROADCAST_STICKY,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_MULTICAST_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.DISABLE_KEYGUARD,android.permission.EXPAND_STATUS_BAR,android.permission.GET_PACKAGE_SIZE,android.permission.INSTALL_SHORTCUT,android.permission.INTERNET,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_SYNC_SETTINGS,android.permission.READ_SYNC_STATS,android.permission.REORDER_TASKS,android.permission.REQUEST_COMPANION_RUN_IN_BACKGROUND,android.permission.REQUEST_COMPANION_USE_DATA_IN_BACKGROUND,android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,android.permission.SET_ALARM,android.permission.SET_WALLPAPER,android.permission.SET_WALLPAPER_HINTS,android.permission.TRANSMIT_IR,android.permission.USE_FINGERPRINT,android.permission.VIBRATE,android.permission.WAKE_LOCK,android.permission.WRITE_SYNC_SETTINGS,android.permission.CAMERA,android.permission.SCHEDULE_EXACT_ALARM,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.uncledelivery.driver.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,android.permission.ACCESS_ADSERVICES_AD_ID,android.webkit.permission.PLUGIN,android.hardware.camera.autofocus,android.permission.RECORD_VIDEO",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 93,
+  "count_service": 19,
+  "count_receiver": 16,
+  "count_provider": 3,
+  "count_exported": 8
+}

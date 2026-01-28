@@ -1,0 +1,16 @@
+{
+  "apk_file": "97D969F33434A7D6844B9BDF2876976ACEFCF8A02949E064D957C310C7BCFAED.apk",
+  "permissions_list": "com.xlingenieria.unifilar.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.android.vending.BILLING,android.permission.INTERNET,android.permission.FOREGROUND_SERVICE,android.permission.WAKE_LOCK,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_NETWORK_STATE,com.google.android.c2dm.permission.RECEIVE,com.google.android.gms.permission.AD_ID,com.xlingenieria.unifilar.permission.C2D_MESSAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 5,
+  "count_service": 8,
+  "count_receiver": 7,
+  "count_provider": 3,
+  "count_exported": 8
+}

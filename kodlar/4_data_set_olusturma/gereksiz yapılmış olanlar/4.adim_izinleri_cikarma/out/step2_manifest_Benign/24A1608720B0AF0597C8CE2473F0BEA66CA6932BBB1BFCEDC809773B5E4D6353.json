@@ -1,0 +1,16 @@
+{
+  "apk_file": "24A1608720B0AF0597C8CE2473F0BEA66CA6932BBB1BFCEDC809773B5E4D6353.apk",
+  "permissions_list": "android.permission.RECEIVE_BOOT_COMPLETED,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.INTERNET,android.permission.WAKE_LOCK,android.permission.VIBRATE,android.permission.CAMERA,android.permission.GET_TASKS,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.SYSTEM_ALERT_WINDOW,android.permission.RECORD_AUDIO,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_COARSE_UPDATES,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.READ_PHONE_STATE,android.permission.READ_PHONE_NUMBERS,android.permission.SCHEDULE_EXACT_ALARM,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.POST_NOTIFICATIONS,com.google.android.gms.permission.AD_ID,android.permission.GET_ACCOUNTS,android.permission.USE_FINGERPRINT,android.permission.FOREGROUND_SERVICE,com.google.android.c2dm.permission.RECEIVE,com.skt.tjuniorparents.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,android.permission.ACCESS_ADSERVICES_AD_ID",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 131,
+  "count_service": 22,
+  "count_receiver": 16,
+  "count_provider": 4,
+  "count_exported": 11
+}

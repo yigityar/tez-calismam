@@ -1,0 +1,12 @@
+{
+  "apk_file": "3FCE85C9734B31F1B77F84E97129F4046D3A8AE4FF6368F616DD8DE9DA23D034.apk",
+  "sha256": "3fce85c9734b31f1b77f84e97129f4046d3a8ae4ff6368f616dd8de9da23d034",
+  "package_name": "12",
+  "version_code": "2023320126",
+  "version_name": "3.9.6.450",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 77488,
+  "dex_count": 7,
+  "native_lib_count": 83
+}

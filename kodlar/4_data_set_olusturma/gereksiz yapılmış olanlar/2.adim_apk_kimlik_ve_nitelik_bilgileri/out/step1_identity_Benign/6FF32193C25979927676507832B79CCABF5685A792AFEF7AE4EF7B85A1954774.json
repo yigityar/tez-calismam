@@ -1,0 +1,12 @@
+{
+  "apk_file": "6FF32193C25979927676507832B79CCABF5685A792AFEF7AE4EF7B85A1954774.apk",
+  "sha256": "6ff32193c25979927676507832b79ccabf5685a792afef7ae4ef7b85a1954774",
+  "package_name": "9",
+  "version_code": "135200782",
+  "version_name": "8.15.0.14",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 179220,
+  "dex_count": 21,
+  "native_lib_count": 65
+}

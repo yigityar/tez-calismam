@@ -1,0 +1,12 @@
+{
+  "apk_file": "AF7EB3F3075E61B0A19D046A19CFD453E9994EC4D5FC2B80E08240E9B9AC9561.apk",
+  "sha256": "af7eb3f3075e61b0a19d046a19cfd453e9994ec4d5fc2b80e08240e9b9ac9561",
+  "package_name": "10",
+  "version_code": "20220930",
+  "version_name": "7.6.28",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 46792,
+  "dex_count": 1,
+  "native_lib_count": 32
+}

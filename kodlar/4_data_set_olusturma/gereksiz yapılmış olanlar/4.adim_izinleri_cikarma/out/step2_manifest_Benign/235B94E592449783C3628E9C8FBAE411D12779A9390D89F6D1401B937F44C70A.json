@@ -1,0 +1,16 @@
+{
+  "apk_file": "235B94E592449783C3628E9C8FBAE411D12779A9390D89F6D1401B937F44C70A.apk",
+  "permissions_list": "android.permission.READ_SMS,com.huawei.android.launcher.permission.CHANGE_BADGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.INTERNET,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.VIBRATE,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.READ_PHONE_STATE,android.permission.READ_CONTACTS,android.permission.WRITE_CONTACTS,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.CHANGE_NETWORK_STATE,android.permission.NFC,org.simalliance.openmobileapi.SMARTCARD,android.permission.RECORD_AUDIO,android.permission.FLASHLIGHT,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.FOREGROUND_SERVICE,android.permission.WAKE_LOCK,android.permission.GET_TASKS,vz.com.openadsdk.permission.TT_PANGOLIN,android.permission.CAMERA,android.permission.RECEIVE_USER_PRESENT,android.permission.USE_FULL_SCREEN_INTENT,android.permission.SYSTEM_ALERT_WINDOW,android.permission.SYSTEM_OVERLAY_WINDOW,com.feeyo.vz.permission.m7.chat.kefu,android.permission.RECEIVE_BOOT_COMPLETED,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,android.permission.QUERY_ALL_PACKAGES,android.permission.SCHEDULE_EXACT_ALARM,getui.permission.GetuiService.vz.com,vz.com.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.meizu.flyme.push.permission.RECEIVE,com.meizu.c2dm.permission.RECEIVE,vz.com.push.permission.MESSAGE,vz.com.permission.C2D_MESSAGE,vz.com.permission.PROCESS_PUSH_MSG,vz.com.permission.PUSH_PROVIDER,com.meizu.flyme.permission.PUSH,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 1,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 479,
+  "count_service": 37,
+  "count_receiver": 24,
+  "count_provider": 18,
+  "count_exported": 6
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "6696A6675C2DEE6D1E56CF1B881A3A3B9A5FCEEE01050F7FC715938A13C59FD7.apk",
+  "sha256": "6696a6675c2dee6d1e56cf1b881a3a3b9a5fceee01050f7fc715938a13c59fd7",
+  "package_name": "14",
+  "version_code": "20",
+  "version_name": "1.45",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "apk_size_kb": 26008,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

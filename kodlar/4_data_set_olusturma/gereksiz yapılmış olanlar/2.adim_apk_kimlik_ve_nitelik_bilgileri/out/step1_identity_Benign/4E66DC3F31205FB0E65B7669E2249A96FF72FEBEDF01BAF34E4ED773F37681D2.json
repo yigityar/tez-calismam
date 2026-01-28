@@ -1,0 +1,12 @@
+{
+  "apk_file": "4E66DC3F31205FB0E65B7669E2249A96FF72FEBEDF01BAF34E4ED773F37681D2.apk",
+  "sha256": "4e66dc3f31205fb0e65b7669e2249a96ff72febedf01baf34e4ed773f37681d2",
+  "package_name": "12",
+  "version_code": "272",
+  "version_name": "2.6.4",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 100372,
+  "dex_count": 3,
+  "native_lib_count": 20
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "9F55952DDB415CFD60A68F4D176A142983460E8CD92B8DE5354A00EF9A921AE2.apk",
+  "sha256": "9f55952ddb415cfd60a68f4d176a142983460e8cd92b8de5354a00ef9a921ae2",
+  "package_name": "6.0-2438415",
+  "version_code": "160",
+  "version_name": "3.0.5",
+  "min_sdk": "19",
+  "target_sdk": "28",
+  "apk_size_kb": 20916,
+  "dex_count": 3,
+  "native_lib_count": 12
+}

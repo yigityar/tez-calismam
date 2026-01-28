@@ -1,0 +1,12 @@
+{
+  "apk_file": "C59342BF78A5D437CC611FC37621B38A83BB1559411DBE50ECE287EF97E4B663.apk",
+  "sha256": "c59342bf78a5d437cc611fc37621b38a83bb1559411dbe50ece287ef97e4b663",
+  "package_name": "14",
+  "version_code": "112",
+  "version_name": "7.1.1",
+  "min_sdk": "23",
+  "target_sdk": "34",
+  "apk_size_kb": 88848,
+  "dex_count": 4,
+  "native_lib_count": 95
+}

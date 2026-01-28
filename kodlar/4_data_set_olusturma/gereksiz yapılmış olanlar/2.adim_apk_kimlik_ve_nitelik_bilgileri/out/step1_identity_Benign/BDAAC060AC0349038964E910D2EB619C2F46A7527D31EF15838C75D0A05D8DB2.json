@@ -1,0 +1,12 @@
+{
+  "apk_file": "BDAAC060AC0349038964E910D2EB619C2F46A7527D31EF15838C75D0A05D8DB2.apk",
+  "sha256": "bdaac060ac0349038964e910d2eb619c2f46a7527d31ef15838c75d0a05d8db2",
+  "package_name": "12",
+  "version_code": "7555",
+  "version_name": "2022.41.0",
+  "min_sdk": "24",
+  "target_sdk": "31",
+  "apk_size_kb": 145200,
+  "dex_count": 12,
+  "native_lib_count": 142
+}

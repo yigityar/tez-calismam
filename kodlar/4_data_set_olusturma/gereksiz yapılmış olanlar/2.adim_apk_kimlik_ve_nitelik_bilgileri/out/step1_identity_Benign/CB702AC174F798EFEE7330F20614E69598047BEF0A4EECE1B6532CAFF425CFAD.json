@@ -1,0 +1,12 @@
+{
+  "apk_file": "CB702AC174F798EFEE7330F20614E69598047BEF0A4EECE1B6532CAFF425CFAD.apk",
+  "sha256": "cb702ac174f798efee7330f20614e69598047bef0a4eece1b6532caff425cfad",
+  "package_name": "12",
+  "version_code": "1000015275",
+  "version_name": "1.5.75",
+  "min_sdk": "26",
+  "target_sdk": "31",
+  "apk_size_kb": 103248,
+  "dex_count": 2,
+  "native_lib_count": 38
+}

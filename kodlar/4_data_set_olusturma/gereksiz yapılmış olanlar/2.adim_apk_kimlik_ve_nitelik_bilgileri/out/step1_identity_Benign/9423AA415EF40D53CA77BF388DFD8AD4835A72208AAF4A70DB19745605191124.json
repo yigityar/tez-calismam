@@ -1,0 +1,12 @@
+{
+  "apk_file": "9423AA415EF40D53CA77BF388DFD8AD4835A72208AAF4A70DB19745605191124.apk",
+  "sha256": "9423aa415ef40d53ca77bf388dfd8ad4835a72208aaf4a70db19745605191124",
+  "package_name": "12",
+  "version_code": "11310",
+  "version_name": "11.31.0",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 105856,
+  "dex_count": 1,
+  "native_lib_count": 80
+}

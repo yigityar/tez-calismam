@@ -1,0 +1,12 @@
+{
+  "apk_file": "E1152F20EAF478F3C95CC670AFD8B218BB7D65255FF83105F55148E8E9733854.apk",
+  "sha256": "e1152f20eaf478f3c95cc670afd8b218bb7d65255ff83105f55148e8e9733854",
+  "package_name": "13",
+  "version_code": "558",
+  "version_name": "3.12.8",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 81908,
+  "dex_count": 6,
+  "native_lib_count": 124
+}

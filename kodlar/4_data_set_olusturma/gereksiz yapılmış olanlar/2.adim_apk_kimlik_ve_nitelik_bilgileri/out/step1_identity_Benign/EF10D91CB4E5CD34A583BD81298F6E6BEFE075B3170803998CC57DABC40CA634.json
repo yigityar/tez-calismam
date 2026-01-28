@@ -1,0 +1,12 @@
+{
+  "apk_file": "EF10D91CB4E5CD34A583BD81298F6E6BEFE075B3170803998CC57DABC40CA634.apk",
+  "sha256": "ef10d91cb4e5cd34a583bd81298f6e6befe075b3170803998cc57dabc40ca634",
+  "package_name": "10",
+  "version_code": "58760",
+  "version_name": "5.87.60",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 118220,
+  "dex_count": 9,
+  "native_lib_count": 85
+}

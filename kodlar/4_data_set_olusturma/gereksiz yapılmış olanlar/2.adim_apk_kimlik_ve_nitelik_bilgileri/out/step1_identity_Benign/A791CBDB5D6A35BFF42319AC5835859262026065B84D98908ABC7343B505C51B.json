@@ -1,0 +1,12 @@
+{
+  "apk_file": "A791CBDB5D6A35BFF42319AC5835859262026065B84D98908ABC7343B505C51B.apk",
+  "sha256": "a791cbdb5d6a35bff42319ac5835859262026065b84d98908abc7343b505c51b",
+  "package_name": "llbt.ccb.lnga",
+  "version_code": "4006",
+  "version_name": "V4.0.6",
+  "min_sdk": "21",
+  "target_sdk": "27",
+  "apk_size_kb": 96712,
+  "dex_count": 2,
+  "native_lib_count": 101
+}

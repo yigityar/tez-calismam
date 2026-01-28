@@ -1,0 +1,12 @@
+{
+  "apk_file": "D5CBB337C8944616DB11190B1CB1E4A0D08282DFC1CC1B8BCD96A86CDE551634.apk",
+  "sha256": "d5cbb337c8944616db11190b1cb1e4a0d08282dfc1cc1b8bcd96a86cde551634",
+  "package_name": "11",
+  "version_code": "5012",
+  "version_name": "5.0.12",
+  "min_sdk": "28",
+  "target_sdk": "33",
+  "apk_size_kb": 9040,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

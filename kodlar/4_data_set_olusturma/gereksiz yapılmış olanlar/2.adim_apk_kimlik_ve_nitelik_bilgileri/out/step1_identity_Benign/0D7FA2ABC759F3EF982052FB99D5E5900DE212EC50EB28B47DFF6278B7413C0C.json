@@ -1,0 +1,12 @@
+{
+  "apk_file": "0D7FA2ABC759F3EF982052FB99D5E5900DE212EC50EB28B47DFF6278B7413C0C.apk",
+  "sha256": "0d7fa2abc759f3ef982052fb99d5e5900de212ec50eb28b47dff6278b7413c0c",
+  "package_name": "11",
+  "version_code": "204",
+  "version_name": "6.3.0",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 84468,
+  "dex_count": 1,
+  "native_lib_count": 36
+}

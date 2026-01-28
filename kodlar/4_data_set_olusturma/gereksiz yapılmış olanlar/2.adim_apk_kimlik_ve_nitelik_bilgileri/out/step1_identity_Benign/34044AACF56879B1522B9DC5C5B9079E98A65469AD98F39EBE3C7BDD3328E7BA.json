@@ -1,0 +1,12 @@
+{
+  "apk_file": "34044AACF56879B1522B9DC5C5B9079E98A65469AD98F39EBE3C7BDD3328E7BA.apk",
+  "sha256": "34044aacf56879b1522b9dc5c5b9079e98a65469ad98f39ebe3c7bdd3328e7ba",
+  "package_name": "6.0-2438415",
+  "version_code": "407",
+  "version_name": "9.6.9",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 192580,
+  "dex_count": 6,
+  "native_lib_count": 35
+}

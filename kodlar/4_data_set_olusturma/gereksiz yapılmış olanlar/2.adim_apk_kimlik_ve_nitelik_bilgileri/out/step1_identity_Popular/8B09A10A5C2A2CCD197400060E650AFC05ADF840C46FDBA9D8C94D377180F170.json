@@ -1,0 +1,12 @@
+{
+  "apk_file": "8B09A10A5C2A2CCD197400060E650AFC05ADF840C46FDBA9D8C94D377180F170.apk",
+  "sha256": "8b09a10a5c2a2ccd197400060e650afc05adf840c46fdba9d8c94d377180f170",
+  "package_name": "com.spotify.music",
+  "version_code": "14682711",
+  "version_name": "6.3.0.882",
+  "min_sdk": "15",
+  "target_sdk": "23",
+  "apk_size_kb": 31804,
+  "dex_count": 2,
+  "native_lib_count": 3
+}

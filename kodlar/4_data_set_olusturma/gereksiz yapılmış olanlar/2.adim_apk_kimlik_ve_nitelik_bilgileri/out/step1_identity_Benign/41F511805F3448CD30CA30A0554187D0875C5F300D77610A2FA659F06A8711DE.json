@@ -1,0 +1,12 @@
+{
+  "apk_file": "41F511805F3448CD30CA30A0554187D0875C5F300D77610A2FA659F06A8711DE.apk",
+  "sha256": "41f511805f3448cd30ca30a0554187d0875c5f300d77610a2fa659f06a8711de",
+  "package_name": "13",
+  "version_code": "117597",
+  "version_name": "1.5.17",
+  "min_sdk": "24",
+  "target_sdk": "33",
+  "apk_size_kb": 66880,
+  "dex_count": 1,
+  "native_lib_count": 20
+}

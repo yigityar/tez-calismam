@@ -1,0 +1,12 @@
+{
+  "apk_file": "CC3E6AF558FEC503AECA7ABB6395E6F6556B138B82FAF43D09272369E884B400.apk",
+  "sha256": "cc3e6af558fec503aeca7abb6395e6f6556b138b82faf43d09272369e884b400",
+  "package_name": "11",
+  "version_code": "400312",
+  "version_name": "3.1.4",
+  "min_sdk": "23",
+  "target_sdk": "30",
+  "apk_size_kb": 71316,
+  "dex_count": 1,
+  "native_lib_count": 9
+}

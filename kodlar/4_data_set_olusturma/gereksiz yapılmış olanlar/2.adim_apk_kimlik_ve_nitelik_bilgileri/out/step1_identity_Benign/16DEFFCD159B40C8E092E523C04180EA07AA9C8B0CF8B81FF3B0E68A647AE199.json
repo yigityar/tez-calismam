@@ -1,0 +1,12 @@
+{
+  "apk_file": "16DEFFCD159B40C8E092E523C04180EA07AA9C8B0CF8B81FF3B0E68A647AE199.apk",
+  "sha256": "16deffcd159b40c8e092e523c04180ea07aa9c8b0cf8b81ff3b0e68a647ae199",
+  "package_name": "11",
+  "version_code": "12369",
+  "version_name": "5.8.0.12369",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 8556,
+  "dex_count": 1,
+  "native_lib_count": 4
+}

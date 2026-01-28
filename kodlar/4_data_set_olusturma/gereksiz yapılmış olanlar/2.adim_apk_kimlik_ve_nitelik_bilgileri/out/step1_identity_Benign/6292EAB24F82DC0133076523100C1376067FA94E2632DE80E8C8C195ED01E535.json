@@ -1,0 +1,12 @@
+{
+  "apk_file": "6292EAB24F82DC0133076523100C1376067FA94E2632DE80E8C8C195ED01E535.apk",
+  "sha256": "6292eab24f82dc0133076523100c1376067fa94e2632de80e8c8c195ed01e535",
+  "package_name": "10",
+  "version_code": "58300",
+  "version_name": "5.83.0",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 115440,
+  "dex_count": 9,
+  "native_lib_count": 85
+}

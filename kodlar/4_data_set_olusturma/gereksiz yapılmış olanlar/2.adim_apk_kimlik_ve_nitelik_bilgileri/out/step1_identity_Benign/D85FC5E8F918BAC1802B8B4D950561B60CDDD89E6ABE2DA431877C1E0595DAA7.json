@@ -1,0 +1,12 @@
+{
+  "apk_file": "D85FC5E8F918BAC1802B8B4D950561B60CDDD89E6ABE2DA431877C1E0595DAA7.apk",
+  "sha256": "d85fc5e8f918bac1802b8b4d950561b60cddd89e6abe2da431877c1e0595daa7",
+  "package_name": "14",
+  "version_code": "4040504",
+  "version_name": "4.4.5",
+  "min_sdk": "24",
+  "target_sdk": "34",
+  "apk_size_kb": 30232,
+  "dex_count": 4,
+  "native_lib_count": 33
+}

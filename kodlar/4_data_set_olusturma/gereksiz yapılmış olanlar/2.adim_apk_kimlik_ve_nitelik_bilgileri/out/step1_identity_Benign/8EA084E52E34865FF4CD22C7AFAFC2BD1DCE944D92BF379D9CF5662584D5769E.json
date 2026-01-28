@@ -1,0 +1,12 @@
+{
+  "apk_file": "8EA084E52E34865FF4CD22C7AFAFC2BD1DCE944D92BF379D9CF5662584D5769E.apk",
+  "sha256": "8ea084e52e34865ff4cd22c7afafc2bd1dce944d92bf379d9cf5662584d5769e",
+  "package_name": "9",
+  "version_code": "5326",
+  "version_name": "5.3.2.6",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 131144,
+  "dex_count": 2,
+  "native_lib_count": 161
+}

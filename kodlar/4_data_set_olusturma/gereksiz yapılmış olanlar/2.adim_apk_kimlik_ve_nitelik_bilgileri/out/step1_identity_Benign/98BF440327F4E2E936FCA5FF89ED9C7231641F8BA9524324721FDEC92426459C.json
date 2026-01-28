@@ -1,0 +1,12 @@
+{
+  "apk_file": "98BF440327F4E2E936FCA5FF89ED9C7231641F8BA9524324721FDEC92426459C.apk",
+  "sha256": "98bf440327f4e2e936fca5ff89ed9c7231641f8ba9524324721fdec92426459c",
+  "package_name": "10",
+  "version_code": "157",
+  "version_name": "5.2.6",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 103472,
+  "dex_count": 1,
+  "native_lib_count": 71
+}

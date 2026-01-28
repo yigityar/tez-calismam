@@ -1,0 +1,12 @@
+{
+  "apk_file": "F73D67262DD5344AE4733695AD576ACD120DF10411FA32B1C8482487B2160621.apk",
+  "sha256": "f73d67262dd5344ae4733695ad576acd120df10411fa32b1c8482487b2160621",
+  "package_name": "14",
+  "version_code": "202411151",
+  "version_name": "6.11.2.2024.11.15-16.44.25",
+  "min_sdk": "26",
+  "target_sdk": "34",
+  "apk_size_kb": 80592,
+  "dex_count": 2,
+  "native_lib_count": 700
+}

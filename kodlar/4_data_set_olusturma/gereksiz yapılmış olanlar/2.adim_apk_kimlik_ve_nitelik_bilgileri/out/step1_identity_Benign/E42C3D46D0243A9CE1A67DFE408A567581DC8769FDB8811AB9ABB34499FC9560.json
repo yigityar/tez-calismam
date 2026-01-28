@@ -1,0 +1,12 @@
+{
+  "apk_file": "E42C3D46D0243A9CE1A67DFE408A567581DC8769FDB8811AB9ABB34499FC9560.apk",
+  "sha256": "e42c3d46d0243a9ce1a67dfe408a567581dc8769fdb8811ab9abb34499fc9560",
+  "package_name": "10",
+  "version_code": "10180",
+  "version_name": "6.8.1",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 67620,
+  "dex_count": 1,
+  "native_lib_count": 92
+}

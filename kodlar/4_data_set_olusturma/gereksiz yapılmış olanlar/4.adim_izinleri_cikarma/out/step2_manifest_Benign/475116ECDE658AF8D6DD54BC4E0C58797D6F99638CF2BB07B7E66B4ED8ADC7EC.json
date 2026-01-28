@@ -1,0 +1,16 @@
+{
+  "apk_file": "475116ECDE658AF8D6DD54BC4E0C58797D6F99638CF2BB07B7E66B4ED8ADC7EC.apk",
+  "permissions_list": "android.permission.READ_PHONE_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WAKE_LOCK,android.permission.INTERNET,android.permission.READ_CONTACTS,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.USE_FINGERPRINT,android.permission.USE_BIOMETRIC,android.permission.CALL_PHONE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.VIBRATE,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,com.google.android.gms.permission.ACTIVITY_RECOGNITION,android.permission.CAMERA,com.btg.pactual.banking.provider.permission.READ_PROVIDER,com.btg.pactual.digital.provider.permission.READ_PROVIDER,com.btg.pactual.digital.mobile.provider.permission.READ_PROVIDER,com.btg.pactual.eqi.mobile.provider.permission.READ_PROVIDER,com.btg.pactual.necton.mobile.provider.permission.READ_PROVIDER,com.btg.pactual.wealth.mobile.provider.permission.READ_PROVIDER,com.btg.pactual.homebroker.mobile.provider.permission.READ_PROVIDER,com.btg.pactual.homebroker.mobile.eqi.provider.permission.READ_PROVIDER,com.btg.pactual.homebroker.mobile.necton.provider.permission.READ_PROVIDER,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.GET_ACCOUNTS,android.permission.BLUETOOTH,android.permission.RECORD_AUDIO,android.permission.QUERY_ALL_PACKAGES,android.permission.FOREGROUND_SERVICE,com.google.android.gms.permission.AD_ID,android.permission.NFC",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 160,
+  "count_service": 27,
+  "count_receiver": 22,
+  "count_provider": 27,
+  "count_exported": 17
+}

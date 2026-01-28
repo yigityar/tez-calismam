@@ -1,0 +1,12 @@
+{
+  "apk_file": "F5CF0D79BDF1FFB6DB0F82A4B37F87E3B97C79C426DD3AA49A3CB78019234342.apk",
+  "sha256": "f5cf0d79bdf1ffb6db0f82a4b37f87e3b97c79c426dd3aa49a3cb78019234342",
+  "package_name": "12",
+  "version_code": "822",
+  "version_name": "9.11.0",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 77804,
+  "dex_count": 6,
+  "native_lib_count": 32
+}

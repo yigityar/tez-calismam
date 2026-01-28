@@ -1,0 +1,12 @@
+{
+  "apk_file": "CAD1B259DC9A0EB74D1A46EB089FDA4DF47B7438D7A9B7CED07DF3B50CB23292.apk",
+  "sha256": "cad1b259dc9a0eb74d1a46eb089fda4df47b7438d7a9b7ced07df3b50cb23292",
+  "package_name": "13",
+  "version_code": "49",
+  "version_name": "5.9",
+  "min_sdk": "23",
+  "target_sdk": "33",
+  "apk_size_kb": 53716,
+  "dex_count": 1,
+  "native_lib_count": 32
+}

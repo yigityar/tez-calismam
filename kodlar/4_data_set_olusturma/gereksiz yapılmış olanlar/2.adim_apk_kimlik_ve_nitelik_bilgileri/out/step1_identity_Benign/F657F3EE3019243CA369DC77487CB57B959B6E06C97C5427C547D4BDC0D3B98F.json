@@ -1,0 +1,12 @@
+{
+  "apk_file": "F657F3EE3019243CA369DC77487CB57B959B6E06C97C5427C547D4BDC0D3B98F.apk",
+  "sha256": "f657f3ee3019243ca369dc77487cb57b959b6e06c97c5427c547d4bdc0d3b98f",
+  "package_name": "9",
+  "version_code": "113",
+  "version_name": "3.46",
+  "min_sdk": "16",
+  "target_sdk": "30",
+  "apk_size_kb": 21120,
+  "dex_count": 1,
+  "native_lib_count": 0
+}

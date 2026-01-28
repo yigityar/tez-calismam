@@ -1,0 +1,87 @@
+{
+    "apk_name": "D309E4F774975E78F28FD95AE0741291C63B93D682B473F76DF65518E7DF5512",
+    "sha256": "d309e4f774975e78f28fd95ae0741291c63b93d682b473f76df65518e7df5512",
+    "metadata": {
+        "package_name": "ua.rv.sashko.speaknato",
+        "version_code": "37",
+        "version_name": "0.8.1",
+        "min_sdk": "24",
+        "target_sdk": "35",
+        "permissions": [
+            "android.permission.INTERNET",
+            "ua.rv.sashko.speaknato.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "com.example.speaknato.MainActivity"
+        ],
+        "services": [],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver"
+        ],
+        "permission_details": {
+            "android.permission.INTERNET": "normal",
+            "ua.rv.sashko.speaknato.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "normal": 1,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 8.95,
+        "sources_present": true,
+        "java_file_count": 1560
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 3,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 7,
+            "webview_interop": 0,
+            "content_access": 2,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 3,
+            "dynamic_code": 101
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 113
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 0,
+            "handler_loop": 3,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 1
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 100
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "58B103883A6F5E5EBCEB8B207F11600AECCEDB7982019CB1338113C342D00449.apk",
+  "sha256": "58b103883a6f5e5ebceb8b207f11600aeccedb7982019cb1338113c342d00449",
+  "package_name": "12",
+  "version_code": "35",
+  "version_name": "1.17",
+  "min_sdk": "16",
+  "target_sdk": "31",
+  "apk_size_kb": 27292,
+  "dex_count": 1,
+  "native_lib_count": 12
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "6436DAF5647E53957C982C8F196306ECB6A4D428AE21098BE087FBA42F04AF90.apk",
+  "sha256": "6436daf5647e53957c982c8f196306ecb6a4d428ae21098be087fba42f04af90",
+  "package_name": "11",
+  "version_code": "1002",
+  "version_name": "10.2",
+  "min_sdk": "16",
+  "target_sdk": "30",
+  "apk_size_kb": 5448,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "CEDBC1CE062817F407F30A91BFBFF42A95C80840578EFDCA3DA39650EE706848.apk",
+  "sha256": "cedbc1ce062817f407f30a91bfbff42a95c80840578efdca3da39650ee706848",
+  "package_name": "11",
+  "version_code": "210801",
+  "version_name": "21.8.0",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 75228,
+  "dex_count": 16,
+  "native_lib_count": 101
+}

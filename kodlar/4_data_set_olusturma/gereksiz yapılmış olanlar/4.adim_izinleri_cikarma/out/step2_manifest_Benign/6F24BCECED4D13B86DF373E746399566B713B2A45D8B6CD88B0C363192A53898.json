@@ -1,0 +1,16 @@
+{
+  "apk_file": "6F24BCECED4D13B86DF373E746399566B713B2A45D8B6CD88B0C363192A53898.apk",
+  "permissions_list": "android.permission.INTERNET,com.android.vending.BILLING,android.permission.READ_PHONE_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.WAKE_LOCK,android.permission.DISABLE_KEYGUARD,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 7,
+  "count_service": 3,
+  "count_receiver": 1,
+  "count_provider": 5,
+  "count_exported": 1
+}

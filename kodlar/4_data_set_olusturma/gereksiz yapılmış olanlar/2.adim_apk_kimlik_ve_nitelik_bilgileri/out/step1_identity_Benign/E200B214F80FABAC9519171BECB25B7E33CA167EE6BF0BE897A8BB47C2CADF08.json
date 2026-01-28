@@ -1,0 +1,12 @@
+{
+  "apk_file": "E200B214F80FABAC9519171BECB25B7E33CA167EE6BF0BE897A8BB47C2CADF08.apk",
+  "sha256": "e200b214f80fabac9519171becb25b7e33ca167ee6bf0be897a8bb47c2cadf08",
+  "package_name": "12",
+  "version_code": "20220610",
+  "version_name": "9.18.1",
+  "min_sdk": "23",
+  "target_sdk": "28",
+  "apk_size_kb": 139560,
+  "dex_count": 5,
+  "native_lib_count": 66
+}

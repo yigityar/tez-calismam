@@ -1,0 +1,12 @@
+{
+  "apk_file": "4F9182669E221F8317624065BF5683113AFF7DB22F82386DE0D6F0BE4CCB3214.apk",
+  "sha256": "4f9182669e221f8317624065bf5683113aff7db22f82386de0d6f0be4ccb3214",
+  "package_name": "12",
+  "version_code": "362",
+  "version_name": "3.6.2",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 79440,
+  "dex_count": 2,
+  "native_lib_count": 32
+}

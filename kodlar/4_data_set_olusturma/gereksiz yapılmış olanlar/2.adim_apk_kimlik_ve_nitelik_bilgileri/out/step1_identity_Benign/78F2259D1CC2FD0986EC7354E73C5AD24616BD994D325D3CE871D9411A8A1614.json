@@ -1,0 +1,12 @@
+{
+  "apk_file": "78F2259D1CC2FD0986EC7354E73C5AD24616BD994D325D3CE871D9411A8A1614.apk",
+  "sha256": "78f2259d1cc2fd0986ec7354e73c5ad24616bd994d325d3ce871d9411a8a1614",
+  "package_name": "12",
+  "version_code": "6870",
+  "version_name": "6.8.70",
+  "min_sdk": "21",
+  "target_sdk": "26",
+  "apk_size_kb": 49640,
+  "dex_count": 7,
+  "native_lib_count": 38
+}

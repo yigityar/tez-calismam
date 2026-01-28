@@ -1,0 +1,12 @@
+{
+  "apk_file": "12055631DC6205A266B820C01E2BE48006A7A4563FB9FC23FE0408288D9443C7.apk",
+  "sha256": "12055631dc6205a266b820c01e2be48006a7a4563fb9fc23fe0408288d9443c7",
+  "package_name": "12",
+  "version_code": "10702",
+  "version_name": "107.02",
+  "min_sdk": "24",
+  "target_sdk": "31",
+  "apk_size_kb": 75012,
+  "dex_count": 6,
+  "native_lib_count": 52
+}

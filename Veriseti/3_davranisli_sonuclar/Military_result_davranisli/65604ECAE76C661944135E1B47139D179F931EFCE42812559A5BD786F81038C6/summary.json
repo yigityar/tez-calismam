@@ -1,0 +1,130 @@
+{
+    "apk_name": "65604ECAE76C661944135E1B47139D179F931EFCE42812559A5BD786F81038C6",
+    "sha256": "65604ecae76c661944135e1b47139d179f931efce42812559a5bd786f81038c6",
+    "metadata": {
+        "package_name": "com.appfrancois.PhoneticAlphabet",
+        "version_code": "50401",
+        "version_name": "5.4.0",
+        "min_sdk": "23",
+        "target_sdk": "35",
+        "permissions": [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            "android.permission.ACCESS_ADSERVICES_TOPICS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.BILLING",
+            "com.appfrancois.PhoneticAlphabet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.android.billingclient.api.ProxyBillingActivityV2",
+            "com.appfrancois.PhoneticAlphabet.MainActivity",
+            "com.capacitorjs.plugins.browser.BrowserControllerActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.NotificationHandlerActivity",
+            "com.google.android.gms.ads.OutOfContextTestingActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.ads.AdService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_ADSERVICES_AD_ID": "unknown",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION": "unknown",
+            "android.permission.ACCESS_ADSERVICES_TOPICS": "unknown",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.android.vending.BILLING": "unknown",
+            "com.appfrancois.PhoneticAlphabet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "unknown": 6,
+            "normal": 5
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 75.45,
+        "sources_present": true,
+        "java_file_count": 10724
+    },
+    "ast_analysis": {
+        "location": 10,
+        "microphone": 0,
+        "camera": 21,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 17,
+            "content_access": 6,
+            "audio_control": 0,
+            "vibration": 2,
+            "network_io": 5,
+            "scheduling_apis": 33,
+            "dynamic_code": 292
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 358
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 24,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 4,
+            "reflection": 291
+        }
+    }
+}

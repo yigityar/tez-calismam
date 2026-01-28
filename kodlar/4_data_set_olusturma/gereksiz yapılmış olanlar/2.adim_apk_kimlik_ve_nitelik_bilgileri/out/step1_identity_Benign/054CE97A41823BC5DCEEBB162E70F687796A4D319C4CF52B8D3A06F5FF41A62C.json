@@ -1,0 +1,12 @@
+{
+  "apk_file": "054CE97A41823BC5DCEEBB162E70F687796A4D319C4CF52B8D3A06F5FF41A62C.apk",
+  "sha256": "054ce97a41823bc5dceebb162e70f687796a4d319c4cf52b8d3a06f5ff41a62c",
+  "package_name": "13",
+  "version_code": "10097",
+  "version_name": "6.9.4",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 60724,
+  "dex_count": 7,
+  "native_lib_count": 33
+}

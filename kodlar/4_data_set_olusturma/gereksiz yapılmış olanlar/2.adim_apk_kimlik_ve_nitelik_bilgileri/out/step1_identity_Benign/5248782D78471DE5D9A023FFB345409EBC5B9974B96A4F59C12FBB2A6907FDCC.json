@@ -1,0 +1,12 @@
+{
+  "apk_file": "5248782D78471DE5D9A023FFB345409EBC5B9974B96A4F59C12FBB2A6907FDCC.apk",
+  "sha256": "5248782d78471de5d9a023ffb345409ebc5b9974b96a4f59c12fbb2a6907fdcc",
+  "package_name": "11",
+  "version_code": "95",
+  "version_name": "3.5.2",
+  "min_sdk": "23",
+  "target_sdk": "29",
+  "apk_size_kb": 67748,
+  "dex_count": 1,
+  "native_lib_count": 38
+}

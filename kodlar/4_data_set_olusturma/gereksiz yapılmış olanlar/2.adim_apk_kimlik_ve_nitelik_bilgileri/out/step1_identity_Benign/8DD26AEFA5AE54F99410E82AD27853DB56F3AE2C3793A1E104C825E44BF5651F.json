@@ -1,0 +1,12 @@
+{
+  "apk_file": "8DD26AEFA5AE54F99410E82AD27853DB56F3AE2C3793A1E104C825E44BF5651F.apk",
+  "sha256": "8dd26aefa5ae54f99410e82ad27853db56f3ae2c3793a1e104c825e44bf5651f",
+  "package_name": "6.0-2438415",
+  "version_code": "2637",
+  "version_name": "6.9.3",
+  "min_sdk": "22",
+  "target_sdk": "28",
+  "apk_size_kb": 11244,
+  "dex_count": 2,
+  "native_lib_count": 11
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "ADFF23E288E1CAEDCF6D89C3F00172C8103723FC2F7CBA48B7002A0FB3A2F771.apk",
+  "permissions_list": "android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.CAMERA,android.permission.RECORD_AUDIO,android.permission.RECORD_VIDEO,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.READ_PHONE_STATE,android.permission.READ_EXTERNAL_STORAGE,android.permission.REORDER_TASKS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.WAKE_LOCK,android.permission.INTERNET,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.VIBRATE,android.permission.FLASHLIGHT,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.GET_TASKS,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.WRITE_SYNC_SETTINGS,android.permission.READ_SYNC_SETTINGS,android.permission.RECEIVE_USER_PRESENT,android.permission.SYSTEM_ALERT_WINDOW,android.permission.WRITE_SETTINGS,android.permission.READ_LOGS,android.permission.CHANGE_CONFIGURATION,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.FOREGROUND_SERVICE,android.permission.REQUEST_INSTALL_PACKAGES,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,com.huajiao.permission.MIPUSH_RECEIVE,com.huajiao.permission.LDSDK_MESSAGE,com.huajiao.permission.QDAS_MESSAGE,com.asus.msa.SupplementaryDID.ACCESS,android.permission.USE_CREDENTIALS,android.permission.MANAGE_ACCOUNTS,com.android.launcher.permission.READ_SETTINGS,android.permission.BIND_JOB_SERVICE,android.permission.ACCESS_NOTIFICATION_POLICY,com.huajiao.permission.PROCESS_PUSH_MSG,com.huajiao.permission.PUSH_PROVIDER,freemme.permission.msa",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 309,
+  "count_service": 27,
+  "count_receiver": 9,
+  "count_provider": 13,
+  "count_exported": 18
+}

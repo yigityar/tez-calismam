@@ -1,0 +1,12 @@
+{
+  "apk_file": "FB59286A3A54C70C31160C3D6A3C603BF6B078CAAC965FD6C15E24F901C74A7E.apk",
+  "sha256": "fb59286a3a54c70c31160c3d6a3c603bf6b078caac965fd6c15e24f901c74a7e",
+  "package_name": "14",
+  "version_code": "68",
+  "version_name": "2.0.17",
+  "min_sdk": "24",
+  "target_sdk": "34",
+  "apk_size_kb": 79132,
+  "dex_count": 2,
+  "native_lib_count": 767
+}

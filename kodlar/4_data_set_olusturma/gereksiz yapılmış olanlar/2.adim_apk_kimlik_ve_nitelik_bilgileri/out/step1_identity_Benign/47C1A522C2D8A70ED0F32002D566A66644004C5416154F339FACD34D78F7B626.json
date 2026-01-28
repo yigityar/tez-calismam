@@ -1,0 +1,12 @@
+{
+  "apk_file": "47C1A522C2D8A70ED0F32002D566A66644004C5416154F339FACD34D78F7B626.apk",
+  "sha256": "47c1a522c2d8a70ed0f32002d566a66644004c5416154f339facd34d78f7b626",
+  "package_name": "9",
+  "version_code": "2555",
+  "version_name": "8.36.1",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 67676,
+  "dex_count": 12,
+  "native_lib_count": 35
+}

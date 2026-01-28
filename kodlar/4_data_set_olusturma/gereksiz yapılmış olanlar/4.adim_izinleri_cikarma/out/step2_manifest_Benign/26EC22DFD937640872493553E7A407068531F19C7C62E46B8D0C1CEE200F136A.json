@@ -1,0 +1,16 @@
+{
+  "apk_file": "26EC22DFD937640872493553E7A407068531F19C7C62E46B8D0C1CEE200F136A.apk",
+  "permissions_list": "android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.NFC,org.simalliance.openmobileapi.SMARTCARD,com.china3s.android.permission.JPUSH_MESSAGE,com.android.launcher.permission.READ_SETTINGS,android.permission.FOREGROUND_SERVICE,android.permission.INTERNET,android.permission.READ_PHONE_STATE,android.permission.READ_CONTACTS,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.CHANGE_NETWORK_STATE,android.permission.CAMERA,android.permission.READ_LOGS,android.permission.WAKE_LOCK,android.permission.WRITE_SETTINGS,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.FLASHLIGHT,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.SYSTEM_ALERT_WINDOW,android.permission.RECEIVE_USER_PRESENT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.china3s.android.permission.MIPUSH_RECEIVE,android.permission.VIBRATE,android.permission.GET_TASKS,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.FOREGROUND_SERVICE,android.permission.GET_ACCOUNTS,android.permission.AUTHENTICATE_ACCOUNTS,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,com.vivo.notification.permission.BADGE_ICON,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.QUERY_ALL_PACKAGES,com.china3s.android.permission.PROCESS_PUSH_MSG,com.china3s.android.permission.PUSH_PROVIDER,com.meizu.flyme.permission.PUSH,com.meizu.flyme.push.permission.RECEIVE,com.china3s.android.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.china3s.android.permission.C2D_MESSAGE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 299,
+  "count_service": 18,
+  "count_receiver": 14,
+  "count_provider": 12,
+  "count_exported": 26
+}

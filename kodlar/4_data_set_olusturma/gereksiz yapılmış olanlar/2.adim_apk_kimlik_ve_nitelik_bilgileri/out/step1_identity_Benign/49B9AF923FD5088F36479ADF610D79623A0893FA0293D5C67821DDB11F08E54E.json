@@ -1,0 +1,12 @@
+{
+  "apk_file": "49B9AF923FD5088F36479ADF610D79623A0893FA0293D5C67821DDB11F08E54E.apk",
+  "sha256": "49b9af923fd5088f36479adf610d79623a0893fa0293d5c67821ddb11f08e54e",
+  "package_name": "13",
+  "version_code": "10244",
+  "version_name": "10244.0",
+  "min_sdk": "23",
+  "target_sdk": "33",
+  "apk_size_kb": 28872,
+  "dex_count": 2,
+  "native_lib_count": 14
+}

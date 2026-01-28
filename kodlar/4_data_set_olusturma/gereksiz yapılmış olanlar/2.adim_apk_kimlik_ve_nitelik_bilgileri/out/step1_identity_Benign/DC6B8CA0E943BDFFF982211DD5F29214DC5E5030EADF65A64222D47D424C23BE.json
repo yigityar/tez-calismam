@@ -1,0 +1,12 @@
+{
+  "apk_file": "DC6B8CA0E943BDFFF982211DD5F29214DC5E5030EADF65A64222D47D424C23BE.apk",
+  "sha256": "dc6b8ca0e943bdfff982211dd5f29214dc5e5030eadf65a64222d47d424c23be",
+  "package_name": "12",
+  "version_code": "230120",
+  "version_name": "230120",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 54676,
+  "dex_count": 2,
+  "native_lib_count": 14
+}

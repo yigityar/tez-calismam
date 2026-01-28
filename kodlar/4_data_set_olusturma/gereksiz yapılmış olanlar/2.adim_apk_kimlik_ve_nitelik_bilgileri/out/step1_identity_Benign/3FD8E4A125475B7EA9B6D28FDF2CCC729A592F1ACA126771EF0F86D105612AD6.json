@@ -1,0 +1,12 @@
+{
+  "apk_file": "3FD8E4A125475B7EA9B6D28FDF2CCC729A592F1ACA126771EF0F86D105612AD6.apk",
+  "sha256": "3fd8e4a125475b7ea9b6d28fdf2ccc729a592f1aca126771ef0f86d105612ad6",
+  "package_name": "12",
+  "version_code": "116",
+  "version_name": "2.3.1",
+  "min_sdk": "23",
+  "target_sdk": "31",
+  "apk_size_kb": 58080,
+  "dex_count": 1,
+  "native_lib_count": 18
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "AED61CE25192A1AAB47FE0950B4015BA3C6237BA8C8FD8857C38DCA2EB79B231.apk",
+  "sha256": "aed61ce25192a1aab47fe0950b4015ba3c6237ba8c8fd8857c38dca2eb79b231",
+  "package_name": "11",
+  "version_code": "4560",
+  "version_name": "10.9.21.4560",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 51964,
+  "dex_count": 9,
+  "native_lib_count": 58
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "17CA94DCA08E85D74FA1A4D0607ABCE5AA44C343E8086A1E09018CF29E658726.apk",
+  "permissions_list": "android.permission.FOREGROUND_SERVICE,android.permission.POST_NOTIFICATIONS,android.permission.BODY_SENSORS,android.permission.ACTIVITY_RECOGNITION,android.permission.ACCESS_NETWORK_STATE,android.permission.health.READ_WEIGHT,android.permission.health.WRITE_WEIGHT,android.permission.health.READ_STEP_COUNT,android.permission.health.WRITE_STEP_COUNT,android.permission.health.READ_STEPS,android.permission.health.READ_HEART_RATE,android.permission.health.WRITE_HEART_RATE,android.permission.health.READ_CALORIES,android.permission.health.WRITE_CALORIES,android.permission.health.READ_BASAL_CALORIES_BURNED,android.permission.health.WRITE_BASAL_CALORIES_BURNED,android.permission.health.READ_ACTIVE_CALORIES_BURNED,android.permission.health.READ_TOTAL_CALORIES_BURNED,android.permission.health.WRITE_TOTAL_CALORIES_BURNED,android.permission.health.READ_BASAL_METABOLIC_RATE,android.permission.health.READ_EXERCISE,android.permission.health.WRITE_EXERCISE,android.permission.health.READ_WORKOUT,android.permission.health.WRITE_WORKOUT,android.permission.health.READ_SLEEP,android.permission.health.WRITE_SLEEP,android.permission.health.READ_BLOOD_OXYGEN,android.permission.health.WRITE_BLOOD_OXYGEN,android.permission.health.READ_WEIGHT,android.permission.health.WRITE_WEIGHT,android.permission.health.READ_HEALTH_DATA,android.permission.health.WRITE_HEALTH_DATA,android.permission.health.READ_HEALTH_DATA_IN_BACKGROUND,com.google.android.gms.permission.ACTIVITY_RECOGNITION,android.permission.INTERNET,android.permission.WAKE_LOCK,com.google.android.gms.permission.AD_ID,android.permission.ACCESS_ADSERVICES_ATTRIBUTION,android.permission.ACCESS_ADSERVICES_AD_ID,com.google.android.c2dm.permission.RECEIVE,com.google.android.providers.gsf.permission.READ_GSERVICES,android.permission.VIBRATE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.android.vending.BILLING,com.militarygradeapps.acftfitness.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.android.vending.CHECK_LICENSE",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 20,
+  "count_service": 12,
+  "count_receiver": 8,
+  "count_provider": 6,
+  "count_exported": 10
+}

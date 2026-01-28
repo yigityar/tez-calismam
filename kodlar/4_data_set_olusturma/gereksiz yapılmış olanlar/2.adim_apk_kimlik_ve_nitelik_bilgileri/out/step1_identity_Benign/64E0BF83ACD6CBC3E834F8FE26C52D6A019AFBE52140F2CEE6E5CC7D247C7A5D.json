@@ -1,0 +1,12 @@
+{
+  "apk_file": "64E0BF83ACD6CBC3E834F8FE26C52D6A019AFBE52140F2CEE6E5CC7D247C7A5D.apk",
+  "sha256": "64e0bf83acd6cbc3e834f8fe26c52d6a019afbe52140f2cee6e5cc7d247c7a5d",
+  "package_name": "13",
+  "version_code": "93",
+  "version_name": "2.61",
+  "min_sdk": "16",
+  "target_sdk": "31",
+  "apk_size_kb": 6668,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

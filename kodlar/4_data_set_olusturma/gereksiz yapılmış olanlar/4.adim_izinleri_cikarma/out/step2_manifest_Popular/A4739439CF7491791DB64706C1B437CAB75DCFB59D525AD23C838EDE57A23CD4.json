@@ -1,0 +1,16 @@
+{
+  "apk_file": "A4739439CF7491791DB64706C1B437CAB75DCFB59D525AD23C838EDE57A23CD4.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.WAKE_LOCK,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.CAMERA,android.permission.VIBRATE,com.google.android.c2dm.permission.RECEIVE,android.permission.NFC,android.permission.ACCESS_FINE_LOCATION,com.ebay.mobile.permission.C2D_MESSAGE,com.ebay.mobile.permission.EBAY_USER_CONFIG,com.ebay.mobile.permission.MAPS_RECEIVE,com.google.android.providers.gsf.permission.READ_GSERVICES,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 142,
+  "count_service": 19,
+  "count_receiver": 6,
+  "count_provider": 3,
+  "count_exported": 2
+}

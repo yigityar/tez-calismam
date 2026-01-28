@@ -1,0 +1,12 @@
+{
+  "apk_file": "3C2BB35B51045B6A3AF41AF31000899EFF82616A5AABA31528533C55AE36BD4D.apk",
+  "sha256": "3c2bb35b51045b6a3af41af31000899eff82616a5aaba31528533c55ae36bd4d",
+  "package_name": "11",
+  "version_code": "456",
+  "version_name": "3.4.5",
+  "min_sdk": "16",
+  "target_sdk": "30",
+  "apk_size_kb": 22304,
+  "dex_count": 1,
+  "native_lib_count": 24
+}

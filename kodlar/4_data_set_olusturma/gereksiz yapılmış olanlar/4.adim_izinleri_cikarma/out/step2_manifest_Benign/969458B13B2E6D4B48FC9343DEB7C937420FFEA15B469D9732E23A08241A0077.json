@@ -1,0 +1,16 @@
+{
+  "apk_file": "969458B13B2E6D4B48FC9343DEB7C937420FFEA15B469D9732E23A08241A0077.apk",
+  "permissions_list": "android.permission.SYSTEM_ALERT_WINDOW,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WAKE_LOCK,android.permission.VIBRATE,android.permission.RECEIVE_USER_PRESENT,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.CHANGE_NETWORK_STATE,android.permission.RECORD_AUDIO,android.permission.CAMERA,android.permission.REQUEST_INSTALL_PACKAGES,org.simalliance.openmobileapi.SMARTCARD,android.permission.MODIFY_AUDIO_SETTINGS,getui.permission.GetuiService.com.melot.meshow,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.meizu.flyme.push.permission.RECEIVE,com.meizu.c2dm.permission.RECEIVE,com.melot.meshow.push.permission.MESSAGE,com.melot.meshow.permission.C2D_MESSAGE,com.melot.meshow.permission.MIPUSH_RECEIVE,com.melot.meshow.permission.PUSH_PROVIDER,com.melot.meshow.permission.PUSH_WRITE_PROVIDER,com.melot.meshow.permission.PROCESS_PUSH_MSG,com.asus.msa.SupplementaryDID.ACCESS",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 281,
+  "count_service": 11,
+  "count_receiver": 9,
+  "count_provider": 3,
+  "count_exported": 16
+}

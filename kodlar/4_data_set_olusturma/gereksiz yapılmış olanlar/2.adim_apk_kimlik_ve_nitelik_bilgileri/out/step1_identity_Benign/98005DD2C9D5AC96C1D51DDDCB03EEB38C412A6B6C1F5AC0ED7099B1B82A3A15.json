@@ -1,0 +1,12 @@
+{
+  "apk_file": "98005DD2C9D5AC96C1D51DDDCB03EEB38C412A6B6C1F5AC0ED7099B1B82A3A15.apk",
+  "sha256": "98005dd2c9d5ac96c1d51dddcb03eeb38c412a6b6c1f5ac0ed7099b1b82a3a15",
+  "package_name": "11",
+  "version_code": "36411002",
+  "version_name": "4.11.0",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 76168,
+  "dex_count": 8,
+  "native_lib_count": 38
+}

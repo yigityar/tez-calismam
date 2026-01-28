@@ -1,0 +1,12 @@
+{
+  "apk_file": "F898021EFA617E4F8CDAEA9E540FB064DBB310FBE6EFB55AE967C9C7422DECD1.apk",
+  "sha256": "f898021efa617e4f8cdaea9e540fb064dbb310fbe6efb55ae967c9c7422decd1",
+  "package_name": "11",
+  "version_code": "37",
+  "version_name": "33.4",
+  "min_sdk": "22",
+  "target_sdk": "30",
+  "apk_size_kb": 31680,
+  "dex_count": 2,
+  "native_lib_count": 30
+}

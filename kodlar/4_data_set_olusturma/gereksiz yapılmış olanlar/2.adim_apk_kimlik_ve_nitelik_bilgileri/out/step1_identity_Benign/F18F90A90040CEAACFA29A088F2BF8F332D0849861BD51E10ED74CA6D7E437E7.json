@@ -1,0 +1,12 @@
+{
+  "apk_file": "F18F90A90040CEAACFA29A088F2BF8F332D0849861BD51E10ED74CA6D7E437E7.apk",
+  "sha256": "f18f90a90040ceaacfa29a088f2bf8f332d0849861bd51e10ed74ca6d7e437e7",
+  "package_name": "14",
+  "version_code": "11228",
+  "version_name": "6.0.3",
+  "min_sdk": "24",
+  "target_sdk": "34",
+  "apk_size_kb": 63292,
+  "dex_count": 2,
+  "native_lib_count": 48
+}

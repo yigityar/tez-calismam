@@ -1,0 +1,12 @@
+{
+  "apk_file": "70F54932F5893032C12AB2FC14D1115F172AAA3FA5267460A748BCF7872971F9.apk",
+  "sha256": "70f54932f5893032c12ab2fc14d1115f172aaa3fa5267460a748bcf7872971f9",
+  "package_name": "11",
+  "version_code": "3050060",
+  "version_name": "3.50.60",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 86628,
+  "dex_count": 1,
+  "native_lib_count": 47
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "FE1499E01EE5FC73AE9CAAE1ED91EED75BBD373CBCE80BBF1F2CF22AF28EEA4C.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.READ_CONTACTS,android.permission.WRITE_CONTACTS,android.permission.GET_ACCOUNTS,android.permission.RECORD_AUDIO,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.WAKE_LOCK,android.permission.FOREGROUND_SERVICE,android.permission.SCHEDULE_EXACT_ALARM,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.POST_NOTIFICATIONS,android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.MANAGE_DOCUMENTS,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_NOTIFICATION_POLICY,android.permission.FOREGROUND_SERVICE_SPECIAL_USE,android.permission.FOREGROUND_SERVICE_LOCATION,android.permission.ACCESS_NETWORK_STATE,android.permission.USE_FULL_SCREEN_INTENT,com.google.android.providers.gsf.permission.READ_GSERVICES,android.permission.BLUETOOTH,com.google.android.c2dm.permission.RECEIVE,com.google.android.gms.permission.AD_ID,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,network.talker.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,android.permission.BLUETOOTH_CONNECT,android.permission.CAMERA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 7,
+  "count_service": 14,
+  "count_receiver": 11,
+  "count_provider": 6,
+  "count_exported": 10
+}

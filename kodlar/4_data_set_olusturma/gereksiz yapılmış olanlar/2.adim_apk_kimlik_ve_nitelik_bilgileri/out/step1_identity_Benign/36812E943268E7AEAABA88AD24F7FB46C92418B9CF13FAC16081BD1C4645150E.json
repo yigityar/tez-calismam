@@ -1,0 +1,12 @@
+{
+  "apk_file": "36812E943268E7AEAABA88AD24F7FB46C92418B9CF13FAC16081BD1C4645150E.apk",
+  "sha256": "36812e943268e7aeaaba88ad24f7fb46c92418b9cf13fac16081bd1c4645150e",
+  "package_name": "12",
+  "version_code": "100",
+  "version_name": "2.15.4",
+  "min_sdk": "16",
+  "target_sdk": "31",
+  "apk_size_kb": 19040,
+  "dex_count": 1,
+  "native_lib_count": 28
+}

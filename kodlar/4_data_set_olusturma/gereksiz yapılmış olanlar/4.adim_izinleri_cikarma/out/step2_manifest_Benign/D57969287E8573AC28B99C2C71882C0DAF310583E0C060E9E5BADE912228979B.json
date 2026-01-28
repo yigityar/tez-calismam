@@ -1,0 +1,16 @@
+{
+  "apk_file": "D57969287E8573AC28B99C2C71882C0DAF310583E0C060E9E5BADE912228979B.apk",
+  "permissions_list": "com.mqunar.atom.jpush.permission.JPUSH_MESSAGE,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.READ_PHONE_STATE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_WIFI_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.GET_TASKS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.VIBRATE,android.permission.READ_CONTACTS,android.permission.RECORD_AUDIO,com.android.launcher.permission.INSTALL_SHORTCUT,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.WRITE_CALENDAR,android.permission.READ_CALENDAR,android.permission.READ_EXTERNAL_STORAGE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.GET_ACCOUNTS,android.permission.USE_CREDENTIALS,android.permission.CAPTURE_AUDIO_OUTPUT,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.WAKE_LOCK,android.permission.NFC,android.permission.BLUETOOTH,android.permission.CHANGE_NETWORK_STATE,android.permission.RECEIVE_USER_PRESENT,qutui.permission.GPushReceiver.com.Qunar,android.permission.GET_PACKAGE_SIZE,android.permission.WRITE_SETTINGS,android.permission.CALL_PHONE,android.permission.SYSTEM_OVERLAY_WINDOW,android.permission.USE_FINGERPRINT,android.permission.ACCESS_COARSE_LOCATION,android.permission.FOREGROUND_SERVICE,com.huawei.android.launcher.permission.CHANGE_BADGE,android.permission.USE_BIOMETRIC,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 437,
+  "count_service": 6,
+  "count_receiver": 5,
+  "count_provider": 8,
+  "count_exported": 17
+}

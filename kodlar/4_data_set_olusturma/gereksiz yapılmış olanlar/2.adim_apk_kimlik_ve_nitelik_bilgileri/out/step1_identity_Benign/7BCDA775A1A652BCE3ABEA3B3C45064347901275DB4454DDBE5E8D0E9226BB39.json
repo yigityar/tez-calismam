@@ -1,0 +1,12 @@
+{
+  "apk_file": "7BCDA775A1A652BCE3ABEA3B3C45064347901275DB4454DDBE5E8D0E9226BB39.apk",
+  "sha256": "7bcda775a1a652bce3abea3b3c45064347901275db4454ddbe5e8d0e9226bb39",
+  "package_name": "13",
+  "version_code": "642",
+  "version_name": "6.42",
+  "min_sdk": "21",
+  "target_sdk": "33",
+  "apk_size_kb": 21428,
+  "dex_count": 2,
+  "native_lib_count": 14
+}

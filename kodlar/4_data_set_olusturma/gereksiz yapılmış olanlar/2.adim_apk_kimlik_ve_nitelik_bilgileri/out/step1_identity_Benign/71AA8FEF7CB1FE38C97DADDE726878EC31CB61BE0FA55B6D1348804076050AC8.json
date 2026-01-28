@@ -1,0 +1,12 @@
+{
+  "apk_file": "71AA8FEF7CB1FE38C97DADDE726878EC31CB61BE0FA55B6D1348804076050AC8.apk",
+  "sha256": "71aa8fef7cb1fe38c97dadde726878ec31cb61be0fa55b6d1348804076050ac8",
+  "package_name": "6.0-2438415",
+  "version_code": "100400119",
+  "version_name": "10.4.0.119",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 186656,
+  "dex_count": 4,
+  "native_lib_count": 26
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "514EC304722244567C5365D3AC3F239CB2FEFF70B386C973E584940AF25E6D11.apk",
+  "sha256": "514ec304722244567c5365d3ac3f239cb2feff70b386c973e584940af25e6d11",
+  "package_name": "com.mybank.android.phone",
+  "version_code": "253",
+  "version_name": "3.9.9.012609",
+  "min_sdk": "18",
+  "target_sdk": "26",
+  "apk_size_kb": 101540,
+  "dex_count": 1,
+  "native_lib_count": 88
+}

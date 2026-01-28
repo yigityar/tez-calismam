@@ -1,0 +1,12 @@
+{
+  "apk_file": "DD9204476F044056154974C6782174A67FE064A90AF594D46814385ED5B49E40.apk",
+  "sha256": "dd9204476f044056154974c6782174a67fe064a90af594d46814385ed5b49e40",
+  "package_name": "12",
+  "version_code": "66216",
+  "version_name": "7.9.707",
+  "min_sdk": "21",
+  "target_sdk": "31",
+  "apk_size_kb": 144144,
+  "dex_count": 11,
+  "native_lib_count": 116
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "364B06123C30B6B71E6BA5A4A62E7E7D2206C4D21E70FB2733BFD0540109B6D5.apk",
+  "sha256": "364b06123c30b6b71e6ba5a4a62e7e7d2206c4d21e70fb2733bfd0540109b6d5",
+  "package_name": "11",
+  "version_code": "75",
+  "version_name": "Maqalat 5.3.0",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 16940,
+  "dex_count": 6,
+  "native_lib_count": 0
+}

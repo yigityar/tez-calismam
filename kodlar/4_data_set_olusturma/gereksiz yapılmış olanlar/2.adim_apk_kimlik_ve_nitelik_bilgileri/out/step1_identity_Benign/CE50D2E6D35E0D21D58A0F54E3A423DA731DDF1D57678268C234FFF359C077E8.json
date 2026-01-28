@@ -1,0 +1,12 @@
+{
+  "apk_file": "CE50D2E6D35E0D21D58A0F54E3A423DA731DDF1D57678268C234FFF359C077E8.apk",
+  "sha256": "ce50d2e6d35e0d21d58a0f54e3a423da731ddf1d57678268c234fff359c077e8",
+  "package_name": "14",
+  "version_code": "59",
+  "version_name": "2.3.26",
+  "min_sdk": "23",
+  "target_sdk": "34",
+  "apk_size_kb": 12880,
+  "dex_count": 2,
+  "native_lib_count": 8
+}

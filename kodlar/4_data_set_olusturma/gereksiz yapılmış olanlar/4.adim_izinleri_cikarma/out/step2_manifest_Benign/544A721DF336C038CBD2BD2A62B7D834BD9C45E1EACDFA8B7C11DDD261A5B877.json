@@ -1,0 +1,16 @@
+{
+  "apk_file": "544A721DF336C038CBD2BD2A62B7D834BD9C45E1EACDFA8B7C11DDD261A5B877.apk",
+  "permissions_list": "android.permission.REQUEST_INSTALL_PACKAGES,com.android.permission.GET_INSTALLED_APPS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_PHONE_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.INTERNET,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.WAKE_LOCK,android.permission.FOREGROUND_SERVICE,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.VIBRATE,com.sinyee.babybus.born.openadsdk.permission.TT_PANGOLIN,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 145,
+  "count_service": 19,
+  "count_receiver": 4,
+  "count_provider": 12,
+  "count_exported": 6
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "0B7E372D0A37462CFB7E314D759F9C6437913D867862FC9A16A7C8F7DF876A73.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.CAMERA,android.permission.FLASHLIGHT,com.soderbergpartners.upp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,android.permission.ACCESS_NETWORK_STATE",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 3,
+  "count_service": 0,
+  "count_receiver": 1,
+  "count_provider": 2,
+  "count_exported": 1
+}

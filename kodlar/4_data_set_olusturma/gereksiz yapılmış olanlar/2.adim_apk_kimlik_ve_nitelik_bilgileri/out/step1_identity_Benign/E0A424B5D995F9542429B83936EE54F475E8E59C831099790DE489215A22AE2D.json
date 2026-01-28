@@ -1,0 +1,12 @@
+{
+  "apk_file": "E0A424B5D995F9542429B83936EE54F475E8E59C831099790DE489215A22AE2D.apk",
+  "sha256": "e0a424b5d995f9542429b83936ee54f475e8e59c831099790de489215a22ae2d",
+  "package_name": "10",
+  "version_code": "267",
+  "version_name": "7.8.3.888",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 41140,
+  "dex_count": 6,
+  "native_lib_count": 70
+}

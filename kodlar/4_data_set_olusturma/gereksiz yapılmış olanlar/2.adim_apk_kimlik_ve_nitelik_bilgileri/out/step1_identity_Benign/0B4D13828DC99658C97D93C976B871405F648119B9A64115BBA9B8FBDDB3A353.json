@@ -1,0 +1,12 @@
+{
+  "apk_file": "0B4D13828DC99658C97D93C976B871405F648119B9A64115BBA9B8FBDDB3A353.apk",
+  "sha256": "0b4d13828dc99658c97d93c976b871405f648119b9a64115bba9b8fbddb3a353",
+  "package_name": "9",
+  "version_code": "14552",
+  "version_name": "11.0.8",
+  "min_sdk": "14",
+  "target_sdk": "26",
+  "apk_size_kb": 48924,
+  "dex_count": 4,
+  "native_lib_count": 48
+}

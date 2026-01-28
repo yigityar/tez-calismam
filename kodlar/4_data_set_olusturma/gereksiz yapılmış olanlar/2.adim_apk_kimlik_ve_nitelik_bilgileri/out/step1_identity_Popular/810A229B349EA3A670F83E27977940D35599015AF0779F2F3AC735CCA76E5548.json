@@ -1,0 +1,12 @@
+{
+  "apk_file": "810A229B349EA3A670F83E27977940D35599015AF0779F2F3AC735CCA76E5548.apk",
+  "sha256": "810a229b349ea3a670f83e27977940d35599015af0779f2f3ac735cca76e5548",
+  "package_name": "com.booking",
+  "version_code": "3202",
+  "version_name": "12.5",
+  "min_sdk": "15",
+  "target_sdk": "25",
+  "apk_size_kb": 32800,
+  "dex_count": 6,
+  "native_lib_count": 19
+}

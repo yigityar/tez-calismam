@@ -1,0 +1,12 @@
+{
+  "apk_file": "9E23E3367FFD0293A0A1723C19D266378C9A94538D4C4E279C790479A70A0116.apk",
+  "sha256": "9e23e3367ffd0293a0a1723c19d266378c9a94538d4c4e279c790479a70a0116",
+  "package_name": "11",
+  "version_code": "51",
+  "version_name": "5.1",
+  "min_sdk": "19",
+  "target_sdk": "30",
+  "apk_size_kb": 10080,
+  "dex_count": 3,
+  "native_lib_count": 0
+}

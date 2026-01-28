@@ -1,0 +1,12 @@
+{
+  "apk_file": "22230CF217FE19BEBED366CFE2A0A0622EC2B9FA6689BC61DB0C098C5C6422D0.apk",
+  "sha256": "22230cf217fe19bebed366cfe2a0a0622ec2b9fa6689bc61db0c098c5c6422d0",
+  "package_name": "12",
+  "version_code": "3460",
+  "version_name": "11.11.0.10",
+  "min_sdk": "21",
+  "target_sdk": "29",
+  "apk_size_kb": 143672,
+  "dex_count": 13,
+  "native_lib_count": 132
+}

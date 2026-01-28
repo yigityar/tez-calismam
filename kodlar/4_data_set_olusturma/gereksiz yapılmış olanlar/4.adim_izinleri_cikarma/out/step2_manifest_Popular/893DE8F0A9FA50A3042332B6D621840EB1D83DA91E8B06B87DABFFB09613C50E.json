@@ -1,0 +1,16 @@
+{
+  "apk_file": "893DE8F0A9FA50A3042332B6D621840EB1D83DA91E8B06B87DABFFB09613C50E.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.WAKE_LOCK,android.permission.GET_ACCOUNTS,android.permission.USE_CREDENTIALS,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.VIBRATE,android.permission.FOREGROUND_SERVICE,android.permission.USE_FULL_SCREEN_INTENT,com.google.android.c2dm.permission.RECEIVE,android.permission.BLUETOOTH,android.permission.CAMERA,android.permission.READ_CONTACTS,android.permission.READ_PROFILE,android.permission.ACCESS_FINE_LOCATION,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_MEDIA_IMAGES,android.permission.READ_MEDIA_VIDEO,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.ACCESS_MEDIA_LOCATION,android.permission.POST_NOTIFICATIONS,com.google.android.gms.permission.AD_ID,android.permission.READ_PHONE_STATE,android.permission.READ_PHONE_NUMBERS,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.instagram.direct.permission.PROTECTED_DEEPLINKING,com.instagram.direct.permission.DIRECT_APP_THREAD_STORE_SERVICE,com.facebook.services.identity.FEO2,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.facebook.katana.provider.ACCESS,.permission.RECEIVE_ADM_MESSAGE,com.amazon.device.messaging.permission.RECEIVE,com.instagram.android.permission.CROSS_PROCESS_BROADCAST_MANAGER,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,android.permission.REORDER_TASKS,com.android.vending.BILLING,android.permission.MANAGE_OWN_CALLS,android.permission.USE_BIOMETRIC,android.permission.USE_FINGERPRINT",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 266,
+  "count_service": 86,
+  "count_receiver": 47,
+  "count_provider": 11,
+  "count_exported": 69
+}

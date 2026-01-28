@@ -1,0 +1,16 @@
+{
+  "apk_file": "2FCB7918239A8D6305D709A9C51CF062ECBCC8F267E1377255C9B9DB8C4CB3BB.apk",
+  "permissions_list": "android.permission.CHANGE_WIFI_STATE,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.INTERNET,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.MANAGE_ACCOUNTS,android.permission.READ_PHONE_STATE,android.permission.READ_LOGS,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,android.permission.VIBRATE,android.permission.FLASHLIGHT,android.permission.GET_ACCOUNTS,android.permission.CAMERA,android.permission.GET_TASKS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,getui.permission.GetuiService,android.permission.BATTERY_STATS,android.permission.CHANGE_NETWORK_STATE,com.cmcc.cmvideo.permission.MIPUSH_RECEIVE,org.simalliance.openmobileapi.SMARTCARD,android.permission.WRITE_SETTINGS,com.meizu.flyme.push.permission.RECEIVE,com.meizu.c2dm.permission.RECEIVE,com.cmcc.cmvideo.push.permission.MESSAGE,com.cmcc.cmvideo.permission.C2D_MESSAGE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.ACCESS_COARSE_LOCATION,getui.permission.GetuiService.com.cmcc.cmvideo,android.permission.CHANGE_WIFI_MULTICAST_STATE,com.android.setting.permission.ALLSHARE_CAST_SERVICE,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.ACCESS_FINE_LOCATION,android.permission.REORDER_TASKS,android.permission.FOREGROUND_SERVICE,com.cmcc.cmvideo.MPUSH,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.ACCESS_NETWORK_STATE ,com.company.app.fileprovider.READ,com.android.launcher.permission.READ_SETTINGS,android.permission.NETWORK_PROVIDER,android.permission.READ_PRIVILEGED_PHONE_STATE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,com.cmcc.cmvideo.permission.PROCESS_PUSH_MSG,com.cmcc.cmvideo.permission.PUSH_PROVIDER,com.asus.msa.SupplementaryDID.ACCESS,android.permission.READ_SETTINGS,android.permission.CHANGE_CONFIGURATION,android.permission.RUN_INSTRUMENTATION",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 415,
+  "count_service": 39,
+  "count_receiver": 21,
+  "count_provider": 15,
+  "count_exported": 23
+}

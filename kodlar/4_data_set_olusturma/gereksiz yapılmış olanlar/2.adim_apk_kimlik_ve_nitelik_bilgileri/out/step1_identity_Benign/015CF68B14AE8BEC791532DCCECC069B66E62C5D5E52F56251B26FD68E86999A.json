@@ -1,0 +1,12 @@
+{
+  "apk_file": "015CF68B14AE8BEC791532DCCECC069B66E62C5D5E52F56251B26FD68E86999A.apk",
+  "sha256": "015cf68b14ae8bec791532dccecc069b66e62c5d5e52f56251b26fd68e86999a",
+  "package_name": "11",
+  "version_code": "8000",
+  "version_name": "B*Bs-v8.000",
+  "min_sdk": "21",
+  "target_sdk": "30",
+  "apk_size_kb": 14492,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

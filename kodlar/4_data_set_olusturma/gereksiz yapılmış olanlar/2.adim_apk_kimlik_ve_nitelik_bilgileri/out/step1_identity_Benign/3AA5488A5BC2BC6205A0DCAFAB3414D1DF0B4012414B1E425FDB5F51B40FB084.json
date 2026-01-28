@@ -1,0 +1,12 @@
+{
+  "apk_file": "3AA5488A5BC2BC6205A0DCAFAB3414D1DF0B4012414B1E425FDB5F51B40FB084.apk",
+  "sha256": "3aa5488a5bc2bc6205a0dcafab3414d1df0b4012414b1e425fdb5f51b40fb084",
+  "package_name": "11",
+  "version_code": "200301",
+  "version_name": "20.3.0",
+  "min_sdk": "19",
+  "target_sdk": "29",
+  "apk_size_kb": 143624,
+  "dex_count": 26,
+  "native_lib_count": 140
+}

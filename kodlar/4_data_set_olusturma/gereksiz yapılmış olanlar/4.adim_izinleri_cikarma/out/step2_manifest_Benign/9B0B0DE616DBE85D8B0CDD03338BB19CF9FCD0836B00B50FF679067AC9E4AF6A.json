@@ -1,0 +1,16 @@
+{
+  "apk_file": "9B0B0DE616DBE85D8B0CDD03338BB19CF9FCD0836B00B50FF679067AC9E4AF6A.apk",
+  "permissions_list": "android.permission.READ_PHONE_STATE,android.permission.INTERNET,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.VIBRATE,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.WAKE_LOCK,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.SYSTEM_ALERT_WINDOW,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.BROADCAST_STICKY,android.permission.GET_TASKS,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.FOREGROUND_SERVICE,android.permission.GET_PACKAGE_SIZE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.USE_FULL_SCREEN_INTENT,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.yy.huanju.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE,android.permission.REORDER_TASKS,android.permission.WRITE_SETTINGS,android.permission.READ_SETTINGS,com.yy.huanju.permission.PERMISSION_SAFE_BROADCAST,android.permission.CHANGE_NETWORK_STATE,android.permission.USE_FINGERPRINT,com.asus.msa.SupplementaryDID.ACCESS,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.coloros.mcs.permission.SEND_MCS_MESSAGE,com.heytap.mcs.permission.SEND_PUSH_MESSAGE,com.yy.huanju.permission.MIPUSH_RECEIVE,com.yy.huanju.permission.PROCESS_PUSH_MSG,com.yy.huanju.permission.PUSH_PROVIDER,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 146,
+  "count_service": 27,
+  "count_receiver": 16,
+  "count_provider": 25,
+  "count_exported": 13
+}

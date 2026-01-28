@@ -1,0 +1,12 @@
+{
+  "apk_file": "B2873A081A629F339CA43A540FDB429EAA58EEBDA02687085D8C1F38DF4DCFE8.apk",
+  "sha256": "b2873a081a629f339ca43a540fdb429eaa58eebda02687085d8c1f38df4dcfe8",
+  "package_name": "com.netflix.mediaclient",
+  "version_code": "9782",
+  "version_name": "4.8.6 build 9782",
+  "min_sdk": "19",
+  "target_sdk": "24",
+  "apk_size_kb": 16944,
+  "dex_count": 1,
+  "native_lib_count": 6
+}

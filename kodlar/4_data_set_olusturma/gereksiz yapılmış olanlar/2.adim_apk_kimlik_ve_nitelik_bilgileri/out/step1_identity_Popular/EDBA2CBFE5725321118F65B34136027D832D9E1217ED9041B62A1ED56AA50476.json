@@ -1,0 +1,12 @@
+{
+  "apk_file": "EDBA2CBFE5725321118F65B34136027D832D9E1217ED9041B62A1ED56AA50476.apk",
+  "sha256": "edba2cbfe5725321118f65b34136027d832d9e1217ed9041b62a1ed56aa50476",
+  "package_name": "14",
+  "version_code": "2024132265",
+  "version_name": "1416/1.0.0.2024132206",
+  "min_sdk": "30",
+  "target_sdk": "33",
+  "apk_size_kb": 97440,
+  "dex_count": 8,
+  "native_lib_count": 0
+}

@@ -1,0 +1,12 @@
+{
+  "apk_file": "53F53886A9AF55996E31F128A310CAC20930C7CDA678D676E090F2A9B105A127.apk",
+  "sha256": "53f53886a9af55996e31f128a310cac20930c7cda678d676e090f2a9b105a127",
+  "package_name": "12",
+  "version_code": "59900",
+  "version_name": "5.99.0",
+  "min_sdk": "15",
+  "target_sdk": "27",
+  "apk_size_kb": 31596,
+  "dex_count": 7,
+  "native_lib_count": 34
+}

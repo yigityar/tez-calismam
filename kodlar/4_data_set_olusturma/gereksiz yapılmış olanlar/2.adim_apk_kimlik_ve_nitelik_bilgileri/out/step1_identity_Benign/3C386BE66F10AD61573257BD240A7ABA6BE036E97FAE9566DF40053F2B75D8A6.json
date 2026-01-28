@@ -1,0 +1,12 @@
+{
+  "apk_file": "3C386BE66F10AD61573257BD240A7ABA6BE036E97FAE9566DF40053F2B75D8A6.apk",
+  "sha256": "3c386be66f10ad61573257bd240a7aba6be036e97fae9566df40053f2b75d8a6",
+  "package_name": "com.newup.mobile.iap",
+  "version_code": "79",
+  "version_name": "1.18.0",
+  "min_sdk": "19",
+  "target_sdk": "26",
+  "apk_size_kb": 45620,
+  "dex_count": 1,
+  "native_lib_count": 46
+}

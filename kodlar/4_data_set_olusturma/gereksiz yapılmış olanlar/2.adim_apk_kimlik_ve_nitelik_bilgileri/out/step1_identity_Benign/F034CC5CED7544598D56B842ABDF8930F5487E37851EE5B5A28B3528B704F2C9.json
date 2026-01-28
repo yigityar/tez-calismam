@@ -1,0 +1,12 @@
+{
+  "apk_file": "F034CC5CED7544598D56B842ABDF8930F5487E37851EE5B5A28B3528B704F2C9.apk",
+  "sha256": "f034cc5ced7544598d56b842abdf8930f5487e37851ee5b5a28b3528b704f2c9",
+  "package_name": "15",
+  "version_code": "2125990",
+  "version_name": "345.15.0",
+  "min_sdk": "21",
+  "target_sdk": "35",
+  "apk_size_kb": 50256,
+  "dex_count": 8,
+  "native_lib_count": 38
+}

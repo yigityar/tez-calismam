@@ -1,0 +1,12 @@
+{
+  "apk_file": "73EBB28BF0E480BCFE568AA250E90F15FFA93D91E0FB534BFFEB835ED5328609.apk",
+  "sha256": "73ebb28bf0e480bcfe568aa250e90f15ffa93d91e0fb534bffeb835ed5328609",
+  "package_name": "15",
+  "version_code": "20525",
+  "version_name": "4.1.0",
+  "min_sdk": "21",
+  "target_sdk": "35",
+  "apk_size_kb": 104520,
+  "dex_count": 4,
+  "native_lib_count": 32
+}

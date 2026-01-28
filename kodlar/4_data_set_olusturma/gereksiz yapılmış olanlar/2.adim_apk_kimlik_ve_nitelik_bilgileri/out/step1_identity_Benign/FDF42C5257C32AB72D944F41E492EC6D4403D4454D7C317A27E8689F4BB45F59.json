@@ -1,0 +1,12 @@
+{
+  "apk_file": "FDF42C5257C32AB72D944F41E492EC6D4403D4454D7C317A27E8689F4BB45F59.apk",
+  "sha256": "fdf42c5257c32ab72d944f41e492ec6d4403d4454d7c317a27e8689f4bb45f59",
+  "package_name": "13",
+  "version_code": "111",
+  "version_name": "5.36",
+  "min_sdk": "24",
+  "target_sdk": "33",
+  "apk_size_kb": 7636,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

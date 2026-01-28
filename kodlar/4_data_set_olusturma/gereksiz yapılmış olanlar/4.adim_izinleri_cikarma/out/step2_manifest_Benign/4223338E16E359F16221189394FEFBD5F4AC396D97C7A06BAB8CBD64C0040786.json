@@ -1,0 +1,16 @@
+{
+  "apk_file": "4223338E16E359F16221189394FEFBD5F4AC396D97C7A06BAB8CBD64C0040786.apk",
+  "permissions_list": "android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.GET_TASKS,android.permission.VIBRATE,android.permission.FLASHLIGHT,android.permission.RECEIVE_USER_PRESENT,android.permission.WRITE_SETTINGS,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher2.permission.INSTALL_SHORTCUT,com.android.launcher2.permission.UNINSTALL_SHORTCUT,com.android.launcher3.permission.INSTALL_SHORTCUT,com.android.launcher3.permission.UNINSTALL_SHORTCUT,com.baidu.permission.SHARE,android.permission.CAMERA,android.permission.CHANGE_WIFI_STATE,android.permission.READ_PHONE_STATE,android.permission.DISABLE_KEYGUARD,android.permission.RECORD_AUDIO,android.permission.MODIFY_AUDIO_SETTINGS,android.hardware.camera.autofocus,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.SET_WALLPAPER,android.permission.FOREGROUND_SERVICE,com.baidu.wenku.permission.xenv.RECEIVE,android.permission.WAKE_LOCK,android.permission.REORDER_TASKS,android.permission.READ_CALENDAR,android.permission.WRITE_CALENDAR,android.permission.READ_CONTACTS,android.permission.CHANGE_NETWORK_STATE,android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,android.permission.SYSTEM_ALERT_WINDOW,baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.baidu.wenku,baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.baidu.wenku,com.baidu.wenku.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,android.permission.USE_FINGERPRINT,android.permission.QUERY_ALL_PACKAGES,com.baidu.wenku.permission.sofire.RECEIVE,com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER,com.sec.feature.fingerprint_manager_service,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 1,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 437,
+  "count_service": 36,
+  "count_receiver": 17,
+  "count_provider": 18,
+  "count_exported": 31
+}

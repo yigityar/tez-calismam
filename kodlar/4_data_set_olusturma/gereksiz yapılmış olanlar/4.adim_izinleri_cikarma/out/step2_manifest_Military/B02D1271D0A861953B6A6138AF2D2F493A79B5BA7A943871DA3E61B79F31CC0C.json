@@ -1,0 +1,16 @@
+{
+  "apk_file": "B02D1271D0A861953B6A6138AF2D2F493A79B5BA7A943871DA3E61B79F31CC0C.apk",
+  "permissions_list": "android.permission.FOREGROUND_SERVICE,android.permission.POST_NOTIFICATIONS",
+  "has_camera": 0,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 1,
+  "count_service": 1,
+  "count_receiver": 0,
+  "count_provider": 0,
+  "count_exported": 2
+}

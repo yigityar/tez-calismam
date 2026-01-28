@@ -1,0 +1,12 @@
+{
+  "apk_file": "7A67958E1C22ED8198BAE5EA7E0CA21AA3993CE29DE2A95E82B1B74B89DCA7AE.apk",
+  "sha256": "7a67958e1c22ed8198bae5ea7e0ca21aa3993ce29de2a95e82b1b74b89dca7ae",
+  "package_name": "11",
+  "version_code": "25487",
+  "version_name": "10.4.10.25487",
+  "min_sdk": "18",
+  "target_sdk": "29",
+  "apk_size_kb": 123668,
+  "dex_count": 20,
+  "native_lib_count": 101
+}

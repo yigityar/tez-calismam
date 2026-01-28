@@ -1,0 +1,12 @@
+{
+  "apk_file": "ADE1215A2D69F4DB651F8BFA790C0C7E09B1CDFF786ECBBB765D880B0C3AD189.apk",
+  "sha256": "ade1215a2d69f4db651f8bfa790c0c7e09b1cdff786ecbbb765d880b0c3ad189",
+  "package_name": "13",
+  "version_code": "21302",
+  "version_name": "2.0.6",
+  "min_sdk": "28",
+  "target_sdk": "33",
+  "apk_size_kb": 27968,
+  "dex_count": 2,
+  "native_lib_count": 14
+}

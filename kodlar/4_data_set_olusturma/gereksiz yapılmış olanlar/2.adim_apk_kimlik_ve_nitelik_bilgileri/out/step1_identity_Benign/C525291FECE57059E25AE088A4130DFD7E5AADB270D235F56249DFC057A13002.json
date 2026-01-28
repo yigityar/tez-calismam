@@ -1,0 +1,12 @@
+{
+  "apk_file": "C525291FECE57059E25AE088A4130DFD7E5AADB270D235F56249DFC057A13002.apk",
+  "sha256": "c525291fece57059e25ae088a4130dfd7e5aadb270d235f56249dfc057a13002",
+  "package_name": "10",
+  "version_code": "828",
+  "version_name": "6.4.0.1",
+  "min_sdk": "21",
+  "target_sdk": "28",
+  "apk_size_kb": 69108,
+  "dex_count": 8,
+  "native_lib_count": 43
+}

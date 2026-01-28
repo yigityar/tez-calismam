@@ -1,0 +1,16 @@
+{
+  "apk_file": "737DB1AFBDC77C0362AC4F176B4C1A9F5B961950493155D2A0656390543B6576.apk",
+  "permissions_list": "android.permission.CHANGE_NETWORK_STATE,android.permission.READ_CONTACTS,android.permission.FOREGROUND_SERVICE,android.permission.USE_FINGERPRINT,android.permission.MANAGE_FINGERPRINT,cn.org.ifaa.permission.USE_IFAA_MANAGER,android.permission.WRITE_CONTACTS,android.permission.ACCESS_NETWORK_STATE,android.permission.CALL_PHONE,android.permission.INTERNET,android.permission.VIBRATE,android.permission.WAKE_LOCK,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_WIFI_STATE,android.permission.CAMERA,org.thialfihar.android.apg.permission.READ_KEY_DETAILS,android.permission.CHANGE_WIFI_STATE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.SEND_SMS,com.corp21cn.mailapp.permission.READ_ATTACHMENT,android.permission.CHANGE_NETWORK_STATE,android.permission.READ_CONTACTS,android.permission.FOREGROUND_SERVICE,android.permission.USE_FINGERPRINT,android.permission.MANAGE_FINGERPRINT,cn.org.ifaa.permission.USE_IFAA_MANAGER,android.permission.WRITE_CONTACTS,android.permission.ACCESS_NETWORK_STATE,android.permission.CALL_PHONE,android.permission.INTERNET,android.permission.VIBRATE,android.permission.WAKE_LOCK,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.ACCESS_WIFI_STATE,android.permission.CAMERA,org.thialfihar.android.apg.permission.READ_KEY_DETAILS,android.permission.CHANGE_WIFI_STATE,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.SEND_SMS,com.corp21cn.mailapp.permission.READ_ATTACHMENT,com.corp21cn.mailapp.permission.READ_MESSAGES,com.corp21cn.mailapp.permission.DELETE_MESSAGES,com.huawei.android.launcher.permission.CHANGE_BADGE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.push.permission.UPSTAGESERVICE,android.permission.REORDER_TASKS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.majeur.launcher.permission.UPDATE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,android.permission.READ_APP_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,com.corp21cn.mail189.permission.PROCESS_PUSH_MSG,com.corp21cn.mail189.permission.PUSH_PROVIDER,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA,android.permission.SYSTEM_ALERT_WINDOW",
+  "has_camera": 1,
+  "has_gps": 0,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 128,
+  "count_service": 16,
+  "count_receiver": 4,
+  "count_provider": 11,
+  "count_exported": 17
+}

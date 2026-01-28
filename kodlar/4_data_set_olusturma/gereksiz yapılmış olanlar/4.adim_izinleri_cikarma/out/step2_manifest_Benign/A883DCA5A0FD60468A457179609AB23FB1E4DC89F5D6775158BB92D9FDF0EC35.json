@@ -1,0 +1,16 @@
+{
+  "apk_file": "A883DCA5A0FD60468A457179609AB23FB1E4DC89F5D6775158BB92D9FDF0EC35.apk",
+  "permissions_list": "eg.com.qnb.eazymobile.permission.MAPS_RECEIVE,com.google.android.providers.gsf.permission.READ_GSERVICES,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.GET_TASKS,android.permission.ACCESS_FINE_LOCATION,android.permission.READ_CONTACTS,android.permission.READ_PHONE_STATE,android.permission.USE_FINGERPRINT,android.permission.CONTROL_LOCATION_UPDATES,android.permission.ACCESS_NETWORK_STATE,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,eg.com.qnb.eazymobile.permission.C2D_MESSAGE,android.permission.READ_EXTERNAL_STORAGE",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 2,
+  "count_service": 8,
+  "count_receiver": 3,
+  "count_provider": 2,
+  "count_exported": 4
+}

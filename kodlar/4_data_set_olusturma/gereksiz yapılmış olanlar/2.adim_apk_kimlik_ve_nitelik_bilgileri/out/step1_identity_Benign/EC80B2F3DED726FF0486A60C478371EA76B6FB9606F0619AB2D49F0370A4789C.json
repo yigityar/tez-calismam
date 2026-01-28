@@ -1,0 +1,12 @@
+{
+  "apk_file": "EC80B2F3DED726FF0486A60C478371EA76B6FB9606F0619AB2D49F0370A4789C.apk",
+  "sha256": "ec80b2f3ded726ff0486a60c478371ea76b6fb9606f0619ab2d49f0370a4789c",
+  "package_name": "12",
+  "version_code": "4",
+  "version_name": "1.4",
+  "min_sdk": "7",
+  "target_sdk": "31",
+  "apk_size_kb": 6156,
+  "dex_count": 2,
+  "native_lib_count": 0
+}

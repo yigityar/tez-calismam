@@ -1,0 +1,12 @@
+{
+  "apk_file": "E69D62DF3646616FA580AB07FBB9F9D9FA541387FA20F7C768444FA284A7F22D.apk",
+  "sha256": "e69d62df3646616fa580ab07fbb9f9d9fa541387fa20f7c768444fa284a7f22d",
+  "package_name": "14",
+  "version_code": "25433",
+  "version_name": "7.24.7",
+  "min_sdk": "23",
+  "target_sdk": "35",
+  "apk_size_kb": 10740,
+  "dex_count": 3,
+  "native_lib_count": 0
+}

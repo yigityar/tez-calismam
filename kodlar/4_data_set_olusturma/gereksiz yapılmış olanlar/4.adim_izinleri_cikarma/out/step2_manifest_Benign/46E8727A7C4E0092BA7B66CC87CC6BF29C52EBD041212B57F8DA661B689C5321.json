@@ -1,0 +1,16 @@
+{
+  "apk_file": "46E8727A7C4E0092BA7B66CC87CC6BF29C52EBD041212B57F8DA661B689C5321.apk",
+  "permissions_list": "android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.BLUETOOTH_CONNECT,android.permission.BLUETOOTH_SCAN,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.CHANGE_NETWORK_STATE,android.permission.REORDER_TASKS,android.permission.VIBRATE,android.permission.WAKE_LOCK,android.permission.INTERNET,android.permission.KILL_BACKGROUND_PROCESSES,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.ACCESS_FINE_LOCATION,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.PACKAGE_USAGE_STATS,android.permission.PACKAGE_USAGE_STATS,android.permission.READ_PHONE_STATE,android.permission.CAMERA,android.permission.MANAGE_ACCOUNTS,com.keeperandroid.server.ctswireless.permission.JPUSH_MESSAGE,android.permission.RECEIVE_USER_PRESENT,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_SETTINGS,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,com.huawei.android.launcher.permission.CHANGE_BADGE,android.permission.SYSTEM_ALERT_WINDOW,android.permission.ACCESS_BACKGROUND_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.GET_TASKS,android.permission.QUERY_ALL_PACKAGES,android.permission.REQUEST_INSTALL_PACKAGES,android.permission.READ_PRIVILEGED_PHONE_STATE,android.permission.BROADCAST_STICKY,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.GET_ACCOUNTS,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.READ_SYNC_SETTINGS,android.permission.WRITE_SYNC_SETTINGS,com.google.android.c2dm.permission.RECEIVE,com.keeperandroid.server.ctswireless.openadsdk.permission.TT_PANGOLIN,android.permission.USE_FINGERPRINT,com.asus.msa.SupplementaryDID.ACCESS,freemme.permission.msa,android.permission.SET_WALLPAPER",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 1,
+  "has_boot_completed": 1,
+  "is_debuggable": 0,
+  "count_activity": 115,
+  "count_service": 46,
+  "count_receiver": 18,
+  "count_provider": 30,
+  "count_exported": 29
+}

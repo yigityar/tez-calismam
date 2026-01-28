@@ -1,0 +1,12 @@
+{
+  "apk_file": "4558668DBEB80D451AAD59471227B21312233BCB4D28083B10CBDCF535F99947.apk",
+  "sha256": "4558668dbeb80d451aad59471227b21312233bcb4d28083b10cbdcf535f99947",
+  "package_name": "13",
+  "version_code": "400039",
+  "version_name": "3.0.5",
+  "min_sdk": "24",
+  "target_sdk": "33",
+  "apk_size_kb": 41600,
+  "dex_count": 2,
+  "native_lib_count": 144
+}

@@ -1,0 +1,16 @@
+{
+  "apk_file": "13AC7415D0D61505FE4B9A6E81AD5CAE2AA34C8252E1C3CC1CD554D17308B13A.apk",
+  "permissions_list": "reportfinishbroadcastreceiver.permission,android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.CHANGE_WIFI_STATE,android.permission.CHANGE_NETWORK_STATE,org.simalliance.openmobileapi.SMARTCARD,android.permission.GET_TASKS,getui.permission.GetuiService.com.jingdong.pdj,android.permission.WAKE_LOCK,android.permission.USE_FINGERPRINT,android.permission.VIBRATE,com.jingdong.pdj.permission.MIPUSH_RECEIVE,android.permission.SCHEDULE_EXACT_ALARM,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE,com.jingdong.pdj.permission.PROCESS_PUSH_MSG,com.jingdong.pdj.permission.PUSH_PROVIDER,com.meizu.flyme.push.permission.RECEIVE,com.meizu.c2dm.permission.RECEIVE,com.jingdong.pdj.push.permission.MESSAGE,com.jingdong.pdj.permission.C2D_MESSAGE,com.meizu.flyme.permission.PUSH,com.huawei.permission.ACCESS_HW_KEYSTORE,com.hihonor.permission.ACCESS_HW_KEYSTORE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,android.permission.REQUEST_INSTALL_PACKAGES,com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+  "has_camera": 1,
+  "has_gps": 1,
+  "has_mic": 0,
+  "has_sms": 0,
+  "has_overlay": 0,
+  "has_boot_completed": 0,
+  "is_debuggable": 0,
+  "count_activity": 307,
+  "count_service": 27,
+  "count_receiver": 8,
+  "count_provider": 13,
+  "count_exported": 17
+}

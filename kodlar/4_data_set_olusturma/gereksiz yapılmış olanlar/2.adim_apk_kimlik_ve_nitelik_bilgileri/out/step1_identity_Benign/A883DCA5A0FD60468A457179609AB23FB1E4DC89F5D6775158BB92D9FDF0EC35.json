@@ -1,0 +1,12 @@
+{
+  "apk_file": "A883DCA5A0FD60468A457179609AB23FB1E4DC89F5D6775158BB92D9FDF0EC35.apk",
+  "sha256": "a883dca5a0fd60468a457179609ab23fb1e4dc89f5d6775158bb92d9fdf0ec35",
+  "package_name": "12",
+  "version_code": "19",
+  "version_name": "2.8",
+  "min_sdk": "17",
+  "target_sdk": "30",
+  "apk_size_kb": 40368,
+  "dex_count": 1,
+  "native_lib_count": 18
+}
