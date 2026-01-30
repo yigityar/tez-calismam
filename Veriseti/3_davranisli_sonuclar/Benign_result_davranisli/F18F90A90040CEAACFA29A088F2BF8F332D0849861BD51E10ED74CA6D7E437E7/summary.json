@@ -1,0 +1,128 @@
+{
+    "apk_name": "F18F90A90040CEAACFA29A088F2BF8F332D0849861BD51E10ED74CA6D7E437E7",
+    "sha256": "f18f90a90040ceaacfa29a088f2bf8f332d0849861bd51e10ed74ca6d7e437e7",
+    "metadata": {
+        "package_name": "au.com.cuscal.redi2pay.focu01",
+        "version_code": "11228",
+        "version_name": "6.0.3",
+        "min_sdk": "24",
+        "target_sdk": "34",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "au.com.cuscal.redi2pay.focu01.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc644fb92b54b484f9c9.MainActivity",
+            "crc644fb92b54b484f9c9.SplashActivity",
+            "crc646957603ea1820544.MediaPickerActivity"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "crc64db5435b51b0e1b3b.SoloFirebaseMessagingService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.READ_CONTACTS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.USE_BIOMETRIC": "normal",
+            "android.permission.USE_FINGERPRINT": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "au.com.cuscal.redi2pay.focu01.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 5,
+            "unknown": 4
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 48
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 29.71,
+        "sources_present": true,
+        "java_file_count": 6235
+    },
+    "ast_analysis": {
+        "location": 8,
+        "microphone": 0,
+        "camera": 7,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 7
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 3,
+            "webview_interop": 0,
+            "content_access": 10,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 39,
+            "dynamic_code": 219
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 277
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 5,
+            "handler_loop": 32,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 217
+        }
+    }
+}

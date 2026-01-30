@@ -1,0 +1,126 @@
+{
+    "apk_name": "9060A69C5C20C5DD2AD302918BB40F28F819C545DDDC984DD85824682308B85B",
+    "sha256": "9060a69c5c20c5dd2ad302918bb40f28f819c545dddc984dd85824682308b85b",
+    "metadata": {
+        "package_name": "com.elearningforce.LMS",
+        "version_code": "1724774453",
+        "version_name": "2.47.5",
+        "min_sdk": "22",
+        "target_sdk": "34",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BATTERY_STATS",
+            "android.permission.BIND_NOTIFICATION_LISTENER_SERVICE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_LOGS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "activities": [
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc6480997b3ef81bf9b2.ZxingActivity",
+            "crc648316b0a9aa8cfd61.BrowserTabActivity",
+            "crc64ed1888fb4925e3b7.AuthenticationAgentActivity",
+            "crc64fb8c83b3437b661c.MainActivity",
+            "microsoft.identity.client.AuthenticationActivity"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "crc6445cc7cb209902fbe.FirebaseIdService",
+            "crc6445cc7cb209902fbe.ForegroundMessagingService"
+        ],
+        "receivers": [
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver",
+            "crc64a0e0a82d0db9a07d.ConnectivityBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.BATTERY_STATS": "signature",
+            "android.permission.BIND_NOTIFICATION_LISTENER_SERVICE": "signature",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_LOGS": "unlaballed",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 4,
+            "signature": 2,
+            "dangerous": 4,
+            "unlaballed": 1,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 512
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 26.54,
+        "sources_present": true,
+        "java_file_count": 4187
+    },
+    "ast_analysis": {
+        "location": 8,
+        "microphone": 0,
+        "camera": 3,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 8,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 23,
+            "dynamic_code": 169
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 206
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 16,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 168
+        }
+    }
+}

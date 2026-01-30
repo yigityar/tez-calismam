@@ -1,0 +1,161 @@
+{
+    "apk_name": "E485395A4939ECAC7C9502DE0E99B813A25909E76AC69B6452044B6B8076F2FC",
+    "sha256": "e485395a4939ecac7c9502de0e99b813a25909e76ac69b6452044b6b8076f2fc",
+    "metadata": {
+        "package_name": "com.bskyb.skystore.app",
+        "version_code": "61701",
+        "version_name": "6.17.1",
+        "min_sdk": "19",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES"
+        ],
+        "activities": [
+            "com.bskyb.skystore.app.EA",
+            "com.bskyb.skystore.app.Rsa",
+            "com.bskyb.skystore.app.SJ",
+            "com.bskyb.skystore.app.SM",
+            "com.bskyb.skystore.app.Sc",
+            "com.bskyb.skystore.app.controller.activity.StartupActivity",
+            "com.bskyb.skystore.app.fX",
+            "com.bskyb.skystore.app.gX",
+            "com.bskyb.skystore.app.ima",
+            "com.bskyb.skystore.app.kra",
+            "com.bskyb.skystore.app.lZ",
+            "com.bskyb.skystore.app.pOa",
+            "com.bskyb.skystore.app.tGa",
+            "com.bskyb.skystore.app.vC",
+            "com.bskyb.skystore.authentication.WebOAuthActivity",
+            "com.bskyb.skystore.core.controller.activity.BrowseActivity",
+            "com.bskyb.skystore.core.controller.activity.ProgrammeDetailsSingletaskActivity",
+            "com.bskyb.skystore.core.controller.activity.SearchActivity",
+            "com.bskyb.skystore.core.controller.activity.SkyPlayerActivity",
+            "com.bskyb.skystore.core.phenix.cast.ExpandedControlsActivity",
+            "com.bskyb.skystore.core.phenix.consume.ConsumePreparationActivity",
+            "com.bskyb.skystore.core.util.SkyGenericDialogActivity",
+            "com.bskyb.skystore.presentation.Payment.SecureProtocolWebViewActivity",
+            "com.bskyb.skystore.presentation.PendingActions.PendingActionsController",
+            "com.bskyb.skystore.presentation.TransactPin.TransactPinPageController",
+            "com.bskyb.skystore.presentation.Wishlist.WishlistPageController",
+            "com.bskyb.skystore.presentation.address.DeliveryAddressPageController",
+            "com.bskyb.skystore.presentation.filteringpage.FilteringPageController",
+            "com.bskyb.skystore.presentation.franchise.FranchisePageController",
+            "com.bskyb.skystore.presentation.settings.SettingsPageController",
+            "com.bskyb.skystore.presentation.transact.TransactPageController",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ],
+        "services": [
+            "com.bskyb.skystore.app.ITa",
+            "com.bskyb.skystore.app.wP",
+            "com.bskyb.skystore.app.yn",
+            "com.bskyb.skystore.core.controller.service.CacheSyncService",
+            "com.bskyb.skystore.core.controller.service.DrmDownloadService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.cast.framework.ReconnectionService",
+            "com.google.android.gms.cast.framework.media.MediaNotificationService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService"
+        ],
+        "receivers": [
+            "com.bskyb.skystore.app.kv",
+            "com.bskyb.skystore.core.model.receiver.AccountChangedReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.cast.framework.media.MediaIntentReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.AUTHENTICATE_ACCOUNTS": "unknown",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 5,
+            "normal": 5,
+            "unknown": 4
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 78
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 63.76,
+        "sources_present": true,
+        "java_file_count": 14107
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 13,
+        "media_projection": 2,
+        "dynamic_load": 0,
+        "jni": 27
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 1,
+            "system_commands": 3,
+            "webview_interop": 14,
+            "content_access": 14,
+            "audio_control": 2,
+            "vibration": 0,
+            "network_io": 16,
+            "scheduling_apis": 52,
+            "dynamic_code": 406
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 508
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 9,
+            "handler_loop": 39,
+            "job_scheduler": 4
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 6,
+            "dynamic_loading": 0,
+            "reflection": 400
+        }
+    }
+}

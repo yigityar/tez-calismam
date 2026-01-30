@@ -1,0 +1,178 @@
+{
+    "apk_name": "D904AE924F8387C60AA4A873171217FBBFBDD1AC6432D9918B4D5A6C70443462",
+    "sha256": "d904ae924f8387c60aa4a873171217fbbfbdd1ac6432d9918b4d5a6c70443462",
+    "metadata": {
+        "package_name": "com.themilesconsultancy.tmcapp",
+        "version_code": "708008",
+        "version_name": "7.8.8",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.CAMERA",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.LOCATION_HARDWARE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.STORAGE",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION"
+        ],
+        "activities": [
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+            "crc6419c37b4b19090c59.MainActivity",
+            "crc64563217459d39444b.FormAuthenticatorActivity",
+            "crc64563217459d39444b.WebAuthenticatorActivity",
+            "crc646957603ea1820544.MediaPickerActivity",
+            "crc64a0e0a82d0db9a07d.IntermediateActivity",
+            "crc64a0e0a82d0db9a07d.WebAuthenticatorIntermediateActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.google.android.play.core.assetpacks.AssetPackExtractionService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.intellimec.mobile.android.tripdetection.ActivityRecognitionService",
+            "com.intellimec.mobile.android.tripdetection.TripRecorderService",
+            "crc64396a3fe5f8138e3f.KeepAliveService",
+            "crc64b10640eba86f80ff.FirebaseNotificationService",
+            "crc64b10640eba86f80ff.LocationService",
+            "crc64c350a434cb814e14.TripDetectionService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.intellimec.mobile.android.distracteddriving.CallStateReceiver",
+            "com.intellimec.mobile.android.tripdetection.ActivityRecognitionReceiver",
+            "com.intellimec.mobile.android.tripdetection.AlarmReceiver",
+            "com.intellimec.mobile.android.tripdetection.BluetoothBroadcastReceiver",
+            "com.intellimec.mobile.android.tripdetection.GeofenceBroadcastReceiver",
+            "com.intellimec.mobile.android.tripdetection.MotionReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver",
+            "crc64a0e0a82d0db9a07d.BatteryBroadcastReceiver",
+            "crc64a0e0a82d0db9a07d.ConnectivityBroadcastReceiver",
+            "crc64a0e0a82d0db9a07d.EnergySaverBroadcastReceiver",
+            "crc64b10640eba86f80ff.ActivityTransitionBroadcastReceiver",
+            "crc64b10640eba86f80ff.MyBluetoothReceiver",
+            "crc64c350a434cb814e14.BootReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_BACKGROUND_LOCATION": "dangerous",
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS": "normal",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.ACTIVITY_RECOGNITION": "dangerous",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.BLUETOOTH_ADMIN": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.LOCATION_HARDWARE": "unlaballed",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.STORAGE": "unknown",
+            "android.permission.USE_BIOMETRIC": "normal",
+            "android.permission.USE_FINGERPRINT": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION": "dangerous"
+        },
+        "risk_counts": {
+            "dangerous": 9,
+            "normal": 12,
+            "unlaballed": 1,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 14
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 29.15,
+        "sources_present": true,
+        "java_file_count": 5714
+    },
+    "ast_analysis": {
+        "location": 15,
+        "microphone": 0,
+        "camera": 11,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 7
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 2,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 2,
+            "webview_interop": 0,
+            "content_access": 8,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 1,
+            "scheduling_apis": 35,
+            "dynamic_code": 205
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 256
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 12,
+            "handler_loop": 22,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 203
+        }
+    }
+}

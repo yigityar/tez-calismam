@@ -1,0 +1,163 @@
+{
+    "apk_name": "DC6B8CA0E943BDFFF982211DD5F29214DC5E5030EADF65A64222D47D424C23BE",
+    "sha256": "dc6b8ca0e943bdfff982211dd5f29214dc5e5030eadf65a64222d47d424c23be",
+    "metadata": {
+        "package_name": "com.concapps.smartcominapp",
+        "version_code": "230120",
+        "version_name": "230120",
+        "min_sdk": "23",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            "android.permission.BLUETOOTH",
+            "android.permission.CALL_PHONE",
+            "android.permission.CAMERA",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.INTERNET",
+            "android.permission.READ_CALENDAR",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc6416926f9390bde1df.MainActivity",
+            "crc6429d86df1c0d40854.SelectPictureActivity",
+            "crc6429d86df1c0d40854.TakePictureActivity",
+            "crc646024c5c344344629.ContainerActivity",
+            "crc646024c5c344344629.MediaPickerActivity",
+            "crc646024c5c344344629.TakePictureActivity",
+            "crc6480997b3ef81bf9b2.ZxingActivity",
+            "crc6489a9a45e4c8cafda.PCLActivity",
+            "crc64a0e0a82d0db9a07d.IntermediateActivity",
+            "crc64a68f049e5274c760.IFilePickerImpl_FilePickerActivity",
+            "crc64ed1888fb4925e3b7.AuthenticationAgentActivity",
+            "crc64f98dd38067c0c88b.FormAuthenticatorActivity",
+            "crc64f98dd38067c0c88b.WebAuthenticatorActivity",
+            "crc64f98dd38067c0c88b.WebAuthenticatorNativeBrowserActivity",
+            "crc64f98dd38067c0c88b.WebViewActivity",
+            "microsoft.identity.client.AuthenticationActivity"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "crc6433eb4ba8b09d8984.BusinessAppsFirebaseService",
+            "crc64396a3fe5f8138e3f.KeepAliveService",
+            "crc6494e14b9856016c30.PNFirebaseMessagingService"
+        ],
+        "receivers": [
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver",
+            "crc6494e14b9856016c30.PushNotificationActionReceiver",
+            "crc6494e14b9856016c30.PushNotificationDeletedReceiver",
+            "crc64a0e0a82d0db9a07d.ConnectivityBroadcastReceiver",
+            "crc64f98dd38067c0c88b.CustomTabsActionsBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_NOTIFICATION_POLICY": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.CALL_PHONE": "dangerous",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_CALENDAR": "dangerous",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.RECORD_AUDIO": "dangerous",
+            "android.permission.USE_FINGERPRINT": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_CALENDAR": "dangerous",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.launcher.permission.INSTALL_SHORTCUT": "normal",
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT": "unlaballed",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 10,
+            "normal": 8,
+            "unlaballed": 1,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 14
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 24.58,
+        "sources_present": true,
+        "java_file_count": 5217
+    },
+    "ast_analysis": {
+        "location": 8,
+        "microphone": 0,
+        "camera": 27,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 7
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 10,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 25,
+            "dynamic_code": 174
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 215
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 16,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 172
+        }
+    }
+}

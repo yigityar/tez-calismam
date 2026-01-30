@@ -1,0 +1,162 @@
+{
+    "apk_name": "7ECE37F51B91BD2A691325103C2D682F55F8DC0014E730E589D617D879921CD3",
+    "sha256": "7ece37f51b91bd2a691325103c2d682f55f8dc0014e730e589d617d879921cd3",
+    "metadata": {
+        "package_name": "com.microsoft.office.word",
+        "version_code": "2002343673",
+        "version_name": "16.0.7329.1015",
+        "min_sdk": "19",
+        "target_sdk": "23",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.GET_PACKAGE_SIZE",
+            "android.permission.INTERNET",
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_USER_DICTIONARY",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WRITE_USER_DICTIONARY",
+            "com.android.alarm.permission.SET_ALARM",
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.microsoft.office.word.permission.C2D_MESSAGE"
+        ],
+        "activities": [
+            "com.dropbox.client2.android.AuthActivity",
+            "com.microsoft.aad.adal.AuthenticationActivity",
+            "com.microsoft.intune.mam.client.app.data.WipeUserDataActivity",
+            "com.microsoft.intune.mam.client.app.offline.OfflineInstallCompanyPortalDialogActivity",
+            "com.microsoft.intune.mam.client.app.offline.OfflineStartupBlockedActivity",
+            "com.microsoft.intune.mam.client.app.resolver.MAMResolverActivity",
+            "com.microsoft.intune.mam.client.app.startup.MAMStartupActivity",
+            "com.microsoft.o365suite.o365shell.applauncher.activities.AppLauncherActivity",
+            "com.microsoft.office.apphost.LaunchActivity",
+            "com.microsoft.office.identity.idcrl.IDCRLAuthenticationActivity",
+            "com.microsoft.office.identity.oauth2.OAuth2AuthenticationActivity",
+            "com.microsoft.office.msohttp.AddAccountInSettingsActivity",
+            "com.microsoft.office.word.WordActivity",
+            "net.hockeyapp.android.FeedbackActivity",
+            "net.hockeyapp.android.UpdateActivity"
+        ],
+        "services": [
+            "com.google.android.gms.analytics.AnalyticsService",
+            "com.google.android.gms.analytics.CampaignTrackingService",
+            "com.microsoft.intune.mam.client.notification.CompanyPortalInstallHandler",
+            "com.microsoft.intune.mam.client.notification.MAMNotificationReceiverService",
+            "com.microsoft.intune.mam.client.service.MAMBackgroundService",
+            "com.microsoft.office.BackgroundTaskHost.BackgroundService",
+            "com.microsoft.office.msohttp.keystore.OfficeAuthenticationService",
+            "com.microsoft.office.notification.NotificationService",
+            "com.microsoft.office.onepipe.OnepipeGcmIntentService",
+            "com.microsoft.office.playStoreDownloadManager.DownloaderServiceImp",
+            "com.microsoft.office.preinstallservice.PreInstallService",
+            "com.microsoft.tokenshare.TokenSharingService"
+        ],
+        "receivers": [
+            "com.google.android.gms.analytics.CampaignTrackingReceiver",
+            "com.microsoft.aad.adal.ApplicationReceiver",
+            "com.microsoft.intune.mam.client.service.MAMBackgroundReceiver",
+            "com.microsoft.office.BackgroundTaskHost.SystemBroadcastReceiver",
+            "com.microsoft.office.asyncdatapointreporting.InstallBroadcastReceiver",
+            "com.microsoft.office.notification.SystemBroadcastReceiver",
+            "com.microsoft.office.officehub.util.OHubBroadcastReceiver",
+            "com.microsoft.office.onepipe.OnepipeGcmReceiver",
+            "com.microsoft.office.playStoreDownloadManager.BroadcastReceiverImp",
+            "com.microsoft.office.preinstallservice.BootBroadCastReceiver",
+            "com.microsoft.office.preinstallservice.GenericBroadCastReceiver",
+            "com.microsoft.tokenshare.AccountChangeReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.AUTHENTICATE_ACCOUNTS": "unknown",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.GET_PACKAGE_SIZE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.MANAGE_ACCOUNTS": "unknown",
+            "android.permission.READ_CONTACTS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_USER_DICTIONARY": "unknown",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.USE_CREDENTIALS": "unknown",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WRITE_USER_DICTIONARY": "unknown",
+            "com.android.alarm.permission.SET_ALARM": "normal",
+            "com.android.launcher.permission.INSTALL_SHORTCUT": "normal",
+            "com.android.vending.CHECK_LICENSE": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.microsoft.office.word.permission.C2D_MESSAGE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 8,
+            "unknown": 8,
+            "dangerous": 4
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 4
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 23.48,
+        "sources_present": true,
+        "java_file_count": 5408
+    },
+    "ast_analysis": {
+        "location": 13,
+        "microphone": 0,
+        "camera": 33,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 38
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 2,
+            "webview_interop": 9,
+            "content_access": 11,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 8,
+            "scheduling_apis": 43,
+            "dynamic_code": 75
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 148
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 8,
+            "handler_loop": 35,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 2,
+            "reflection": 73
+        }
+    }
+}

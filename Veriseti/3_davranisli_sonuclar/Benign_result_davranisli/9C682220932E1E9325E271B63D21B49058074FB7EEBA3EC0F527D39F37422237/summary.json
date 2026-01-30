@@ -1,0 +1,126 @@
+{
+    "apk_name": "9C682220932E1E9325E271B63D21B49058074FB7EEBA3EC0F527D39F37422237",
+    "sha256": "9c682220932e1e9325e271b63d21b49058074fb7eeba3ec0f527d39f37422237",
+    "metadata": {
+        "package_name": "com.triodos.bankingnl",
+        "version_code": "295",
+        "version_name": "3.39.0",
+        "min_sdk": "23",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.HIGH_SAMPLING_RATE_SENSORS",
+            "android.permission.INTERNET",
+            "android.permission.QUERY_ALL_PACKAGES",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "activities": [
+            "androidx.compose.ui.tooling.PreviewActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.triodos.mobile.android.ui.InitActivity",
+            "com.triodos.mobile.android.ui.NativeScriptBankingActivity",
+            "com.triodos.mobile.android.ui.PreBankingActivity"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.google.mlkit.common.internal.MlKitComponentDiscoveryService",
+            "com.mapbox.android.telemetry.crash.CrashReporterJobIntentService",
+            "com.triodos.mobile.android.util.pushnotification.PushNotificationMessagingService",
+            "jf.☱Ꭲ"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "pro.piwik.sdk.extra.InstallReferrerReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.HIGH_SAMPLING_RATE_SENSORS": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.QUERY_ALL_PACKAGES": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 5,
+            "normal": 7,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 7,
+        "native_lib_count": 18
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 132.68,
+        "sources_present": true,
+        "java_file_count": 24308
+    },
+    "ast_analysis": {
+        "location": 20,
+        "microphone": 9,
+        "camera": 29,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 11
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 4,
+            "microphone": 2,
+            "location": 6,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 4,
+            "webview_interop": 0,
+            "content_access": 17,
+            "audio_control": 1,
+            "vibration": 2,
+            "network_io": 15,
+            "scheduling_apis": 34,
+            "dynamic_code": 895
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 980
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 8,
+            "handler_loop": 25,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 5,
+            "dynamic_loading": 2,
+            "reflection": 890
+        }
+    }
+}

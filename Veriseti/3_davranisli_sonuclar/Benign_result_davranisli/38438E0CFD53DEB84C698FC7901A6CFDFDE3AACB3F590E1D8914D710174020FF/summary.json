@@ -1,0 +1,113 @@
+{
+    "apk_name": "38438E0CFD53DEB84C698FC7901A6CFDFDE3AACB3F590E1D8914D710174020FF",
+    "sha256": "38438e0cfd53deb84c698fc7901a6cfdfde3aacb3f590e1d8914d710174020ff",
+    "metadata": {
+        "package_name": "yonimixx.shuki",
+        "version_code": "32",
+        "version_name": "1.9.5",
+        "min_sdk": "21",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "io.kodular.yonimixx.shuki.permission.C2D_MESSAGE"
+        ],
+        "activities": [
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.firebase.auth.internal.FederatedSignInActivity",
+            "com.google.zxing.client.android.AppInvCaptureActivity",
+            "io.kodular.yonimixx.shuki.Screen1",
+            "io.kodular.yonimixx.shuki.Screen2",
+            "io.kodular.yonimixx.shuki.Screen3",
+            "io.kodular.yonimixx.shuki.Screen4",
+            "io.kodular.yonimixx.shuki.Screen5"
+        ],
+        "services": [
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.firebase.components.ComponentDiscoveryService"
+        ],
+        "receivers": [],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "io.kodular.yonimixx.shuki.permission.C2D_MESSAGE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 4,
+            "dangerous": 4,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 5,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 28.35,
+        "sources_present": true,
+        "java_file_count": 6095
+    },
+    "ast_analysis": {
+        "location": 10,
+        "microphone": 0,
+        "camera": 23,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 3,
+            "microphone": 2,
+            "location": 1,
+            "torch": 3,
+            "telephony_ops": 0,
+            "system_commands": 3,
+            "webview_interop": 5,
+            "content_access": 19,
+            "audio_control": 9,
+            "vibration": 4,
+            "network_io": 8,
+            "scheduling_apis": 45,
+            "dynamic_code": 234
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 336
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 39,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 1,
+            "reflection": 234
+        }
+    }
+}

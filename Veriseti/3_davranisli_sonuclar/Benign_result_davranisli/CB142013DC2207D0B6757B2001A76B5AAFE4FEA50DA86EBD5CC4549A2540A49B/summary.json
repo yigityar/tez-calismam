@@ -1,0 +1,124 @@
+{
+    "apk_name": "CB142013DC2207D0B6757B2001A76B5AAFE4FEA50DA86EBD5CC4549A2540A49B",
+    "sha256": "cb142013dc2207d0b6757b2001a76b5aafe4fea50da86ebd5cc4549a2540a49b",
+    "metadata": {
+        "package_name": "com.martinvillar.android.quranbangla",
+        "version_code": "38",
+        "version_name": "4.7.0",
+        "min_sdk": "16",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "com.facebook.ads.AudienceNetworkActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.martinvillar.android.quranbangla.AjizaActivity",
+            "com.martinvillar.android.quranbangla.AjustesActivity",
+            "com.martinvillar.android.quranbangla.AudioManagerActivity",
+            "com.martinvillar.android.quranbangla.CapitulosCoranActivity",
+            "com.martinvillar.android.quranbangla.CoranActivity",
+            "com.martinvillar.android.quranbangla.FavoritosActivity",
+            "com.martinvillar.android.quranbangla.NotasActivity",
+            "com.martinvillar.android.quranbangla.TajweedActivity",
+            "com.martinvillar.android.quranbangla.TemasActivity",
+            "com.martinvillar.android.quranbangla.VersiculosCapituloActivity",
+            "com.martinvillar.android.quranbangla.VersiculosJuzActivity",
+            "com.martinvillar.android.quranbangla.VersiculosTemaActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "com.google.android.gms.ads.AdService",
+            "com.martinvillar.android.quranbangla.utilidades.MyAlarmService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.martinvillar.android.quranbangla.utilidades.MyReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 1,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 27.38,
+        "sources_present": true,
+        "java_file_count": 8581
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 250,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 10,
+            "content_access": 8,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 5,
+            "scheduling_apis": 21,
+            "dynamic_code": 210
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 254
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 11,
+            "handler_loop": 9,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 6,
+            "reflection": 210
+        }
+    }
+}

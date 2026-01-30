@@ -1,0 +1,174 @@
+{
+    "apk_name": "776F88FFC23E78AE4AACC3BF9D244705DDAF7909E58E43AF4FA88F86A74E5D16",
+    "sha256": "776f88ffc23e78ae4aacc3bf9d244705ddaf7909e58e43af4fa88f86a74e5d16",
+    "metadata": {
+        "package_name": "com.lb4business.tpsgame",
+        "version_code": "139",
+        "version_name": "2.39.64",
+        "min_sdk": "19",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING"
+        ],
+        "activities": [
+            "com.adcolony.sdk.AdColonyAdViewActivity",
+            "com.adcolony.sdk.AdColonyInterstitialActivity",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.appchina.antiaddiction.AntiAddictionActivity",
+            "com.appchina.antiaddiction.ExitAppDialogActivity",
+            "com.applovin.adview.AppLovinFullscreenActivity",
+            "com.applovin.adview.AppLovinInterstitialActivity",
+            "com.applovin.mediation.MaxDebuggerActivity",
+            "com.applovin.mediation.MaxDebuggerAdUnitDetailActivity",
+            "com.applovin.mediation.MaxDebuggerAdUnitsListActivity",
+            "com.applovin.mediation.MaxDebuggerDetailActivity",
+            "com.applovin.mediation.MaxDebuggerMultiAdActivity",
+            "com.applovin.mediation.MaxDebuggerTestLiveNetworkActivity",
+            "com.applovin.sdk.AppLovinWebViewActivity",
+            "com.appodeal.ads.TestActivity",
+            "com.appodeal.ads.VideoPlayerActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTDelegateActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTFullScreenExpressVideoActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTFullScreenVideoActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTLandingPageActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTPlayableLandingPageActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTRewardExpressVideoActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTRewardVideoActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTVideoLandingPageActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTWebsiteActivity",
+            "com.bytedance.sdk.openadsdk.adapter.PangleAdInterstitialActivity",
+            "com.criteo.publisher.CriteoInterstitialActivity",
+            "com.explorestack.consent.activity.ConsentFormActivity",
+            "com.explorestack.iab.mraid.MraidActivity",
+            "com.explorestack.iab.vast.activity.VastActivity",
+            "com.facebook.ads.AudienceNetworkActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.games.bridge.GenericResolutionActivity",
+            "com.google.games.bridge.NativeBridgeActivity",
+            "com.ironsource.sdk.controller.ControllerActivity",
+            "com.ironsource.sdk.controller.InterstitialActivity",
+            "com.ironsource.sdk.controller.OpenUrlActivity",
+            "com.my.target.common.MyTargetActivity",
+            "com.ogury.analytics.activity.SBActivity",
+            "com.ogury.cm.ConsentActivity",
+            "com.unity3d.player.UnityPlayerActivity",
+            "com.unity3d.services.ads.adunit.AdUnitActivity",
+            "com.unity3d.services.ads.adunit.AdUnitSoftwareActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity",
+            "com.vungle.warren.ui.VungleActivity",
+            "io.bidmachine.nativead.view.VideoPlayerActivity",
+            "io.presage.interstitial.ui.InterstitialActivity",
+            "io.presage.interstitial.ui.InterstitialAndroid8RotableActivity",
+            "io.presage.interstitial.ui.InterstitialAndroid8TransparentActivity",
+            "io.presage.mraid.browser.Android8AndLaterShortcutActivity",
+            "io.presage.mraid.browser.ShortcutActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "com.applovin.impl.adview.activity.FullscreenAdService",
+            "com.applovin.impl.sdk.utils.AppKilledService",
+            "com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService",
+            "com.google.android.gms.ads.AdService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.ogury.analytics.service.SMJobService",
+            "com.ogury.analytics.service.SdkJobService",
+            "com.ogury.analytics.service.SdkService",
+            "io.presage.common.profig.schedule.ProfigJobService",
+            "io.presage.common.profig.schedule.ProfigSyncIntentService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.appodeal.ads.AppodealPackageAddedReceiver",
+            "com.ogury.analytics.receiver.AlarmReceiver",
+            "com.ogury.analytics.receiver.BluetoothReceiver",
+            "com.ogury.analytics.receiver.BootCompletedReceiver",
+            "com.ogury.analytics.receiver.CarrierConfigChangedReceiver",
+            "com.ogury.analytics.receiver.EventReminderReceiver",
+            "com.ogury.analytics.receiver.NextAlarmClockChangedReceiver",
+            "com.ogury.analytics.receiver.PackageFullyRemovedReceiver",
+            "com.ogury.analytics.receiver.TimeSetReceiver",
+            "com.ogury.analytics.receiver.UserPresentReceiver",
+            "com.ogury.core.internal.OguryLogEnablerReceiver",
+            "io.presage.common.profig.schedule.ProfigAlarmReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "com.android.vending.BILLING": "unknown"
+        },
+        "risk_counts": {
+            "normal": 2,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 6,
+        "native_lib_count": 6
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 56.51,
+        "sources_present": true,
+        "java_file_count": 17453
+    },
+    "ast_analysis": {
+        "location": 1,
+        "microphone": 1,
+        "camera": 87,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 9
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 1,
+            "microphone": 1,
+            "location": 1,
+            "torch": 0,
+            "telephony_ops": 2,
+            "system_commands": 7,
+            "webview_interop": 57,
+            "content_access": 11,
+            "audio_control": 5,
+            "vibration": 1,
+            "network_io": 29,
+            "scheduling_apis": 119,
+            "dynamic_code": 489
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 723
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 16,
+            "handler_loop": 99,
+            "job_scheduler": 4
+        },
+        "trigger_types": {
+            "auto_triggered": 9,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 8,
+            "dynamic_loading": 7,
+            "reflection": 481
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "apk_name": "7C9769C280F7D2C3A762D7AF5AC4B4C50B090E029A0344806D20D6E2804D176F",
+    "sha256": "7c9769c280f7d2c3a762d7af5ac4b4c50b090e029a0344806d20d6e2804d176f",
+    "metadata": {
+        "package_name": "com.embracepetinsurance.embracepetinsurance",
+        "version_code": "438",
+        "version_name": "1.0.438",
+        "min_sdk": "24",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.FLASHLIGHT",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "activities": [
+            "androidx.biometric.DeviceCredentialHandlerActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+            "crc64424a8adc5a1fbe28.FilePickerActivity",
+            "crc6447222561e0d2b713.MainActivity",
+            "crc6447222561e0d2b713.SplashActivity",
+            "crc646957603ea1820544.MediaPickerActivity",
+            "crc64e22c99882c436a01.ImageCaptureActivity"
+        ],
+        "services": [
+            "com.google.android.play.core.assetpacks.AssetPackExtractionService"
+        ],
+        "receivers": [
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FLASHLIGHT": "unknown",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.USE_BIOMETRIC": "normal",
+            "android.permission.USE_FINGERPRINT": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous"
+        },
+        "risk_counts": {
+            "normal": 6,
+            "dangerous": 3,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 34
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 21.75,
+        "sources_present": true,
+        "java_file_count": 3478
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 0,
+        "camera": 8,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 8
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 2,
+            "microphone": 0,
+            "location": 3,
+            "torch": 1,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 7,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 26,
+            "dynamic_code": 155
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 197
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 20,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 3,
+            "dynamic_loading": 0,
+            "reflection": 152
+        }
+    }
+}

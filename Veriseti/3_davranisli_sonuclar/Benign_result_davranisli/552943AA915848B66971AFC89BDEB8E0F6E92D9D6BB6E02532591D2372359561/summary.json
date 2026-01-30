@@ -1,0 +1,158 @@
+{
+    "apk_name": "552943AA915848B66971AFC89BDEB8E0F6E92D9D6BB6E02532591D2372359561",
+    "sha256": "552943aa915848b66971afc89bdeb8e0f6e92d9d6bb6e02532591d2372359561",
+    "metadata": {
+        "package_name": "com.fakopp.arborsonic3d",
+        "version_code": "57",
+        "version_name": "1.0.57",
+        "min_sdk": "21",
+        "target_sdk": "35",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.BLUETOOTH_CONNECT",
+            "android.permission.BLUETOOTH_SCAN",
+            "android.permission.CAMERA",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_LOGS",
+            "android.permission.READ_MEDIA_IMAGES",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.fakopp.arborsonic3d.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "crc646957603ea1820544.MediaPickerActivity",
+            "crc647e07e7f41d39099e.AboutActivity",
+            "crc647e07e7f41d39099e.CaliperActivity",
+            "crc647e07e7f41d39099e.ChannelMixerActivity",
+            "crc647e07e7f41d39099e.DiagnosticsActivity",
+            "crc647e07e7f41d39099e.GeolocationActivity",
+            "crc647e07e7f41d39099e.ImagesActivity",
+            "crc647e07e7f41d39099e.Layer2DRenderActivity",
+            "crc647e07e7f41d39099e.LayerActivity",
+            "crc647e07e7f41d39099e.LayerGeometryActivity",
+            "crc647e07e7f41d39099e.LayerReadingActivity",
+            "crc647e07e7f41d39099e.MainActivity",
+            "crc647e07e7f41d39099e.ProjectActivity",
+            "crc647e07e7f41d39099e.SendErrorReportActivity",
+            "crc647e07e7f41d39099e.SendLogsActivity",
+            "crc647e07e7f41d39099e.SensorDistancesActivity",
+            "crc647e07e7f41d39099e.SettingsActivity",
+            "crc647e07e7f41d39099e.TaxonomySearchActivity",
+            "crc647e07e7f41d39099e.ViewGeometryActivity",
+            "crc64a0e0a82d0db9a07d.IntermediateActivity",
+            "crc64a0e0a82d0db9a07d.WebAuthenticatorIntermediateActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "crc64a0e0a82d0db9a07d.BatteryBroadcastReceiver",
+            "crc64a0e0a82d0db9a07d.ConnectivityBroadcastReceiver",
+            "crc64a0e0a82d0db9a07d.EnergySaverBroadcastReceiver",
+            "crc64a3bf2e8c3373d333.UsbBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.BLUETOOTH_ADMIN": "normal",
+            "android.permission.BLUETOOTH_CONNECT": "dangerous",
+            "android.permission.BLUETOOTH_SCAN": "dangerous",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_LOGS": "unlaballed",
+            "android.permission.READ_MEDIA_IMAGES": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.fakopp.arborsonic3d.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 8,
+            "normal": 8,
+            "unlaballed": 1,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 328
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 18.85,
+        "sources_present": true,
+        "java_file_count": 3062
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 0,
+        "camera": 4,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 5,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 3,
+            "scheduling_apis": 16,
+            "dynamic_code": 133
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 160
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 8,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 132
+        }
+    }
+}

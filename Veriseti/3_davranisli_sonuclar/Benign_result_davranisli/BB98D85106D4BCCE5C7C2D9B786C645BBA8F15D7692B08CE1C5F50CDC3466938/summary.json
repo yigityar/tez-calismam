@@ -1,0 +1,117 @@
+{
+    "apk_name": "BB98D85106D4BCCE5C7C2D9B786C645BBA8F15D7692B08CE1C5F50CDC3466938",
+    "sha256": "bb98d85106d4bcce5c7c2d9b786c645bba8f15d7692b08ce1c5f50cdc3466938",
+    "metadata": {
+        "package_name": "com.vfourdev.teca.associationapp.montana",
+        "version_code": "309",
+        "version_name": "3.2.4",
+        "min_sdk": "26",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CALL_PHONE",
+            "android.permission.CHANGE_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WRITE_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.vfourdev.teca.associationapp.montana.permission.C2D_MESSAGE"
+        ],
+        "activities": [
+            "crc646e4160e485228340.LoadingActivity",
+            "crc646e4160e485228340.MainActivity"
+        ],
+        "services": [
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "crc6494e14b9856016c30.PNFirebaseIIDService",
+            "crc6494e14b9856016c30.PNFirebaseMessagingService"
+        ],
+        "receivers": [
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver",
+            "crc6494e14b9856016c30.PushNotificationActionReceiver",
+            "crc6494e14b9856016c30.PushNotificationDeletedReceiver",
+            "crc64cea48322b3427ae9.ConnectivityChangeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CALL_PHONE": "dangerous",
+            "android.permission.CHANGE_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WRITE_SETTINGS": "signature",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.vfourdev.teca.associationapp.montana.permission.C2D_MESSAGE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 2,
+            "signature": 1,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 32
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 11.04,
+        "sources_present": true,
+        "java_file_count": 1582
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 3,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 9,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 9,
+            "dynamic_code": 100
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 121
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 2,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 99
+        }
+    }
+}

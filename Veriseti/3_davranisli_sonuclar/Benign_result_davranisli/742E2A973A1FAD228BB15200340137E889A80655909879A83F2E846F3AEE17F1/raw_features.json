@@ -1,0 +1,96 @@
+{
+    "java_files": [
+        "com/phfund/wallet/R.java",
+        "com/secneo/apkwrapper/b.java",
+        "com/secneo/apkwrapper/H.java",
+        "com/secneo/apkwrapper/AW.java",
+        "com/secneo/apkwrapper/AP.java",
+        "com/secneo/apkwrapper/a.java",
+        "com/secneo/apkwrapper/c.java",
+        "com/secneo/apkwrapper/CP.java"
+    ],
+    "ast_hits_by_file": {
+        "location": [],
+        "microphone": [],
+        "camera": [],
+        "media_projection": [],
+        "dynamic_load": [],
+        "jni": [
+            "com/secneo/apkwrapper/AW.java"
+        ]
+    },
+    "native_libs": [
+        "lib/armeabi-v7a/libYTNextCV.so",
+        "lib/armeabi-v7a/libwb_emulator_check.so",
+        "lib/armeabi-v7a/libdetect.so",
+        "lib/armeabi-v7a/libBugly-webank.so",
+        "lib/armeabi-v7a/libsqlcipher.so",
+        "lib/armeabi-v7a/libmodpng.so",
+        "lib/armeabi-v7a/libDexHelper-x86.so",
+        "lib/armeabi-v7a/libweffmpeg.so",
+        "lib/armeabi-v7a/libantiJDWP.so",
+        "lib/armeabi-v7a/libDexHelper.so",
+        "lib/armeabi-v7a/libmodft2.so",
+        "lib/armeabi-v7a/libc++_shared.so",
+        "lib/armeabi-v7a/libmodpdfium.so",
+        "lib/armeabi-v7a/libfindEmulator.so",
+        "lib/armeabi-v7a/libdexjni.so",
+        "lib/armeabi-v7a/libweyuv.so",
+        "lib/armeabi-v7a/libjniPdfium.so",
+        "lib/armeabi-v7a/libtinyLib.so",
+        "lib/armeabi-v7a/libYTFaceReflect.so",
+        "lib/arm64-v8a/libYTNextCV.so",
+        "lib/arm64-v8a/libwb_emulator_check.so",
+        "lib/arm64-v8a/libdetect.so",
+        "lib/arm64-v8a/libBugly-webank.so",
+        "lib/arm64-v8a/libsqlcipher.so",
+        "lib/arm64-v8a/libmodpng.so",
+        "lib/arm64-v8a/libDexHelper-x86.so",
+        "lib/arm64-v8a/libweffmpeg.so",
+        "lib/arm64-v8a/libantiJDWP.so",
+        "lib/arm64-v8a/libDexHelper.so",
+        "lib/arm64-v8a/libmodft2.so",
+        "lib/arm64-v8a/libc++_shared.so",
+        "lib/arm64-v8a/libmodpdfium.so",
+        "lib/arm64-v8a/libfindEmulator.so",
+        "lib/arm64-v8a/libdexjni.so",
+        "lib/arm64-v8a/libweyuv.so",
+        "lib/arm64-v8a/libjniPdfium.so",
+        "lib/arm64-v8a/libtinyLib.so",
+        "lib/arm64-v8a/libYTFaceReflect.so"
+    ],
+    "dex_files_count": 1,
+    "exported_components": {
+        "activities": [
+            "androidx.biometric.DeviceCredentialHandlerActivity",
+            "cn.sunline.component.plus.tinyshare.wxapi.WXEntryActivity",
+            "cn.sunline.tiny.ui.MainActivity",
+            "cn.sunline.tiny.ui.SplashActivity",
+            "cn.sunline.ui.frame.CameraActivity",
+            "cn.sunline.ui.frame.OutLinkActivity",
+            "cn.sunline.ui.frame.TinyActivity",
+            "cn.sunline.ui.frame.WebActivity",
+            "com.tencent.connect.common.AssistActivity",
+            "com.tencent.tauth.AuthActivity",
+            "com.theartofdev.edmodo.cropper.CropImageActivity",
+            "com.webank.facelight.ui.FaceGuideActivity",
+            "com.webank.facelight.ui.FaceProtocalActivity",
+            "com.webank.facelight.ui.FaceVerifyActivity",
+            "com.webank.mbank.ocr.ui.CaptureActivity",
+            "com.webank.mbank.ocr.ui.FaceProtocalActivity",
+            "com.webank.mbank.ocr.ui.IDCardEditActivity",
+            "com.webank.mbank.ocr.ui.VehicleLicenseActivity",
+            "com.yanzhenjie.permission.bridge.BridgeActivity",
+            "me.nereo.multi_image_selector.MultiImageSelectorActivity"
+        ],
+        "services": [
+            "cn.sunline.transfer.core.InnerProcessTransferService",
+            "com.tencent.smtt.export.external.DexClassLoaderProviderService",
+            "com.webank.mbank.securecheck.EmulatorCheckService",
+            "com.yanzhenjie.permission.bridge.BridgeService"
+        ],
+        "receivers": [
+            "cn.sunline.component.security.managers.BackgroundTimingReceiver"
+        ]
+    }
+}

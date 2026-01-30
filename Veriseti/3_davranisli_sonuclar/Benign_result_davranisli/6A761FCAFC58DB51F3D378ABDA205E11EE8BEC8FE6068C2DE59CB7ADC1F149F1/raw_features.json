@@ -1,0 +1,67 @@
+{
+    "java_files": [],
+    "ast_hits_by_file": {
+        "location": [],
+        "microphone": [],
+        "camera": [],
+        "media_projection": [],
+        "dynamic_load": [],
+        "jni": []
+    },
+    "native_libs": [
+        "lib/arm64-v8a/libandroid_aware_dlopen.so",
+        "lib/arm64-v8a/libbreakpad_cpp_helper.so",
+        "lib/arm64-v8a/libc++_shared.so",
+        "lib/arm64-v8a/libdistract.so",
+        "lib/arm64-v8a/libfb_xzdecoder.so",
+        "lib/arm64-v8a/libfbunwindstack.so",
+        "lib/arm64-v8a/libforce_dlopen.so",
+        "lib/arm64-v8a/liblinkerutils.so",
+        "lib/arm64-v8a/liblmkd_detector_binary.so",
+        "lib/arm64-v8a/libmemalign16.so",
+        "lib/arm64-v8a/libsigmux.so",
+        "lib/arm64-v8a/libsuperpack-jni.so",
+        "lib/arm64-v8a/libunwindstack_binary.so",
+        "lib/arm64-v8a/libwatcher_binary.so"
+    ],
+    "dex_files_count": 1,
+    "exported_components": {
+        "activities": [
+            "com.facebook.adsmanager.AdsManagerActivity",
+            "com.facebook.adsmanager.AdsManagerLoginActivity",
+            "com.facebook.flipper.android.diagnostics.FlipperDiagnosticActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+        ],
+        "services": [
+            "com.facebook.analytics2.logger.AlarmBasedUploadService",
+            "com.facebook.analytics2.logger.GooglePlayUploadService",
+            "com.facebook.analytics2.logger.LollipopUploadService",
+            "com.facebook.analytics2.logger.service.LollipopUploadSafeService",
+            "com.facebook.appcomponentmanager.AppComponentManagerService",
+            "com.facebook.fbreact.autoupdater.okhttp.OkHttpUpdateService",
+            "com.facebook.pushlite.PushLiteFallbackJobService",
+            "com.facebook.pushlite.PushLiteGCMJobService",
+            "com.facebook.pushlite.PushLiteLollipopJobService",
+            "com.facebook.pushlite.tokenprovider.fcm.PushLiteFcmListenerService",
+            "com.facebook.pushlite.tokenprovider.fcm.PushLiteFirebaseMessagingService",
+            "com.facebook.reportaproblem.base.bugreport.BugReportUploadService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService"
+        ],
+        "receivers": [
+            "com.facebook.analytics2.logger.HighPriUploadRetryReceiver",
+            "com.facebook.appcomponentmanager.testreceivers.AppComponentManagerTestingReceiver",
+            "com.facebook.appcomponentmanager.testreceivers.FirstEnableStageTestReceiver",
+            "com.facebook.appcomponentmanager.testreceivers.SecondEnableStageTestReceiver",
+            "com.facebook.catalyst.appcomponentmanager.CatalystAppComponentReceiver",
+            "com.facebook.errorreporting.lacrima.detector.broadcast.LockScreenBroadcastReceiver",
+            "com.facebook.errorreporting.lacrima.detector.broadcast.SecureShutdownBootBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ]
+    }
+}

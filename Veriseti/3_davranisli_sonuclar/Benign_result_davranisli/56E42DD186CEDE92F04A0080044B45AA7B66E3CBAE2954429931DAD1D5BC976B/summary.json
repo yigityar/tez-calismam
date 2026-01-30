@@ -1,0 +1,168 @@
+{
+    "apk_name": "56E42DD186CEDE92F04A0080044B45AA7B66E3CBAE2954429931DAD1D5BC976B",
+    "sha256": "56e42dd186cede92f04a0080044b45aa7b66e3cbae2954429931dad1d5bc976b",
+    "metadata": {
+        "package_name": "com.ufide.FideApp",
+        "version_code": "54",
+        "version_name": "2.29.11",
+        "min_sdk": "23",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.DEFAULT",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.INJECT_EVENTS",
+            "android.permission.INTERNET",
+            "android.permission.LOCATION_HARDWARE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+        ],
+        "activities": [
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc647712b9337516a8e7.CampusVirtualActivity",
+            "crc647712b9337516a8e7.EmailActivity",
+            "crc647712b9337516a8e7.EmploymentExchangeActivity",
+            "crc647712b9337516a8e7.LibraryActivity",
+            "crc647712b9337516a8e7.OfficeActivity",
+            "crc647712b9337516a8e7.OneDriveActivity",
+            "crc647712b9337516a8e7.SistemaAcademicoActivity",
+            "crc647712b9337516a8e7.SistemaAcademicoTecnicosActivity",
+            "crc647712b9337516a8e7.TeacherEvaluationActivity",
+            "crc647712b9337516a8e7.TeamsActivity",
+            "crc6480997b3ef81bf9b2.ZxingActivity",
+            "crc648316b0a9aa8cfd61.BrowserTabActivity",
+            "crc64a0e0a82d0db9a07d.IntermediateActivity",
+            "crc64bc217d93c793b960.MainActivity",
+            "crc64bc217d93c793b960.NotificationActivity",
+            "crc64bc217d93c793b960.SplashActivity",
+            "crc64ed1888fb4925e3b7.AuthenticationAgentActivity",
+            "microsoft.identity.client.AuthenticationActivity"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.microsoft.windowsazure.messaging.notificationhubs.FirebaseReceiver",
+            "crc64bc217d93c793b960.FirebaseService"
+        ],
+        "receivers": [
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver",
+            "crc6456a9356549cdfbbb.AlarmBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.DEFAULT": "unknown",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.INJECT_EVENTS": "unknown",
+            "android.permission.INTERNET": "normal",
+            "android.permission.LOCATION_HARDWARE": "unlaballed",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.anddoes.launcher.permission.UPDATE_COUNT": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.htc.launcher.permission.READ_SETTINGS": "unknown",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT": "unknown",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE": "unknown",
+            "com.huawei.android.launcher.permission.READ_SETTINGS": "unknown",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS": "signature",
+            "com.majeur.launcher.permission.UPDATE_BADGE": "unknown",
+            "com.sec.android.provider.badge.permission.READ": "unknown",
+            "com.sec.android.provider.badge.permission.WRITE": "unknown",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE": "unknown",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 6,
+            "normal": 3,
+            "unknown": 14,
+            "unlaballed": 1,
+            "signature": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 28
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 17.24,
+        "sources_present": true,
+        "java_file_count": 3852
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 2,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 9,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 1,
+            "scheduling_apis": 13,
+            "dynamic_code": 133
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 157
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 2,
+            "handler_loop": 9,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 132
+        }
+    }
+}

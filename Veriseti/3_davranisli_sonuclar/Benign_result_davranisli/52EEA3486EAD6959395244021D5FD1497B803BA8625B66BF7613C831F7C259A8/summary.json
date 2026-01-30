@@ -1,0 +1,118 @@
+{
+    "apk_name": "52EEA3486EAD6959395244021D5FD1497B803BA8625B66BF7613C831F7C259A8",
+    "sha256": "52eea3486ead6959395244021d5fd1497b803ba8625b66bf7613c831f7c259a8",
+    "metadata": {
+        "package_name": "com.bibliaquadrangular.android",
+        "version_code": "20220103",
+        "version_name": "03-01-2022",
+        "min_sdk": "9",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "com.bibliaquadrangular.android.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "com.bibliaquadrangular.android.main",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.purchase.InAppPurchaseActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ],
+        "services": [
+            "anywheresoftware.b4a.objects.FirebaseNotificationsService",
+            "com.bibliaquadrangular.android.firebasemessaging",
+            "com.bibliaquadrangular.android.httputils2service",
+            "com.bibliaquadrangular.android.starter",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService"
+        ],
+        "receivers": [
+            "com.bibliaquadrangular.android.firebasemessaging$firebasemessaging_BR",
+            "com.bibliaquadrangular.android.httputils2service$httputils2service_BR",
+            "com.bibliaquadrangular.android.starter$starter_BR",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.bibliaquadrangular.android.permission.C2D_MESSAGE": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 29.57,
+        "sources_present": true,
+        "java_file_count": 7435
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 25,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 1,
+            "system_commands": 2,
+            "webview_interop": 9,
+            "content_access": 22,
+            "audio_control": 3,
+            "vibration": 1,
+            "network_io": 9,
+            "scheduling_apis": 39,
+            "dynamic_code": 281
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 367
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 17,
+            "handler_loop": 19,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 11,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 4,
+            "reflection": 281
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "apk_name": "FB59286A3A54C70C31160C3D6A3C603BF6B078CAAC965FD6C15E24F901C74A7E",
+    "sha256": "fb59286a3a54c70c31160c3d6a3c603bf6b078caac965fd6c15e24f901c74a7e",
+    "metadata": {
+        "package_name": "com.ensightplus.tools",
+        "version_code": "68",
+        "version_name": "2.0.17",
+        "min_sdk": "24",
+        "target_sdk": "34",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.BLUETOOTH_ADVERTISE",
+            "android.permission.BLUETOOTH_CONNECT",
+            "android.permission.BLUETOOTH_SCAN",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "com.ensightplus.tools.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc64ba438d8f48cf7e75.IntermediateActivity",
+            "test.ensightplus.tools.MainActivity"
+        ],
+        "services": [
+            "androidx.camera.core.impl.MetadataHolderService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "crc640a8d9a12ddbf2cf2.EnergySaverBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.BLUETOOTH_ADMIN": "normal",
+            "android.permission.BLUETOOTH_ADVERTISE": "dangerous",
+            "android.permission.BLUETOOTH_CONNECT": "dangerous",
+            "android.permission.BLUETOOTH_SCAN": "dangerous",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "com.ensightplus.tools.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 6,
+            "normal": 4,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 767
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 38.32,
+        "sources_present": true,
+        "java_file_count": 8915
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 2,
+        "camera": 30,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 8
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 3,
+            "microphone": 1,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 13,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 1,
+            "scheduling_apis": 22,
+            "dynamic_code": 227
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 270
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 5,
+            "handler_loop": 16,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 3,
+            "dynamic_loading": 0,
+            "reflection": 224
+        }
+    }
+}

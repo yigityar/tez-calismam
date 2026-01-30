@@ -1,0 +1,163 @@
+{
+    "apk_name": "5DE92F851131A236651F332E105C31B8436761DB45EE2EDA0437AD4CD5FD1E0B",
+    "sha256": "5de92f851131a236651f332e105c31b8436761db45ee2eda0437ad4cd5fd1e0b",
+    "metadata": {
+        "package_name": "com.drakeet.purewriter",
+        "version_code": "1202000492",
+        "version_name": "20.4.11",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"
+        ],
+        "activities": [
+            "com.alipay.sdk.app.AlipayResultActivity",
+            "com.alipay.sdk.app.H5AuthActivity",
+            "com.alipay.sdk.app.H5PayActivity",
+            "com.alipay.sdk.app.PayResultActivity",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.commit451.driveappfolderviewer.DriveAppFileViewerActivity",
+            "com.commit451.driveappfolderviewer.DriveAppFolderViewerActivity",
+            "com.drakeet.purewriter.AboutActivity",
+            "com.drakeet.purewriter.BackupIntentHandler",
+            "com.drakeet.purewriter.BackupsActivity",
+            "com.drakeet.purewriter.BadgeSettingsActivity",
+            "com.drakeet.purewriter.DailyActivity",
+            "com.drakeet.purewriter.DatabaseDowngradeError",
+            "com.drakeet.purewriter.HistoryActivity",
+            "com.drakeet.purewriter.ImportedIntentHandler",
+            "com.drakeet.purewriter.LandscapeSettingsActivity",
+            "com.drakeet.purewriter.ManageSpaceActivity",
+            "com.drakeet.purewriter.OpenFolderInMaterialFilesActivity",
+            "com.drakeet.purewriter.PaperSelectorActivity",
+            "com.drakeet.purewriter.PaperSettingsActivity",
+            "com.drakeet.purewriter.PieActivity",
+            "com.drakeet.purewriter.PreviewActivity",
+            "com.drakeet.purewriter.Pro",
+            "com.drakeet.purewriter.SettingsActivity",
+            "com.drakeet.purewriter.StorageRequestActivity",
+            "com.drakeet.purewriter.TtsSettingsActivity",
+            "com.drakeet.purewriter.WriterActivity",
+            "com.dropbox.core.android.AuthActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.karumi.dexter.DexterActivity",
+            "com.yanzhenjie.permission.PermissionActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.gcm.WorkManagerGcmService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.drakeet.purewriter.ArticleSaverIntentService",
+            "com.drakeet.purewriter.AutoBackupService",
+            "com.drakeet.purewriter.DesktopService",
+            "com.drakeet.purewriter.MainTileService",
+            "com.drakeet.purewriter.MigrationService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.drakeet.purewriter.NotificationHandler"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.USE_FINGERPRINT": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.vending.BILLING": "unknown",
+            "com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY": "unknown"
+        },
+        "risk_counts": {
+            "normal": 8,
+            "dangerous": 2,
+            "unknown": 4
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 13
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 53.61,
+        "sources_present": true,
+        "java_file_count": 7841
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 33,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 4
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 5,
+            "webview_interop": 2,
+            "content_access": 14,
+            "audio_control": 0,
+            "vibration": 1,
+            "network_io": 6,
+            "scheduling_apis": 417,
+            "dynamic_code": 333
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 778
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 4,
+            "handler_loop": 412,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 21,
+            "user_triggered": 8
+        },
+        "dynamic_features": {
+            "jni_usage": 3,
+            "dynamic_loading": 0,
+            "reflection": 330
+        }
+    }
+}

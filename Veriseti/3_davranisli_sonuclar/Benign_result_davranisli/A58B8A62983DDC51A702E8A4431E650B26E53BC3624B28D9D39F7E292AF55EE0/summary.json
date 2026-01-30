@@ -1,0 +1,125 @@
+{
+    "apk_name": "A58B8A62983DDC51A702E8A4431E650B26E53BC3624B28D9D39F7E292AF55EE0",
+    "sha256": "a58b8a62983ddc51a702e8a4431e650b26e53bc3624b28d9d39f7e292af55ee0",
+    "metadata": {
+        "package_name": "com.artifexmundi.enigmatis2.gp.free",
+        "version_code": "50046",
+        "version_name": "2.6",
+        "min_sdk": "17",
+        "target_sdk": "36",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.artifexmundi.enigmatis2.gp.free.Enigmatis2Activity",
+            "com.artifexmundi.launcher.LauncherActivity",
+            "com.google.android.gms.appinvite.PreviewActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.firebase.auth.internal.FederatedSignInActivity"
+        ],
+        "services": [
+            "com.google.android.gms.analytics.AnalyticsService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService"
+        ],
+        "receivers": [
+            "com.artifexmundi.launcher.LauncherReceiver",
+            "com.artifexmundi.spark.kernel.InstallReferrerReceiver",
+            "com.google.android.gms.analytics.AnalyticsReceiver",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.vending.CHECK_LICENSE": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 2,
+            "unknown": 4
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 8
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 20.65,
+        "sources_present": true,
+        "java_file_count": 5274
+    },
+    "ast_analysis": {
+        "location": 4,
+        "microphone": 0,
+        "camera": 13,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 2
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 4,
+            "content_access": 10,
+            "audio_control": 1,
+            "vibration": 1,
+            "network_io": 3,
+            "scheduling_apis": 16,
+            "dynamic_code": 170
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 205
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 8,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 169
+        }
+    }
+}

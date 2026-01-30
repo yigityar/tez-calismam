@@ -1,0 +1,136 @@
+{
+    "apk_name": "2FFBC68F080A90A3C44BF414AA75760E4B62B2998C729687F6DC1661B1AEC30B",
+    "sha256": "2ffbc68f080a90a3c44bf414aa75760e4b62b2998c729687f6dc1661b1aec30b",
+    "metadata": {
+        "package_name": "br.com.as2.recadosamor",
+        "version_code": "470",
+        "version_name": "4.7",
+        "min_sdk": "23",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "br.com.as2.recadosamor.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "br.com.as2.recadosamor.permission.C2D_MESSAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "br.com.as2.recadosamor.assinatura",
+            "br.com.as2.recadosamor.main",
+            "br.com.as2.recadosamor.msgerro",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.purchase.InAppPurchaseActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ],
+        "services": [
+            "anywheresoftware.b4a.objects.FirebaseNotificationsService",
+            "br.com.as2.recadosamor.alarme",
+            "br.com.as2.recadosamor.firebasemessaging",
+            "br.com.as2.recadosamor.httputils2service",
+            "br.com.as2.recadosamor.servicejobs",
+            "br.com.as2.recadosamor.starter",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService"
+        ],
+        "receivers": [
+            "br.com.as2.recadosamor.alarme$alarme_BR",
+            "br.com.as2.recadosamor.firebasemessaging$firebasemessaging_BR",
+            "br.com.as2.recadosamor.httputils2service$httputils2service_BR",
+            "br.com.as2.recadosamor.servicejobs$servicejobs_BR",
+            "br.com.as2.recadosamor.starter$starter_BR",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.SCHEDULE_EXACT_ALARM": "signature",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "br.com.as2.recadosamor.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "br.com.as2.recadosamor.permission.C2D_MESSAGE": "unknown",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "signature": 1,
+            "unknown": 6
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 32.46,
+        "sources_present": true,
+        "java_file_count": 8813
+    },
+    "ast_analysis": {
+        "location": 8,
+        "microphone": 0,
+        "camera": 26,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 1,
+            "system_commands": 3,
+            "webview_interop": 9,
+            "content_access": 24,
+            "audio_control": 3,
+            "vibration": 1,
+            "network_io": 11,
+            "scheduling_apis": 51,
+            "dynamic_code": 385
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 491
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 17,
+            "handler_loop": 31,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 21,
+            "user_triggered": 1
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 4,
+            "reflection": 385
+        }
+    }
+}

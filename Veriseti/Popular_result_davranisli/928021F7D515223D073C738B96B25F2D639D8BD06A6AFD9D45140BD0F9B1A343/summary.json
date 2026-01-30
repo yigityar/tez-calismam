@@ -1,0 +1,112 @@
+{
+    "apk_name": "928021F7D515223D073C738B96B25F2D639D8BD06A6AFD9D45140BD0F9B1A343",
+    "sha256": "928021f7d515223d073c738b96b25f2d639d8bd06a6afd9d45140bd0f9b1a343",
+    "metadata": {
+        "package_name": "com.king.candycrushsaga",
+        "version_code": "104001",
+        "version_name": "1.40.0",
+        "min_sdk": "9",
+        "target_sdk": "15",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.king.candycrushsaga.permission.C2D_MESSAGE",
+            "com.king.cross.kingapp.provider.ACCESS"
+        ],
+        "activities": [
+            "com.facebook.LoginActivity",
+            "com.king.candycrushsaga.CandyCrushSagaActivity"
+        ],
+        "services": [
+            "com.google.analytics.tracking.android.CampaignTrackingService",
+            "com.king.candycrushsaga.MyAlarmService",
+            "com.king.core.AlarmService",
+            "com.king.core.GCMIntentService",
+            "com.king.store.billing.BillingService"
+        ],
+        "receivers": [
+            "com.amazon.inapp.purchasing.ResponseReceiver",
+            "com.king.candycrushsaga.MyGCMBroadcastReceiver",
+            "com.king.core.ReferrerReceiver",
+            "com.king.store.billing.BillingReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.king.candycrushsaga.permission.C2D_MESSAGE": "unknown",
+            "com.king.cross.kingapp.provider.ACCESS": "unknown"
+        },
+        "risk_counts": {
+            "normal": 4,
+            "dangerous": 1,
+            "unknown": 4
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 1
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 10.27,
+        "sources_present": true,
+        "java_file_count": 1120
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 0,
+        "camera": 10,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 9,
+            "content_access": 6,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 4,
+            "scheduling_apis": 9,
+            "dynamic_code": 37
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 66
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 3,
+            "handler_loop": 6,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 2,
+            "reflection": 36
+        }
+    }
+}

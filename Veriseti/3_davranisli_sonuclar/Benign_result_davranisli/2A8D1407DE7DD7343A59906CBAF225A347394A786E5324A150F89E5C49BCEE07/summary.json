@@ -1,0 +1,153 @@
+{
+    "apk_name": "2A8D1407DE7DD7343A59906CBAF225A347394A786E5324A150F89E5C49BCEE07",
+    "sha256": "2a8d1407de7dd7343a59906cbaf225a347394a786e5324a150f89e5c49bcee07",
+    "metadata": {
+        "package_name": "com.drmaxmuscle.dr_max_muscle",
+        "version_code": "2036",
+        "version_name": "2.6",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_SURFACE_FLINGER",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.ANSWER_PHONE_CALLS",
+            "android.permission.BIND_CHOOSER_TARGET_SERVICE",
+            "android.permission.BIND_DREAM_SERVICE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.REBOOT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.alarm.permission.SET_ALARM",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.facebook.CustomTabActivity",
+            "com.facebook.CustomTabMainActivity",
+            "com.facebook.FacebookActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc6492e3dfc318e0c3db.MainActivity",
+            "crc6492e3dfc318e0c3db.SplashActivity"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "crc6494e14b9856016c30.PNFirebaseMessagingService"
+        ],
+        "receivers": [
+            "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc641c164f844fce4a73.AlarmReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver",
+            "crc6494e14b9856016c30.PushNotificationActionReceiver",
+            "crc6494e14b9856016c30.PushNotificationDeletedReceiver",
+            "crc64cea48322b3427ae9.ConnectivityChangeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_SURFACE_FLINGER": "unknown",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.ACTIVITY_RECOGNITION": "dangerous",
+            "android.permission.ANSWER_PHONE_CALLS": "dangerous",
+            "android.permission.BIND_CHOOSER_TARGET_SERVICE": "signature",
+            "android.permission.BIND_DREAM_SERVICE": "signature",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.REBOOT": "unknown",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.SYSTEM_ALERT_WINDOW": "signature",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.alarm.permission.SET_ALARM": "normal",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 6,
+            "normal": 7,
+            "unknown": 5,
+            "signature": 3
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 32
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 26.24,
+        "sources_present": true,
+        "java_file_count": 5703
+    },
+    "ast_analysis": {
+        "location": 2,
+        "microphone": 0,
+        "camera": 8,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 1,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 6,
+            "content_access": 16,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 3,
+            "scheduling_apis": 36,
+            "dynamic_code": 217
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 282
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 9,
+            "handler_loop": 25,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 216
+        }
+    }
+}

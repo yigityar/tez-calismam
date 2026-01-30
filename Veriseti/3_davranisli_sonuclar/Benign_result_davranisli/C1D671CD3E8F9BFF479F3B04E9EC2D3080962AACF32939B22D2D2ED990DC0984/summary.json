@@ -1,0 +1,103 @@
+{
+    "apk_name": "C1D671CD3E8F9BFF479F3B04E9EC2D3080962AACF32939B22D2D2ED990DC0984",
+    "sha256": "c1d671cd3e8f9bff479f3b04e9ec2d3080962aacf32939b22d2d2ed990dc0984",
+    "metadata": {
+        "package_name": "air.App2Eleven.LogicGamePuzzlesPhysics",
+        "version_code": "1564000",
+        "version_name": "1.564",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "activities": [
+            "air.App2Eleven.LogicGamePuzzlesPhysics.AppEntry",
+            "com.google.android.gms.ads.AdActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "com.google.android.gms.ads.AdService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous"
+        },
+        "risk_counts": {
+            "normal": 3,
+            "dangerous": 1
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 3
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 33.72,
+        "sources_present": true,
+        "java_file_count": 7986
+    },
+    "ast_analysis": {
+        "location": 2,
+        "microphone": 0,
+        "camera": 16,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 2
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 1,
+            "microphone": 1,
+            "location": 2,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 3,
+            "webview_interop": 13,
+            "content_access": 16,
+            "audio_control": 1,
+            "vibration": 1,
+            "network_io": 6,
+            "scheduling_apis": 29,
+            "dynamic_code": 264
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 337
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 11,
+            "handler_loop": 16,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 3,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 8,
+            "reflection": 263
+        }
+    }
+}

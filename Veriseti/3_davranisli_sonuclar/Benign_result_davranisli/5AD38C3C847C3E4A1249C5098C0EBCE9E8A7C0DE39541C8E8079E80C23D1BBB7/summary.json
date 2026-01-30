@@ -1,0 +1,125 @@
+{
+    "apk_name": "5AD38C3C847C3E4A1249C5098C0EBCE9E8A7C0DE39541C8E8079E80C23D1BBB7",
+    "sha256": "5ad38c3c847c3e4a1249c5098c0ebce9e8a7c0de39541c8e8079e80c23d1bbb7",
+    "metadata": {
+        "package_name": "uk.co.interactiveinvestor.apps.iiandroidapp",
+        "version_code": "1687775181",
+        "version_name": "6.2.0",
+        "min_sdk": "27",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID",
+            "uk.co.interactiveinvestor.apps.iiandroidapp.deveventspermission"
+        ],
+        "activities": [
+            "com.auth0.react.AuthenticationActivity",
+            "com.auth0.react.RedirectActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.gms.tagmanager.TagManagerPreviewActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+            "com.proyecto26.inappbrowser.ChromeTabsManagerActivity",
+            "com.usabilla.sdk.ubform.screenshot.UbScreenshotActivity",
+            "uk.co.j66ed0977.gae33f53d.c93078885.g364e3c5a"
+        ],
+        "services": [
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.android.gms.tagmanager.TagManagerService",
+            "com.google.android.play.core.assetpacks.AssetPackExtractionService",
+            "com.google.android.play.core.assetpacks.ExtractionForegroundService",
+            "com.google.firebase.components.ComponentDiscoveryService"
+        ],
+        "receivers": [
+            "com.google.android.gms.measurement.AppMeasurementReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.USE_BIOMETRIC": "normal",
+            "android.permission.USE_FINGERPRINT": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown",
+            "uk.co.interactiveinvestor.apps.iiandroidapp.deveventspermission": "unknown"
+        },
+        "risk_counts": {
+            "normal": 7,
+            "dangerous": 1,
+            "unknown": 4
+        }
+    },
+    "stats": {
+        "dex_count": 5,
+        "native_lib_count": 122
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 46.06,
+        "sources_present": true,
+        "java_file_count": 9603
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 2,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 4,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 3,
+            "webview_interop": 2,
+            "content_access": 21,
+            "audio_control": 1,
+            "vibration": 2,
+            "network_io": 24,
+            "scheduling_apis": 57,
+            "dynamic_code": 233
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 347
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 8,
+            "handler_loop": 47,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 3
+        },
+        "dynamic_features": {
+            "jni_usage": 8,
+            "dynamic_loading": 0,
+            "reflection": 225
+        }
+    }
+}

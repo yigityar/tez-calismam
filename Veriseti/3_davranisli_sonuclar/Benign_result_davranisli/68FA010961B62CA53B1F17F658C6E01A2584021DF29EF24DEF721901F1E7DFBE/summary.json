@@ -1,0 +1,77 @@
+{
+    "apk_name": "68FA010961B62CA53B1F17F658C6E01A2584021DF29EF24DEF721901F1E7DFBE",
+    "sha256": "68fa010961b62ca53b1f17f658c6e01a2584021df29ef24def721901f1e7dfbe",
+    "metadata": {
+        "package_name": "com.github.msx80.doorsofdoom",
+        "version_code": "1",
+        "version_name": "0.0.4",
+        "min_sdk": "26",
+        "target_sdk": null,
+        "permissions": [],
+        "activities": [
+            "com.github.msx80.omicron.AndroidLauncher",
+            "com.github.msx80.omicron.CrashActivity"
+        ],
+        "services": [],
+        "receivers": [],
+        "permission_details": {},
+        "risk_counts": {}
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 2
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 10.86,
+        "sources_present": true,
+        "java_file_count": 1115
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 1,
+        "camera": 5,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 1,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 2,
+            "webview_interop": 0,
+            "content_access": 0,
+            "audio_control": 0,
+            "vibration": 1,
+            "network_io": 2,
+            "scheduling_apis": 0,
+            "dynamic_code": 12
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 18
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 0,
+            "handler_loop": 0,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 11
+        }
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "apk_name": "CA31D687DB41D5629157BDB932B4B946EB52F9E4787346D1473298F3477B0841",
+    "sha256": "ca31d687db41d5629157bdb932b4b946eb52f9e4787346d1473298f3477b0841",
+    "metadata": {
+        "package_name": "owsianowski.b4a.ice",
+        "version_code": "359",
+        "version_name": "8.7.1",
+        "min_sdk": "11",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.GetAllSafeDirsExternal",
+            "android.permission.INTERNET",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "owsianowski.b4a.ice.betreuer",
+            "owsianowski.b4a.ice.betreutepers",
+            "owsianowski.b4a.ice.corona",
+            "owsianowski.b4a.ice.dasi",
+            "owsianowski.b4a.ice.drucken",
+            "owsianowski.b4a.ice.dsgvo1",
+            "owsianowski.b4a.ice.einstellungen",
+            "owsianowski.b4a.ice.erkrankungen",
+            "owsianowski.b4a.ice.fa_menupunkte",
+            "owsianowski.b4a.ice.fachaerzte",
+            "owsianowski.b4a.ice.formulare",
+            "owsianowski.b4a.ice.forum",
+            "owsianowski.b4a.ice.hausarzt",
+            "owsianowski.b4a.ice.haustiere",
+            "owsianowski.b4a.ice.hilfsmittel",
+            "owsianowski.b4a.ice.ich",
+            "owsianowski.b4a.ice.impfungen",
+            "owsianowski.b4a.ice.implantate",
+            "owsianowski.b4a.ice.main",
+            "owsianowski.b4a.ice.medis",
+            "owsianowski.b4a.ice.mediunver",
+            "owsianowski.b4a.ice.minkinder",
+            "owsianowski.b4a.ice.notfall",
+            "owsianowski.b4a.ice.notfallkarten",
+            "owsianowski.b4a.ice.notfallperson",
+            "owsianowski.b4a.ice.notnummern",
+            "owsianowski.b4a.ice.operationen",
+            "owsianowski.b4a.ice.pdfreader",
+            "owsianowski.b4a.ice.pflegedienst",
+            "owsianowski.b4a.ice.pincode",
+            "owsianowski.b4a.ice.psyche",
+            "owsianowski.b4a.ice.schmerzen",
+            "owsianowski.b4a.ice.schnitzel",
+            "owsianowski.b4a.ice.spende",
+            "owsianowski.b4a.ice.sprachanweisung",
+            "owsianowski.b4a.ice.tabtest",
+            "owsianowski.b4a.ice.taschenlampe",
+            "owsianowski.b4a.ice.textgross",
+            "owsianowski.b4a.ice.ueber",
+            "owsianowski.b4a.ice.wfragen"
+        ],
+        "services": [
+            "owsianowski.b4a.ice.benachrichtigungen",
+            "owsianowski.b4a.ice.myservice",
+            "owsianowski.b4a.ice.ortung",
+            "owsianowski.b4a.ice.packagereplaced",
+            "owsianowski.b4a.ice.starter",
+            "owsianowski.b4a.ice.widgetservice",
+            "owsianowski.b4a.ice.widgetservice2"
+        ],
+        "receivers": [
+            "owsianowski.b4a.ice.benachrichtigungen$benachrichtigungen_BR",
+            "owsianowski.b4a.ice.myservice$myservice_BR",
+            "owsianowski.b4a.ice.ortung$ortung_BR",
+            "owsianowski.b4a.ice.packagereplaced$packagereplaced_BR",
+            "owsianowski.b4a.ice.starter$starter_BR",
+            "owsianowski.b4a.ice.widgetservice$widgetservice_BR",
+            "owsianowski.b4a.ice.widgetservice2$widgetservice2_BR"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.GetAllSafeDirsExternal": "unknown",
+            "android.permission.INTERNET": "normal",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.RECORD_AUDIO": "dangerous",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.vending.BILLING": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 4,
+            "normal": 5,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 30
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 18.19,
+        "sources_present": true,
+        "java_file_count": 1600
+    },
+    "ast_analysis": {
+        "location": 1,
+        "microphone": 1,
+        "camera": 24,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 5
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 3,
+            "microphone": 1,
+            "location": 1,
+            "torch": 3,
+            "telephony_ops": 1,
+            "system_commands": 3,
+            "webview_interop": 1,
+            "content_access": 22,
+            "audio_control": 3,
+            "vibration": 1,
+            "network_io": 0,
+            "scheduling_apis": 109,
+            "dynamic_code": 435
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 583
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 11,
+            "handler_loop": 98,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 136,
+            "user_triggered": 4
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 434
+        }
+    }
+}

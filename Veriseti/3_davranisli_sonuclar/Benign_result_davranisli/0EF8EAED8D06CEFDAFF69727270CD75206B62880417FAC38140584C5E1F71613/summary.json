@@ -1,0 +1,151 @@
+{
+    "apk_name": "0EF8EAED8D06CEFDAFF69727270CD75206B62880417FAC38140584C5E1F71613",
+    "sha256": "0ef8eaed8d06cefdaff69727270cd75206b62880417fac38140584c5e1f71613",
+    "metadata": {
+        "package_name": "sg.gov.nea",
+        "version_code": "117",
+        "version_name": "3.1.8",
+        "min_sdk": "24",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_CALENDAR",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "permissions.sg.gov.nea.broadcast"
+        ],
+        "activities": [
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.microsoft.appcenter.distribute.DeepLinkActivity",
+            "o.Rq",
+            "o.YH",
+            "sg.gov.nea.ui.MainActivity"
+        ],
+        "services": [
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "o.BasePendingResult",
+            "o.Qp",
+            "o.Qw",
+            "o.getApkVersion",
+            "o.getSettingsIcon",
+            "o.setBackgroundTintBlendMode",
+            "o.setZoomable",
+            "sg.gov.nea.service.UpdateAirQualityWidgetJobService",
+            "sg.gov.nea.service.UpdateMosquitoWidgetJobService",
+            "sg.gov.nea.service.UpdateWeatherWidgetJobService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.microsoft.appcenter.distribute.DownloadManagerReceiver",
+            "o.PV",
+            "o.getUserId",
+            "o.isGooglePlayServicesAvailable",
+            "o.showErrorDialogFragment$AudioAttributesCompatParcelizer",
+            "o.showErrorDialogFragment$RemoteActionCompatParcelizer",
+            "o.showErrorDialogFragment$read",
+            "o.showErrorDialogFragment$write",
+            "sg.gov.nea.widget.AirQualityWidgetProvider",
+            "sg.gov.nea.widget.MosquitoWidgetProvider",
+            "sg.gov.nea.widget.WeatherWidgetMediumProvider",
+            "sg.gov.nea.widget.WeatherWidgetProvider",
+            "sg.gov.nea.widget.WeatherWidgetSmallProvider"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_BACKGROUND_LOCATION": "dangerous",
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_MEDIA_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_CALENDAR": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "permissions.sg.gov.nea.broadcast": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 6,
+            "normal": 5,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 8
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 40.94,
+        "sources_present": true,
+        "java_file_count": 7552
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 8,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 2,
+            "content_access": 9,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 5,
+            "scheduling_apis": 29,
+            "dynamic_code": 573
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 618
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 2,
+            "handler_loop": 21,
+            "job_scheduler": 6
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 572
+        }
+    }
+}

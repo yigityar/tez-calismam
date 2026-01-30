@@ -1,0 +1,98 @@
+{
+    "apk_name": "73B9AE0A6A1BBFD63EFC60F70D6E967DBD3C5EA1F81EF16C4FE204B11FEB20E3",
+    "sha256": "73b9ae0a6a1bbfd63efc60f70d6e967dbd3c5ea1f81ef16c4fe204b11feb20e3",
+    "metadata": {
+        "package_name": "com.weintek",
+        "version_code": "32200028",
+        "version_name": "2.20.28",
+        "min_sdk": "16",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.DEVICE_POWER",
+            "android.permission.INTERNET",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "activities": [
+            "org.qtproject.qt5.android.bindings.QtActivity"
+        ],
+        "services": [],
+        "receivers": [],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.DEVICE_POWER": "unknown",
+            "android.permission.INTERNET": "normal",
+            "android.permission.RECORD_AUDIO": "dangerous",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous"
+        },
+        "risk_counts": {
+            "normal": 4,
+            "dangerous": 3,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 57
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 6.3,
+        "sources_present": true,
+        "java_file_count": 389
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 2,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 0,
+            "content_access": 6,
+            "audio_control": 2,
+            "vibration": 1,
+            "network_io": 0,
+            "scheduling_apis": 7,
+            "dynamic_code": 70
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 87
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 1,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 2,
+            "reflection": 69
+        }
+    }
+}

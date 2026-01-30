@@ -1,0 +1,182 @@
+{
+    "apk_name": "2F7AF7D4208364F5A60230439B3E5B4DB1C7135237B814F966B3BE5F65E9D92B",
+    "sha256": "2f7af7d4208364f5a60230439b3e5b4db1c7135237b814f966b3be5f65e9d92b",
+    "metadata": {
+        "package_name": "de.cashback_by_premiumlizenz",
+        "version_code": "183",
+        "version_name": "4.0.22.183",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FLASHLIGHT",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"
+        ],
+        "activities": [
+            "com.appyet.activity.AboutActivity",
+            "com.appyet.activity.CastExpandedControlsActivity",
+            "com.appyet.activity.DownloadActivity",
+            "com.appyet.activity.ExploreActivity",
+            "com.appyet.activity.FeedItemDetailActivity",
+            "com.appyet.activity.ImageViewerActivity",
+            "com.appyet.activity.IntroActivity",
+            "com.appyet.activity.MainActivity",
+            "com.appyet.activity.SettingsActivity",
+            "com.appyet.activity.VideoPlayerActivity",
+            "com.appyet.activity.WebBrowserActivity",
+            "com.appyet.activity.WhatsNewActivity",
+            "com.appyet.activity.WidgetConfigureActivity",
+            "com.appyet.activity.forum.ForumConversationActivity",
+            "com.appyet.activity.forum.ForumForgetPasswordActivity",
+            "com.appyet.activity.forum.ForumMessageActivity",
+            "com.appyet.activity.forum.ForumNewConversationActivity",
+            "com.appyet.activity.forum.ForumNewMessageActivity",
+            "com.appyet.activity.forum.ForumNewTopicActivity",
+            "com.appyet.activity.forum.ForumPeopleActivity",
+            "com.appyet.activity.forum.ForumProfileActivity",
+            "com.appyet.activity.forum.ForumReplyPostActivity",
+            "com.appyet.activity.forum.ForumSearchActivity",
+            "com.appyet.activity.forum.ForumSettingsActivity",
+            "com.appyet.activity.forum.ForumSignInActivity",
+            "com.appyet.activity.forum.ForumSignUpActivity",
+            "com.appyet.activity.forum.ForumStatisticsActivity",
+            "com.appyet.mediapicker.MultiImageSelectorActivity",
+            "com.facebook.ads.AudienceNetworkActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.just.agentweb.ActionActivity",
+            "com.twitter.sdk.android.core.identity.OAuthActivity",
+            "com.twitter.sdk.android.tweetcomposer.ComposerActivity",
+            "com.twitter.sdk.android.tweetui.GalleryActivity",
+            "com.twitter.sdk.android.tweetui.PlayerActivity",
+            "pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "com.appyet.exoplayer.ExoDownloadService",
+            "com.appyet.service.FCMService",
+            "com.appyet.service.MediaService",
+            "com.appyet.service.SyncService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.exoplayer2.scheduler.PlatformScheduler$PlatformSchedulerService",
+            "com.google.android.gms.ads.AdService",
+            "com.google.android.gms.cast.framework.ReconnectionService",
+            "com.google.android.gms.cast.framework.media.MediaNotificationService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.twitter.sdk.android.tweetcomposer.TweetUploadService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.appyet.provider.WidgetProvider",
+            "com.appyet.provider.WidgetProvider_4_1",
+            "com.appyet.receiver.AlarmHeartBeatReceiver",
+            "com.appyet.receiver.AlarmUpdateReceiver",
+            "com.appyet.receiver.BootCompletedReceiver",
+            "com.appyet.receiver.CommonReceiver",
+            "com.appyet.receiver.DownloadReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.cast.framework.media.MediaIntentReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.FLASHLIGHT": "unknown",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY": "unknown"
+        },
+        "risk_counts": {
+            "normal": 7,
+            "unknown": 4,
+            "dangerous": 2
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 28
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 41.59,
+        "sources_present": true,
+        "java_file_count": 13569
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 53,
+        "media_projection": 2,
+        "dynamic_load": 0,
+        "jni": 3
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 27,
+            "content_access": 21,
+            "audio_control": 4,
+            "vibration": 3,
+            "network_io": 13,
+            "scheduling_apis": 85,
+            "dynamic_code": 374
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 528
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 74,
+            "job_scheduler": 4
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 6
+        },
+        "dynamic_features": {
+            "jni_usage": 3,
+            "dynamic_loading": 6,
+            "reflection": 371
+        }
+    }
+}

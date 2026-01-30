@@ -1,0 +1,97 @@
+{
+    "java_files": [
+        "com/secneo/apkwrapper/b.java",
+        "com/secneo/apkwrapper/H.java",
+        "com/secneo/apkwrapper/AW.java",
+        "com/secneo/apkwrapper/AP.java",
+        "com/secneo/apkwrapper/a.java",
+        "com/secneo/apkwrapper/CP.java",
+        "com/gf/miaoda/R.java"
+    ],
+    "ast_hits_by_file": {
+        "location": [],
+        "microphone": [],
+        "camera": [],
+        "media_projection": [],
+        "dynamic_load": [],
+        "jni": [
+            "com/secneo/apkwrapper/AW.java"
+        ]
+    },
+    "native_libs": [
+        "lib/arm64-v8a/libgifimage.so",
+        "lib/arm64-v8a/libssl.so",
+        "lib/arm64-v8a/libcrypto.so",
+        "lib/arm64-v8a/libopencv_java3.so",
+        "lib/arm64-v8a/libjsc.so",
+        "lib/arm64-v8a/libBugly_Native.so",
+        "lib/arm64-v8a/libjsinspector.so",
+        "lib/arm64-v8a/libfolly_json.so",
+        "lib/arm64-v8a/libglog.so",
+        "lib/arm64-v8a/liblocSDK8b.so",
+        "lib/arm64-v8a/libDexHelper-x86.so",
+        "lib/arm64-v8a/libimagepipeline.so",
+        "lib/arm64-v8a/libglog_init.so",
+        "lib/arm64-v8a/libBaiduMapSDK_base_v7_5_0.so",
+        "lib/arm64-v8a/libDexHelper.so",
+        "lib/arm64-v8a/libBaiduMapSDK_map_v7_5_0.so",
+        "lib/arm64-v8a/libMP_LiveDetection.so",
+        "lib/arm64-v8a/libgnustl_shared.so",
+        "lib/arm64-v8a/libexocrenginec.so",
+        "lib/arm64-v8a/libMPFaceQuality_jni.so",
+        "lib/arm64-v8a/libc++_shared.so",
+        "lib/arm64-v8a/libfb.so",
+        "lib/arm64-v8a/libjscexecutor.so",
+        "lib/arm64-v8a/libdexjni.so",
+        "lib/arm64-v8a/libreactnativejni.so",
+        "lib/arm64-v8a/libMPLicVerify.so",
+        "lib/arm64-v8a/libyoga.so"
+    ],
+    "dex_files_count": 1,
+    "exported_components": {
+        "activities": [
+            "cn.com.gf.push.common.HelperActivity",
+            "com.cmic.sso.sdk.view.LoginAuthActivity",
+            "com.facebook.react.devsupport.DevSettingsActivity",
+            "com.gf.miaoda.wxapi.WXEntryActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.huawei.hms.activity.BridgeActivity",
+            "com.huawei.hms.activity.EnableServiceActivity",
+            "com.huawei.updatesdk.service.otaupdate.AppUpdateActivity",
+            "com.huawei.updatesdk.support.pm.PackageInstallerActivity",
+            "com.micropattern.mpopenaccountui.RecoreVideoNew2Activity",
+            "com.rnstarter.MainActivity",
+            "com.rnstarter.OcrActivity",
+            "com.rnstarter.SplashActivity",
+            "com.vivo.push.sdk.LinkProxyClientActivity",
+            "com.xiaomi.mipush.sdk.NotificationClickedActivity",
+            "exocr.cardrec.CaptureActivity",
+            "exocr.idcard.CaptureActivity"
+        ],
+        "services": [
+            "cn.com.gf.push.common.HelperService",
+            "cn.com.gf.push.common.PnsService",
+            "cn.com.gf.push.huawei.PushHw",
+            "cn.com.gf.push.oppo.OppoReceiver",
+            "com.baidu.location.f",
+            "com.heytap.mcssdk.AppPushService",
+            "com.huawei.agconnect.core.ServiceDiscovery",
+            "com.huawei.hms.support.api.push.service.HmsMsgService",
+            "com.vivo.push.sdk.service.CommandClientService",
+            "com.xiaomi.mipush.sdk.MessageHandleService",
+            "com.xiaomi.mipush.sdk.PushMessageHandler",
+            "com.xiaomi.push.service.XMJobService",
+            "com.xiaomi.push.service.XMPushService"
+        ],
+        "receivers": [
+            "cn.com.gf.push.common.NetStatus",
+            "cn.com.gf.push.rn.RnReceiver",
+            "cn.com.gf.push.vivo.VivoReceiver",
+            "cn.com.gf.push.xiaomi.XmReceiver",
+            "com.huawei.hms.support.api.push.PushMsgReceiver",
+            "com.huawei.hms.support.api.push.PushReceiver",
+            "com.xiaomi.push.service.receivers.NetworkStatusReceiver",
+            "com.xiaomi.push.service.receivers.PingReceiver"
+        ]
+    }
+}

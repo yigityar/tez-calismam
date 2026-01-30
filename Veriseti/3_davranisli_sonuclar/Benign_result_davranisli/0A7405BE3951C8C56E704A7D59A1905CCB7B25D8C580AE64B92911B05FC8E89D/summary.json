@@ -1,0 +1,114 @@
+{
+    "apk_name": "0A7405BE3951C8C56E704A7D59A1905CCB7B25D8C580AE64B92911B05FC8E89D",
+    "sha256": "0a7405be3951c8c56e704a7d59a1905ccb7b25d8c580ae64b92911b05fc8e89d",
+    "metadata": {
+        "package_name": "appinventor.ai_mssrnick.JAMALSHAKER",
+        "version_code": "5",
+        "version_name": "1.1.3.88",
+        "min_sdk": "19",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "activities": [
+            "com.adcolony.sdk.AdColonyInterstitialActivity",
+            "com.applovin.adview.AppLovinConfirmationActivity",
+            "com.applovin.adview.AppLovinInterstitialActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.startapp.android.publish.ads.list3d.List3DActivity",
+            "com.startapp.android.publish.adsCommon.activities.FullScreenActivity",
+            "com.startapp.android.publish.adsCommon.activities.OverlayActivity",
+            "com.unity3d.services.ads.adunit.AdUnitActivity",
+            "com.unity3d.services.ads.adunit.AdUnitSoftwareActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity",
+            "io.kodular.mssrnick.JAMALSHAKER.Screen1",
+            "io.kodular.mssrnick.JAMALSHAKER.Screen2",
+            "io.kodular.mssrnick.JAMALSHAKER.Screen3"
+        ],
+        "services": [
+            "com.startapp.android.publish.common.metaData.InfoEventService",
+            "com.startapp.android.publish.common.metaData.PeriodicJobService",
+            "com.startapp.android.publish.common.metaData.PeriodicMetaDataService"
+        ],
+        "receivers": [
+            "com.startapp.android.publish.common.metaData.BootCompleteListener"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous"
+        },
+        "risk_counts": {
+            "dangerous": 4,
+            "normal": 3
+        }
+    },
+    "stats": {
+        "dex_count": 6,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 36.09,
+        "sources_present": true,
+        "java_file_count": 6864
+    },
+    "ast_analysis": {
+        "location": 3,
+        "microphone": 0,
+        "camera": 33,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 2,
+            "microphone": 2,
+            "location": 1,
+            "torch": 2,
+            "telephony_ops": 3,
+            "system_commands": 8,
+            "webview_interop": 26,
+            "content_access": 13,
+            "audio_control": 9,
+            "vibration": 3,
+            "network_io": 8,
+            "scheduling_apis": 73,
+            "dynamic_code": 249
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 399
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 8,
+            "handler_loop": 64,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 3,
+            "user_triggered": 4
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 5,
+            "reflection": 249
+        }
+    }
+}

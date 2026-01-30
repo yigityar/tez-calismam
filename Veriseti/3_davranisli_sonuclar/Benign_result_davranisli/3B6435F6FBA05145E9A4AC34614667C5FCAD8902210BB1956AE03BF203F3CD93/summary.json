@@ -1,0 +1,176 @@
+{
+    "apk_name": "3B6435F6FBA05145E9A4AC34614667C5FCAD8902210BB1956AE03BF203F3CD93",
+    "sha256": "3b6435f6fba05145e9a4ac34614667c5fcad8902210bb1956ae03bf203f3cd93",
+    "metadata": {
+        "package_name": "com.bang_olufsen.OneApp",
+        "version_code": "58855",
+        "version_name": "5.6.0.231219-54530",
+        "min_sdk": "28",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.BLUETOOTH_CONNECT",
+            "android.permission.BLUETOOTH_SCAN",
+            "android.permission.CAMERA",
+            "android.permission.CHANGE_NETWORK_STATE",
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.MEDIA_CONTENT_CONTROL",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WRITE_SETTINGS",
+            "com.bang_olufsen.OneApp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "activities": [
+            "com.bang_olufsen.OneApp.redirecting_activity",
+            "com.bang_olufsen.OneApp.wxapi.WXEntryActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc6409e8e2f75d6516ca.FallbackFragmentContainerView",
+            "crc64a0e0a82d0db9a07d.WebAuthenticatorIntermediateActivity",
+            "crc64ca4b5f30746aea4d.MasterView",
+            "crc64ca4b5f30746aea4d.SplashScreenView",
+            "crc64d6fc8eb32a1bf05c.WebAuthenticationCallbackActivity",
+            "crc64f98dd38067c0c88b.FormAuthenticatorActivity",
+            "crc64f98dd38067c0c88b.WebAuthenticatorActivity",
+            "crc64f98dd38067c0c88b.WebAuthenticatorNativeBrowserActivity",
+            "crc64f98dd38067c0c88b.WebViewActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.bang_olufsen.OneApp.BeaconService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "crc641f964ecf1f9d50d5.PushNotificationMessagingService",
+            "crc64396a3fe5f8138e3f.KeepAliveService",
+            "crc646e364d2ff34954e7.MediaBrowserService",
+            "crc64edd26a96adcb1428.MediaPlayerService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.bang_olufsen.OneApp.BeaconRestarterBroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc6408f0009ad2b3e898.InfoCenterReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver",
+            "crc64cea48322b3427ae9.ConnectivityChangeBroadcastReceiver",
+            "crc64f98dd38067c0c88b.CustomTabsActionsBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.BLUETOOTH_ADMIN": "normal",
+            "android.permission.BLUETOOTH_CONNECT": "dangerous",
+            "android.permission.BLUETOOTH_SCAN": "dangerous",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.CHANGE_NETWORK_STATE": "normal",
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE": "normal",
+            "android.permission.CHANGE_WIFI_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.MEDIA_CONTENT_CONTROL": "unlaballed",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WRITE_SETTINGS": "signature",
+            "com.bang_olufsen.OneApp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 8,
+            "normal": 12,
+            "unlaballed": 1,
+            "signature": 1,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 14
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 36.77,
+        "sources_present": true,
+        "java_file_count": 7943
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 0,
+        "camera": 45,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 7
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 2,
+            "webview_interop": 0,
+            "content_access": 36,
+            "audio_control": 2,
+            "vibration": 0,
+            "network_io": 7,
+            "scheduling_apis": 36,
+            "dynamic_code": 253
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 339
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 11,
+            "handler_loop": 22,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 251
+        }
+    }
+}

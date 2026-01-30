@@ -1,0 +1,83 @@
+{
+    "apk_name": "4C77DA4E1CB65E6934947C7A82F6F8140A6EDF443EA030DDEEEB4EC396670C52",
+    "sha256": "4c77da4e1cb65e6934947c7a82f6f8140a6edf443ea030ddeeeb4ec396670c52",
+    "metadata": {
+        "package_name": "air.com.littlebigplay.games.premium.balloonspop",
+        "version_code": "9000001",
+        "version_name": "9.1",
+        "min_sdk": "21",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.INTERNET"
+        ],
+        "activities": [
+            "air.com.littlebigplay.games.premium.balloonspop.AppEntry",
+            "com.distriqt.extension.share.permissions.AuthorisationActivity"
+        ],
+        "services": [],
+        "receivers": [],
+        "permission_details": {
+            "android.permission.INTERNET": "normal"
+        },
+        "risk_counts": {
+            "normal": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 4
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 8.1,
+        "sources_present": true,
+        "java_file_count": 710
+    },
+    "ast_analysis": {
+        "location": 2,
+        "microphone": 0,
+        "camera": 8,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 2
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 1,
+            "microphone": 1,
+            "location": 2,
+            "torch": 0,
+            "telephony_ops": 1,
+            "system_commands": 3,
+            "webview_interop": 5,
+            "content_access": 9,
+            "audio_control": 1,
+            "vibration": 1,
+            "network_io": 0,
+            "scheduling_apis": 12,
+            "dynamic_code": 90
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 126
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 6,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 3,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 4,
+            "reflection": 89
+        }
+    }
+}

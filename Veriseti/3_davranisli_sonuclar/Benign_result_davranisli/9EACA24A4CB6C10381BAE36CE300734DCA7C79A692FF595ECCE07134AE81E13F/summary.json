@@ -1,0 +1,182 @@
+{
+    "apk_name": "9EACA24A4CB6C10381BAE36CE300734DCA7C79A692FF595ECCE07134AE81E13F",
+    "sha256": "9eaca24a4cb6c10381bae36ce300734dca7c79a692ff595ecce07134ae81e13f",
+    "metadata": {
+        "package_name": "com.teletica.androidapp",
+        "version_code": "2034",
+        "version_name": "2.0.34",
+        "min_sdk": "21",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.Ray.application.permission.C2D_MESSAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE"
+        ],
+        "activities": [
+            "com.facebook.CustomTabActivity",
+            "com.facebook.CustomTabMainActivity",
+            "com.facebook.FacebookActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.onesignal.NotificationOpenedActivityHMS",
+            "com.onesignal.PermissionsActivity",
+            "crc649b4f8974cabcf4b5.EditProfileActivity",
+            "crc649b4f8974cabcf4b5.ForgotPasswordActivity",
+            "crc649b4f8974cabcf4b5.LiveActivity",
+            "crc649b4f8974cabcf4b5.LoginActivity",
+            "crc649b4f8974cabcf4b5.MainActivity",
+            "crc649b4f8974cabcf4b5.NewsActivity",
+            "crc649b4f8974cabcf4b5.NewsDetailActivity",
+            "crc649b4f8974cabcf4b5.PreferencesActivity",
+            "crc649b4f8974cabcf4b5.PrintEditionActivity",
+            "crc649b4f8974cabcf4b5.RegisterActivity",
+            "crc649b4f8974cabcf4b5.SearchActivity",
+            "crc649b4f8974cabcf4b5.SplashActivity",
+            "crc649b4f8974cabcf4b5.VideoActivity",
+            "crc649b4f8974cabcf4b5.WeatherActivity"
+        ],
+        "services": [
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.onesignal.GcmIntentJobService",
+            "com.onesignal.GcmIntentService",
+            "com.onesignal.HmsMessageServiceOneSignal",
+            "com.onesignal.NotificationRestoreService",
+            "com.onesignal.RestoreJobService",
+            "com.onesignal.RestoreKickoffJobService",
+            "com.onesignal.SyncJobService",
+            "com.onesignal.SyncService"
+        ],
+        "receivers": [
+            "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.onesignal.BootUpReceiver",
+            "com.onesignal.GcmBroadcastReceiver",
+            "com.onesignal.NotificationOpenedReceiver",
+            "com.onesignal.UpgradeReceiver",
+            "crc64cea48322b3427ae9.ConnectivityChangeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_APP_BADGE": "unknown",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.Ray.application.permission.C2D_MESSAGE": "unknown",
+            "com.anddoes.launcher.permission.UPDATE_COUNT": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.htc.launcher.permission.READ_SETTINGS": "unknown",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT": "unknown",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE": "unknown",
+            "com.huawei.android.launcher.permission.READ_SETTINGS": "unknown",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS": "signature",
+            "com.majeur.launcher.permission.UPDATE_BADGE": "unknown",
+            "com.oppo.launcher.permission.READ_SETTINGS": "unknown",
+            "com.oppo.launcher.permission.WRITE_SETTINGS": "signature",
+            "com.sec.android.provider.badge.permission.READ": "unknown",
+            "com.sec.android.provider.badge.permission.WRITE": "unknown",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE": "unknown",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE": "unknown",
+            "me.everything.badger.permission.BADGE_COUNT_READ": "unknown",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 6,
+            "unknown": 17,
+            "dangerous": 3,
+            "signature": 2
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 24
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 19.42,
+        "sources_present": true,
+        "java_file_count": 3417
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 0,
+        "camera": 16,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 1,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 5,
+            "content_access": 18,
+            "audio_control": 1,
+            "vibration": 1,
+            "network_io": 2,
+            "scheduling_apis": 31,
+            "dynamic_code": 188
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 248
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 10,
+            "handler_loop": 18,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 3
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 187
+        }
+    }
+}

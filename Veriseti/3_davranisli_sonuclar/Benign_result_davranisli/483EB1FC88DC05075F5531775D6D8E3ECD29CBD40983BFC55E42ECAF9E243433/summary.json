@@ -1,0 +1,95 @@
+{
+    "apk_name": "483EB1FC88DC05075F5531775D6D8E3ECD29CBD40983BFC55E42ECAF9E243433",
+    "sha256": "483eb1fc88dc05075f5531775d6d8e3ecd29cbd40983bfc55e42ecaf9e243433",
+    "metadata": {
+        "package_name": "com.astrobix.numerologyexplorer",
+        "version_code": "14",
+        "version_name": "2.4",
+        "min_sdk": "21",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "activities": [
+            "com.google.android.gms.ads.AdActivity",
+            "crc644ebba0a9087a0c69.MainActivity",
+            "crc644ebba0a9087a0c69.SplashActivity"
+        ],
+        "services": [],
+        "receivers": [
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous"
+        },
+        "risk_counts": {
+            "normal": 4,
+            "dangerous": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 28
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 17.14,
+        "sources_present": true,
+        "java_file_count": 4739
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 6,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 6,
+            "content_access": 8,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 3,
+            "scheduling_apis": 20,
+            "dynamic_code": 187
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 225
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 13,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 2,
+            "reflection": 186
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "apk_name": "D8724C1CA512FB6F744FE7D061641576058357DDE5D26DAD3CDF61A4A7054AF6",
+    "sha256": "d8724c1ca512fb6f744fe7d061641576058357dde5d26dad3cdf61a4a7054af6",
+    "metadata": {
+        "package_name": "com.budgestudios.googleplay.TransformersDisasterDash",
+        "version_code": "1594",
+        "version_name": "2024.2.1",
+        "min_sdk": "22",
+        "target_sdk": "34",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.budge.deeplinks.BudgeUnityInterface",
+            "com.budge.downloads.AssetDownloader",
+            "com.budge.email.EmailSharingManager",
+            "com.budge.hardware.AndroidPhotoLibrary",
+            "com.budgestudios.googleplay.TransformersDisasterDash.CustomUnityPlayerActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.unity3d.plugin.downloader.UnityDownloaderActivity"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.unity3d.plugin.downloader.UnityDownloaderService"
+        ],
+        "receivers": [
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.unity3d.plugin.downloader.UnityAlarmReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.vending.BILLING": "unknown",
+            "com.android.vending.CHECK_LICENSE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 4,
+            "dangerous": 2,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 6
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 13.37,
+        "sources_present": true,
+        "java_file_count": 2123
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 1,
+        "camera": 7,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 3
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 1,
+            "microphone": 1,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 1,
+            "content_access": 3,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 4,
+            "scheduling_apis": 14,
+            "dynamic_code": 125
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 150
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 6,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 3,
+            "dynamic_loading": 0,
+            "reflection": 122
+        }
+    }
+}

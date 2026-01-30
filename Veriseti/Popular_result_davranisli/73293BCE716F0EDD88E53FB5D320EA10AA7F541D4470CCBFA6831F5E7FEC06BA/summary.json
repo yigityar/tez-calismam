@@ -1,0 +1,129 @@
+{
+    "apk_name": "73293BCE716F0EDD88E53FB5D320EA10AA7F541D4470CCBFA6831F5E7FEC06BA",
+    "sha256": "73293bce716f0edd88e53fb5d320ea10aa7f541d4470ccbfa6831f5e7fec06ba",
+    "metadata": {
+        "package_name": "com.adobe.reader",
+        "version_code": "168025",
+        "version_name": "17.1",
+        "min_sdk": "16",
+        "target_sdk": "24",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING"
+        ],
+        "activities": [
+            "com.adobe.dcmscan.CaptureActivity",
+            "com.adobe.dcmscan.CreatePdfActivity",
+            "com.adobe.dcmscan.CropActivity",
+            "com.adobe.dcmscan.EditorActivity",
+            "com.adobe.dcmscan.ImportPhotoActivity",
+            "com.adobe.dcmscan.ReorderActivity",
+            "com.adobe.dcmscan.ScanConfirmationActivity",
+            "com.adobe.libs.services.auth.SVServicesLoginActivity",
+            "com.adobe.libs.signature.ui.SGCropActivity",
+            "com.adobe.libs.signature.ui.SGSignatureActivity",
+            "com.adobe.mobile.MessageFullScreenActivity",
+            "com.adobe.reader.AdobeReader",
+            "com.adobe.reader.connector.ARConnectorFileTransferActivity",
+            "com.adobe.reader.connector.ARConnectorManageAccountActivity",
+            "com.adobe.reader.help.ARHelpActivity",
+            "com.adobe.reader.help.AROnboardingHelpActivity",
+            "com.adobe.reader.misc.ARAboutActivity",
+            "com.adobe.reader.misc.ARCloudPrintActivity",
+            "com.adobe.reader.misc.ARFileURLDownloadActivity",
+            "com.adobe.reader.misc.ARSettingsActivity",
+            "com.adobe.reader.services.ARBlueHeronFileTransferActivity",
+            "com.adobe.reader.services.ARUserAccountsActivity",
+            "com.adobe.reader.services.cpdf.ARCreatePDFActivity",
+            "com.adobe.reader.share.ARFileLinkShareActivity",
+            "com.adobe.reader.viewer.ARSplitPaneActivity",
+            "com.adobe.reader.viewer.ARViewerActivity",
+            "com.dropbox.client2.android.AuthActivity"
+        ],
+        "services": [
+            "com.adobe.reader.connector.ARConnectorFileTransferService",
+            "com.adobe.reader.misc.ARFileURLDownloadService",
+            "com.adobe.reader.services.ARFileTransferService"
+        ],
+        "receivers": [
+            "com.adobe.libs.connectors.dropbox.CNDropboxOpenWithIntentReceiver",
+            "com.adobe.mobile.MessageNotificationHandler",
+            "com.adobe.reader.misc.ARInstallReferrerBroadcastReceiver",
+            "com.adobe.reader.utils.ARNetworkChangeReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.vending.BILLING": "unknown"
+        },
+        "risk_counts": {
+            "normal": 2,
+            "dangerous": 3,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 4
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 19.85,
+        "sources_present": true,
+        "java_file_count": 2301
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 20,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 9
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 2,
+            "microphone": 0,
+            "location": 0,
+            "torch": 1,
+            "telephony_ops": 0,
+            "system_commands": 2,
+            "webview_interop": 8,
+            "content_access": 17,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 4,
+            "scheduling_apis": 22,
+            "dynamic_code": 83
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 140
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 1,
+            "handler_loop": 21,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 4,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 4,
+            "dynamic_loading": 0,
+            "reflection": 79
+        }
+    }
+}

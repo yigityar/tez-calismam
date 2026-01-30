@@ -1,0 +1,175 @@
+{
+    "apk_name": "934A8C3C209664E572B2F1A9812A98348FFA4E5590CC3907919FD6FE1B6B1BD6",
+    "sha256": "934a8c3c209664e572b2f1a9812a98348ffa4e5590cc3907919fd6fe1b6b1bd6",
+    "metadata": {
+        "package_name": "com.safariflow.queue",
+        "version_code": "21050504",
+        "version_name": "5.5.4",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "oreilly.queue.ContentNavigationActivity",
+            "oreilly.queue.SplashActivity",
+            "oreilly.queue.annotations.AnnotationsActivity",
+            "oreilly.queue.audiobooks.AudiobookActivity",
+            "oreilly.queue.auth.LoginActivity",
+            "oreilly.queue.auth.SsoLoginActivity",
+            "oreilly.queue.auth.SsoWebViewLoginActivity",
+            "oreilly.queue.auth.UnifiedAuthActivity",
+            "oreilly.queue.browser.BrowserActivity",
+            "oreilly.queue.content.WorkDetailActivity",
+            "oreilly.queue.downloads.DownloadManagerActivity",
+            "oreilly.queue.history.HistoryActivity",
+            "oreilly.queue.learningpaths.LearningPathActivity",
+            "oreilly.queue.lots.LotBrowserActivity",
+            "oreilly.queue.lots.LotCourseActivity",
+            "oreilly.queue.lots.LotsActivity",
+            "oreilly.queue.migration.UnifiedAuthMigrationsActivity",
+            "oreilly.queue.playlists.EditPlaylistActivity",
+            "oreilly.queue.playlists.MorePlaylistsActivity",
+            "oreilly.queue.playlists.PlaylistActivity",
+            "oreilly.queue.playlists.PlaylistsActivity",
+            "oreilly.queue.playlists.SharePlaylistActivity",
+            "oreilly.queue.recommendations.RecommendationsActivity",
+            "oreilly.queue.search.SearchActivity",
+            "oreilly.queue.settings.AccountActivity",
+            "oreilly.queue.settings.DisplaySettingsActivity",
+            "oreilly.queue.settings.SettingsActivity",
+            "oreilly.queue.totri.TotriActivity",
+            "oreilly.queue.totri.TotriElementExploderActivity",
+            "oreilly.queue.totri.TotriImageExploderActivity",
+            "oreilly.queue.tv.auth.TvLoginActivity",
+            "oreilly.queue.tv.main.MainActivity",
+            "oreilly.queue.tv.search.TvSearchActivity",
+            "oreilly.queue.tv.splash.TvSplashActivity",
+            "oreilly.queue.tv.support.TvSupportActivity",
+            "oreilly.queue.video.VideoActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.cast.framework.ReconnectionService",
+            "com.google.android.gms.cast.framework.media.MediaNotificationService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "oreilly.queue.audiobooks.AudioService",
+            "oreilly.queue.downloads.DownloadService",
+            "oreilly.queue.video.AudioPlaybackService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.cast.framework.media.MediaIntentReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.launchdarkly.android.ConnectivityReceiver",
+            "com.launchdarkly.android.PollingUpdater",
+            "oreilly.queue.DailyBackgroundRefreshReceiver",
+            "oreilly.queue.app.BootCompletedReceiver",
+            "oreilly.queue.app.UpgradeReceiver",
+            "oreilly.queue.downloads.MediaMountedReceiver",
+            "oreilly.queue.downloads.MediaUnmountedReceiver",
+            "oreilly.queue.lots.LotNotificationAlarmReceiver",
+            "oreilly.queue.media.MediaHardwareInteractionReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION": "unknown",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "unknown": 3,
+            "dangerous": 2
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 13
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 36.89,
+        "sources_present": true,
+        "java_file_count": 8797
+    },
+    "ast_analysis": {
+        "location": 8,
+        "microphone": 0,
+        "camera": 21,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 3
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 8,
+            "content_access": 12,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 7,
+            "scheduling_apis": 77,
+            "dynamic_code": 318
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 429
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 12,
+            "handler_loop": 62,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 4
+        },
+        "dynamic_features": {
+            "jni_usage": 3,
+            "dynamic_loading": 0,
+            "reflection": 315
+        }
+    }
+}

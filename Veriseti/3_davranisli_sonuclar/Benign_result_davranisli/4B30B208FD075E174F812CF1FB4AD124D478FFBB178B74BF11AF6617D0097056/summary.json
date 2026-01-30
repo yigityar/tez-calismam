@@ -1,0 +1,150 @@
+{
+    "apk_name": "4B30B208FD075E174F812CF1FB4AD124D478FFBB178B74BF11AF6617D0097056",
+    "sha256": "4b30b208fd075e174f812cf1fb4ad124d478ffbb178b74bf11af6617d0097056",
+    "metadata": {
+        "package_name": "com.tb12.method",
+        "version_code": "1617",
+        "version_name": "2.6.3",
+        "min_sdk": "26",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.appboy.push.AppboyNotificationRoutingActivity",
+            "com.appboy.ui.AppboyWebViewActivity",
+            "com.appboy.ui.activities.AppboyContentCardsActivity",
+            "com.appboy.ui.activities.AppboyFeedActivity",
+            "com.google.android.exoplayer.demo.PlayerActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc64017336e4ce82a337.HydrationTrackerInfoActivity",
+            "crc6403cc286b684ec251.ForceUpdateActivity",
+            "crc640984cbfbc19d64a6.ForgotPasswordActivity",
+            "crc640d045ccc6fd443ba.ContentDetailActivity",
+            "crc640d045ccc6fd443ba.VideoPlayerActivity",
+            "crc642ec3196bfcd796d6.ResetPasswordActivity",
+            "crc6433d031818427df1c.KillSwitchActivity",
+            "crc64380777c8924084e8.FrequencySelectionActivity",
+            "crc643cffd413d8efcbf1.WorkoutOverviewActivity",
+            "crc6458301b41872f3ff2.WorkoutSelectionActivity",
+            "crc6463df702b636bf59e.EquipmentSelectionActivity",
+            "crc64660b9b0aa77950d9.DebugActivity",
+            "crc64660b9b0aa77950d9.SplashScreenActivity",
+            "crc64941463533cfd227d.WorkoutHistoryActivity",
+            "crc649eaabececa1503eb.DashboardActivity",
+            "crc64a04389583cbc29bc.CreateAccountActivity",
+            "crc64a8e7001ae97c4647.ProfileScreenActivity",
+            "crc64aff67d5f8b9259d7.WorkoutCompleteActivity",
+            "crc64be97df0e65adfd53.ConfirmationActivity",
+            "crc64c1b1dfb3391e1007.CoreFeedbackActivity",
+            "crc64c1b1dfb3391e1007.FeedbackPrimerActivity",
+            "crc64c1b1dfb3391e1007.LowerBodyFeedbackActivity",
+            "crc64c1b1dfb3391e1007.UpperBackFeedbackActivity",
+            "crc64c1b1dfb3391e1007.UpperFrontFeedbackActivity",
+            "crc64c8308c0ec39f92e8.SignInActivity",
+            "crc64dbc1d9cce74b34ce.EditAccountActivity",
+            "crc64e2118c64b333f256.UpsellActivity",
+            "crc64e403124f14a4f4b7.FocusSelectionActivity",
+            "crc64fcc036478535ef80.OnboardingActivity",
+            "crc64fcc036478535ef80.OnboardingVideoPlayerActivity",
+            "net.hockeyapp.android.ExpiryInfoActivity",
+            "net.hockeyapp.android.FeedbackActivity",
+            "net.hockeyapp.android.LoginActivity",
+            "net.hockeyapp.android.PaintActivity",
+            "net.hockeyapp.android.UpdateActivity"
+        ],
+        "services": [
+            "com.appboy.AppboyFirebaseMessagingService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService"
+        ],
+        "receivers": [
+            "com.appboy.AppboyFcmReceiver",
+            "com.appboy.receivers.AppboyActionReceiver",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 3,
+            "dangerous": 1,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 16
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 21.31,
+        "sources_present": true,
+        "java_file_count": 4364
+    },
+    "ast_analysis": {
+        "location": 2,
+        "microphone": 0,
+        "camera": 36,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 7
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 1,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 3,
+            "content_access": 14,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 1,
+            "scheduling_apis": 32,
+            "dynamic_code": 162
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 215
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 24,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 160
+        }
+    }
+}

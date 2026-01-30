@@ -1,0 +1,148 @@
+{
+    "apk_name": "9C15B3FACD8F1BF57F7F6314DCEE084BEFCA1A8FDE333D1D70A635012A27B1B3",
+    "sha256": "9c15b3facd8f1bf57f7f6314dcee084befca1a8fde333d1d70a635012a27b1b3",
+    "metadata": {
+        "package_name": "be.mobapp.myedenred",
+        "version_code": "82206",
+        "version_name": "23.1.0",
+        "min_sdk": "21",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.NFC",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_PRIVILEGED_PHONE_STATE",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "androidx.biometric.DeviceCredentialHandlerActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+            "crc645a164a890330cc8c.RatingCommentFragmentContainerActivity",
+            "crc645a164a890330cc8c.RatingFragmentContainerActivity",
+            "crc645a164a890330cc8c.RatingThanksFragmentContainerActivity",
+            "crc645d159bb26d331bd9.BurgerMenuActivity",
+            "crc645d159bb26d331bd9.CategoryContentIntermediateActivity",
+            "crc645d159bb26d331bd9.FilterOutletsActivity",
+            "crc645d159bb26d331bd9.GenericOnBoardingActivity",
+            "crc645d159bb26d331bd9.PreConnectionActivity",
+            "crc645d159bb26d331bd9.SplashscreenActivity",
+            "crc645d159bb26d331bd9.UniverseActivity",
+            "crc64899549e223c0b00d.CardActionManagerActivity",
+            "crc64899549e223c0b00d.CardResultManagerActivity",
+            "crc64899549e223c0b00d.CardTransactionsActivity",
+            "crc64899549e223c0b00d.CardsListManagerActivity",
+            "crc6494cbdb657091e37e.HomeActivity",
+            "crc6494cbdb657091e37e.HomeTermsAcceptanceActivity",
+            "crc64a866991f62d244e5.DetailPartnerActivity",
+            "crc64a866991f62d244e5.PartnersActivity",
+            "crc64b6b81e35fcc6b5a9.AccountIssueForgotPasswordInitActivity",
+            "crc64b6b81e35fcc6b5a9.AccountIssueForgotPasswordResultActvity",
+            "crc64b6b81e35fcc6b5a9.AccountIssueForgotUsernameInitActivity",
+            "crc64b6b81e35fcc6b5a9.AccountIssueForgotUsernameResultActivity",
+            "crc64b6b81e35fcc6b5a9.CreationAccountTabBarActivity",
+            "crc64e562b6295a2998ed.GenericInterstitialActivity",
+            "crc64e562b6295a2998ed.InterstitialFragmentContainerActivity"
+        ],
+        "services": [
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.android.play.core.assetpacks.AssetPackExtractionService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService"
+        ],
+        "receivers": [
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc64a0e0a82d0db9a07d.ConnectivityBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.NFC": "normal",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.READ_PRIVILEGED_PHONE_STATE": "unknown",
+            "android.permission.USE_BIOMETRIC": "normal",
+            "android.permission.USE_FINGERPRINT": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 3,
+            "normal": 7,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 22
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 19.29,
+        "sources_present": true,
+        "java_file_count": 4471
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 9,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 9
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 1,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 3,
+            "webview_interop": 0,
+            "content_access": 18,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 13,
+            "dynamic_code": 170
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 206
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 1,
+            "handler_loop": 11,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 4,
+            "dynamic_loading": 0,
+            "reflection": 166
+        }
+    }
+}

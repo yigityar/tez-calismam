@@ -1,0 +1,164 @@
+{
+    "apk_name": "5A74ACDC72D9F69B1E62A634F2DBA360FEA4B308A6472C07C54B77FC2153305E",
+    "sha256": "5a74acdc72d9f69b1e62a634f2dba360fea4b308a6472c07c54b77fc2153305e",
+    "metadata": {
+        "package_name": "im.toss.app.insurp",
+        "version_code": "100424",
+        "version_name": "1.4.24",
+        "min_sdk": "24",
+        "target_sdk": "35",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.DETECT_SCREEN_CAPTURE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.QUERY_ALL_PACKAGES",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+            "android.permission.READ_PHONE_NUMBERS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "im.toss.app.insurp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "com.facebook.CustomTabActivity",
+            "com.facebook.FacebookActivity",
+            "im.toss.core.webkit.bridge.image.camera.CameraActivity",
+            "im.toss.core.webkit.bridge.image.camera.PhotoConfirmActivity",
+            "im.toss.core.webkit.bridge.image.camera.PhotoListActivity",
+            "im.toss.core.webkit.bridge.image.crop.PhotoCropActivity",
+            "im.toss.insurp.contact.InputContactActivity",
+            "im.toss.insurp.contact.SelectContactActivity",
+            "im.toss.insurp.lab.LabActivity",
+            "im.toss.insurp.main.MainActivity",
+            "im.toss.insurp.security.malware.AppScanGuideActivity",
+            "im.toss.insurp.security.malware.MalwareDetectActivity",
+            "im.toss.insurp.splash.SplashActivity",
+            "im.toss.insurp.start.StartActivity",
+            "o.clearMetadataTab",
+            "o.component27"
+        ],
+        "services": [
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.metadata.ModuleDependencies",
+            "o.DashDownloader1",
+            "o.TransferListener",
+            "o.completeEditokhttp",
+            "o.scrollBy",
+            "o.setBackground",
+            "o.setRepeatModeInternal"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "o.component26",
+            "o.lambdapostCheckRequirements0com-google-android-exoplayer2-scheduler-RequirementsWatcherNetworkCallback",
+            "o.newSSLContext",
+            "o.selectTextTrack$dispatchDisplayHint",
+            "o.selectTextTrack$fromIso8601",
+            "o.selectTextTrack$getLastAvailableSegmentNum",
+            "o.selectTextTrack$updateDrmInitData"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.DETECT_SCREEN_CAPTURE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.QUERY_ALL_PACKAGES": "normal",
+            "android.permission.READ_CONTACTS": "dangerous",
+            "android.permission.READ_MEDIA_VISUAL_USER_SELECTED": "dangerous",
+            "android.permission.READ_PHONE_NUMBERS": "dangerous",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.REQUEST_DELETE_PACKAGES": "normal",
+            "android.permission.SYSTEM_ALERT_WINDOW": "signature",
+            "android.permission.USE_BIOMETRIC": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "im.toss.app.insurp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "normal": 11,
+            "dangerous": 6,
+            "signature": 1,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 24
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 42.91,
+        "sources_present": true,
+        "java_file_count": 8530
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 59,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 8
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 2,
+            "microphone": 0,
+            "location": 0,
+            "torch": 1,
+            "telephony_ops": 0,
+            "system_commands": 4,
+            "webview_interop": 10,
+            "content_access": 10,
+            "audio_control": 1,
+            "vibration": 3,
+            "network_io": 6,
+            "scheduling_apis": 36,
+            "dynamic_code": 625
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 698
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 3,
+            "handler_loop": 30,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 13,
+            "user_triggered": 3
+        },
+        "dynamic_features": {
+            "jni_usage": 6,
+            "dynamic_loading": 0,
+            "reflection": 619
+        }
+    }
+}

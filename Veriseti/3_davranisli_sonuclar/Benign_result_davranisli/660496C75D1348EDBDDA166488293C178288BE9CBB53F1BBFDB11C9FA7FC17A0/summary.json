@@ -1,0 +1,169 @@
+{
+    "apk_name": "660496C75D1348EDBDDA166488293C178288BE9CBB53F1BBFDB11C9FA7FC17A0",
+    "sha256": "660496c75d1348edbdda166488293c178288be9cbb53f1bbfdb11c9fa7fc17a0",
+    "metadata": {
+        "package_name": "br.com.as2.cadastroalunos",
+        "version_code": "910",
+        "version_name": "9.1",
+        "min_sdk": "22",
+        "target_sdk": "30",
+        "permissions": [
+            "android.hardware.camera",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.FLASHLIGHT",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "br.com.as2.cadastroalunos.permission.C2D_MESSAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "anywheresoftware.b4a.objects.preferenceactivity",
+            "br.com.as2.cadastroalunos.abertura",
+            "br.com.as2.cadastroalunos.actchooseimage",
+            "br.com.as2.cadastroalunos.backup",
+            "br.com.as2.cadastroalunos.calendario",
+            "br.com.as2.cadastroalunos.camera1",
+            "br.com.as2.cadastroalunos.dicas",
+            "br.com.as2.cadastroalunos.display",
+            "br.com.as2.cadastroalunos.editcad",
+            "br.com.as2.cadastroalunos.editturma",
+            "br.com.as2.cadastroalunos.exportar",
+            "br.com.as2.cadastroalunos.importar",
+            "br.com.as2.cadastroalunos.importarcontatos",
+            "br.com.as2.cadastroalunos.listacursos",
+            "br.com.as2.cadastroalunos.listagem",
+            "br.com.as2.cadastroalunos.listaturmas",
+            "br.com.as2.cadastroalunos.main",
+            "br.com.as2.cadastroalunos.msgerro",
+            "br.com.as2.cadastroalunos.opcoes",
+            "br.com.as2.cadastroalunos.relataniv",
+            "br.com.as2.cadastroalunos.relatorio",
+            "br.com.as2.cadastroalunos.restaura",
+            "br.com.as2.cadastroalunos.todo",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.purchase.InAppPurchaseActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ],
+        "services": [
+            "anywheresoftware.b4a.objects.FirebaseNotificationsService",
+            "br.com.as2.cadastroalunos.firebasemessaging",
+            "br.com.as2.cadastroalunos.httputils2service",
+            "br.com.as2.cadastroalunos.servicejobs",
+            "br.com.as2.cadastroalunos.starter",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService"
+        ],
+        "receivers": [
+            "br.com.as2.cadastroalunos.firebasemessaging$firebasemessaging_BR",
+            "br.com.as2.cadastroalunos.httputils2service$httputils2service_BR",
+            "br.com.as2.cadastroalunos.servicejobs$servicejobs_BR",
+            "br.com.as2.cadastroalunos.starter$starter_BR",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.hardware.camera": "unknown",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FLASHLIGHT": "unknown",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_CONTACTS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "br.com.as2.cadastroalunos.permission.C2D_MESSAGE": "unknown",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "unknown": 6,
+            "normal": 5,
+            "dangerous": 4
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 7
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 40.05,
+        "sources_present": true,
+        "java_file_count": 10132
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 36,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 3,
+            "microphone": 0,
+            "location": 0,
+            "torch": 1,
+            "telephony_ops": 1,
+            "system_commands": 3,
+            "webview_interop": 9,
+            "content_access": 24,
+            "audio_control": 3,
+            "vibration": 1,
+            "network_io": 13,
+            "scheduling_apis": 88,
+            "dynamic_code": 565
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 711
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 17,
+            "handler_loop": 68,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 76,
+            "user_triggered": 3
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 4,
+            "reflection": 564
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "apk_name": "6C06763555E8F934188EA2101E2DEDDD05FA34148C275226AA0AD02D2C850F51",
+    "sha256": "6c06763555e8f934188ea2101e2deddd05fa34148c275226aa0ad02d2c850f51",
+    "metadata": {
+        "package_name": "com.reiter.overhead",
+        "version_code": "103",
+        "version_name": "2.9.21",
+        "min_sdk": "15",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.reiter.overhead.permission.C2D_MESSAGE"
+        ],
+        "activities": [
+            "crc64428a5fc7403984e3.MainActivity",
+            "crc64428a5fc7403984e3.SplashActivity"
+        ],
+        "services": [
+            "crc641d9df3d5057a8f4a.SyncService",
+            "crc6479ae0217d4c162be.GCMService",
+            "crc64a98abb514ffad9f1.KeepAliveService"
+        ],
+        "receivers": [
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver",
+            "crc6479ae0217d4c162be.GCMBroadcastReceiver",
+            "crc64cea48322b3427ae9.ConnectivityChangeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.reiter.overhead.permission.C2D_MESSAGE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 4,
+            "normal": 4,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 36
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 11.92,
+        "sources_present": true,
+        "java_file_count": 1527
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 1,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 7,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 12,
+            "dynamic_code": 94
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 116
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 6,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 93
+        }
+    }
+}

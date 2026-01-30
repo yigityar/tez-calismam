@@ -1,0 +1,160 @@
+{
+    "apk_name": "81DEF06C7D4A16E5DEAB766D8944F03ABB6E6E87FA7A2753ED9FBFDC229CD9DC",
+    "sha256": "81def06c7d4a16e5deab766d8944f03abb6e6e87fa7a2753ed9fbfdc229cd9dc",
+    "metadata": {
+        "package_name": "com.fishingforgold.xamarin",
+        "version_code": "105",
+        "version_name": "4.4",
+        "min_sdk": "26",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_MOCK_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.INTERNET",
+            "android.permission.LOCATION_HARDWARE",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.fishingforgold.xamarin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.facebook.CustomTabActivity",
+            "com.facebook.CustomTabMainActivity",
+            "com.facebook.FacebookActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+            "crc641c6f2667c6869e1d.MainActivity",
+            "crc641c6f2667c6869e1d.SplashActivity",
+            "crc641c6f2667c6869e1d.WebAuthenticationCallbackActivity",
+            "crc64563217459d39444b.FormAuthenticatorActivity",
+            "crc64563217459d39444b.WebAuthenticatorActivity",
+            "crc646957603ea1820544.MediaPickerActivity",
+            "crc6469ae7fd7eb9750d9.MediaPickerActivity",
+            "crc64a0e0a82d0db9a07d.IntermediateActivity",
+            "crc64a0e0a82d0db9a07d.WebAuthenticatorIntermediateActivity"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.android.play.core.assetpacks.AssetPackExtractionService",
+            "com.google.android.play.core.assetpacks.ExtractionForegroundService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "crc64396a3fe5f8138e3f.KeepAliveService",
+            "crc64b9b9f19007a9927e.MyFirebaseIIDService",
+            "crc64b9b9f19007a9927e.MyFirebaseMessagingService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver",
+            "crc64a0e0a82d0db9a07d.BatteryBroadcastReceiver",
+            "crc64a0e0a82d0db9a07d.ConnectivityBroadcastReceiver",
+            "crc64a0e0a82d0db9a07d.EnergySaverBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_MOCK_LOCATION": "unknown",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.LOCATION_HARDWARE": "unlaballed",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.vending.BILLING": "unknown",
+            "com.fishingforgold.xamarin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 7,
+            "unknown": 6,
+            "normal": 5,
+            "unlaballed": 1
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 28
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 35.87,
+        "sources_present": true,
+        "java_file_count": 7454
+    },
+    "ast_analysis": {
+        "location": 8,
+        "microphone": 0,
+        "camera": 9,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 7
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 3,
+            "content_access": 14,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 2,
+            "scheduling_apis": 30,
+            "dynamic_code": 263
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 318
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 22,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 261
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "apk_name": "36812E943268E7AEAABA88AD24F7FB46C92418B9CF13FAC16081BD1C4645150E",
+    "sha256": "36812e943268e7aeaaba88ad24f7fb46c92418b9cf13fac16081bd1c4645150e",
+    "metadata": {
+        "package_name": "galven.mosaic",
+        "version_code": "100",
+        "version_name": "2.15.4",
+        "min_sdk": "16",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.NFC",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "activities": [
+            "crc64265c7fa09cb82d4a.AlertDetailsActivity",
+            "crc64265c7fa09cb82d4a.AreaListActivity",
+            "crc64265c7fa09cb82d4a.AssetDetailsActivity",
+            "crc64265c7fa09cb82d4a.AssetInspectionActivity",
+            "crc64265c7fa09cb82d4a.AssetInspectionFixActivity",
+            "crc64265c7fa09cb82d4a.AssetInspectionListActivity",
+            "crc64265c7fa09cb82d4a.AssetScanActivity",
+            "crc64265c7fa09cb82d4a.AssetsMenuActivity",
+            "crc64265c7fa09cb82d4a.AttachmentListActivity",
+            "crc64265c7fa09cb82d4a.BarcodeReaderActivity",
+            "crc64265c7fa09cb82d4a.CameraPickerActivity",
+            "crc64265c7fa09cb82d4a.CreateDatabaseActivity",
+            "crc64265c7fa09cb82d4a.DurationActivity",
+            "crc64265c7fa09cb82d4a.FilePickerActivity",
+            "crc64265c7fa09cb82d4a.FileSelectionControlActivity",
+            "crc64265c7fa09cb82d4a.InspectionStatusLegendActivity",
+            "crc64265c7fa09cb82d4a.MainActivity",
+            "crc64265c7fa09cb82d4a.NotesActivity",
+            "crc64265c7fa09cb82d4a.NumberPadActivity",
+            "crc64265c7fa09cb82d4a.SelectDatabaseActivity",
+            "crc64265c7fa09cb82d4a.SettingsActivity",
+            "crc64265c7fa09cb82d4a.SignatureActivity",
+            "crc64265c7fa09cb82d4a.SimpleListWithThumbnailActivity",
+            "crc64265c7fa09cb82d4a.SimpleList_IntKeyActivity",
+            "crc64265c7fa09cb82d4a.SimpleList_StringKeyActivity",
+            "crc64265c7fa09cb82d4a.SiteBanDetailsActivity",
+            "crc64265c7fa09cb82d4a.SiteBansListActivity",
+            "crc64265c7fa09cb82d4a.SplashActivity",
+            "crc64265c7fa09cb82d4a.StaffConfirmActivity",
+            "crc64265c7fa09cb82d4a.StaffDetailsActivity",
+            "crc64265c7fa09cb82d4a.StaffListActivity",
+            "crc64265c7fa09cb82d4a.StaffOccupationalHealthListActivity",
+            "crc64265c7fa09cb82d4a.StaffPhotoActivity",
+            "crc64265c7fa09cb82d4a.StaffPickerActivity",
+            "crc64265c7fa09cb82d4a.StaffQualificationsListActivity",
+            "crc64265c7fa09cb82d4a.StaffSkillCheckActivity",
+            "crc64265c7fa09cb82d4a.StockBriefingsNeededActivity",
+            "crc64265c7fa09cb82d4a.StockConditionActivity",
+            "crc64265c7fa09cb82d4a.StockControlMenuActivity",
+            "crc64265c7fa09cb82d4a.StockJobPickActivity",
+            "crc64265c7fa09cb82d4a.StockListActivity",
+            "crc64265c7fa09cb82d4a.StockPickerActivity",
+            "crc64265c7fa09cb82d4a.StockRoomsPickerActivity",
+            "crc64265c7fa09cb82d4a.SynchronisingActivity",
+            "crc64265c7fa09cb82d4a.TalksPickerActivity",
+            "crc64265c7fa09cb82d4a.TwoLineList_IntKeyActivity",
+            "crc6480997b3ef81bf9b2.ZxingActivity"
+        ],
+        "services": [
+            "crc64ad30634c49fac69f.AccessRegisterService"
+        ],
+        "receivers": [
+            "crc64265c7fa09cb82d4a.NetworkBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.NFC": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous"
+        },
+        "risk_counts": {
+            "dangerous": 4,
+            "normal": 5
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 28
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 6.25,
+        "sources_present": true,
+        "java_file_count": 783
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 1,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 6,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 7,
+            "dynamic_code": 50
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 64
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 1,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 49
+        }
+    }
+}

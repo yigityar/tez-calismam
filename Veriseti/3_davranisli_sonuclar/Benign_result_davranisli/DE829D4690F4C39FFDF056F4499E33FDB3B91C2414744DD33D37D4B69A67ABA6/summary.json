@@ -1,0 +1,112 @@
+{
+    "apk_name": "DE829D4690F4C39FFDF056F4499E33FDB3B91C2414744DD33D37D4B69A67ABA6",
+    "sha256": "de829d4690f4c39ffdf056f4499e33fdb3b91c2414744dd33d37d4b69a67aba6",
+    "metadata": {
+        "package_name": "com.app.forum_247gist",
+        "version_code": "26",
+        "version_name": "26",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.launcher.permission.INSTALL_SHORTCUT",
+            "android.permission.ACCESS_DOWNLOAD_MANAGER",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.webkit.resource.AUDIO_CAPTURE",
+            "android.webkit.resource.VIDEO_CAPTURE"
+        ],
+        "activities": [
+            "com.google.appinventor.components.runtime.ListPickerActivity",
+            "com.sunny.CustomWebView.WebActivity",
+            "io.kodular.jitike24.Goldmine.Screen1"
+        ],
+        "services": [],
+        "receivers": [],
+        "permission_details": {
+            "android.launcher.permission.INSTALL_SHORTCUT": "normal",
+            "android.permission.ACCESS_DOWNLOAD_MANAGER": "unknown",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.MODIFY_AUDIO_SETTINGS": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECORD_AUDIO": "dangerous",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "android.webkit.resource.AUDIO_CAPTURE": "unknown",
+            "android.webkit.resource.VIDEO_CAPTURE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 6,
+            "unknown": 3,
+            "dangerous": 5
+        }
+    },
+    "stats": {
+        "dex_count": 4,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 22.02,
+        "sources_present": true,
+        "java_file_count": 2617
+    },
+    "ast_analysis": {
+        "location": 3,
+        "microphone": 0,
+        "camera": 15,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 2,
+            "microphone": 2,
+            "location": 1,
+            "torch": 2,
+            "telephony_ops": 0,
+            "system_commands": 3,
+            "webview_interop": 8,
+            "content_access": 16,
+            "audio_control": 9,
+            "vibration": 3,
+            "network_io": 5,
+            "scheduling_apis": 43,
+            "dynamic_code": 136
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 230
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 37,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 1,
+            "reflection": 136
+        }
+    }
+}

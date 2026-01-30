@@ -1,0 +1,95 @@
+{
+    "apk_name": "1840BB48EFAC441B77D72907A596E8E0F5BDDE00A6CBBD687DD1E3F9FE38CC42",
+    "sha256": "1840bb48efac441b77d72907a596e8e0f5bdde00a6cbbd687dd1e3f9fe38cc42",
+    "metadata": {
+        "package_name": "com.geewallet.android",
+        "version_code": "306",
+        "version_name": "0.4.306.0",
+        "min_sdk": "15",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.FLASHLIGHT",
+            "android.permission.INTERNET"
+        ],
+        "activities": [
+            "crc6480997b3ef81bf9b2.ZxingActivity",
+            "crc64edd7944c2bc47ac0.MainActivity"
+        ],
+        "services": [],
+        "receivers": [
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FLASHLIGHT": "unknown",
+            "android.permission.INTERNET": "normal"
+        },
+        "risk_counts": {
+            "normal": 3,
+            "dangerous": 1,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 24
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 16.38,
+        "sources_present": true,
+        "java_file_count": 1945
+    },
+    "ast_analysis": {
+        "location": 3,
+        "microphone": 0,
+        "camera": 2,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 1,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 7,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 15,
+            "dynamic_code": 146
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 172
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 9,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 145
+        }
+    }
+}

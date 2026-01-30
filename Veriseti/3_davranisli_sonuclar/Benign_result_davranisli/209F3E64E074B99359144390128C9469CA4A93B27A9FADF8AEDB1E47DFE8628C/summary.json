@@ -1,0 +1,176 @@
+{
+    "apk_name": "209F3E64E074B99359144390128C9469CA4A93B27A9FADF8AEDB1E47DFE8628C",
+    "sha256": "209f3e64e074b99359144390128c9469ca4a93b27a9fadf8aedb1e47dfe8628c",
+    "metadata": {
+        "package_name": "com.pearlabyss.blackdesertm.gl",
+        "version_code": "31055",
+        "version_name": "4.10.55",
+        "min_sdk": "21",
+        "target_sdk": "34",
+        "permissions": [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID",
+            "com.pearlabyss.blackdesertm.gl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "com.amazon.identity.auth.device.workflow.WorkflowActivity",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.android.billingclient.api.ProxyBillingActivityV2",
+            "com.facebook.CustomTabActivity",
+            "com.facebook.CustomTabMainActivity",
+            "com.facebook.FacebookActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.OutOfContextTestingActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.linecorp.linesdk.auth.internal.LineAuthenticationActivity",
+            "com.linecorp.linesdk.auth.internal.LineAuthenticationCallbackActivity",
+            "com.linecorp.linesdk.openchat.ui.CreateOpenChatActivity",
+            "com.pearlabyss.blackdesertm.AlertPopup",
+            "com.pearlabyss.blackdesertm.Loader",
+            "com.pearlabyss.blackdesertm.NotificationLoadActivity",
+            "com.pearlabyss.blackdesertm.TextInput",
+            "com.twitter.sdk.android.core.identity.OAuthActivity",
+            "com.twitter.sdk.android.tweetcomposer.ComposerActivity",
+            "com.twitter.sdk.android.tweetui.GalleryActivity",
+            "com.twitter.sdk.android.tweetui.PlayerActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.ads.AdService",
+            "com.google.android.gms.analytics.AnalyticsJobService",
+            "com.google.android.gms.analytics.AnalyticsService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.google.firebase.sessions.SessionLifecycleService",
+            "com.pearlabyss.blackdesertm.AOSVideoRecorderService",
+            "com.pearlabyss.blackdesertm.FileDownloadProcessService",
+            "com.pearlabyss.blackdesertm.library.FirebaseMessagingReceiver",
+            "com.twitter.sdk.android.tweetcomposer.TweetUploadService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.adjust.sdk.AdjustReferrerReceiver",
+            "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.analytics.AnalyticsReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.pearlabyss.blackdesertm.BroadcastR"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_ADSERVICES_AD_ID": "unknown",
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION": "unknown",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.MODIFY_AUDIO_SETTINGS": "normal",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown",
+            "com.pearlabyss.blackdesertm.gl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "unknown": 7,
+            "normal": 9,
+            "dangerous": 3
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 20
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 2.48,
+        "sources_present": true,
+        "java_file_count": 6
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 0,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 0,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 0,
+            "dynamic_code": 6
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 6
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 0,
+            "handler_loop": 0,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 5
+        }
+    }
+}

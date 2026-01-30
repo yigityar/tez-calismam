@@ -1,0 +1,81 @@
+{
+    "apk_name": "37D967387759B3F762FB8D7666B2AC46E6F1FD6FD64DC6A9CFE88CC1A7A04FE0",
+    "sha256": "37d967387759b3f762fb8d7666b2ac46e6f1fd6fd64dc6a9cfe88cc1a7a04fe0",
+    "metadata": {
+        "package_name": "app.pomodorot",
+        "version_code": "142",
+        "version_name": "0.10.3",
+        "min_sdk": "21",
+        "target_sdk": "34",
+        "permissions": [],
+        "activities": [
+            "com.godot.game.GodotApp",
+            "org.godotengine.godot.utils.ProcessPhoenix"
+        ],
+        "services": [
+            "org.godotengine.godot.GodotDownloaderService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver"
+        ],
+        "permission_details": {},
+        "risk_counts": {}
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 2
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 14.98,
+        "sources_present": true,
+        "java_file_count": 2078
+    },
+    "ast_analysis": {
+        "location": 8,
+        "microphone": 0,
+        "camera": 5,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 4,
+            "audio_control": 0,
+            "vibration": 2,
+            "network_io": 0,
+            "scheduling_apis": 16,
+            "dynamic_code": 108
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 133
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 10,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 107
+        }
+    }
+}

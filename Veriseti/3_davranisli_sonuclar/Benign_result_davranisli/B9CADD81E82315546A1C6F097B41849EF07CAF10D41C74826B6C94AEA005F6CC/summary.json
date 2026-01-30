@@ -1,0 +1,101 @@
+{
+    "apk_name": "B9CADD81E82315546A1C6F097B41849EF07CAF10D41C74826B6C94AEA005F6CC",
+    "sha256": "b9cadd81e82315546a1c6f097b41849ef07caf10d41c74826b6c94aea005f6cc",
+    "metadata": {
+        "package_name": "com.xamiot.mysmartcity",
+        "version_code": "42",
+        "version_name": "4.2",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+            "android.permission.ACCESS_MOCK_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "activities": [
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc64a47fd351dfc90d99.MainActivity"
+        ],
+        "services": [],
+        "receivers": [
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_BACKGROUND_LOCATION": "dangerous",
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS": "normal",
+            "android.permission.ACCESS_MOCK_LOCATION": "unknown",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous"
+        },
+        "risk_counts": {
+            "dangerous": 4,
+            "normal": 3,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 24
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 19.82,
+        "sources_present": true,
+        "java_file_count": 3098
+    },
+    "ast_analysis": {
+        "location": 3,
+        "microphone": 0,
+        "camera": 3,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 1,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 9,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 18,
+            "dynamic_code": 162
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 193
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 12,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 161
+        }
+    }
+}

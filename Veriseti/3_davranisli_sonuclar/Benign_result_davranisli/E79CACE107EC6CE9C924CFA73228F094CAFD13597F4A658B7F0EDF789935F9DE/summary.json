@@ -1,0 +1,134 @@
+{
+    "apk_name": "E79CACE107EC6CE9C924CFA73228F094CAFD13597F4A658B7F0EDF789935F9DE",
+    "sha256": "e79cace107ec6ce9c924cfa73228f094cafd13597f4a658b7f0edf789935f9de",
+    "metadata": {
+        "package_name": "com.airlinemates.bubbletap",
+        "version_code": "32",
+        "version_name": "3.2.2",
+        "min_sdk": "9",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BIND_WALLPAPER",
+            "android.permission.CAMERA",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.SET_WALLPAPER",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.airlinemates.bubbletap.permission.C2D_MESSAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "com.airlinemates.bubbletap.challengesactivity",
+            "com.airlinemates.bubbletap.help",
+            "com.airlinemates.bubbletap.highscores",
+            "com.airlinemates.bubbletap.main",
+            "com.airlinemates.bubbletap.options",
+            "com.airlinemates.bubbletap.purchase",
+            "com.airlinemates.bubbletap.stats",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.purchase.InAppPurchaseActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ],
+        "services": [
+            "com.airlinemates.bubbletap.httputils2service",
+            "com.airlinemates.bubbletap.starter",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService"
+        ],
+        "receivers": [
+            "com.airlinemates.bubbletap.httputils2service$httputils2service_BR",
+            "com.airlinemates.bubbletap.starter$starter_BR",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.BIND_WALLPAPER": "signature",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.SET_WALLPAPER": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.airlinemates.bubbletap.permission.C2D_MESSAGE": "unknown",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "signature": 1,
+            "dangerous": 2,
+            "unknown": 4
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 29.39,
+        "sources_present": true,
+        "java_file_count": 9618
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 1,
+        "camera": 38,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 1,
+            "microphone": 1,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 1,
+            "system_commands": 2,
+            "webview_interop": 11,
+            "content_access": 23,
+            "audio_control": 3,
+            "vibration": 1,
+            "network_io": 10,
+            "scheduling_apis": 56,
+            "dynamic_code": 354
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 463
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 17,
+            "handler_loop": 36,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 26,
+            "user_triggered": 1
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 4,
+            "reflection": 354
+        }
+    }
+}

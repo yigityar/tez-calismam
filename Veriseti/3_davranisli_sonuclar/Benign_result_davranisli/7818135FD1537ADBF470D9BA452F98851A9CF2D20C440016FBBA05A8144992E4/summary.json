@@ -1,0 +1,88 @@
+{
+    "apk_name": "7818135FD1537ADBF470D9BA452F98851A9CF2D20C440016FBBA05A8144992E4",
+    "sha256": "7818135fd1537adbf470d9ba452f98851a9cf2d20c440016fbba05a8144992e4",
+    "metadata": {
+        "package_name": "com.smvqwizcards",
+        "version_code": "171000",
+        "version_name": "1.7.1",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "crc643c53beb35ff32459.MainActivity"
+        ],
+        "services": [],
+        "receivers": [
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.INTERNET": "normal",
+            "com.android.vending.BILLING": "unknown"
+        },
+        "risk_counts": {
+            "normal": 1,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 24
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 16.6,
+        "sources_present": true,
+        "java_file_count": 2232
+    },
+    "ast_analysis": {
+        "location": 3,
+        "microphone": 0,
+        "camera": 5,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 1,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 7,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 1,
+            "scheduling_apis": 13,
+            "dynamic_code": 143
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 166
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 7,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 142
+        }
+    }
+}

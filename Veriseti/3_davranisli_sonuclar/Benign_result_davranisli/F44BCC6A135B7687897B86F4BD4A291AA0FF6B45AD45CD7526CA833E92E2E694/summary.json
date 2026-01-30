@@ -1,0 +1,151 @@
+{
+    "apk_name": "F44BCC6A135B7687897B86F4BD4A291AA0FF6B45AD45CD7526CA833E92E2E694",
+    "sha256": "f44bcc6a135b7687897b86f4bd4a291aa0ff6b45ad45cd7526ca833e92e2e694",
+    "metadata": {
+        "package_name": "giostra.cavalleresca",
+        "version_code": "40",
+        "version_name": "4.0",
+        "min_sdk": "16",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "giostra.cavalleresca.permission.C2D_MESSAGE"
+        ],
+        "activities": [
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.purchase.InAppPurchaseActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "giostra.cavalleresca.classifiche",
+            "giostra.cavalleresca.classifichecomuni",
+            "giostra.cavalleresca.classifichecordesca",
+            "giostra.cavalleresca.classificheeuropea",
+            "giostra.cavalleresca.comefunziona",
+            "giostra.cavalleresca.domenica",
+            "giostra.cavalleresca.domenicacordesca",
+            "giostra.cavalleresca.domenicaeuropea",
+            "giostra.cavalleresca.finale",
+            "giostra.cavalleresca.finalecomuni",
+            "giostra.cavalleresca.finalecordesca",
+            "giostra.cavalleresca.finaleeuropea",
+            "giostra.cavalleresca.main",
+            "giostra.cavalleresca.maincavalleresca",
+            "giostra.cavalleresca.maincomuni",
+            "giostra.cavalleresca.maincordesca",
+            "giostra.cavalleresca.maineuropea",
+            "giostra.cavalleresca.mainscelta",
+            "giostra.cavalleresca.mercoledi",
+            "giostra.cavalleresca.principale",
+            "giostra.cavalleresca.sabato",
+            "giostra.cavalleresca.sabatocordesca",
+            "giostra.cavalleresca.sabatoeuropea",
+            "giostra.cavalleresca.semifinali",
+            "giostra.cavalleresca.semifinalicomuni",
+            "giostra.cavalleresca.semifinalicordesca",
+            "giostra.cavalleresca.semifinalieuropea",
+            "giostra.cavalleresca.singolasfida",
+            "giostra.cavalleresca.singolasfidacorde",
+            "giostra.cavalleresca.singolasfidacorde2",
+            "giostra.cavalleresca.utilita",
+            "giostra.cavalleresca.utilitacomuni",
+            "giostra.cavalleresca.utilitacordesca",
+            "giostra.cavalleresca.utilitaeuropea"
+        ],
+        "services": [
+            "anywheresoftware.b4a.objects.FirebaseNotificationsService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.crash.internal.service.FirebaseCrashReceiverService",
+            "com.google.firebase.crash.internal.service.FirebaseCrashSenderService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "giostra.cavalleresca.httputils2service",
+            "giostra.cavalleresca.starter"
+        ],
+        "receivers": [
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "giostra.cavalleresca.httputils2service$httputils2service_BR",
+            "giostra.cavalleresca.starter$starter_BR"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "giostra.cavalleresca.permission.C2D_MESSAGE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 4,
+            "dangerous": 1,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 25.11,
+        "sources_present": true,
+        "java_file_count": 7305
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 26,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 11,
+            "content_access": 9,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 11,
+            "scheduling_apis": 103,
+            "dynamic_code": 457
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 592
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 16,
+            "handler_loop": 85,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 107,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 4,
+            "reflection": 457
+        }
+    }
+}

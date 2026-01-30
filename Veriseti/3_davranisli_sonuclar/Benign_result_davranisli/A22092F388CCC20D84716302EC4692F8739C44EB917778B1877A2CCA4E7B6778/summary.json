@@ -1,0 +1,169 @@
+{
+    "apk_name": "A22092F388CCC20D84716302EC4692F8739C44EB917778B1877A2CCA4E7B6778",
+    "sha256": "a22092f388ccc20d84716302ec4692f8739c44eb917778b1877a2cca4e7b6778",
+    "metadata": {
+        "package_name": "com.markets.android",
+        "version_code": "2012261336",
+        "version_name": "21",
+        "min_sdk": "23",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.CAMERA",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.INTERNET",
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "com.devexperts.dxmobile.cosmos.CosmosDynamicRegistrationActivity",
+            "com.devexperts.dxmobile.cosmos.CosmosSplashscreenActivity",
+            "com.devexperts.dxmobile.cosmos.StateMachineIntermediateActivity",
+            "com.facebook.CustomTabActivity",
+            "com.facebook.CustomTabMainActivity",
+            "com.facebook.FacebookActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.libraries.places.widget.AutocompleteActivity",
+            "com.google.firebase.auth.internal.GenericIdpActivity",
+            "com.google.firebase.auth.internal.RecaptchaActivity",
+            "ua.finalto.cosmos.MainActivity",
+            "ua.finalto.cosmos.unauthorized.UnauthorizedUserActivity",
+            "ua.kstt.cosmos.CosmosMainActivity",
+            "ua.kstt.cosmos.old.features.connectors.CosmosDefaultFeaturesActivity",
+            "ua.kstt.cosmos.ui.registration.DynamicLinearRegistrationActivity",
+            "ua.kstt.cosmos.ui.unauthorized.UnauthorizedUserActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.devexperts.dxmarket.client.auth.AuthenticationService",
+            "com.devexperts.dxmarket.client.net.TransportService",
+            "com.devexperts.dxmobile.cosmos.firebase.CosmosFirebaseMessagingService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.analytics.AnalyticsJobService",
+            "com.google.android.gms.analytics.AnalyticsService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.uxcam.service.HttpPostService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.appsflyer.SingleInstallBroadcastReceiver",
+            "com.devexperts.dxmobile.cosmos.firebase.NotificationClickBroadcastReceiver",
+            "com.devexperts.dxmobile.cosmos.util.LocaleChangedReceiver",
+            "com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver",
+            "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.analytics.AnalyticsReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.AUTHENTICATE_ACCOUNTS": "unknown",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.MANAGE_ACCOUNTS": "unknown",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 5,
+            "normal": 7,
+            "unknown": 5
+        }
+    },
+    "stats": {
+        "dex_count": 6,
+        "native_lib_count": 4
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 47.75,
+        "sources_present": true,
+        "java_file_count": 13051
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 31,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 15,
+            "content_access": 13,
+            "audio_control": 1,
+            "vibration": 1,
+            "network_io": 13,
+            "scheduling_apis": 62,
+            "dynamic_code": 328
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 434
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 8,
+            "handler_loop": 50,
+            "job_scheduler": 4
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 4
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 327
+        }
+    }
+}

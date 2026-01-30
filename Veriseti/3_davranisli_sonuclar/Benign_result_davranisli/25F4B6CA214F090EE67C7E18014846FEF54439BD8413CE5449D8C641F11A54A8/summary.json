@@ -1,0 +1,122 @@
+{
+    "apk_name": "25F4B6CA214F090EE67C7E18014846FEF54439BD8413CE5449D8C641F11A54A8",
+    "sha256": "25f4b6ca214f090ee67c7e18014846fef54439bd8413ce5449d8c641f11a54a8",
+    "metadata": {
+        "package_name": "com.maaxstore.store",
+        "version_code": "506",
+        "version_name": "5.0.6",
+        "min_sdk": "19",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERACT_ACROSS_USERS_FULL",
+            "android.permission.INTERNET",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_LOGS",
+            "android.permission.READ_OWNER_DATA",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WRITE_OWNER_DATA",
+            "android.permission.WRITE_SETTINGS"
+        ],
+        "activities": [
+            "org.sopcast.android.SopCast"
+        ],
+        "services": [
+            "com.tvbus.engine.TVService"
+        ],
+        "receivers": [
+            "org.sopcast.android.broadcast.ActionReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.INTERACT_ACROSS_USERS_FULL": "unknown",
+            "android.permission.INTERNET": "normal",
+            "android.permission.MODIFY_AUDIO_SETTINGS": "normal",
+            "android.permission.MOUNT_UNMOUNT_FILESYSTEMS": "unlaballed",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_LOGS": "unlaballed",
+            "android.permission.READ_OWNER_DATA": "unknown",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.REQUEST_INSTALL_PACKAGES": "signature",
+            "android.permission.SYSTEM_ALERT_WINDOW": "signature",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WRITE_OWNER_DATA": "unknown",
+            "android.permission.WRITE_SETTINGS": "signature"
+        },
+        "risk_counts": {
+            "normal": 6,
+            "unknown": 3,
+            "unlaballed": 2,
+            "dangerous": 3,
+            "signature": 3
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 28
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 17.83,
+        "sources_present": true,
+        "java_file_count": 3716
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 11,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 5
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 5,
+            "webview_interop": 4,
+            "content_access": 11,
+            "audio_control": 2,
+            "vibration": 0,
+            "network_io": 9,
+            "scheduling_apis": 20,
+            "dynamic_code": 153
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 204
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 13,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 3
+        },
+        "dynamic_features": {
+            "jni_usage": 5,
+            "dynamic_loading": 0,
+            "reflection": 148
+        }
+    }
+}

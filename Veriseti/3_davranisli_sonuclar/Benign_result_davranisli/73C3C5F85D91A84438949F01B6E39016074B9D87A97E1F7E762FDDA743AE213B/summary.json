@@ -1,0 +1,121 @@
+{
+    "apk_name": "73C3C5F85D91A84438949F01B6E39016074B9D87A97E1F7E762FDDA743AE213B",
+    "sha256": "73c3c5f85d91a84438949f01b6e39016074b9d87a97e1f7e762fdda743ae213b",
+    "metadata": {
+        "package_name": "no.barnasplattform.app",
+        "version_code": "160846",
+        "version_name": "2.1.25",
+        "min_sdk": "19",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.MEDIA_CONTENT_CONTROL",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "com.android.alarm.permission.SET_ALARM",
+            "no.barnasplattform.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "crc64db6ef3b4b46d7e4c.MainActivity",
+            "crc64db6ef3b4b46d7e4c.SplashActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "crc64db6ef3b4b46d7e4c.DownloadService",
+            "crc64db6ef3b4b46d7e4c.PlayerService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver",
+            "crc64db6ef3b4b46d7e4c.PlayerService_AlarmReceiver",
+            "no.barnasplattform.app.AlarmReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.MEDIA_CONTENT_CONTROL": "unlaballed",
+            "android.permission.MODIFY_AUDIO_SETTINGS": "normal",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.android.alarm.permission.SET_ALARM": "normal",
+            "no.barnasplattform.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "normal": 7,
+            "unlaballed": 1,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 24
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 27.43,
+        "sources_present": true,
+        "java_file_count": 4197
+    },
+    "ast_analysis": {
+        "location": 8,
+        "microphone": 0,
+        "camera": 4,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 7,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 2,
+            "scheduling_apis": 29,
+            "dynamic_code": 210
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 254
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 21,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 209
+        }
+    }
+}

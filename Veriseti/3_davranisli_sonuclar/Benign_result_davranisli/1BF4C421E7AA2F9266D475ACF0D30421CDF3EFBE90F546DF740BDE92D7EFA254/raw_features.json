@@ -1,0 +1,92 @@
+{
+    "java_files": [
+        "com/facebook/android/crypto/keychain/SharedPrefsBackedKeyChain.java",
+        "com/facebook/android/crypto/keychain/SecureRandomFix.java",
+        "com/facebook/android/crypto/keychain/AndroidConceal.java",
+        "com/facebook/android/crypto/keychain/FixedSecureRandom.java",
+        "com/AppGuard/AppGuard/b.java",
+        "com/AppGuard/AppGuard/H.java",
+        "com/AppGuard/AppGuard/AW.java",
+        "com/AppGuard/AppGuard/AP.java",
+        "com/AppGuard/AppGuard/a.java",
+        "com/AppGuard/AppGuard/c.java",
+        "com/AppGuard/AppGuard/CP.java",
+        "com/pearlabyss/pearlapp/R.java"
+    ],
+    "ast_hits_by_file": {
+        "location": [],
+        "microphone": [],
+        "camera": [],
+        "media_projection": [],
+        "dynamic_load": [],
+        "jni": [
+            "com/AppGuard/AppGuard/AW.java"
+        ]
+    },
+    "native_libs": [
+        "lib/arm64-v8a/libAppGuard-x86.so",
+        "lib/arm64-v8a/libAppGuard.so",
+        "lib/arm64-v8a/libc++_shared.so",
+        "lib/arm64-v8a/libconceal.so",
+        "lib/arm64-v8a/libfb.so",
+        "lib/arm64-v8a/libfolly_futures.so",
+        "lib/arm64-v8a/libfolly_json.so",
+        "lib/arm64-v8a/libglog.so",
+        "lib/arm64-v8a/libglog_init.so",
+        "lib/arm64-v8a/libhermes-executor-release.so",
+        "lib/arm64-v8a/libhermes.so",
+        "lib/arm64-v8a/libimagepipeline.so",
+        "lib/arm64-v8a/libjsijniprofiler.so",
+        "lib/arm64-v8a/libjsinspector.so",
+        "lib/arm64-v8a/libnative-filters.so",
+        "lib/arm64-v8a/libnative-imagetranscoder.so",
+        "lib/arm64-v8a/libreactnativejni.so",
+        "lib/arm64-v8a/libyoga.so",
+        "lib/armeabi-v7a/libAppGuard-x86.so",
+        "lib/armeabi-v7a/libAppGuard.so",
+        "lib/armeabi-v7a/libc++_shared.so",
+        "lib/armeabi-v7a/libconceal.so",
+        "lib/armeabi-v7a/libfb.so",
+        "lib/armeabi-v7a/libfolly_futures.so",
+        "lib/armeabi-v7a/libfolly_json.so",
+        "lib/armeabi-v7a/libglog.so",
+        "lib/armeabi-v7a/libglog_init.so",
+        "lib/armeabi-v7a/libhermes-executor-release.so",
+        "lib/armeabi-v7a/libhermes.so",
+        "lib/armeabi-v7a/libimagepipeline.so",
+        "lib/armeabi-v7a/libjsijniprofiler.so",
+        "lib/armeabi-v7a/libjsinspector.so",
+        "lib/armeabi-v7a/libnative-filters.so",
+        "lib/armeabi-v7a/libnative-imagetranscoder.so",
+        "lib/armeabi-v7a/libreactnativejni.so",
+        "lib/armeabi-v7a/libyoga.so"
+    ],
+    "dex_files_count": 1,
+    "exported_components": {
+        "activities": [
+            "com.facebook.CustomTabActivity",
+            "com.facebook.CustomTabMainActivity",
+            "com.facebook.FacebookActivity",
+            "com.facebook.react.devsupport.DevSettingsActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.pearlabyss.pearlapp.MainActivity"
+        ],
+        "services": [
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService",
+            "io.invertase.firebase.messaging.RNFirebaseMessagingService"
+        ],
+        "receivers": [
+            "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.learnium.RNDeviceInfo.RNDeviceReceiver",
+            "io.invertase.firebase.notifications.RNFirebaseNotificationReceiver",
+            "io.invertase.firebase.notifications.RNFirebaseNotificationsRebootReceiver"
+        ]
+    }
+}

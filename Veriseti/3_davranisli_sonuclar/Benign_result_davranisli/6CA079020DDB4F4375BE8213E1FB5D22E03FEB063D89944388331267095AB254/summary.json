@@ -1,0 +1,135 @@
+{
+    "apk_name": "6CA079020DDB4F4375BE8213E1FB5D22E03FEB063D89944388331267095AB254",
+    "sha256": "6ca079020ddb4f4375be8213e1fb5d22e03feb063d89944388331267095ab254",
+    "metadata": {
+        "package_name": "com.cartoon_cat.cartoon.cat.mod",
+        "version_code": "44",
+        "version_name": "cartoon_cat-2",
+        "min_sdk": "21",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.BILLING",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.cartoon_cat.cartoon.cat.mod.InstallModActivity",
+            "com.cartoon_cat.cartoon.cat.mod.MainActivity",
+            "com.cartoon_cat.cartoon.cat.mod.SplashActivity",
+            "com.cartoon_cat.cartoon.cat.mod.StartTrialActivity",
+            "com.facebook.ads.AudienceNetworkActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.ironsource.sdk.controller.ControllerActivity",
+            "com.ironsource.sdk.controller.InterstitialActivity",
+            "com.ironsource.sdk.controller.OpenUrlActivity",
+            "com.startapp.sdk.ads.interstitials.OverlayActivity",
+            "com.startapp.sdk.ads.list3d.List3DActivity",
+            "com.startapp.sdk.adsbase.consent.ConsentActivity",
+            "com.unity3d.services.ads.adunit.AdUnitActivity",
+            "com.unity3d.services.ads.adunit.AdUnitSoftwareActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.google.android.gms.ads.AdService",
+            "com.startapp.sdk.cachedservice.BackgroundService",
+            "com.startapp.sdk.jobs.SchedulerService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.startapp.sdk.adsbase.remoteconfig.BootCompleteListener"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "normal": 6,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 4,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 46.98,
+        "sources_present": true,
+        "java_file_count": 12888
+    },
+    "ast_analysis": {
+        "location": 3,
+        "microphone": 0,
+        "camera": 40,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 2,
+            "torch": 0,
+            "telephony_ops": 2,
+            "system_commands": 8,
+            "webview_interop": 32,
+            "content_access": 13,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 18,
+            "scheduling_apis": 79,
+            "dynamic_code": 390
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 545
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 10,
+            "handler_loop": 67,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 6,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 6,
+            "reflection": 390
+        }
+    }
+}

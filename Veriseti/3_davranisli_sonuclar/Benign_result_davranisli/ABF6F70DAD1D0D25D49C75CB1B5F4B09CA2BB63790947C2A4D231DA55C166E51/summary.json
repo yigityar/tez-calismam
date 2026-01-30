@@ -1,0 +1,140 @@
+{
+    "apk_name": "ABF6F70DAD1D0D25D49C75CB1B5F4B09CA2BB63790947C2A4D231DA55C166E51",
+    "sha256": "abf6f70dad1d0d25d49c75cb1b5f4b09ca2bb63790947c2a4d231da55c166e51",
+    "metadata": {
+        "package_name": "air.com.sgn.familyguy.gp",
+        "version_code": "2046003",
+        "version_name": "2.46.3",
+        "min_sdk": "24",
+        "target_sdk": "30",
+        "permissions": [
+            "air.com.sgn.familyguy.gp.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.DISABLE_KEYGUARD",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "air.com.sgn.familyguy.gp.AppEntry",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.applovin.adview.AppLovinFullscreenActivity",
+            "com.applovin.adview.AppLovinInterstitialActivity",
+            "com.applovin.sdk.AppLovinWebViewActivity",
+            "com.facebook.CustomTabActivity",
+            "com.facebook.CustomTabMainActivity",
+            "com.facebook.FacebookActivity",
+            "com.facebook.ads.AudienceNetworkActivity",
+            "com.facebook.ads.InterstitialAdActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.helpshift.support.activities.ParentActivity",
+            "com.ironsource.sdk.controller.ControllerActivity",
+            "com.ironsource.sdk.controller.InterstitialActivity",
+            "com.ironsource.sdk.controller.OpenUrlActivity",
+            "com.jamcity.gsma.share.SharingActivity",
+            "com.jesusla.ane.CustomActivity",
+            "com.jesusla.google.GoogleInAppBillingActivity",
+            "com.sgn.googleservices.MainActivity",
+            "com.sgn.ratings.PopupActivity",
+            "com.unity3d.services.ads.adunit.AdUnitActivity",
+            "com.unity3d.services.ads.adunit.AdUnitSoftwareActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceId",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.jamcity.notifications.firebase.JamcityFirebaseMessagingService",
+            "com.sgn.dlc.service.DownloaderJobService",
+            "com.sgn.dlc.service.DownloaderService"
+        ],
+        "receivers": [
+            "com.adjust.sdk.AdjustReferrerReceiver",
+            "com.amazon.inapp.purchasing.ResponseReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.jamcity.gsma.share.TargetChosenReceiver",
+            "com.jamcity.notifications.AlarmReceiver"
+        ],
+        "permission_details": {
+            "air.com.sgn.familyguy.gp.permission.C2D_MESSAGE": "unknown",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.DISABLE_KEYGUARD": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "unknown": 4,
+            "normal": 6
+        }
+    },
+    "stats": {
+        "dex_count": 7,
+        "native_lib_count": 5
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 52.11,
+        "sources_present": true,
+        "java_file_count": 12464
+    },
+    "ast_analysis": {
+        "location": 2,
+        "microphone": 1,
+        "camera": 58,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 4
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 1,
+            "microphone": 1,
+            "location": 2,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 3,
+            "webview_interop": 27,
+            "content_access": 26,
+            "audio_control": 1,
+            "vibration": 2,
+            "network_io": 17,
+            "scheduling_apis": 59,
+            "dynamic_code": 450
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 589
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 17,
+            "handler_loop": 40,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 5,
+            "user_triggered": 4
+        },
+        "dynamic_features": {
+            "jni_usage": 3,
+            "dynamic_loading": 10,
+            "reflection": 447
+        }
+    }
+}

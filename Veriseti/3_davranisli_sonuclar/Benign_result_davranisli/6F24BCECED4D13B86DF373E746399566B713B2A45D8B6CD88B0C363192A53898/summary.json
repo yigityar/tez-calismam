@@ -1,0 +1,112 @@
+{
+    "apk_name": "6F24BCECED4D13B86DF373E746399566B713B2A45D8B6CD88B0C363192A53898",
+    "sha256": "6f24bceced4d13b86df373e746399566b713b2a45d8b6cd88b0c363192a53898",
+    "metadata": {
+        "package_name": "air.com.miracle.nooraniqaidahindi1",
+        "version_code": "7006064",
+        "version_name": "7.6.64",
+        "min_sdk": "9",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.DISABLE_KEYGUARD",
+            "android.permission.INTERNET",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"
+        ],
+        "activities": [
+            "air.com.miracle.nooraniqaidahindi1.AppEntry",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.distriqt.extension.inappbilling.activities.ProductViewActivity",
+            "com.distriqt.extension.share.permissions.AuthorisationActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "com.google.android.gms.ads.AdService",
+            "com.google.android.play.core.assetpacks.AssetPackExtractionService"
+        ],
+        "receivers": [
+            "com.amazon.device.iap.ResponseReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.DISABLE_KEYGUARD": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.android.vending.BILLING": "unknown",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 2,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 3
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 31.41,
+        "sources_present": true,
+        "java_file_count": 8188
+    },
+    "ast_analysis": {
+        "location": 2,
+        "microphone": 0,
+        "camera": 18,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 2
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 1,
+            "microphone": 1,
+            "location": 2,
+            "torch": 0,
+            "telephony_ops": 1,
+            "system_commands": 3,
+            "webview_interop": 13,
+            "content_access": 17,
+            "audio_control": 1,
+            "vibration": 1,
+            "network_io": 6,
+            "scheduling_apis": 30,
+            "dynamic_code": 272
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 348
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 11,
+            "handler_loop": 17,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 3,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 8,
+            "reflection": 271
+        }
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "apk_name": "AD91189EDB13F28711C127BE2E7DD704AC8BDD5424B076F1EFC7A2F0A3D32CA2",
+    "sha256": "ad91189edb13f28711c127be2e7dd704ac8bdd5424b076f1efc7a2f0a3d32ca2",
+    "metadata": {
+        "package_name": "com.it.smartmanager2020",
+        "version_code": "59",
+        "version_name": "2022.05",
+        "min_sdk": "18",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.CAMERA",
+            "android.permission.DELETE_PACKAGES",
+            "android.permission.INSTALL_PACKAGES",
+            "android.permission.INTERNET",
+            "android.permission.NFC",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.it.smartmanager2020.permission.C2D_MESSAGE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE"
+        ],
+        "activities": [
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.it.smartmanager2020.MainActivity",
+            "crc646957603ea1820544.MediaPickerActivity",
+            "crc6477ec25c85388effd.OAuthInterceptorActivity",
+            "crc6480997b3ef81bf9b2.ZxingActivity",
+            "crc64a0e0a82d0db9a07d.IntermediateActivity",
+            "crc64f98dd38067c0c88b.FormAuthenticatorActivity",
+            "crc64f98dd38067c0c88b.WebAuthenticatorActivity",
+            "crc64f98dd38067c0c88b.WebAuthenticatorNativeBrowserActivity",
+            "crc64f98dd38067c0c88b.WebViewActivity"
+        ],
+        "services": [
+            "com.google.android.gms.analytics.AnalyticsJobService",
+            "com.google.android.gms.analytics.AnalyticsService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "crc64396a3fe5f8138e3f.KeepAliveService",
+            "crc648fe24f4c9c3b3f43.FcmService",
+            "crc648fe24f4c9c3b3f43.FirebaseIIDService",
+            "crc64e9ca5ddf49251a0b.Gps_GeolocationService"
+        ],
+        "receivers": [
+            "com.google.android.gms.analytics.AnalyticsReceiver",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc640f9a3bf7250ef269.ScheduledAlarmHandler",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver",
+            "crc64a0e0a82d0db9a07d.ConnectivityBroadcastReceiver",
+            "crc64cea48322b3427ae9.ConnectivityChangeBroadcastReceiver",
+            "crc64f98dd38067c0c88b.CustomTabsActionsBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.BLUETOOTH_ADMIN": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.DELETE_PACKAGES": "unlaballed",
+            "android.permission.INSTALL_PACKAGES": "unlaballed",
+            "android.permission.INTERNET": "normal",
+            "android.permission.NFC": "normal",
+            "android.permission.READ_APP_BADGE": "unknown",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.anddoes.launcher.permission.UPDATE_COUNT": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.htc.launcher.permission.READ_SETTINGS": "unknown",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT": "unknown",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE": "unknown",
+            "com.huawei.android.launcher.permission.READ_SETTINGS": "unknown",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS": "signature",
+            "com.it.smartmanager2020.permission.C2D_MESSAGE": "unknown",
+            "com.majeur.launcher.permission.UPDATE_BADGE": "unknown",
+            "com.oppo.launcher.permission.READ_SETTINGS": "unknown",
+            "com.oppo.launcher.permission.WRITE_SETTINGS": "signature",
+            "com.sec.android.provider.badge.permission.READ": "unknown",
+            "com.sec.android.provider.badge.permission.WRITE": "unknown",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE": "unknown",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE": "unknown",
+            "me.everything.badger.permission.BADGE_COUNT_READ": "unknown",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 5,
+            "normal": 9,
+            "unlaballed": 2,
+            "unknown": 16,
+            "signature": 2
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 60
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 27.68,
+        "sources_present": true,
+        "java_file_count": 7228
+    },
+    "ast_analysis": {
+        "location": 7,
+        "microphone": 0,
+        "camera": 35,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 0,
+            "content_access": 10,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 11,
+            "scheduling_apis": 19,
+            "dynamic_code": 232
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 276
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 9,
+            "handler_loop": 8,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 231
+        }
+    }
+}

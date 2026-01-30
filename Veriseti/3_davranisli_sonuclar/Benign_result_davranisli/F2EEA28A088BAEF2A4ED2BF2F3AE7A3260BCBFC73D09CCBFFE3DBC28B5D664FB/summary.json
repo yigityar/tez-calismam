@@ -1,0 +1,118 @@
+{
+    "apk_name": "F2EEA28A088BAEF2A4ED2BF2F3AE7A3260BCBFC73D09CCBFFE3DBC28B5D664FB",
+    "sha256": "f2eea28a088baef2a4ed2bf2f3ae7a3260bcbfc73d09ccbffe3dbc28b5d664fb",
+    "metadata": {
+        "package_name": "com.ubiqu.eid",
+        "version_code": "9027213",
+        "version_name": "2022.5104.1",
+        "min_sdk": "23",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "com.ubiqu.eid.activities.HomeActivity",
+            "o.BackendResponse$Status",
+            "o.CoroutineExceptionHandlerImplKt"
+        ],
+        "services": [
+            "androidx.camera.core.impl.MetadataHolderService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "o.DescriptorRendererImpl$appendTypeProjections$1",
+            "o.ExecutorCoroutineDispatcher$Key",
+            "o.LazyJavaPackageFragment$subPackages$1",
+            "o.ProtoBuf$Type$Argument"
+        ],
+        "receivers": [
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "o.setLayoutManager"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.USE_BIOMETRIC": "normal",
+            "android.permission.USE_FINGERPRINT": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 6,
+            "dangerous": 2,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 5
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 42.41,
+        "sources_present": true,
+        "java_file_count": 5526
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 5,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 5
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 3,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 0,
+            "content_access": 6,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 3,
+            "scheduling_apis": 24,
+            "dynamic_code": 585
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 622
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 2,
+            "handler_loop": 20,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 4,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 3,
+            "dynamic_loading": 0,
+            "reflection": 582
+        }
+    }
+}

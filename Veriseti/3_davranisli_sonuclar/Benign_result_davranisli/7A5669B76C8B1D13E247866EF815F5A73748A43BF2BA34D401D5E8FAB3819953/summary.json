@@ -1,0 +1,125 @@
+{
+    "apk_name": "7A5669B76C8B1D13E247866EF815F5A73748A43BF2BA34D401D5E8FAB3819953",
+    "sha256": "7a5669b76c8b1d13e247866ef815f5a73748a43bf2ba34d401d5e8fab3819953",
+    "metadata": {
+        "package_name": "teampicker.teampicker",
+        "version_code": "37",
+        "version_name": "37.0",
+        "min_sdk": "21",
+        "target_sdk": "35",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.gms.permission.AD_ID",
+            "teampicker.teampicker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        ],
+        "activities": [
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.OutOfContextTestingActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc6468b6408a11370c2f.WebAuthenticatorIntermediateActivity",
+            "crc64ba438d8f48cf7e75.IntermediateActivity",
+            "crc64f30594cd5f242154.MatchActivity",
+            "crc64f30594cd5f242154.MatchListActivity",
+            "crc64f30594cd5f242154.PlayerActivity",
+            "crc64f30594cd5f242154.PrivacyActivity",
+            "crc64f30594cd5f242154.SelectionActivity",
+            "crc64f30594cd5f242154.SettingsActivity",
+            "crc64f30594cd5f242154.SplashActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.google.android.gms.ads.AdService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "crc640a8d9a12ddbf2cf2.BatteryBroadcastReceiver",
+            "crc640a8d9a12ddbf2cf2.EnergySaverBroadcastReceiver",
+            "crc64e53d2f592022988e.ConnectivityBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.google.android.gms.permission.AD_ID": "unknown",
+            "teampicker.teampicker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 380
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 33.72,
+        "sources_present": true,
+        "java_file_count": 9570
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 0,
+        "camera": 10,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 8,
+            "content_access": 2,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 3,
+            "scheduling_apis": 23,
+            "dynamic_code": 260
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 299
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 15,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 4,
+            "reflection": 259
+        }
+    }
+}

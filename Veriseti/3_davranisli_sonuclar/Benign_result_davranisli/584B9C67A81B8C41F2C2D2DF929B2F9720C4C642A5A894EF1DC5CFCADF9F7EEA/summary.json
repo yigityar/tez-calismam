@@ -1,0 +1,127 @@
+{
+    "apk_name": "584B9C67A81B8C41F2C2D2DF929B2F9720C4C642A5A894EF1DC5CFCADF9F7EEA",
+    "sha256": "584b9c67a81b8c41f2c2d2df929b2f9720c4c642a5a894ef1dc5cfcadf9f7eea",
+    "metadata": {
+        "package_name": "uk.co.stefsquared.vanguard",
+        "version_code": "351",
+        "version_name": "5.2",
+        "min_sdk": "16",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID",
+            "uk.co.stefsquared.vanguard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "uk.co.stefsquared.vanguard.permission.C2D_MESSAGE"
+        ],
+        "activities": [
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.purchase.InAppPurchaseActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "uk.co.stefsquared.vanguard.actbackup",
+            "uk.co.stefsquared.vanguard.actcardview",
+            "uk.co.stefsquared.vanguard.actfiltermenu",
+            "uk.co.stefsquared.vanguard.acthelpscreen",
+            "uk.co.stefsquared.vanguard.actsearch",
+            "uk.co.stefsquared.vanguard.acttestdeck",
+            "uk.co.stefsquared.vanguard.main"
+        ],
+        "services": [
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "uk.co.stefsquared.vanguard.httputils2service",
+            "uk.co.stefsquared.vanguard.starter"
+        ],
+        "receivers": [
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "uk.co.stefsquared.vanguard.httputils2service$httputils2service_BR",
+            "uk.co.stefsquared.vanguard.starter$starter_BR"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown",
+            "uk.co.stefsquared.vanguard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "uk.co.stefsquared.vanguard.permission.C2D_MESSAGE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 1,
+            "unknown": 5
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 32.66,
+        "sources_present": true,
+        "java_file_count": 8345
+    },
+    "ast_analysis": {
+        "location": 8,
+        "microphone": 0,
+        "camera": 26,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 1,
+            "system_commands": 2,
+            "webview_interop": 11,
+            "content_access": 24,
+            "audio_control": 3,
+            "vibration": 1,
+            "network_io": 12,
+            "scheduling_apis": 55,
+            "dynamic_code": 397
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 509
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 16,
+            "handler_loop": 37,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 26,
+            "user_triggered": 1
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 4,
+            "reflection": 397
+        }
+    }
+}

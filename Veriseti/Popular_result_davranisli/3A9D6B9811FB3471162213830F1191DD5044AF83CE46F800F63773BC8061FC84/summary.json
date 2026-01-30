@@ -1,0 +1,130 @@
+{
+    "apk_name": "3A9D6B9811FB3471162213830F1191DD5044AF83CE46F800F63773BC8061FC84",
+    "sha256": "3a9d6b9811fb3471162213830f1191dd5044af83ce46f800f63773bc8061fc84",
+    "metadata": {
+        "package_name": "com.roblox.client",
+        "version_code": "126",
+        "version_name": "2.252.80145",
+        "min_sdk": "15",
+        "target_sdk": "23",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.GET_TASKS",
+            "android.permission.INTERNET",
+            "android.permission.KILL_BACKGROUND_PROCESSES",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.roblox.client.permission.C2D_MESSAGE"
+        ],
+        "activities": [
+            "com.facebook.FacebookActivity",
+            "com.gigya.socialize.android.login.providers.WebLoginActivity",
+            "com.gigya.socialize.android.ui.HostActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.purchase.InAppPurchaseActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.roblox.client.ActivityCurlTest",
+            "com.roblox.client.ActivityGlView",
+            "com.roblox.client.ActivityNativeMain",
+            "com.roblox.client.ActivityNotificationStream",
+            "com.roblox.client.ActivitySplash",
+            "com.roblox.client.ActivityStart",
+            "com.roblox.client.ReCaptchaActivity",
+            "com.roblox.client.test.TestHelperActivity"
+        ],
+        "services": [
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.roblox.client.RobloxService",
+            "com.roblox.client.gcm.RbxGcmListenerService",
+            "com.roblox.client.gcm.RbxInstanceIdListenerService",
+            "com.roblox.client.gcm.RegistrationIntentService",
+            "com.roblox.client.realtime.RealtimeService"
+        ],
+        "receivers": [
+            "com.amazon.device.iap.ResponseReceiver",
+            "com.google.android.gms.gcm.GcmReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.mobileapptracker.Tracker"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.GET_TASKS": "unlaballed",
+            "android.permission.INTERNET": "normal",
+            "android.permission.KILL_BACKGROUND_PROCESSES": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.roblox.client.permission.C2D_MESSAGE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 6,
+            "unlaballed": 1,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 4
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 22.16,
+        "sources_present": true,
+        "java_file_count": 3228
+    },
+    "ast_analysis": {
+        "location": 1,
+        "microphone": 0,
+        "camera": 16,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 7
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 1,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 28,
+            "content_access": 11,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 4,
+            "scheduling_apis": 44,
+            "dynamic_code": 140
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 229
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 3,
+            "handler_loop": 40,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 6,
+            "user_triggered": 4
+        },
+        "dynamic_features": {
+            "jni_usage": 4,
+            "dynamic_loading": 4,
+            "reflection": 136
+        }
+    }
+}

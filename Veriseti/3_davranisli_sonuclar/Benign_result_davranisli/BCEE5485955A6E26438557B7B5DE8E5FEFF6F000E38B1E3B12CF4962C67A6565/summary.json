@@ -1,0 +1,90 @@
+{
+    "apk_name": "BCEE5485955A6E26438557B7B5DE8E5FEFF6F000E38B1E3B12CF4962C67A6565",
+    "sha256": "bcee5485955a6e26438557b7b5de8e5feff6f000e38b1e3b12cf4962c67a6565",
+    "metadata": {
+        "package_name": "com.devlopp.soft.medical40",
+        "version_code": "66",
+        "version_name": "1.0",
+        "min_sdk": "20",
+        "target_sdk": "35",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE"
+        ],
+        "activities": [
+            "com.devlopp.soft.medical40.PDFViewActivity_",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.purchase.InAppPurchaseActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ],
+        "services": [],
+        "receivers": [],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous"
+        },
+        "risk_counts": {
+            "normal": 2,
+            "dangerous": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 12
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 13.73,
+        "sources_present": true,
+        "java_file_count": 1734
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 5,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 2
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 3,
+            "content_access": 9,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 12,
+            "dynamic_code": 84
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 109
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 0,
+            "handler_loop": 12,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 2,
+            "reflection": 83
+        }
+    }
+}

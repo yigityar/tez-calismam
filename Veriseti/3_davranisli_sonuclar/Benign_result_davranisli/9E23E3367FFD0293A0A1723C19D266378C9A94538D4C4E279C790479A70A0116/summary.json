@@ -1,0 +1,105 @@
+{
+    "apk_name": "9E23E3367FFD0293A0A1723C19D266378C9A94538D4C4E279C790479A70A0116",
+    "sha256": "9e23e3367ffd0293a0a1723c19d266378c9a94538d4c4e279c790479a70a0116",
+    "metadata": {
+        "package_name": "com.ankitsardi.Govt_Yojna",
+        "version_code": "51",
+        "version_name": "5.1",
+        "min_sdk": "19",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "activities": [
+            "com.facebook.ads.AudienceNetworkActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.ironsource.sdk.controller.ControllerActivity",
+            "com.ironsource.sdk.controller.InterstitialActivity",
+            "com.ironsource.sdk.controller.OpenUrlActivity",
+            "com.niotron.ankitsardi.Govt_Yojna.Screen1",
+            "com.niotron.ankitsardi.Govt_Yojna.Screen2",
+            "com.niotron.ankitsardi.Govt_Yojna.Screen_Feedback",
+            "com.niotron.ankitsardi.Govt_Yojna.Web",
+            "com.niotron.ankitsardi.Govt_Yojna.Web_html"
+        ],
+        "services": [
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService"
+        ],
+        "receivers": [
+            "com.google.android.gms.measurement.AppMeasurementReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous"
+        },
+        "risk_counts": {
+            "normal": 3,
+            "dangerous": 2
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 41.85,
+        "sources_present": true,
+        "java_file_count": 11220
+    },
+    "ast_analysis": {
+        "location": 3,
+        "microphone": 0,
+        "camera": 25,
+        "media_projection": 2,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 3,
+            "location": 1,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 4,
+            "webview_interop": 23,
+            "content_access": 14,
+            "audio_control": 0,
+            "vibration": 2,
+            "network_io": 9,
+            "scheduling_apis": 61,
+            "dynamic_code": 301
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 418
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 10,
+            "handler_loop": 50,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 3,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 7,
+            "reflection": 301
+        }
+    }
+}

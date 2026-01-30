@@ -1,0 +1,114 @@
+{
+    "apk_name": "0A1DDA4532A56BB9E1238A15771AC22BE90FBF2D350765565E34E78BFEC825C9",
+    "sha256": "0a1dda4532a56bb9e1238a15771ac22be90fbf2d350765565e34e78bfec825c9",
+    "metadata": {
+        "package_name": "mayyrob.cdmr",
+        "version_code": "33",
+        "version_name": "v4.1",
+        "min_sdk": "5",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "activities": [
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.purchase.InAppPurchaseActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "mayyrob.cdmr.main",
+            "mayyrob.cdmr.register",
+            "mayyrob.cdmr.setting",
+            "mayyrob.cdmr.settinginfoview",
+            "mayyrob.cdmr.showresult"
+        ],
+        "services": [
+            "mayyrob.cdmr.httputils2service",
+            "mayyrob.cdmr.serviceend",
+            "mayyrob.cdmr.serviceregistration",
+            "mayyrob.cdmr.servicesprawdz",
+            "mayyrob.cdmr.serviveads",
+            "mayyrob.cdmr.starter"
+        ],
+        "receivers": [
+            "mayyrob.cdmr.httputils2service$httputils2service_BR",
+            "mayyrob.cdmr.serviceend$serviceend_BR",
+            "mayyrob.cdmr.serviceregistration$serviceregistration_BR",
+            "mayyrob.cdmr.servicesprawdz$servicesprawdz_BR",
+            "mayyrob.cdmr.serviveads$serviveads_BR",
+            "mayyrob.cdmr.starter$starter_BR"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 1
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 28.8,
+        "sources_present": true,
+        "java_file_count": 7821
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 24,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 1,
+            "system_commands": 2,
+            "webview_interop": 9,
+            "content_access": 22,
+            "audio_control": 3,
+            "vibration": 1,
+            "network_io": 11,
+            "scheduling_apis": 45,
+            "dynamic_code": 331
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 425
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 16,
+            "handler_loop": 27,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 28,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 4,
+            "reflection": 331
+        }
+    }
+}

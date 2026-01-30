@@ -1,0 +1,113 @@
+{
+    "apk_name": "D020DD14891553CED1DC0A43623C6B4323B40B6A2B22E0BE7DC0395E8843265F",
+    "sha256": "d020dd14891553ced1dc0a43623c6b4323b40b6a2b22e0be7dc0395e8843265f",
+    "metadata": {
+        "package_name": "com.wutthilert.fertilizer_mixer",
+        "version_code": "122",
+        "version_name": "1.15.1",
+        "min_sdk": "23",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.wutthilert.fertilizer_mixer.permission.C2D_MESSAGE"
+        ],
+        "activities": [
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+            "crc64015783ded3a5aa3b.MainActivity",
+            "crc64015783ded3a5aa3b.SplashActivity"
+        ],
+        "services": [
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.android.play.core.assetpacks.AssetPackExtractionService",
+            "com.google.firebase.iid.FirebaseInstanceIdService"
+        ],
+        "receivers": [
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_MEDIA_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.wutthilert.fertilizer_mixer.permission.C2D_MESSAGE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 2,
+            "normal": 4,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 14
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 18.04,
+        "sources_present": true,
+        "java_file_count": 3766
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 7,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 4,
+            "content_access": 8,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 18,
+            "dynamic_code": 146
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 177
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 1,
+            "handler_loop": 17,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 2,
+            "reflection": 144
+        }
+    }
+}

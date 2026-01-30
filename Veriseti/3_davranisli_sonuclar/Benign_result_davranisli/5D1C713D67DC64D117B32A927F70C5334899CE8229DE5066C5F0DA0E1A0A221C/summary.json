@@ -1,0 +1,167 @@
+{
+    "apk_name": "5D1C713D67DC64D117B32A927F70C5334899CE8229DE5066C5F0DA0E1A0A221C",
+    "sha256": "5d1c713d67dc64d117b32a927f70c5334899ce8229de5066c5f0da0e1a0a221c",
+    "metadata": {
+        "package_name": "com.getgroupna.mdl.pol",
+        "version_code": "71",
+        "version_name": "5.1.9",
+        "min_sdk": "26",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BATTERY_STATS",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.CAMERA",
+            "android.permission.CHANGE_NETWORK_STATE",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.NFC",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_LOGS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.symbol.emdk.permission.EMDK"
+        ],
+        "activities": [
+            "com.scytales.mdl.iso.reader.app.SplashActivity",
+            "com.scytales.mdl.iso.reader.app.request.RequestActivity",
+            "com.testfairy.activities.ProvideFeedbackActivity",
+            "o.FrameMetricsObserver",
+            "o.SyncStatusObserver",
+            "o.ViewPropertyAnimatorRT",
+            "o.aem",
+            "o.afq",
+            "o.aga",
+            "o.agf",
+            "o.ahm",
+            "o.ahr",
+            "o.aia",
+            "o.akk",
+            "o.akq",
+            "o.alc",
+            "o.alx",
+            "o.ov",
+            "o.sc"
+        ],
+        "services": [
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.android.play.core.assetpacks.AssetPackExtractionService",
+            "com.google.android.play.core.assetpacks.ExtractionForegroundService",
+            "fr.coppernic.sdk.hdk.system.GpioService",
+            "fr.coppernic.sdk.keyremapper.cone.MappingService",
+            "o.ColorInt",
+            "o.Filterable",
+            "o.IntToDoubleFunction",
+            "o.PluralsRes"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "o.BinderThread$ActionBar",
+            "o.BinderThread$Activity",
+            "o.BinderThread$Application",
+            "o.BinderThread$TaskDescription",
+            "o.BroadcastBehavior",
+            "o.ScanRecord"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.BATTERY_STATS": "signature",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.BLUETOOTH_ADMIN": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.CHANGE_NETWORK_STATE": "normal",
+            "android.permission.CHANGE_WIFI_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.NFC": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_LOGS": "unlaballed",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.symbol.emdk.permission.EMDK": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 5,
+            "normal": 11,
+            "signature": 1,
+            "unlaballed": 1,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 15
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 35.52,
+        "sources_present": true,
+        "java_file_count": 6019
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 17,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 4
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 1,
+            "microphone": 0,
+            "location": 1,
+            "torch": 1,
+            "telephony_ops": 0,
+            "system_commands": 6,
+            "webview_interop": 0,
+            "content_access": 16,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 3,
+            "scheduling_apis": 32,
+            "dynamic_code": 784
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 844
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 23,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 7,
+            "user_triggered": 3
+        },
+        "dynamic_features": {
+            "jni_usage": 4,
+            "dynamic_loading": 0,
+            "reflection": 780
+        }
+    }
+}

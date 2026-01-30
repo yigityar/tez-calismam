@@ -1,0 +1,135 @@
+{
+    "apk_name": "9F63DE5231238202C2B9755BB175B5306AD19D34FF4048C4597ED1BAFD33D2A4",
+    "sha256": "9f63de5231238202c2b9755bb175b5306ad19d34ff4048c4597ed1bafd33d2a4",
+    "metadata": {
+        "package_name": "com.app4joy.japan_free",
+        "version_code": "434",
+        "version_name": "4.3.4",
+        "min_sdk": "19",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_MEDIA_AUDIO",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.app4joy.japan_free.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "com.app4joy.japan_free.Flag3D",
+            "com.app4joy.japan_free.FlagColor",
+            "com.app4joy.japan_free.FlagDraw",
+            "com.app4joy.japan_free.FlagInfo",
+            "com.app4joy.japan_free.FlagListPref",
+            "com.app4joy.japan_free.FlagStart",
+            "com.app4joy.japan_free.FontSelectActivity",
+            "com.app4joy.japan_free.ImagePickerActivity",
+            "com.app4joy.japan_free.OptionActivity",
+            "com.app4joy.japan_free.SetMusic",
+            "com.app4joy.japan_free.Settings",
+            "com.github.drjacky.imagepicker.ImagePickerActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.samadhi.filelist.FileListActivity",
+            "com.yalantis.ucrop.UCropActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.app4joy.japan_free.BGService",
+            "com.app4joy.japan_free.BOService",
+            "com.app4joy.japan_free.LWPService2",
+            "com.google.android.gms.ads.AdService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_MEDIA_AUDIO": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.app4joy.japan_free.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 3,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 8
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 21.96,
+        "sources_present": true,
+        "java_file_count": 7167
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 1,
+        "camera": 10,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 4
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 2,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 9,
+            "content_access": 8,
+            "audio_control": 0,
+            "vibration": 1,
+            "network_io": 3,
+            "scheduling_apis": 25,
+            "dynamic_code": 207
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 255
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 2,
+            "handler_loop": 22,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 4,
+            "dynamic_loading": 2,
+            "reflection": 203
+        }
+    }
+}

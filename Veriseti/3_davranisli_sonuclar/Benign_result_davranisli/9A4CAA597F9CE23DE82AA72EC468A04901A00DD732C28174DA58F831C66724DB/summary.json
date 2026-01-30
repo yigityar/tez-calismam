@@ -1,0 +1,159 @@
+{
+    "apk_name": "9A4CAA597F9CE23DE82AA72EC468A04901A00DD732C28174DA58F831C66724DB",
+    "sha256": "9a4caa597f9ce23de82aa72ec468a04901a00dd732c28174da58f831c66724db",
+    "metadata": {
+        "package_name": "com.deathinvasion2.shootinggames",
+        "version_code": "26",
+        "version_name": "2.5.1",
+        "min_sdk": "16",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTDelegateActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTFullScreenExpressVideoActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTFullScreenVideoActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTLandingPageActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTPlayableLandingPageActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTRewardExpressVideoActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTRewardVideoActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTVideoLandingPageActivity",
+            "com.bytedance.sdk.openadsdk.activity.TTWebsiteActivity",
+            "com.bytedance.sdk.openadsdk.adapter.PangleAdInterstitialActivity",
+            "com.facebook.CustomTabActivity",
+            "com.facebook.CustomTabMainActivity",
+            "com.facebook.FacebookActivity",
+            "com.facebook.ads.AudienceNetworkActivity",
+            "com.games.gp.sdks.SDKMainActivity",
+            "com.games.gp.sdks.ad.channel.mobigame.MobiVideoActivity",
+            "com.games.gp.sdks.shell.ShellMainActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+            "com.unity3d.player.UnityPlayerActivity",
+            "com.unity3d.services.ads.adunit.AdUnitActivity",
+            "com.unity3d.services.ads.adunit.AdUnitSoftwareActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService",
+            "com.games.gp.sdks.fcm.MyFirebaseMessagingService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.ads.AdService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.android.play.core.assetpacks.AssetPackExtractionService",
+            "com.google.android.play.core.assetpacks.ExtractionForegroundService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "normal": 6,
+            "dangerous": 1,
+            "unknown": 4
+        }
+    },
+    "stats": {
+        "dex_count": 6,
+        "native_lib_count": 14
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 47.42,
+        "sources_present": true,
+        "java_file_count": 14503
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 1,
+        "camera": 56,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 7
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 1,
+            "microphone": 1,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 2,
+            "webview_interop": 29,
+            "content_access": 19,
+            "audio_control": 3,
+            "vibration": 1,
+            "network_io": 20,
+            "scheduling_apis": 51,
+            "dynamic_code": 426
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 553
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 13,
+            "handler_loop": 35,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 7,
+            "dynamic_loading": 6,
+            "reflection": 419
+        }
+    }
+}

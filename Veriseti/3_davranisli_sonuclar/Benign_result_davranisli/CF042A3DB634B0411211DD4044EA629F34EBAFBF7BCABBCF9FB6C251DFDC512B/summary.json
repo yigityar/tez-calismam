@@ -1,0 +1,150 @@
+{
+    "apk_name": "CF042A3DB634B0411211DD4044EA629F34EBAFBF7BCABBCF9FB6C251DFDC512B",
+    "sha256": "cf042a3db634b0411211dd4044ea629f34ebafbf7bcabbcf9fb6c251dfdc512b",
+    "metadata": {
+        "package_name": "com.dartfish.msa",
+        "version_code": "5",
+        "version_name": "3.0.20124",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.CAPTURE_AUDIO_OUTPUT",
+            "android.permission.CAPTURE_VIDEO_OUTPUT",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.dartfish.msa.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "com.dartfish.android.DownloadActivity",
+            "com.dartfish.android.GalleryImporterActivity",
+            "com.facebook.CustomTabActivity",
+            "com.facebook.CustomTabMainActivity",
+            "com.facebook.FacebookActivity",
+            "com.facebook.LoginActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc6483ce079018bb1541.FacebookSignInActivity",
+            "crc6483ce079018bb1541.SignInActivity",
+            "crc6488e60ded7f4188c7.CollectionActivity",
+            "crc6488e60ded7f4188c7.DocHubActivity",
+            "crc6488e60ded7f4188c7.FavoritesActivity",
+            "crc6488e60ded7f4188c7.FavoritesDocHubActivity",
+            "crc6488e60ded7f4188c7.NavigationTreeActivity",
+            "crc6488e60ded7f4188c7.NavigationTreeRootActivity",
+            "crc6488e60ded7f4188c7.OrganizerActivity",
+            "crc6488e60ded7f4188c7.PromoCarouselActivity",
+            "crc6488e60ded7f4188c7.PromoMyDartfishActivity",
+            "crc6488e60ded7f4188c7.PublishActivity",
+            "crc6488e60ded7f4188c7.RemoteContentActivity",
+            "crc6488e60ded7f4188c7.RemoteContentAttachmentActivity",
+            "crc6488e60ded7f4188c7.RemoteContentDocHubActivity",
+            "crc6488e60ded7f4188c7.SettingsActivity",
+            "crc6488e60ded7f4188c7.SplashScreenActivity",
+            "crc6488e60ded7f4188c7.SubscriptionActivity",
+            "crc6488e60ded7f4188c7.TaggerActivity",
+            "crc6488e60ded7f4188c7.TaggerPromoCarouselActivity"
+        ],
+        "services": [
+            "com.google.android.gms.analytics.AnalyticsJobService",
+            "com.google.android.gms.analytics.AnalyticsService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "crc6488e60ded7f4188c7.DartfishFBIIDService",
+            "crc6488e60ded7f4188c7.DartfishFBMessagingService"
+        ],
+        "receivers": [
+            "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+            "com.google.android.gms.analytics.AnalyticsReceiver",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc640f1d6fd1ba796493.NetworkReachability_NetworkStatusChangeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.CAPTURE_AUDIO_OUTPUT": "signature",
+            "android.permission.CAPTURE_VIDEO_OUTPUT": "unknown",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.dartfish.msa.permission.C2D_MESSAGE": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 4,
+            "dangerous": 3,
+            "signature": 1,
+            "unknown": 4
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 31
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 27.83,
+        "sources_present": true,
+        "java_file_count": 4643
+    },
+    "ast_analysis": {
+        "location": 3,
+        "microphone": 0,
+        "camera": 10,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 1,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 5,
+            "content_access": 14,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 5,
+            "scheduling_apis": 26,
+            "dynamic_code": 212
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 264
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 10,
+            "handler_loop": 14,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 211
+        }
+    }
+}

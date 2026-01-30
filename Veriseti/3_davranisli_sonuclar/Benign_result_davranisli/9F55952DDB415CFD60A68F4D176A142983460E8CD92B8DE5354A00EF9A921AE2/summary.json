@@ -1,0 +1,172 @@
+{
+    "apk_name": "9F55952DDB415CFD60A68F4D176A142983460E8CD92B8DE5354A00EF9A921AE2",
+    "sha256": "9f55952ddb415cfd60a68f4d176a142983460e8cd92b8de5354a00ef9a921ae2",
+    "metadata": {
+        "package_name": "com.shuidi.app",
+        "version_code": "160",
+        "version_name": "3.0.5",
+        "min_sdk": "19",
+        "target_sdk": "28",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CALL_PHONE",
+            "android.permission.CHANGE_NETWORK_STATE",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.GET_TASKS",
+            "android.permission.INSTALL_PACKAGES",
+            "android.permission.INTERNET",
+            "android.permission.QUERY_ALL_PACKAGES",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_LOGS",
+            "android.permission.READ_MEDIA_IMAGES",
+            "android.permission.READ_MEDIA_VIDEO",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.RECEIVE_USER_PRESENT",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WRITE_SETTINGS",
+            "com.asus.msa.SupplementaryDID.ACCESS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.shuidi.app.permission.GYRECEIVER",
+            "com.vivo.notification.permission.BADGE_ICON",
+            "getui.permission.GetuiService.com.shuidi.app"
+        ],
+        "activities": [
+            "com.alipay.sdk.app.APayEntranceActivity",
+            "com.alipay.sdk.app.AlipayResultActivity",
+            "com.alipay.sdk.app.H5AuthActivity",
+            "com.alipay.sdk.app.H5OpenAuthActivity",
+            "com.alipay.sdk.app.H5PayActivity",
+            "com.alipay.sdk.app.PayResultActivity",
+            "com.dmcbig.mediapicker.PickerActivity",
+            "com.dmcbig.mediapicker.PreviewActivity",
+            "com.igexin.sdk.GActivity",
+            "com.igexin.sdk.GetuiActivity",
+            "com.igexin.sdk.PushActivity",
+            "com.shuidi.app.wxapi.WXEntryActivity",
+            "com.shuidi.app.wxapi.WXPayEntryActivity",
+            "io.dcloud.PandoraEntry",
+            "io.dcloud.PandoraEntryActivity",
+            "io.dcloud.ProcessMediator",
+            "io.dcloud.WebAppActivity",
+            "io.dcloud.WebviewActivity",
+            "io.dcloud.feature.gallery.imageedit.IMGEditActivity",
+            "io.dcloud.feature.igetui.UniVerifyActivity",
+            "io.dcloud.feature.nativeObj.photoview.PhotoActivity",
+            "io.dcloud.feature.payment.weixin.WXPayProcessMeadiatorActivity",
+            "io.dcloud.sdk.activity.WebViewActivity",
+            "io.dcloud.share.mm.WXShareProcessMeadiatorActivity"
+        ],
+        "services": [
+            "com.amap.api.location.APSService",
+            "com.amap.api.location.APSService",
+            "com.getui.gtc.GtcService",
+            "com.igexin.sdk.GService",
+            "com.igexin.sdk.GTIntentService",
+            "com.igexin.sdk.PushService",
+            "io.dcloud.feature.aps.ApsActionService",
+            "io.dcloud.feature.unipush.CustomGTService",
+            "io.dcloud.feature.unipush.GTNormalIntentService",
+            "io.dcloud.sdk.base.service.DownloadService"
+        ],
+        "receivers": [],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CALL_PHONE": "dangerous",
+            "android.permission.CHANGE_NETWORK_STATE": "normal",
+            "android.permission.CHANGE_WIFI_STATE": "normal",
+            "android.permission.GET_TASKS": "unlaballed",
+            "android.permission.INSTALL_PACKAGES": "unlaballed",
+            "android.permission.INTERNET": "normal",
+            "android.permission.QUERY_ALL_PACKAGES": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_LOGS": "unlaballed",
+            "android.permission.READ_MEDIA_IMAGES": "dangerous",
+            "android.permission.READ_MEDIA_VIDEO": "dangerous",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.RECEIVE_USER_PRESENT": "unknown",
+            "android.permission.REQUEST_INSTALL_PACKAGES": "signature",
+            "android.permission.SCHEDULE_EXACT_ALARM": "signature",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WRITE_SETTINGS": "signature",
+            "com.asus.msa.SupplementaryDID.ACCESS": "unknown",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE": "unknown",
+            "com.shuidi.app.permission.GYRECEIVER": "unknown",
+            "com.vivo.notification.permission.BADGE_ICON": "unknown",
+            "getui.permission.GetuiService.com.shuidi.app": "unknown"
+        },
+        "risk_counts": {
+            "normal": 9,
+            "dangerous": 6,
+            "unlaballed": 3,
+            "unknown": 6,
+            "signature": 3
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 12
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 28.04,
+        "sources_present": true,
+        "java_file_count": 4788
+    },
+    "ast_analysis": {
+        "location": 6,
+        "microphone": 2,
+        "camera": 47,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 10
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 4,
+            "microphone": 3,
+            "location": 5,
+            "torch": 1,
+            "telephony_ops": 3,
+            "system_commands": 11,
+            "webview_interop": 18,
+            "content_access": 72,
+            "audio_control": 2,
+            "vibration": 2,
+            "network_io": 18,
+            "scheduling_apis": 53,
+            "dynamic_code": 529
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 721
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 10,
+            "handler_loop": 43,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 8,
+            "user_triggered": 3
+        },
+        "dynamic_features": {
+            "jni_usage": 8,
+            "dynamic_loading": 2,
+            "reflection": 521
+        }
+    }
+}

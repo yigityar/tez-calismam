@@ -1,0 +1,100 @@
+{
+    "apk_name": "75EDF834605E8F61D618933E64ED3695488E012EE73FC423AD577986B10C6504",
+    "sha256": "75edf834605e8f61d618933e64ed3695488e012ee73fc423ad577986b10c6504",
+    "metadata": {
+        "package_name": "io.kodular.alambasha511.Eagle_Browser",
+        "version_code": "7",
+        "version_name": "6.0",
+        "min_sdk": "21",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "activities": [
+            "io.kodular.alambasha511.Eagle_Browser.Screen1",
+            "io.kodular.alambasha511.Eagle_Browser.Screen2",
+            "io.kodular.alambasha511.Eagle_Browser.bookmarkScreen",
+            "io.kodular.alambasha511.Eagle_Browser.historyScreen",
+            "io.kodular.alambasha511.Eagle_Browser.settingsScreen"
+        ],
+        "services": [],
+        "receivers": [],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION": "unknown",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECORD_AUDIO": "dangerous",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous"
+        },
+        "risk_counts": {
+            "normal": 3,
+            "unknown": 1,
+            "dangerous": 3
+        }
+    },
+    "stats": {
+        "dex_count": 4,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 23.16,
+        "sources_present": true,
+        "java_file_count": 2646
+    },
+    "ast_analysis": {
+        "location": 3,
+        "microphone": 0,
+        "camera": 16,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 2,
+            "microphone": 2,
+            "location": 1,
+            "torch": 2,
+            "telephony_ops": 0,
+            "system_commands": 3,
+            "webview_interop": 5,
+            "content_access": 16,
+            "audio_control": 9,
+            "vibration": 3,
+            "network_io": 5,
+            "scheduling_apis": 42,
+            "dynamic_code": 137
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 227
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 36,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 1,
+            "reflection": 137
+        }
+    }
+}

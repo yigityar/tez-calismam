@@ -1,0 +1,110 @@
+{
+    "apk_name": "6668F92DAA13C7A93C093E254F9BC513C733F69433206706D201B651C4E2C729",
+    "sha256": "6668f92daa13c7a93c093e254f9bc513c733f69433206706d201b651c4e2c729",
+    "metadata": {
+        "package_name": "appinventor.ai_spainparanormal.BipsBCN",
+        "version_code": "19",
+        "version_name": "2.9",
+        "min_sdk": "7",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "appinventor.ai_spainparanormal.BipsBCN.Screen1",
+            "appinventor.ai_spainparanormal.BipsBCN.Screen2",
+            "co.enhance.backfill.webview.EnhanceWebViewAdActivity",
+            "com.applovin.adview.AppLovinFullscreenActivity",
+            "com.applovin.adview.AppLovinInterstitialActivity",
+            "com.applovin.sdk.AppLovinWebViewActivity",
+            "com.google.android.gms.ads.AdActivity"
+        ],
+        "services": [
+            "com.applovin.impl.adview.activity.FullscreenAdService",
+            "com.applovin.impl.sdk.utils.AppKilledService"
+        ],
+        "receivers": [
+            "com.fgl.enhance.notification.FGLLocalNotificationReceiver",
+            "com.fgl.enhance.referral.ReferralReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 4,
+            "normal": 3,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 10,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 42.52,
+        "sources_present": true,
+        "java_file_count": 12912
+    },
+    "ast_analysis": {
+        "location": 5,
+        "microphone": 0,
+        "camera": 29,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 1,
+            "location": 1,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 32,
+            "content_access": 29,
+            "audio_control": 1,
+            "vibration": 2,
+            "network_io": 9,
+            "scheduling_apis": 82,
+            "dynamic_code": 458
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 616
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 15,
+            "handler_loop": 65,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 5,
+            "user_triggered": 4
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 5,
+            "reflection": 458
+        }
+    }
+}

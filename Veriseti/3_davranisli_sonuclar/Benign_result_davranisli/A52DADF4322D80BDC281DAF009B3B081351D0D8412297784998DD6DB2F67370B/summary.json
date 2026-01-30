@@ -1,0 +1,90 @@
+{
+    "apk_name": "A52DADF4322D80BDC281DAF009B3B081351D0D8412297784998DD6DB2F67370B",
+    "sha256": "a52dadf4322d80bdc281daf009b3b081351d0d8412297784998dd6db2f67370b",
+    "metadata": {
+        "package_name": "air.com.dor.paris.vusiem",
+        "version_code": "9661",
+        "version_name": "Orsay 0.9.661",
+        "min_sdk": "21",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING"
+        ],
+        "activities": [
+            "air.com.dor.paris.vusiem.AppEntry",
+            "com.android.billingclient.api.ProxyBillingActivity"
+        ],
+        "services": [],
+        "receivers": [
+            "com.amazon.device.iap.ResponseReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "com.android.vending.BILLING": "unknown"
+        },
+        "risk_counts": {
+            "normal": 2,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 4
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 7.5,
+        "sources_present": true,
+        "java_file_count": 825
+    },
+    "ast_analysis": {
+        "location": 3,
+        "microphone": 0,
+        "camera": 10,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 2
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 1,
+            "microphone": 1,
+            "location": 2,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 4,
+            "webview_interop": 5,
+            "content_access": 4,
+            "audio_control": 0,
+            "vibration": 1,
+            "network_io": 0,
+            "scheduling_apis": 6,
+            "dynamic_code": 44
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 68
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 0,
+            "handler_loop": 6,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 3,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 4,
+            "reflection": 43
+        }
+    }
+}

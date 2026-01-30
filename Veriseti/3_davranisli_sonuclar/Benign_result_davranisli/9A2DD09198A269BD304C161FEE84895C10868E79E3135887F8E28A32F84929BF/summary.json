@@ -1,0 +1,149 @@
+{
+    "apk_name": "9A2DD09198A269BD304C161FEE84895C10868E79E3135887F8E28A32F84929BF",
+    "sha256": "9a2dd09198a269bd304c161fee84895c10868e79e3135887f8e28a32f84929bf",
+    "metadata": {
+        "package_name": "br.com.as2.cartaobomdia",
+        "version_code": "783",
+        "version_name": "7.8",
+        "min_sdk": "21",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "br.com.as2.cartaobomdia.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "br.com.as2.cartaobomdia.permission.C2D_MESSAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "anywheresoftware.b4a.objects.preferenceactivity",
+            "br.com.as2.cartaobomdia.abertura2",
+            "br.com.as2.cartaobomdia.assinatura",
+            "br.com.as2.cartaobomdia.audio1",
+            "br.com.as2.cartaobomdia.cartao",
+            "br.com.as2.cartaobomdia.crop",
+            "br.com.as2.cartaobomdia.dicas",
+            "br.com.as2.cartaobomdia.imagensonline",
+            "br.com.as2.cartaobomdia.main",
+            "br.com.as2.cartaobomdia.msgerro",
+            "br.com.as2.cartaobomdia.sticker2",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.purchase.InAppPurchaseActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ],
+        "services": [
+            "anywheresoftware.b4a.objects.FirebaseNotificationsService",
+            "br.com.as2.cartaobomdia.alarmebd",
+            "br.com.as2.cartaobomdia.firebasemessaging",
+            "br.com.as2.cartaobomdia.httputils2service",
+            "br.com.as2.cartaobomdia.servicejobs",
+            "br.com.as2.cartaobomdia.starter",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService"
+        ],
+        "receivers": [
+            "br.com.as2.cartaobomdia.alarmebd$alarmebd_BR",
+            "br.com.as2.cartaobomdia.firebasemessaging$firebasemessaging_BR",
+            "br.com.as2.cartaobomdia.httputils2service$httputils2service_BR",
+            "br.com.as2.cartaobomdia.servicejobs$servicejobs_BR",
+            "br.com.as2.cartaobomdia.starter$starter_BR",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.SCHEDULE_EXACT_ALARM": "signature",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "br.com.as2.cartaobomdia.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "br.com.as2.cartaobomdia.permission.C2D_MESSAGE": "unknown",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 2,
+            "signature": 1,
+            "unknown": 6
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 37.19,
+        "sources_present": true,
+        "java_file_count": 9603
+    },
+    "ast_analysis": {
+        "location": 8,
+        "microphone": 1,
+        "camera": 35,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 1,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 1,
+            "system_commands": 3,
+            "webview_interop": 9,
+            "content_access": 30,
+            "audio_control": 3,
+            "vibration": 1,
+            "network_io": 13,
+            "scheduling_apis": 69,
+            "dynamic_code": 466
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 599
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 17,
+            "handler_loop": 49,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 42,
+            "user_triggered": 3
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 4,
+            "reflection": 466
+        }
+    }
+}

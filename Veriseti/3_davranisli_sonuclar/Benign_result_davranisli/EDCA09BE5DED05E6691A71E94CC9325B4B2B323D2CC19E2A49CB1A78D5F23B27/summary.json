@@ -1,0 +1,79 @@
+{
+    "apk_name": "EDCA09BE5DED05E6691A71E94CC9325B4B2B323D2CC19E2A49CB1A78D5F23B27",
+    "sha256": "edca09be5ded05e6691a71e94cc9325b4b2b323d2cc19e2a49cb1a78d5f23b27",
+    "metadata": {
+        "package_name": "com.simondalvai.ball2box",
+        "version_code": "60",
+        "version_name": "4.1.0",
+        "min_sdk": "19",
+        "target_sdk": "33",
+        "permissions": [],
+        "activities": [
+            "com.godot.game.GodotApp",
+            "org.godotengine.godot.utils.ProcessPhoenix"
+        ],
+        "services": [
+            "org.godotengine.godot.GodotDownloaderService"
+        ],
+        "receivers": [],
+        "permission_details": {},
+        "risk_counts": {}
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 4
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 12.42,
+        "sources_present": true,
+        "java_file_count": 1166
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 2,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 4,
+            "audio_control": 0,
+            "vibration": 1,
+            "network_io": 0,
+            "scheduling_apis": 10,
+            "dynamic_code": 74
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 89
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 3,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 73
+        }
+    }
+}

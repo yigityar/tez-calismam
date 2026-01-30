@@ -1,0 +1,81 @@
+{
+    "apk_name": "0035A7666D4BD9C5EDFD3ED3C27EA4324D39DC94665165B6397FC19932428377",
+    "sha256": "0035a7666d4bd9c5edfd3ed3c27ea4324d39dc94665165b6397fc19932428377",
+    "metadata": {
+        "package_name": "org.revengate.revengate",
+        "version_code": "1028127",
+        "version_name": "0.12.7",
+        "min_sdk": "21",
+        "target_sdk": "34",
+        "permissions": [],
+        "activities": [
+            "com.godot.game.GodotApp",
+            "org.godotengine.godot.utils.ProcessPhoenix"
+        ],
+        "services": [
+            "org.godotengine.godot.GodotDownloaderService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver"
+        ],
+        "permission_details": {},
+        "risk_counts": {}
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 2
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 15.75,
+        "sources_present": true,
+        "java_file_count": 2048
+    },
+    "ast_analysis": {
+        "location": 8,
+        "microphone": 0,
+        "camera": 4,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 4,
+            "audio_control": 0,
+            "vibration": 2,
+            "network_io": 0,
+            "scheduling_apis": 15,
+            "dynamic_code": 108
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 132
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 9,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 107
+        }
+    }
+}

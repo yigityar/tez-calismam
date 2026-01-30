@@ -1,0 +1,101 @@
+{
+    "apk_name": "29967F732630AE0262648647992BC9EEC888B378595D7D544E01290F6D42124F",
+    "sha256": "29967f732630ae0262648647992bc9eec888b378595d7d544e01290f6d42124f",
+    "metadata": {
+        "package_name": "com.appybuilder.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE",
+        "version_code": "9",
+        "version_name": "9.0",
+        "min_sdk": "21",
+        "target_sdk": "34",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE"
+        ],
+        "activities": [
+            "io.kodular.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE.Screen1",
+            "io.kodular.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE.ScreenAboutDoctor",
+            "io.kodular.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE.ScreenError",
+            "io.kodular.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE.ScreenMainMenu",
+            "io.kodular.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE.ScreenMenuA",
+            "io.kodular.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE.ScreenMenuB",
+            "io.kodular.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE.ScreenMenuC",
+            "io.kodular.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE.ScreenMenuD",
+            "io.kodular.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE.ScreenMenuE",
+            "io.kodular.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE.ScreenMenuF",
+            "io.kodular.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE.ScreenMenuG",
+            "io.kodular.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE.ScreenMenuPrivacyPolicy",
+            "io.kodular.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE.ScreenPlayer"
+        ],
+        "services": [],
+        "receivers": [],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous"
+        },
+        "risk_counts": {
+            "normal": 3,
+            "dangerous": 1
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 20.24,
+        "sources_present": true,
+        "java_file_count": 2642
+    },
+    "ast_analysis": {
+        "location": 3,
+        "microphone": 0,
+        "camera": 13,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 2,
+            "microphone": 2,
+            "location": 1,
+            "torch": 2,
+            "telephony_ops": 0,
+            "system_commands": 3,
+            "webview_interop": 5,
+            "content_access": 16,
+            "audio_control": 9,
+            "vibration": 3,
+            "network_io": 3,
+            "scheduling_apis": 43,
+            "dynamic_code": 136
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 225
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 37,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 1,
+            "reflection": 136
+        }
+    }
+}

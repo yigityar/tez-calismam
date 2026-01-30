@@ -1,0 +1,116 @@
+{
+    "apk_name": "13BE1BC4C819872FCD5655270B8CEF13179090574438A986B7B2BB8DD3EBA56D",
+    "sha256": "13be1bc4c819872fcd5655270b8cef13179090574438a986b7b2bb8dd3eba56d",
+    "metadata": {
+        "package_name": "com.tap2go.softpos",
+        "version_code": "3403",
+        "version_name": "3.4.03",
+        "min_sdk": "28",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.NFC",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "androidx.biometric.DeviceCredentialHandlerActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.tap2go.softpos.activities.LoginActivity",
+            "com.tap2go.softpos.activities.MainActivity",
+            "com.tap2go.softpos.activities.PaymentActivity",
+            "o.initialize"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "o.removeCancellable"
+        ],
+        "receivers": [
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.NFC": "normal",
+            "android.permission.USE_BIOMETRIC": "normal",
+            "android.permission.USE_FINGERPRINT": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 2,
+            "normal": 7,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 2
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 57.11,
+        "sources_present": true,
+        "java_file_count": 4747
+    },
+    "ast_analysis": {
+        "location": 1,
+        "microphone": 0,
+        "camera": 5,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 1,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 27,
+            "audio_control": 0,
+            "vibration": 4,
+            "network_io": 5,
+            "scheduling_apis": 36,
+            "dynamic_code": 253
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 326
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 8,
+            "handler_loop": 26,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 0,
+            "reflection": 253
+        }
+    }
+}

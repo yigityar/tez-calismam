@@ -1,0 +1,108 @@
+{
+    "apk_name": "0AA09A5975A07E7338B61DCAFB4828C2ECA702A26F6B1342C2F808F46FA3E394",
+    "sha256": "0aa09a5975a07e7338b61dcafb4828c2eca702a26f6b1342c2f808f46fa3e394",
+    "metadata": {
+        "package_name": "net.salespad.datacollection",
+        "version_code": "79053",
+        "version_name": "5.8.0",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.honeywell.decode.permission.DECODE",
+            "com.symbol.emdk.permission.EMDK"
+        ],
+        "activities": [
+            "crc6464d58aa68a886b33.EditListActivity",
+            "crc6464d58aa68a886b33.EnumerableListContainerActivity",
+            "crc6464d58aa68a886b33.ExceptionListActivity",
+            "crc6464d58aa68a886b33.LoginActivity",
+            "crc6464d58aa68a886b33.MainMenuActivity"
+        ],
+        "services": [],
+        "receivers": [
+            "crc640c3f39f23b2ca338.ScanReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.BLUETOOTH": "normal",
+            "android.permission.BLUETOOTH_ADMIN": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.honeywell.decode.permission.DECODE": "unknown",
+            "com.symbol.emdk.permission.EMDK": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 2,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 24
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 21.97,
+        "sources_present": true,
+        "java_file_count": 5975
+    },
+    "ast_analysis": {
+        "location": 7,
+        "microphone": 0,
+        "camera": 32,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 1,
+            "webview_interop": 0,
+            "content_access": 10,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 6,
+            "scheduling_apis": 14,
+            "dynamic_code": 184
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 215
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 6,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 183
+        }
+    }
+}

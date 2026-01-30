@@ -1,0 +1,176 @@
+{
+    "apk_name": "D15D04B8930BC26882A822FE7495850701F362EAF1B46770D9718195E6030CB7",
+    "sha256": "d15d04b8930bc26882a822fe7495850701f362eaf1b46770d9718195e6030cb7",
+    "metadata": {
+        "package_name": "gujarat.kmcsoftware.com",
+        "version_code": "205",
+        "version_name": "1.0.7",
+        "min_sdk": "23",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE"
+        ],
+        "activities": [
+            "com.facebook.ads.AudienceNetworkActivity",
+            "com.niotron.ronakcomputer6.GUJARAT_FARMER.ARJI_FORM",
+            "com.niotron.ronakcomputer6.GUJARAT_FARMER.Bagayati",
+            "com.niotron.ronakcomputer6.GUJARAT_FARMER.JANVAJEVU",
+            "com.niotron.ronakcomputer6.GUJARAT_FARMER.PAKMAHITI",
+            "com.niotron.ronakcomputer6.GUJARAT_FARMER.PASHUPALAN",
+            "com.niotron.ronakcomputer6.GUJARAT_FARMER.SHAKBHAJI",
+            "com.niotron.ronakcomputer6.GUJARAT_FARMER.Samachar",
+            "com.niotron.ronakcomputer6.GUJARAT_FARMER.Screen1",
+            "com.niotron.ronakcomputer6.GUJARAT_FARMER.Videos",
+            "com.onesignal.NotificationOpenedActivityHMS",
+            "com.onesignal.NotificationOpenedReceiver",
+            "com.onesignal.PermissionsActivity"
+        ],
+        "services": [
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.onesignal.FCMIntentJobService",
+            "com.onesignal.FCMIntentService",
+            "com.onesignal.FocusDelaySyncJobService",
+            "com.onesignal.FocusDelaySyncService",
+            "com.onesignal.HmsMessageServiceOneSignal",
+            "com.onesignal.SyncJobService",
+            "com.onesignal.SyncService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.onesignal.BootUpReceiver",
+            "com.onesignal.FCMBroadcastReceiver",
+            "com.onesignal.NotificationDismissReceiver",
+            "com.onesignal.UpgradeReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_APP_BADGE": "unknown",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.anddoes.launcher.permission.UPDATE_COUNT": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.htc.launcher.permission.READ_SETTINGS": "unknown",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT": "unknown",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE": "unknown",
+            "com.huawei.android.launcher.permission.READ_SETTINGS": "unknown",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS": "signature",
+            "com.majeur.launcher.permission.UPDATE_BADGE": "unknown",
+            "com.oppo.launcher.permission.READ_SETTINGS": "unknown",
+            "com.oppo.launcher.permission.WRITE_SETTINGS": "signature",
+            "com.sec.android.provider.badge.permission.READ": "unknown",
+            "com.sec.android.provider.badge.permission.WRITE": "unknown",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE": "unknown",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE": "unknown",
+            "me.everything.badger.permission.BADGE_COUNT_READ": "unknown",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 6,
+            "unknown": 15,
+            "dangerous": 2,
+            "signature": 2
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 36.73,
+        "sources_present": true,
+        "java_file_count": 8074
+    },
+    "ast_analysis": {
+        "location": 14,
+        "microphone": 0,
+        "camera": 30,
+        "media_projection": 2,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 3,
+            "location": 2,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 4,
+            "webview_interop": 8,
+            "content_access": 16,
+            "audio_control": 0,
+            "vibration": 2,
+            "network_io": 4,
+            "scheduling_apis": 62,
+            "dynamic_code": 276
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 377
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 12,
+            "handler_loop": 47,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 3,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 3,
+            "reflection": 275
+        }
+    }
+}

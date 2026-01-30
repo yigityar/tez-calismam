@@ -1,0 +1,134 @@
+{
+    "apk_name": "C2A3DFF1808A3759BD867B7491F4D502B15FF7135820F6327D37E9CAF740F86E",
+    "sha256": "c2a3dff1808a3759bd867b7491f4d502b15ff7135820f6327d37e9caf740f86e",
+    "metadata": {
+        "package_name": "microinvest.DataCollector",
+        "version_code": "47",
+        "version_name": "47",
+        "min_sdk": "14",
+        "target_sdk": "31",
+        "permissions": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BATTERY_STATS",
+            "android.permission.CAMERA",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.DUMP",
+            "android.permission.FLASHLIGHT",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.GET_TASKS",
+            "android.permission.INTERNET",
+            "android.permission.KILL_BACKGROUND_PROCESSES",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.REBOOT",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WRITE_SETTINGS"
+        ],
+        "activities": [
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "ice.zxing.CaptureActivity",
+            "microinvest.DataCollector.main"
+        ],
+        "services": [
+            "microinvest.DataCollector.databasegatewayservice",
+            "microinvest.DataCollector.httputils2service",
+            "microinvest.DataCollector.namesservice"
+        ],
+        "receivers": [
+            "microinvest.DataCollector.databasegatewayservice$databasegatewayservice_BR",
+            "microinvest.DataCollector.httputils2service$httputils2service_BR",
+            "microinvest.DataCollector.namesservice$namesservice_BR"
+        ],
+        "permission_details": {
+            "android.hardware.camera": "unknown",
+            "android.hardware.camera.autofocus": "unknown",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.BATTERY_STATS": "signature",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.CHANGE_WIFI_STATE": "normal",
+            "android.permission.DUMP": "unlaballed",
+            "android.permission.FLASHLIGHT": "unknown",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.GET_TASKS": "unlaballed",
+            "android.permission.INTERNET": "normal",
+            "android.permission.KILL_BACKGROUND_PROCESSES": "normal",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.REBOOT": "unknown",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WRITE_SETTINGS": "signature"
+        },
+        "risk_counts": {
+            "unknown": 4,
+            "dangerous": 4,
+            "normal": 8,
+            "signature": 2,
+            "unlaballed": 2
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 27.15,
+        "sources_present": true,
+        "java_file_count": 3381
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 38,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 2
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 6,
+            "microphone": 0,
+            "location": 0,
+            "torch": 3,
+            "telephony_ops": 1,
+            "system_commands": 6,
+            "webview_interop": 1,
+            "content_access": 26,
+            "audio_control": 3,
+            "vibration": 1,
+            "network_io": 16,
+            "scheduling_apis": 22,
+            "dynamic_code": 287
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 372
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 11,
+            "handler_loop": 11,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 10,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 285
+        }
+    }
+}

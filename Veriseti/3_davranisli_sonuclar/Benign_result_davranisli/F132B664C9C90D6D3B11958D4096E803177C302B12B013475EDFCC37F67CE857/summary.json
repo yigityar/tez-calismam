@@ -1,0 +1,130 @@
+{
+    "apk_name": "F132B664C9C90D6D3B11958D4096E803177C302B12B013475EDFCC37F67CE857",
+    "sha256": "f132b664c9c90d6d3b11958d4096e803177c302b12b013475edfcc37f67ce857",
+    "metadata": {
+        "package_name": "br.com.aplicativosejogos.quizplacas",
+        "version_code": "320",
+        "version_name": "3.2",
+        "min_sdk": "22",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "br.com.aplicativosejogos.quizplacas.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "br.com.aplicativosejogos.quizplacas.jogo1",
+            "br.com.aplicativosejogos.quizplacas.main",
+            "br.com.aplicativosejogos.quizplacas.msgerro",
+            "br.com.aplicativosejogos.quizplacas.tutorial",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.purchase.InAppPurchaseActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ],
+        "services": [
+            "anywheresoftware.b4a.objects.FirebaseNotificationsService",
+            "br.com.aplicativosejogos.quizplacas.firebasemessaging",
+            "br.com.aplicativosejogos.quizplacas.httputils2service",
+            "br.com.aplicativosejogos.quizplacas.imagedownloader",
+            "br.com.aplicativosejogos.quizplacas.starter",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService"
+        ],
+        "receivers": [
+            "br.com.aplicativosejogos.quizplacas.firebasemessaging$firebasemessaging_BR",
+            "br.com.aplicativosejogos.quizplacas.httputils2service$httputils2service_BR",
+            "br.com.aplicativosejogos.quizplacas.imagedownloader$imagedownloader_BR",
+            "br.com.aplicativosejogos.quizplacas.starter$starter_BR",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "br.com.aplicativosejogos.quizplacas.permission.C2D_MESSAGE": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 1,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 29.38,
+        "sources_present": true,
+        "java_file_count": 8325
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 26,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 1,
+            "system_commands": 3,
+            "webview_interop": 9,
+            "content_access": 23,
+            "audio_control": 3,
+            "vibration": 1,
+            "network_io": 10,
+            "scheduling_apis": 50,
+            "dynamic_code": 358
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 458
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 17,
+            "handler_loop": 30,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 22,
+            "user_triggered": 1
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 4,
+            "reflection": 358
+        }
+    }
+}

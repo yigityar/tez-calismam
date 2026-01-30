@@ -1,0 +1,116 @@
+{
+    "apk_name": "B0722271A85FE839DA72875C4C01BEB8C0042F27503455E150902B979C30FFFF",
+    "sha256": "b0722271a85fe839da72875c4c01beb8c0042f27503455e150902b979c30ffff",
+    "metadata": {
+        "package_name": "anyboost.app",
+        "version_code": "64",
+        "version_name": "4.8",
+        "min_sdk": "22",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "anyboost.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "com.android.vending.BILLING",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+            "crc6494c903e9ad3dee87.MainActivity"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.play.core.assetpacks.AssetPackExtractionService",
+            "com.google.android.play.core.assetpacks.ExtractionForegroundService",
+            "com.yandex.metrica.ConfigurationJobService",
+            "com.yandex.metrica.ConfigurationService",
+            "com.yandex.metrica.MetricaService",
+            "crc640f1fe57ce48cbf60.MetricaMonoRuntimeLoaderService"
+        ],
+        "receivers": [
+            "androidx.profileinstaller.ProfileInstallReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.yandex.metrica.MetricaEventHandler",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "anyboost.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "normal": 4,
+            "dangerous": 1,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 180
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 27.49,
+        "sources_present": true,
+        "java_file_count": 4996
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 0,
+        "camera": 4,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 8
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 4,
+            "torch": 0,
+            "telephony_ops": 1,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 7,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 26,
+            "dynamic_code": 208
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 247
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 16,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 3,
+            "dynamic_loading": 0,
+            "reflection": 205
+        }
+    }
+}

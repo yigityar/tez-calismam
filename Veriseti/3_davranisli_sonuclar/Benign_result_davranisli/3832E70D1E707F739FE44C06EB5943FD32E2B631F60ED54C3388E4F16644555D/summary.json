@@ -1,0 +1,144 @@
+{
+    "apk_name": "3832E70D1E707F739FE44C06EB5943FD32E2B631F60ED54C3388E4F16644555D",
+    "sha256": "3832e70d1e707f739fe44c06eb5943fd32e2b631f60ed54c3388e4f16644555d",
+    "metadata": {
+        "package_name": "com.elead.dealbuildershowroom",
+        "version_code": "23042500",
+        "version_name": "4.25.0",
+        "min_sdk": "24",
+        "target_sdk": "31",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BIND_NOTIFICATION_LISTENER_SERVICE",
+            "android.permission.CAMERA",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES"
+        ],
+        "activities": [
+            "com.acuant.acuantcamera.camera.AcuantCameraActivity",
+            "com.acuant.acuantcamera.camera.cameraone.DocumentCaptureActivity",
+            "com.acuant.acuantcamera.camera.document.cameraone.DocumentCaptureActivity",
+            "com.elead.acuantsdkv11.droid.bridge.CameraActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc643c15fcc9d5e7074f.VideoAudioViewController",
+            "crc643c15fcc9d5e7074f.VideoPlayerViewController",
+            "crc643c15fcc9d5e7074f.VideoTrimmerViewController",
+            "crc64424a8adc5a1fbe28.FilePickerActivity",
+            "crc646957603ea1820544.MediaPickerActivity",
+            "crc64ede9a51a340c0030.MainActivity",
+            "crc64ede9a51a340c0030.WebAuthenticationCallbackActivity"
+        ],
+        "services": [
+            "com.elead.dealbuildershowroom.FCMMessagingService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "crc64396a3fe5f8138e3f.KeepAliveService",
+            "crc647fbf1852b88c7385.DroidGeolocatorService"
+        ],
+        "receivers": [
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver",
+            "crc64cea48322b3427ae9.ConnectivityChangeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS": "normal",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.BIND_NOTIFICATION_LISTENER_SERVICE": "signature",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECORD_AUDIO": "dangerous",
+            "android.permission.USE_BIOMETRIC": "normal",
+            "android.permission.USE_FINGERPRINT": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 6,
+            "normal": 9,
+            "signature": 1,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 36
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 30.55,
+        "sources_present": true,
+        "java_file_count": 6054
+    },
+    "ast_analysis": {
+        "location": 3,
+        "microphone": 0,
+        "camera": 17,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 10
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 5,
+            "microphone": 0,
+            "location": 1,
+            "torch": 4,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 15,
+            "audio_control": 1,
+            "vibration": 1,
+            "network_io": 5,
+            "scheduling_apis": 38,
+            "dynamic_code": 225
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 295
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 5,
+            "handler_loop": 32,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 5,
+            "dynamic_loading": 0,
+            "reflection": 220
+        }
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "apk_name": "8DED72FA6C6A7C5AE0A54FE2DCF75362EC7A4100E247473A0AC28EDCE8303B73",
+    "sha256": "8ded72fa6c6a7c5ae0a54fe2dcf75362ec7a4100e247473a0ac28edce8303b73",
+    "metadata": {
+        "package_name": "lu.delen.digital",
+        "version_code": "2204003",
+        "version_name": "22.04.3",
+        "min_sdk": "23",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "lu.delen.digital.permission.C2D_MESSAGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE"
+        ],
+        "activities": [
+            "com.adobe.phonegap.push.PushHandlerActivity",
+            "com.geniusscansdk.scanflow.ScanActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "lu.delen.digital.MainActivity",
+            "o.FloatRange",
+            "o.MediatorLiveData$Source",
+            "o.setDesignInformation"
+        ],
+        "services": [
+            "com.adobe.phonegap.push.PushInstanceIDListenerService",
+            "com.google.android.play.core.assetpacks.AssetPackExtractionService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "o.FastSafeIterableMap"
+        ],
+        "receivers": [
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "o.access$100",
+            "o.contains"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_APP_BADGE": "unknown",
+            "android.permission.USE_BIOMETRIC": "normal",
+            "android.permission.USE_FINGERPRINT": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.anddoes.launcher.permission.UPDATE_COUNT": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.htc.launcher.permission.READ_SETTINGS": "unknown",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT": "unknown",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE": "unknown",
+            "com.huawei.android.launcher.permission.READ_SETTINGS": "unknown",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS": "signature",
+            "com.majeur.launcher.permission.UPDATE_BADGE": "unknown",
+            "com.oppo.launcher.permission.READ_SETTINGS": "unknown",
+            "com.oppo.launcher.permission.WRITE_SETTINGS": "signature",
+            "com.sec.android.provider.badge.permission.READ": "unknown",
+            "com.sec.android.provider.badge.permission.WRITE": "unknown",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE": "unknown",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE": "unknown",
+            "lu.delen.digital.permission.C2D_MESSAGE": "unknown",
+            "me.everything.badger.permission.BADGE_COUNT_READ": "unknown",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 7,
+            "dangerous": 1,
+            "unknown": 16,
+            "signature": 2
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 12
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 26.77,
+        "sources_present": true,
+        "java_file_count": 1952
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 7,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 2
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 2,
+            "microphone": 0,
+            "location": 0,
+            "torch": 3,
+            "telephony_ops": 0,
+            "system_commands": 2,
+            "webview_interop": 5,
+            "content_access": 13,
+            "audio_control": 1,
+            "vibration": 1,
+            "network_io": 0,
+            "scheduling_apis": 13,
+            "dynamic_code": 119
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 159
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 7,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 0,
+            "reflection": 117
+        }
+    }
+}

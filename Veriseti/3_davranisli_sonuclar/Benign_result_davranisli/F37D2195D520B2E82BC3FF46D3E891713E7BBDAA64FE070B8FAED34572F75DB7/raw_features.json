@@ -1,0 +1,53 @@
+{
+    "java_files": [
+        "com/secneo/apkwrapper/b.java",
+        "com/secneo/apkwrapper/H.java",
+        "com/secneo/apkwrapper/AW.java",
+        "com/secneo/apkwrapper/AP.java",
+        "com/secneo/apkwrapper/a.java",
+        "com/secneo/apkwrapper/CP.java",
+        "com/secneo/apkwrapper/r/S.java",
+        "com/zealfi/studentloanfamilyinfo/R.java"
+    ],
+    "ast_hits_by_file": {
+        "location": [],
+        "microphone": [],
+        "camera": [],
+        "media_projection": [],
+        "dynamic_load": [],
+        "jni": [
+            "com/secneo/apkwrapper/AW.java"
+        ]
+    },
+    "native_libs": [
+        "lib/armeabi-v7a/libDexHelper.so",
+        "lib/armeabi-v7a/libDexHelper-x86.so",
+        "lib/arm64-v8a/libDexHelper.so",
+        "lib/arm64-v8a/libDexHelper-x86.so"
+    ],
+    "dex_files_count": 1,
+    "exported_components": {
+        "activities": [
+            "com.icf.zxb.activity.SplashActivity",
+            "com.icf.zxb.library.ui.BottomMenuWindow",
+            "com.icf.zxb.library.ui.CutPictureActivity",
+            "com.icf.zxb.library.ui.DatePickerWindow",
+            "com.icf.zxb.library.ui.EditTextInfoActivity",
+            "com.icf.zxb.library.ui.EditTextInfoWindow",
+            "com.icf.zxb.library.ui.PlacePickerWindow",
+            "com.icf.zxb.library.ui.ScanActivity",
+            "com.icf.zxb.library.ui.SelectPictureActivity",
+            "com.icf.zxb.library.ui.ServerSettingActivity",
+            "com.icf.zxb.library.ui.TimePickerWindow",
+            "com.icf.zxb.library.ui.TopMenuWindow",
+            "com.icf.zxb.library.ui.WebViewActivity",
+            "com.zhihu.matisse.internal.ui.AlbumPreviewActivity",
+            "com.zhihu.matisse.internal.ui.SelectedPreviewActivity",
+            "com.zhihu.matisse.ui.MatisseActivity"
+        ],
+        "services": [
+            "com.secneo.apkwrapper.r.S"
+        ],
+        "receivers": []
+    }
+}

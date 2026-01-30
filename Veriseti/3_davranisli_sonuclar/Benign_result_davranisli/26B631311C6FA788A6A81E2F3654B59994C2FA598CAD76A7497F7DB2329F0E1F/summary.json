@@ -1,0 +1,170 @@
+{
+    "apk_name": "26B631311C6FA788A6A81E2F3654B59994C2FA598CAD76A7497F7DB2329F0E1F",
+    "sha256": "26b631311c6fa788a6a81e2f3654b59994c2fa598cad76a7497f7db2329f0e1f",
+    "metadata": {
+        "package_name": "com.view2view.Increase",
+        "version_code": "19",
+        "version_name": "3.0",
+        "min_sdk": "19",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.gms.permission.AD_ID",
+            "io.kodular.mahmoud_safwat00.ConView.permission.C2D_MESSAGE"
+        ],
+        "activities": [
+            "co.enhance.backfill.webview.EnhanceWebViewAdActivity",
+            "com.adcolony.sdk.AdColonyAdViewActivity",
+            "com.adcolony.sdk.AdColonyInterstitialActivity",
+            "com.applovin.adview.AppLovinFullscreenActivity",
+            "com.applovin.adview.AppLovinInterstitialActivity",
+            "com.applovin.sdk.AppLovinWebViewActivity",
+            "com.facebook.ads.AudienceNetworkActivity",
+            "com.facebook.ads.internal.ipc.RemoteANActivity",
+            "com.flurry.android.FlurryFullscreenTakeoverActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.firebase.auth.internal.FederatedSignInActivity",
+            "com.inmobi.ads.rendering.InMobiAdActivity",
+            "com.ironsource.sdk.controller.ControllerActivity",
+            "com.ironsource.sdk.controller.InterstitialActivity",
+            "com.ironsource.sdk.controller.OpenUrlActivity",
+            "com.kidoz.sdk.api.ui_views.interstitial.KidozAdActivity",
+            "com.millennialmedia.internal.MMActivity",
+            "com.millennialmedia.internal.MMIntentWrapperActivity",
+            "com.mopub.common.MoPubBrowser",
+            "com.mopub.common.privacy.ConsentDialogActivity",
+            "com.mopub.mobileads.MoPubActivity",
+            "com.mopub.mobileads.MraidActivity",
+            "com.mopub.mobileads.MraidVideoPlayerActivity",
+            "com.mopub.mobileads.RewardedMraidActivity",
+            "com.smaato.soma.ExpandedBannerActivity",
+            "com.smaato.soma.interstitial.InterstitialActivity",
+            "com.smaato.soma.video.VASTAdActivity",
+            "com.tapjoy.TJAdUnitActivity",
+            "com.tapjoy.TJContentActivity",
+            "com.unity3d.services.ads.adunit.AdUnitActivity",
+            "com.unity3d.services.ads.adunit.AdUnitSoftwareActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity",
+            "com.vungle.warren.ui.VungleActivity",
+            "fgl.com.chartboost.sdk.CBImpressionActivity",
+            "io.kodular.mahmoud_safwat00.ConView.Home",
+            "io.kodular.mahmoud_safwat00.ConView.Increase_hours",
+            "io.kodular.mahmoud_safwat00.ConView.Paypal",
+            "io.kodular.mahmoud_safwat00.ConView.Privacy",
+            "io.kodular.mahmoud_safwat00.ConView.Read",
+            "io.kodular.mahmoud_safwat00.ConView.Screen1",
+            "io.kodular.mahmoud_safwat00.ConView.Top_Keywords",
+            "io.kodular.mahmoud_safwat00.ConView.Wallet"
+        ],
+        "services": [
+            "com.applovin.impl.adview.activity.FullscreenAdService",
+            "com.applovin.impl.sdk.utils.AppKilledService",
+            "com.facebook.ads.internal.ipc.AdsMessengerService",
+            "com.facebook.ads.internal.ipc.AdsProcessPriorityService",
+            "com.fgl.api.firebase.push.EnhanceFirebaseMessagingService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.millennialmedia.internal.VolumeChangeService",
+            "com.millennialmedia.internal.task.geoipcheck.GeoIpCheckRequestService",
+            "com.millennialmedia.internal.task.handshake.HandshakeRequestService",
+            "com.millennialmedia.internal.task.reporting.PlacementReportingService"
+        ],
+        "receivers": [
+            "com.fgl.enhance.notification.FGLLocalNotificationReceiver",
+            "com.fgl.enhance.referral.ReferralReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.kidoz.sdk.api.receivers.SdkReceiver",
+            "com.tapjoy.TapjoyReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown",
+            "io.kodular.mahmoud_safwat00.ConView.permission.C2D_MESSAGE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 4,
+            "normal": 4,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 16,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 77.48,
+        "sources_present": true,
+        "java_file_count": 21023
+    },
+    "ast_analysis": {
+        "location": 35,
+        "microphone": 0,
+        "camera": 100,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 1
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 2,
+            "microphone": 2,
+            "location": 11,
+            "torch": 2,
+            "telephony_ops": 2,
+            "system_commands": 5,
+            "webview_interop": 104,
+            "content_access": 33,
+            "audio_control": 11,
+            "vibration": 5,
+            "network_io": 62,
+            "scheduling_apis": 277,
+            "dynamic_code": 698
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 1214
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 16,
+            "handler_loop": 256,
+            "job_scheduler": 5
+        },
+        "trigger_types": {
+            "auto_triggered": 7,
+            "user_triggered": 4
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 5,
+            "reflection": 697
+        }
+    }
+}

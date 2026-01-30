@@ -1,0 +1,90 @@
+{
+    "java_files": [
+        "com/secneo/apkwrapper/C0001.java",
+        "com/secneo/apkwrapper/ServiceConnectionC0005.java",
+        "com/secneo/apkwrapper/H.java",
+        "com/secneo/apkwrapper/AW.java",
+        "com/secneo/apkwrapper/AP.java",
+        "com/secneo/apkwrapper/C0006.java",
+        "com/secneo/apkwrapper/CP.java",
+        "com/csii/sx/ui/R.java"
+    ],
+    "ast_hits_by_file": {
+        "location": [],
+        "microphone": [],
+        "camera": [],
+        "media_projection": [],
+        "dynamic_load": [],
+        "jni": [
+            "com/secneo/apkwrapper/AW.java"
+        ]
+    },
+    "native_libs": [
+        "lib/armeabi-v7a/libAMapSDK_NAVI_v8_0_0.so",
+        "lib/armeabi-v7a/libBcEngine.so",
+        "lib/armeabi-v7a/libHKESipCryptor.so",
+        "lib/armeabi-v7a/libIDCardengine.so",
+        "lib/armeabi-v7a/libantitrace.so",
+        "lib/armeabi-v7a/libcfcaMLog.so",
+        "lib/armeabi-v7a/libcsiipowerenter.so",
+        "lib/armeabi-v7a/libface_detect.so",
+        "lib/armeabi-v7a/libfree-reflection.so",
+        "lib/armeabi-v7a/libgojni.so",
+        "lib/armeabi-v7a/libhce-engine.so",
+        "lib/armeabi-v7a/libhce-push.so",
+        "lib/armeabi-v7a/libhke.so",
+        "lib/armeabi-v7a/libiProtectWJRCB.so",
+        "lib/armeabi-v7a/libimageengine.so",
+        "lib/armeabi-v7a/libjni_liveness_interactive.so",
+        "lib/armeabi-v7a/libmsk.so",
+        "lib/armeabi-v7a/libmtttrace.so",
+        "lib/armeabi-v7a/libneonuijni.so",
+        "lib/armeabi-v7a/libnllvm1623735669.so",
+        "lib/armeabi-v7a/libnllvm1624013121.so",
+        "lib/armeabi-v7a/libnllvm1624117532.so",
+        "lib/armeabi-v7a/libpower.so",
+        "lib/armeabi-v7a/libsecurityenv.so",
+        "lib/armeabi-v7a/libslotapi.so",
+        "lib/armeabi-v7a/libsmkernel.so",
+        "lib/armeabi-v7a/libstidinteractive_liveness.so",
+        "lib/armeabi-v7a/libweexjsb.so",
+        "lib/armeabi-v7a/libweexjsc.so",
+        "lib/armeabi-v7a/libweexjss.so",
+        "lib/armeabi-v7a/libweexjst.so",
+        "lib/armeabi-v7a/libxdkj.so",
+        "lib/armeabi-v7a/libdexjni.so",
+        "lib/armeabi-v7a/libDexHelper-x86.so",
+        "lib/armeabi-v7a/libDexHelper.so"
+    ],
+    "dex_files_count": 1,
+    "exported_components": {
+        "activities": [
+            "cn.com.csii.mobile.zxing.CaptureActivity",
+            "com.csii.powerenter.PEKbdActivity",
+            "com.csii.sx.ui.ocr.CameraActivity",
+            "com.csii.sx.ui.ocr.IdCardCameraActivity",
+            "com.csii.sx.ui.wxapi.WXEntryActivity",
+            "com.mob.tools.MobUIShell",
+            "com.sensetime.liveness.motion.MotionLivenessActivity",
+            "com.xuexiang.xupdate.widget.UpdateDialogActivity",
+            "com.xuexiang.xutil.system.PermissionUtils$PermissionActivity",
+            "essclib.esscpermission.bridge.BridgeActivity",
+            "hc.mhis.paic.com.essclibrary.activity.ESSCFaceDetectActivity",
+            "hc.mhis.paic.com.essclibrary.activity.ESSCMainActivity",
+            "hc.mhis.paic.com.essclibrary.activity.ESSCScanCodeActivity",
+            "tech.madp.core.DefaultActivity",
+            "tech.madp.core.TranslucentActivity",
+            "tech.madp.core.TranslucentWithHeightActivity",
+            "tech.madp.core.WebActivity",
+            "tech.madp.core.WeexActivity",
+            "tech.madp.core.permission.PermissionActivity"
+        ],
+        "services": [
+            "com.amap.api.location.APSService",
+            "com.xuexiang.xupdate.service.DownloadService"
+        ],
+        "receivers": [
+            "com.taobao.weex.WXGlobalEventReceiver"
+        ]
+    }
+}

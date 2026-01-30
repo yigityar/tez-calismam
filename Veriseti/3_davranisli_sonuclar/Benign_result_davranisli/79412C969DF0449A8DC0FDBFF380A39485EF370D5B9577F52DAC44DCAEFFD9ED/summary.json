@@ -1,0 +1,136 @@
+{
+    "apk_name": "79412C969DF0449A8DC0FDBFF380A39485EF370D5B9577F52DAC44DCAEFFD9ED",
+    "sha256": "79412c969df0449a8dc0fdbff380a39485ef370d5b9577f52dac44dcaeffd9ed",
+    "metadata": {
+        "package_name": "com.dressupone.funmouthdoctor",
+        "version_code": "4064000",
+        "version_name": "4.64.0",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.dressupone.funmouthdoctor.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "com.distriqt.extension.image.permissions.AuthorisationActivity",
+            "com.dressupone.funmouthdoctor.AppEntry",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "com.distriqt.extension.pushnotifications.fcm.FcmInstanceIDService",
+            "com.distriqt.extension.pushnotifications.fcm.FcmMessagingService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.ads.AdService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.android.play.core.assetpacks.AssetPackExtractionService",
+            "com.google.firebase.components.ComponentDiscoveryService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.distriqt.extension.pushnotifications.notifications.receivers.NotificationReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.dressupone.funmouthdoctor.permission.C2D_MESSAGE": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 7,
+            "dangerous": 2,
+            "unknown": 3
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 4
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 38.61,
+        "sources_present": true,
+        "java_file_count": 10177
+    },
+    "ast_analysis": {
+        "location": 2,
+        "microphone": 2,
+        "camera": 20,
+        "media_projection": 2,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 2,
+            "microphone": 2,
+            "location": 2,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 3,
+            "webview_interop": 13,
+            "content_access": 23,
+            "audio_control": 1,
+            "vibration": 1,
+            "network_io": 6,
+            "scheduling_apis": 49,
+            "dynamic_code": 313
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 415
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 21,
+            "handler_loop": 25,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 4,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 5,
+            "dynamic_loading": 8,
+            "reflection": 308
+        }
+    }
+}

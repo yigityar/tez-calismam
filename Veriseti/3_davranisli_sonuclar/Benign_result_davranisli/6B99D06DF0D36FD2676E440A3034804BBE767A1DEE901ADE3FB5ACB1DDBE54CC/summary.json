@@ -1,0 +1,176 @@
+{
+    "apk_name": "6B99D06DF0D36FD2676E440A3034804BBE767A1DEE901ADE3FB5ACB1DDBE54CC",
+    "sha256": "6b99d06df0d36fd2676e440a3034804bbe767a1dee901ade3fb5acb1ddbe54cc",
+    "metadata": {
+        "package_name": "com.vortexdevelopmentgroup.digitalbunker",
+        "version_code": "70",
+        "version_name": "8.0",
+        "min_sdk": "25",
+        "target_sdk": "34",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.INTERNET",
+            "android.permission.NFC",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.READ_MEDIA_AUDIO",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.RUN_USER_INITIATED_JOBS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.vortexdevelopmentgroup.digitalbunker.permission.C2D_MESSAGE",
+            "com.vortexdevelopmentgroup.digitalbunker.permission.MAPS_RECEIVE"
+        ],
+        "activities": [
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc64aec81fd21968c75b.AppLinksActivity",
+            "crc64aec81fd21968c75b.BarcodeCaptureActivity",
+            "crc64aec81fd21968c75b.DetailActivity",
+            "crc64aec81fd21968c75b.FilterActivity",
+            "crc64aec81fd21968c75b.FormActivity",
+            "crc64aec81fd21968c75b.FormEntryPrintActivity",
+            "crc64aec81fd21968c75b.HistoryActivity",
+            "crc64aec81fd21968c75b.IconBoardActivity",
+            "crc64aec81fd21968c75b.ImageCaptureActivity",
+            "crc64aec81fd21968c75b.ImageCropActivity",
+            "crc64aec81fd21968c75b.ImageDisplayActivity",
+            "crc64aec81fd21968c75b.ListingActivity",
+            "crc64aec81fd21968c75b.LoginActivity",
+            "crc64aec81fd21968c75b.MapCaptureActivity",
+            "crc64aec81fd21968c75b.MapDisplayActivity",
+            "crc64aec81fd21968c75b.MappingActivity",
+            "crc64aec81fd21968c75b.SavedEntriesActivity",
+            "crc64aec81fd21968c75b.SettingsActivity",
+            "crc64aec81fd21968c75b.SketchCaptureActivity",
+            "crc64aec81fd21968c75b.StartupActivity",
+            "crc64aec81fd21968c75b.TaskDetailsActivity",
+            "crc64aec81fd21968c75b.TaskFilesActivity",
+            "crc64aec81fd21968c75b.TasksActivity",
+            "crc64aec81fd21968c75b.WebDisplayActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "androidx.work.impl.foreground.SystemForegroundService",
+            "com.appn.backgrounduploader.uploaders.UploadJobService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "crc647efc32a77441f1f2.AndroidDownloadJobService",
+            "crc647efc32a77441f1f2.AndroidDownloadService",
+            "crc647efc32a77441f1f2.AndroidUploadJobService",
+            "crc647efc32a77441f1f2.AndroidUploadService",
+            "crc647efc32a77441f1f2.FirebaseIIDService",
+            "crc647efc32a77441f1f2.FirebaseMService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_MEDIA_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC": "normal",
+            "android.permission.GET_ACCOUNTS": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.NFC": "normal",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.READ_MEDIA_AUDIO": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.RUN_USER_INITIATED_JOBS": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES": "unknown",
+            "com.vortexdevelopmentgroup.digitalbunker.permission.C2D_MESSAGE": "unknown",
+            "com.vortexdevelopmentgroup.digitalbunker.permission.MAPS_RECEIVE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 8,
+            "normal": 9,
+            "unknown": 4
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 596
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 23.12,
+        "sources_present": true,
+        "java_file_count": 4687
+    },
+    "ast_analysis": {
+        "location": 12,
+        "microphone": 0,
+        "camera": 4,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 8,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 23,
+            "dynamic_code": 162
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 197
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 7,
+            "handler_loop": 13,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 161
+        }
+    }
+}

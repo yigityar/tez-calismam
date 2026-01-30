@@ -1,0 +1,147 @@
+{
+    "apk_name": "5A6C8C000DE0406E091C8A285FFF82CAA8D0C0BBBE9EE6DA6086590BFCBCC96D",
+    "sha256": "5a6c8c000de0406e091c8a285fff82caa8d0c0bbbe9ee6da6086590bfcbcc96d",
+    "metadata": {
+        "package_name": "com.nuan",
+        "version_code": "600300900",
+        "version_name": "6.3.900",
+        "min_sdk": "24",
+        "target_sdk": "29",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CALL_PHONE",
+            "android.permission.CAMERA",
+            "android.permission.CHANGE_NETWORK_STATE",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.INSTALL_PACKAGES",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_LOGS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WRITE_SETTINGS",
+            "com.asus.msa.SupplementaryDID.ACCESS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.vivo.notification.permission.BADGE_ICON",
+            "freemme.permission.msa"
+        ],
+        "activities": [
+            "com.alipay.sdk.app.APayEntranceActivity",
+            "com.alipay.sdk.app.AlipayResultActivity",
+            "com.alipay.sdk.app.H5AuthActivity",
+            "com.alipay.sdk.app.H5OpenAuthActivity",
+            "com.alipay.sdk.app.H5PayActivity",
+            "com.alipay.sdk.app.PayResultActivity",
+            "com.dmcbig.mediapicker.PickerActivity",
+            "com.dmcbig.mediapicker.PreviewActivity",
+            "com.nuan.wxapi.WXEntryActivity",
+            "com.nuan.wxapi.WXPayEntryActivity",
+            "io.dcloud.PandoraEntry",
+            "io.dcloud.PandoraEntryActivity",
+            "io.dcloud.ProcessMediator",
+            "io.dcloud.WebAppActivity",
+            "io.dcloud.WebviewActivity",
+            "io.dcloud.ads.activity.WebViewActivity",
+            "io.dcloud.feature.gallery.imageedit.IMGEditActivity",
+            "io.dcloud.feature.nativeObj.photoview.PhotoActivity",
+            "io.dcloud.feature.payment.weixin.WXPayProcessMeadiatorActivity",
+            "io.dcloud.share.mm.WXShareProcessMeadiatorActivity"
+        ],
+        "services": [
+            "io.dcloud.ads.base.service.DownloadService"
+        ],
+        "receivers": [
+            "io.dcloud.common.adapter.io.DownloadReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CALL_PHONE": "dangerous",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.CHANGE_NETWORK_STATE": "normal",
+            "android.permission.CHANGE_WIFI_STATE": "normal",
+            "android.permission.INSTALL_PACKAGES": "unlaballed",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_LOGS": "unlaballed",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.REQUEST_INSTALL_PACKAGES": "signature",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WRITE_SETTINGS": "signature",
+            "com.asus.msa.SupplementaryDID.ACCESS": "unknown",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE": "unknown",
+            "com.vivo.notification.permission.BADGE_ICON": "unknown",
+            "freemme.permission.msa": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 7,
+            "normal": 5,
+            "unlaballed": 2,
+            "signature": 2,
+            "unknown": 4
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 12
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 19.39,
+        "sources_present": true,
+        "java_file_count": 2888
+    },
+    "ast_analysis": {
+        "location": 2,
+        "microphone": 2,
+        "camera": 33,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 8
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 4,
+            "microphone": 3,
+            "location": 2,
+            "torch": 1,
+            "telephony_ops": 0,
+            "system_commands": 3,
+            "webview_interop": 12,
+            "content_access": 61,
+            "audio_control": 2,
+            "vibration": 2,
+            "network_io": 3,
+            "scheduling_apis": 24,
+            "dynamic_code": 299
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 416
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 6,
+            "handler_loop": 18,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 8,
+            "user_triggered": 3
+        },
+        "dynamic_features": {
+            "jni_usage": 6,
+            "dynamic_loading": 0,
+            "reflection": 293
+        }
+    }
+}

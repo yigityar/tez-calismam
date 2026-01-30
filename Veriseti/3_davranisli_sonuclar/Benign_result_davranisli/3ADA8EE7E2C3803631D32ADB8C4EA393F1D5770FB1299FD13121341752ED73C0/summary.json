@@ -1,0 +1,141 @@
+{
+    "apk_name": "3ADA8EE7E2C3803631D32ADB8C4EA393F1D5770FB1299FD13121341752ED73C0",
+    "sha256": "3ada8ee7e2c3803631d32adb8c4ea393f1d5770fb1299fd13121341752ed73c0",
+    "metadata": {
+        "package_name": "np.com.nareshmdr.nepalicalendar",
+        "version_code": "13",
+        "version_name": "3.0",
+        "min_sdk": "18",
+        "target_sdk": "34",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID",
+            "np.com.nareshmdr.nepalicalendar.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "np.com.nareshmdr.nepalicalendar.permission.C2D_MESSAGE"
+        ],
+        "activities": [
+            "anywheresoftware.b4a.objects.preferenceactivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.purchase.InAppPurchaseActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "np.com.nareshmdr.nepalicalendar.about",
+            "np.com.nareshmdr.nepalicalendar.createuserevent",
+            "np.com.nareshmdr.nepalicalendar.dateconverter",
+            "np.com.nareshmdr.nepalicalendar.developer",
+            "np.com.nareshmdr.nepalicalendar.forex",
+            "np.com.nareshmdr.nepalicalendar.goldsilver",
+            "np.com.nareshmdr.nepalicalendar.main",
+            "np.com.nareshmdr.nepalicalendar.news",
+            "np.com.nareshmdr.nepalicalendar.stockprice",
+            "np.com.nareshmdr.nepalicalendar.unitconverter",
+            "np.com.nareshmdr.nepalicalendar.upcomingevents",
+            "np.com.nareshmdr.nepalicalendar.userevents",
+            "np.com.nareshmdr.nepalicalendar.webbrowser"
+        ],
+        "services": [
+            "anywheresoftware.b4a.objects.FirebaseNotificationsService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "np.com.nareshmdr.nepalicalendar.starter"
+        ],
+        "receivers": [
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "np.com.nareshmdr.nepalicalendar.firebasemessaging",
+            "np.com.nareshmdr.nepalicalendar.httputils2service",
+            "np.com.nareshmdr.nepalicalendar.rcvrdatewidget",
+            "np.com.nareshmdr.nepalicalendar.rcvrusereventwidget",
+            "np.com.nareshmdr.nepalicalendar.starter$starter_BR"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown",
+            "np.com.nareshmdr.nepalicalendar.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": "unknown",
+            "np.com.nareshmdr.nepalicalendar.permission.C2D_MESSAGE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 3,
+            "unknown": 5
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 47.58,
+        "sources_present": true,
+        "java_file_count": 13416
+    },
+    "ast_analysis": {
+        "location": 9,
+        "microphone": 0,
+        "camera": 30,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 9,
+            "content_access": 8,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 11,
+            "scheduling_apis": 72,
+            "dynamic_code": 422
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 525
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 16,
+            "handler_loop": 53,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 51,
+            "user_triggered": 1
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 4,
+            "reflection": 422
+        }
+    }
+}

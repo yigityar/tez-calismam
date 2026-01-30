@@ -1,0 +1,123 @@
+{
+    "apk_name": "7079EA80B6F98DB5099F0ED5DFD3575CC327BB2160B020A68B7A52BE97FDE718",
+    "sha256": "7079ea80b6f98db5099f0ed5dfd3575cc327bb2160b020a68b7a52be97fde718",
+    "metadata": {
+        "package_name": "nz.co.sporty.midcanterburyrugby",
+        "version_code": "534",
+        "version_name": "2.26.7",
+        "min_sdk": "22",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "nz.co.sporty.midcanterburyrugby.permission.C2D_MESSAGE"
+        ],
+        "activities": [
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "crc646957603ea1820544.MediaPickerActivity",
+            "crc6480997b3ef81bf9b2.ZxingActivity",
+            "crc64e87fab249c2987dc.MainActivity",
+            "crc64e87fab249c2987dc.SplashActivity",
+            "crc64f98dd38067c0c88b.FormAuthenticatorActivity",
+            "crc64f98dd38067c0c88b.WebAuthenticatorActivity",
+            "crc64f98dd38067c0c88b.WebAuthenticatorNativeBrowserActivity",
+            "crc64f98dd38067c0c88b.WebViewActivity"
+        ],
+        "services": [
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "crc641cf16e4e4d2d6f43.FirebaseNotificationService",
+            "crc64396a3fe5f8138e3f.KeepAliveService"
+        ],
+        "receivers": [
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver",
+            "crc64a0e0a82d0db9a07d.ConnectivityBroadcastReceiver",
+            "crc64f98dd38067c0c88b.CustomTabsActionsBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "nz.co.sporty.midcanterburyrugby.permission.C2D_MESSAGE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 4,
+            "dangerous": 3,
+            "unknown": 2
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 16
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 18.45,
+        "sources_present": true,
+        "java_file_count": 3676
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 5,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 7,
+            "audio_control": 3,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 23,
+            "dynamic_code": 132
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 165
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 1,
+            "handler_loop": 21,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 131
+        }
+    }
+}

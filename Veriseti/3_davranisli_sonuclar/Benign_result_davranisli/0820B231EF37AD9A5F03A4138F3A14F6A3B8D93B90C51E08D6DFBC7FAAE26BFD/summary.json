@@ -1,0 +1,176 @@
+{
+    "apk_name": "0820B231EF37AD9A5F03A4138F3A14F6A3B8D93B90C51E08D6DFBC7FAAE26BFD",
+    "sha256": "0820b231ef37ad9a5f03a4138f3a14f6a3b8d93b90c51e08d6dfbc7faae26bfd",
+    "metadata": {
+        "package_name": "com.rhbgroup.rhbmobilebanking",
+        "version_code": "71",
+        "version_name": "2.2.0",
+        "min_sdk": "24",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.FLASHLIGHT",
+            "android.permission.INTERNET",
+            "android.permission.NFC",
+            "android.permission.QUERY_ALL_PACKAGES",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+            "com.rhbgroup.rhbmobilebanking.permission.C2D_MESSAGE",
+            "com.rhbgroup.rhbmobilebanking.permission.MAPS_RECEIVE"
+        ],
+        "activities": [
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.huawei.hms.activity.BridgeActivity",
+            "com.huawei.hms.activity.EnableServiceActivity",
+            "com.huawei.hms.hmsscankit.ScanKitActivity",
+            "com.huawei.updatesdk.service.otaupdate.AppUpdateActivity",
+            "com.huawei.updatesdk.support.pm.PackageInstallerActivity",
+            "com.microblink.activity.BarcodeScanActivity",
+            "com.microblink.activity.BlinkCardActivity",
+            "com.microblink.activity.BlinkIdActivity",
+            "com.microblink.activity.DocumentCaptureActivity",
+            "com.microblink.activity.DocumentScanActivity",
+            "com.microblink.activity.DocumentVerificationActivity",
+            "com.microblink.activity.FieldByFieldScanActivity",
+            "com.microblink.activity.edit.BlinkCardEditActivity",
+            "com.rhbgroup.dcphmskit.ScannerActivity",
+            "com.rhbgroup.rhbmobilebanking.rhbmobilebanking",
+            "com.xenchain.reader.Activity.XFaceMatchActivity",
+            "com.xenchain.reader.Activity.XFaceRecordActivity",
+            "com.xenchain.reader.Activity.XHoloScannerActivity",
+            "dcp.ctos.ekyc.Activity.CameraActivity",
+            "dcp.ctos.ekyc.Activity.CameraHoloActivity",
+            "dcp.ctos.ekyc.Activity.EkycMainActivity",
+            "dcp.ctos.ekyc.Activity.FaceActivity",
+            "dcp.ctos.ekyc.Activity.FaceRecordActivity",
+            "dcp.ctos.ekyc.Activity.LivenessMotion2Activity",
+            "dcp.ctos.ekyc.Activity.OriginalMainActivity",
+            "dcp.ctos.ekyc.StartupActivity",
+            "dcp.permissions.PermissionActivity"
+        ],
+        "services": [
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.iid.FirebaseInstanceIdService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.huawei.agconnect.core.ServiceDiscovery",
+            "com.kony.sdkcommons.Network.NetworkCore.KNYHttpJobIntentService",
+            "com.kony.sdkcommons.Network.NetworkCore.KNYHttpService",
+            "com.konylabs.api.location.KonyGeoTransitionsJobIntentService",
+            "com.konylabs.fcm.KonyFCMInstanceIdService",
+            "com.konylabs.fcm.KonyFCMService"
+        ],
+        "receivers": [
+            "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.konylabs.api.location.KonyGeofenceBroadcastReceiver",
+            "com.konylabs.notification.KonyLocalNotificationBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_COARSE_LOCATION": "dangerous",
+            "android.permission.ACCESS_FINE_LOCATION": "dangerous",
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FLASHLIGHT": "unknown",
+            "android.permission.INTERNET": "normal",
+            "android.permission.NFC": "normal",
+            "android.permission.QUERY_ALL_PACKAGES": "normal",
+            "android.permission.READ_CONTACTS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.RECORD_AUDIO": "dangerous",
+            "android.permission.REQUEST_INSTALL_PACKAGES": "signature",
+            "android.permission.USE_FINGERPRINT": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES": "unknown",
+            "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA": "unknown",
+            "com.rhbgroup.rhbmobilebanking.permission.C2D_MESSAGE": "unknown",
+            "com.rhbgroup.rhbmobilebanking.permission.MAPS_RECEIVE": "unknown"
+        },
+        "risk_counts": {
+            "dangerous": 8,
+            "normal": 9,
+            "unknown": 6,
+            "signature": 1
+        }
+    },
+    "stats": {
+        "dex_count": 3,
+        "native_lib_count": 49
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 40.81,
+        "sources_present": true,
+        "java_file_count": 9611
+    },
+    "ast_analysis": {
+        "location": 10,
+        "microphone": 4,
+        "camera": 82,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 19
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 11,
+            "microphone": 3,
+            "location": 3,
+            "torch": 7,
+            "telephony_ops": 1,
+            "system_commands": 7,
+            "webview_interop": 1,
+            "content_access": 43,
+            "audio_control": 1,
+            "vibration": 2,
+            "network_io": 16,
+            "scheduling_apis": 45,
+            "dynamic_code": 361
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 501
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 9,
+            "handler_loop": 35,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 2,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 13,
+            "dynamic_loading": 2,
+            "reflection": 348
+        }
+    }
+}

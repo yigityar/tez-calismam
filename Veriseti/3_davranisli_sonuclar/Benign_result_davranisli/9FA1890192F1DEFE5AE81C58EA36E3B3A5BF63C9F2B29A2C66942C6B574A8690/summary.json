@@ -1,0 +1,170 @@
+{
+    "apk_name": "9FA1890192F1DEFE5AE81C58EA36E3B3A5BF63C9F2B29A2C66942C6B574A8690",
+    "sha256": "9fa1890192f1defe5ae81c58ea36e3b3a5bf63c9f2b29a2c66942c6b574a8690",
+    "metadata": {
+        "package_name": "com.YoStarEN.AzurLane",
+        "version_code": "71014",
+        "version_name": "7.1.14",
+        "min_sdk": "21",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_MEDIA_IMAGES",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WRITE_SETTINGS",
+            "com.YoStarEN.AzurLane.permission.C2D_MESSAGE",
+            "com.android.vending.BILLING",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID",
+            "com.samsung.android.iap.permission.BILLING"
+        ],
+        "activities": [
+            "com.airisdk.sdkcall.AiriSDKContentActivity",
+            "com.airisdk.sdkcall.ThirdContentActivity",
+            "com.airisdk.sdkcall.WebCustormerServiceActivity",
+            "com.amazon.identity.auth.device.workflow.WorkflowActivity",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.facebook.CustomTabActivity",
+            "com.facebook.CustomTabMainActivity",
+            "com.facebook.FacebookActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.gms.games.internal.v2.resolution.GamesResolutionActivity",
+            "com.manjuu.azurlane.MainActivity",
+            "com.manjuu.azurlane.PrePermissionActivity",
+            "com.samsung.android.sdk.iap.lib.activity.AccountActivity",
+            "com.samsung.android.sdk.iap.lib.activity.CheckPackageActivity",
+            "com.samsung.android.sdk.iap.lib.activity.DialogActivity",
+            "com.samsung.android.sdk.iap.lib.activity.PaymentActivity",
+            "com.twitter.sdk.android.core.identity.OAuthActivity",
+            "com.twitter.sdk.android.core.identity.OAuthActivity2",
+            "com.ys.webview.WebViewActivity",
+            "net.aihelp.ui.HostActivity"
+        ],
+        "services": [
+            "com.airisdk.sdkcall.tools.api.LogService",
+            "com.airisdk.sdkcall.tools.firebase.MyFirebaseMessagingService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.manjuu.azurlane.recorderutils.RecordService",
+            "com.ys.download.impl.LiveClickService",
+            "com.ys.download.impl.LiveService"
+        ],
+        "receivers": [
+            "com.adjust.sdk.AdjustReferrerReceiver",
+            "com.amazon.device.iap.ResponseReceiver",
+            "com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver",
+            "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "net.agasper.unitynotification.UnityNotificationActionHandler",
+            "net.agasper.unitynotification.UnityNotificationManager"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.POST_NOTIFICATIONS": "dangerous",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_MEDIA_IMAGES": "dangerous",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.RECORD_AUDIO": "dangerous",
+            "android.permission.SCHEDULE_EXACT_ALARM": "signature",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WRITE_SETTINGS": "signature",
+            "com.YoStarEN.AzurLane.permission.C2D_MESSAGE": "unknown",
+            "com.android.vending.BILLING": "unknown",
+            "com.android.vending.CHECK_LICENSE": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown",
+            "com.samsung.android.iap.permission.BILLING": "unknown"
+        },
+        "risk_counts": {
+            "normal": 7,
+            "dangerous": 6,
+            "signature": 2,
+            "unknown": 7
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 22
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 32.1,
+        "sources_present": true,
+        "java_file_count": 6798
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 1,
+        "camera": 34,
+        "media_projection": 6,
+        "dynamic_load": 0,
+        "jni": 6
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 1,
+            "microphone": 3,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 5,
+            "webview_interop": 16,
+            "content_access": 22,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 13,
+            "scheduling_apis": 32,
+            "dynamic_code": 293
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 386
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 12,
+            "handler_loop": 18,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 1,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 6,
+            "dynamic_loading": 0,
+            "reflection": 287
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "apk_name": "FAC14FE48DEBB25A499DD5EC1AA26DA3926C8741C6C51AA9D9609B09A1CCC15B",
+    "sha256": "fac14fe48debb25a499dd5ec1aa26da3926c8741c6c51aa9d9609b09a1ccc15b",
+    "metadata": {
+        "package_name": "com.yeonggames.sanicterrorgame",
+        "version_code": "41",
+        "version_name": "41.0",
+        "min_sdk": "16",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET"
+        ],
+        "activities": [
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.purchase.InAppPurchaseActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.unity3d.player.UnityPlayerActivity"
+        ],
+        "services": [],
+        "receivers": [],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal"
+        },
+        "risk_counts": {
+            "normal": 2
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 6
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 11.01,
+        "sources_present": true,
+        "java_file_count": 1526
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 1,
+        "camera": 5,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 2
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 1,
+            "microphone": 1,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 3,
+            "content_access": 8,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 0,
+            "scheduling_apis": 11,
+            "dynamic_code": 69
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 94
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 0,
+            "handler_loop": 11,
+            "job_scheduler": 0
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 0
+        },
+        "dynamic_features": {
+            "jni_usage": 2,
+            "dynamic_loading": 2,
+            "reflection": 67
+        }
+    }
+}

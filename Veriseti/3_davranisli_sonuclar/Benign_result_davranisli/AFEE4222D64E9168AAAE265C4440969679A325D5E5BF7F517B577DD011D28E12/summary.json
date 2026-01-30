@@ -1,0 +1,91 @@
+{
+    "apk_name": "AFEE4222D64E9168AAAE265C4440969679A325D5E5BF7F517B577DD011D28E12",
+    "sha256": "afee4222d64e9168aaae265c4440969679a325d5e5bf7f517b577dd011d28e12",
+    "metadata": {
+        "package_name": "com.my.MunawwarRanaShayari",
+        "version_code": "11",
+        "version_name": "1.10",
+        "min_sdk": "21",
+        "target_sdk": "33",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET"
+        ],
+        "activities": [
+            "com.google.android.gms.ads.AdActivity",
+            "com.my.MunawwarRanaShayari.DebugActivity",
+            "com.my.MunawwarRanaShayari.MainActivity",
+            "com.my.MunawwarRanaShayari.MoreappsActivity",
+            "com.my.MunawwarRanaShayari.PrivacyActivity",
+            "com.my.MunawwarRanaShayari.Sh1Activity"
+        ],
+        "services": [
+            "com.google.firebase.components.ComponentDiscoveryService"
+        ],
+        "receivers": [],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal"
+        },
+        "risk_counts": {
+            "normal": 2
+        }
+    },
+    "stats": {
+        "dex_count": 5,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 28.59,
+        "sources_present": true,
+        "java_file_count": 7325
+    },
+    "ast_analysis": {
+        "location": 8,
+        "microphone": 0,
+        "camera": 11,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 3,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 7,
+            "content_access": 11,
+            "audio_control": 0,
+            "vibration": 0,
+            "network_io": 3,
+            "scheduling_apis": 24,
+            "dynamic_code": 252
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 300
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 8,
+            "handler_loop": 15,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 4,
+            "reflection": 252
+        }
+    }
+}

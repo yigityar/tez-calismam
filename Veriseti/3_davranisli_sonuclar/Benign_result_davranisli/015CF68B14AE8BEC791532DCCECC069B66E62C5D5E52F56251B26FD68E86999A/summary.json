@@ -1,0 +1,137 @@
+{
+    "apk_name": "015CF68B14AE8BEC791532DCCECC069B66E62C5D5E52F56251B26FD68E86999A",
+    "sha256": "015cf68b14ae8bec791532dccecc069b66e62c5d5e52f56251b26fd68e86999a",
+    "metadata": {
+        "package_name": "com.BOBs.BBS",
+        "version_code": "8000",
+        "version_name": "B*Bs-v8.000",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INSTALL_PACKAGES",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_NUMBERS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.BOBs.BBS.permission.C2D_MESSAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "com.BOBs.BBS.main",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.firebase.auth.internal.FederatedSignInActivity"
+        ],
+        "services": [
+            "com.BOBs.BBS.httputils2service",
+            "com.BOBs.BBS.starter",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.auth.api.signin.RevocationBoundService",
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.iid.FirebaseInstanceIdService"
+        ],
+        "receivers": [
+            "com.BOBs.BBS.httputils2service$httputils2service_BR",
+            "com.BOBs.BBS.starter$starter_BR",
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.FOREGROUND_SERVICE": "normal",
+            "android.permission.INSTALL_PACKAGES": "unlaballed",
+            "android.permission.INTERNET": "normal",
+            "android.permission.READ_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.READ_PHONE_NUMBERS": "dangerous",
+            "android.permission.READ_PHONE_STATE": "dangerous",
+            "android.permission.REQUEST_INSTALL_PACKAGES": "signature",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.BOBs.BBS.permission.C2D_MESSAGE": "unknown",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 6,
+            "unlaballed": 1,
+            "dangerous": 4,
+            "signature": 1,
+            "unknown": 4
+        }
+    },
+    "stats": {
+        "dex_count": 2,
+        "native_lib_count": 0
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 38.59,
+        "sources_present": true,
+        "java_file_count": 5435
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 1,
+        "camera": 23,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 0
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 1,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 1,
+            "system_commands": 3,
+            "webview_interop": 1,
+            "content_access": 34,
+            "audio_control": 3,
+            "vibration": 1,
+            "network_io": 8,
+            "scheduling_apis": 36,
+            "dynamic_code": 363
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 451
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 13,
+            "handler_loop": 21,
+            "job_scheduler": 2
+        },
+        "trigger_types": {
+            "auto_triggered": 9,
+            "user_triggered": 1
+        },
+        "dynamic_features": {
+            "jni_usage": 0,
+            "dynamic_loading": 0,
+            "reflection": 363
+        }
+    }
+}

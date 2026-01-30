@@ -1,0 +1,112 @@
+{
+    "apk_name": "1CC0176E6891ED70A05B00998D6C563A573F97263822A6C726CBDC0E63CAEAAD",
+    "sha256": "1cc0176e6891ed70a05b00998d6c563a573f97263822a6c726cbdc0e63caeaad",
+    "metadata": {
+        "package_name": "com.enerbank.loan_application",
+        "version_code": "1654119730",
+        "version_name": "4.25",
+        "min_sdk": "24",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "android.permission.INTERNET",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.WAKE_LOCK",
+            "com.enerbank.loan_application.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "activities": [
+            "com.microsoft.appcenter.distribute.DeepLinkActivity",
+            "crc6480997b3ef81bf9b2.ZxingActivity",
+            "crc648d879925871dad3c.MainActivity"
+        ],
+        "services": [
+            "com.google.android.gms.measurement.AppMeasurementJobService",
+            "com.google.android.gms.measurement.AppMeasurementService",
+            "com.google.firebase.iid.FirebaseInstanceIdService"
+        ],
+        "receivers": [
+            "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+            "com.google.android.gms.measurement.AppMeasurementReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdInternalReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.microsoft.appcenter.distribute.DownloadManagerReceiver",
+            "crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.CAMERA": "dangerous",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION": "unknown",
+            "android.permission.INTERNET": "normal",
+            "android.permission.REQUEST_INSTALL_PACKAGES": "signature",
+            "android.permission.WAKE_LOCK": "normal",
+            "com.enerbank.loan_application.permission.C2D_MESSAGE": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 3,
+            "dangerous": 1,
+            "unknown": 3,
+            "signature": 1
+        }
+    },
+    "stats": {
+        "dex_count": 1,
+        "native_lib_count": 24
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 13.12,
+        "sources_present": true,
+        "java_file_count": 2446
+    },
+    "ast_analysis": {
+        "location": 0,
+        "microphone": 0,
+        "camera": 4,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 5
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 0,
+            "torch": 0,
+            "telephony_ops": 0,
+            "system_commands": 0,
+            "webview_interop": 0,
+            "content_access": 8,
+            "audio_control": 1,
+            "vibration": 0,
+            "network_io": 1,
+            "scheduling_apis": 10,
+            "dynamic_code": 115
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 135
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 2,
+            "handler_loop": 7,
+            "job_scheduler": 1
+        },
+        "trigger_types": {
+            "auto_triggered": 0,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 1,
+            "dynamic_loading": 0,
+            "reflection": 114
+        }
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "apk_name": "DBC910C7F09E5917C2BCCD0AF53A4D7136DF54D3523C5096C992DB69D9E36F80",
+    "sha256": "dbc910c7f09e5917c2bccd0af53a4d7136df54d3523c5096c992db69d9e36f80",
+    "metadata": {
+        "package_name": "com.herocraft.game.free.redball3",
+        "version_code": "10078",
+        "version_name": "1.0.78",
+        "min_sdk": "21",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.SET_ORIENTATION",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WRITE_MEDIA_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.gms.permission.AD_ID"
+        ],
+        "activities": [
+            "com.adcolony.sdk.AdColonyAdViewActivity",
+            "com.adcolony.sdk.AdColonyInterstitialActivity",
+            "com.android.billingclient.api.ProxyBillingActivity",
+            "com.applovin.adview.AppLovinFullscreenActivity",
+            "com.applovin.mediation.MaxDebuggerActivity",
+            "com.applovin.mediation.MaxDebuggerAdUnitDetailActivity",
+            "com.applovin.mediation.MaxDebuggerAdUnitsListActivity",
+            "com.applovin.mediation.MaxDebuggerDetailActivity",
+            "com.applovin.mediation.MaxDebuggerMultiAdActivity",
+            "com.applovin.mediation.MaxDebuggerTestLiveNetworkActivity",
+            "com.applovin.sdk.AppLovinWebViewActivity",
+            "com.facebook.CustomTabMainActivity",
+            "com.facebook.FacebookActivity",
+            "com.facebook.ads.AudienceNetworkActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.herocraft.game.free.redball3.Andr6Activity",
+            "com.inmobi.ads.rendering.InMobiAdActivity",
+            "com.mbridge.msdk.activity.MBCommonActivity",
+            "com.mbridge.msdk.interstitial.view.MBInterstitialActivity",
+            "com.mbridge.msdk.out.LoadingActivity",
+            "com.mbridge.msdk.reward.player.MBRewardVideoActivity",
+            "com.tapjoy.TJAdUnitActivity",
+            "com.tapjoy.TJContentActivity",
+            "com.tapjoy.mraid.view.ActionHandler",
+            "com.tapjoy.mraid.view.Browser",
+            "com.unity3d.services.ads.adunit.AdUnitActivity",
+            "com.unity3d.services.ads.adunit.AdUnitSoftwareActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity",
+            "com.vungle.warren.ui.VungleActivity",
+            "com.yandex.mobile.ads.common.AdActivity",
+            "ru.mail.mrgservice.advertising.MRGSAdvertisingActivity"
+        ],
+        "services": [
+            "androidx.room.MultiInstanceInvalidationService",
+            "androidx.work.impl.background.systemalarm.SystemAlarmService",
+            "androidx.work.impl.background.systemjob.SystemJobService",
+            "com.applovin.impl.adview.activity.FullscreenAdService",
+            "com.applovin.impl.sdk.utils.AppKilledService",
+            "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+            "com.google.android.gms.ads.AdService",
+            "com.google.firebase.components.ComponentDiscoveryService",
+            "com.google.firebase.messaging.FirebaseMessagingService",
+            "com.herocraft.game.FCMMessageService",
+            "com.ideaworks3d.marmalade.s3eAndroidMarketBilling.s3eAndroidMarketBilling",
+            "com.my.tracker.campaign.CampaignService",
+            "com.yandex.metrica.ConfigurationJobService",
+            "com.yandex.metrica.ConfigurationService",
+            "com.yandex.metrica.MetricaService"
+        ],
+        "receivers": [
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+            "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+            "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+            "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+            "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+            "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+            "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+            "com.herocraft.AndroidNotificationsReceiver",
+            "com.herocraft.sdk.android.CommonReceiver",
+            "com.ideaworks3d.marmalade.s3eAndroidMarketBilling.s3eAndroidMarketBillingReceiver",
+            "com.tapjoy.TapjoyReceiver"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.ACCESS_WIFI_STATE": "normal",
+            "android.permission.CHANGE_WIFI_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.SET_ORIENTATION": "unknown",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "android.permission.WRITE_MEDIA_STORAGE": "unknown",
+            "com.android.vending.BILLING": "unknown",
+            "com.google.android.c2dm.permission.RECEIVE": "unknown",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown",
+            "com.google.android.gms.permission.AD_ID": "unknown"
+        },
+        "risk_counts": {
+            "normal": 7,
+            "unknown": 6,
+            "dangerous": 1
+        }
+    },
+    "stats": {
+        "dex_count": 10,
+        "native_lib_count": 44
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 57.42,
+        "sources_present": true,
+        "java_file_count": 19201
+    },
+    "ast_analysis": {
+        "location": 7,
+        "microphone": 1,
+        "camera": 94,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 5
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 3,
+            "microphone": 1,
+            "location": 4,
+            "torch": 2,
+            "telephony_ops": 4,
+            "system_commands": 2,
+            "webview_interop": 62,
+            "content_access": 28,
+            "audio_control": 5,
+            "vibration": 3,
+            "network_io": 28,
+            "scheduling_apis": 171,
+            "dynamic_code": 575
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 888
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 21,
+            "handler_loop": 145,
+            "job_scheduler": 5
+        },
+        "trigger_types": {
+            "auto_triggered": 11,
+            "user_triggered": 5
+        },
+        "dynamic_features": {
+            "jni_usage": 5,
+            "dynamic_loading": 8,
+            "reflection": 570
+        }
+    }
+}

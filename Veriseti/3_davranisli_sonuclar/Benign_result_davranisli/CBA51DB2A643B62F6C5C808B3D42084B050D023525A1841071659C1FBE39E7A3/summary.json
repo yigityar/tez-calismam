@@ -1,0 +1,153 @@
+{
+    "apk_name": "CBA51DB2A643B62F6C5C808B3D42084B050D023525A1841071659C1FBE39E7A3",
+    "sha256": "cba51db2a643b62f6c5c808b3d42084b050d023525a1841071659c1fbe39e7a3",
+    "metadata": {
+        "package_name": "com.berkahdev.appsi",
+        "version_code": "206",
+        "version_name": "2.0.6",
+        "min_sdk": "17",
+        "target_sdk": "30",
+        "permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "activities": [
+            "android.support.browser.FileNoteActivity",
+            "com.adcolony.sdk.AdColonyAdViewActivity",
+            "com.adcolony.sdk.AdColonyInterstitialActivity",
+            "com.applovin.adview.AppLovinFullscreenActivity",
+            "com.applovin.adview.AppLovinInterstitialActivity",
+            "com.applovin.mediation.MaxDebuggerActivity",
+            "com.applovin.mediation.MaxDebuggerAdUnitDetailActivity",
+            "com.applovin.mediation.MaxDebuggerAdUnitsListActivity",
+            "com.applovin.mediation.MaxDebuggerDetailActivity",
+            "com.applovin.mediation.MaxDebuggerMultiAdActivity",
+            "com.applovin.mediation.MaxDebuggerTestLiveNetworkActivity",
+            "com.applovin.sdk.AppLovinWebViewActivity",
+            "com.dell.z.UpdateActivity",
+            "com.facebook.FacebookActivity",
+            "com.facebook.ads.AudienceNetworkActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.ads.AdActivity",
+            "com.ironsource.sdk.controller.ControllerActivity",
+            "com.ironsource.sdk.controller.InterstitialActivity",
+            "com.ironsource.sdk.controller.OpenUrlActivity",
+            "com.microsoft.onlineid.authenticator.AccountAddPendingActivity",
+            "com.microsoft.onlineid.internal.ui.AccountPickerActivity",
+            "com.microsoft.onlineid.internal.ui.InterruptResolutionActivity",
+            "com.microsoft.onlineid.internal.ui.WebFlowActivity",
+            "com.microsoft.onlineid.interop.singleaccount.SingleAccountActivity",
+            "com.microsoft.onlineid.interop.xbox.ui.SignInErrorActivity",
+            "com.microsoft.onlineid.interop.xbox.ui.SignUpActivity",
+            "com.microsoft.onlineid.interop.xbox.ui.WelcomeActivity",
+            "com.microsoft.onlineid.interop.xbox.ui.XUIDCreationErrorActivity",
+            "com.microsoft.onlineid.ui.AddAccountActivity",
+            "com.microsoft.onlineid.ui.SignOutActivity",
+            "com.microsoft.xbox.FileNoteActivity",
+            "com.microsoft.xbox.idp.ui.AuthFlowActivity",
+            "com.microsoft.xbox.idp.ui.ErrorActivity",
+            "com.microsoft.xboxtcui.FbLoginShimActivity",
+            "com.microsoft.xboxtcui.FbShareShimActivity",
+            "com.mojang.minecraftpe.MainActivity",
+            "com.unity3d.ads.adunit.AdUnitActivity",
+            "com.unity3d.ads.adunit.AdUnitSoftwareActivity",
+            "com.unity3d.ads.adunit.AdUnitTransparentActivity",
+            "com.unity3d.ads.adunit.AdUnitTransparentSoftwareActivity",
+            "com.unity3d.game.Starter",
+            "com.unity3d.services.ads.adunit.AdUnitActivity",
+            "com.unity3d.services.ads.adunit.AdUnitSoftwareActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentActivity",
+            "com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity"
+        ],
+        "services": [
+            "com.applovin.impl.adview.activity.FullscreenAdService",
+            "com.applovin.impl.sdk.utils.AppKilledService",
+            "com.microsoft.onlineid.internal.MsaService",
+            "com.microsoft.onlineid.internal.sso.client.BackupService",
+            "com.microsoft.onlineid.internal.sso.service.MsaSsoService",
+            "com.microsoft.xbox.idp.model.gcm.RegistrationIntentService"
+        ],
+        "receivers": [
+            "android.support.browser.receiver.ConnectivityReceiver",
+            "com.amazon.device.iap.ResponseReceiver",
+            "com.microsoft.xbox.receiver.ConnectivityReceiver",
+            "com.microsoft.xbox.toolkit"
+        ],
+        "permission_details": {
+            "android.permission.ACCESS_NETWORK_STATE": "normal",
+            "android.permission.INTERNET": "normal",
+            "android.permission.RECEIVE_BOOT_COMPLETED": "normal",
+            "android.permission.VIBRATE": "normal",
+            "android.permission.WAKE_LOCK": "normal",
+            "android.permission.WRITE_EXTERNAL_STORAGE": "dangerous",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": "unknown"
+        },
+        "risk_counts": {
+            "normal": 5,
+            "dangerous": 1,
+            "unknown": 1
+        }
+    },
+    "stats": {
+        "dex_count": 8,
+        "native_lib_count": 8
+    },
+    "jadx": {
+        "status": "ok",
+        "duration_sec": 53.25,
+        "sources_present": true,
+        "java_file_count": 14625
+    },
+    "ast_analysis": {
+        "location": 6,
+        "microphone": 0,
+        "camera": 95,
+        "media_projection": 0,
+        "dynamic_load": 0,
+        "jni": 9
+    },
+    "analysis_state": "complete",
+    "behavioral_structural_data": {
+        "api_inventory": {
+            "camera": 0,
+            "microphone": 0,
+            "location": 2,
+            "torch": 0,
+            "telephony_ops": 1,
+            "system_commands": 2,
+            "webview_interop": 54,
+            "content_access": 25,
+            "audio_control": 1,
+            "vibration": 2,
+            "network_io": 24,
+            "scheduling_apis": 144,
+            "dynamic_code": 453
+        },
+        "execution_context": {
+            "in_service": 0,
+            "in_receiver": 0,
+            "in_activity": 0,
+            "in_provider": 0,
+            "unknown": 708
+        },
+        "scheduling_mechanisms": {
+            "alarm_manager": 12,
+            "handler_loop": 129,
+            "job_scheduler": 3
+        },
+        "trigger_types": {
+            "auto_triggered": 4,
+            "user_triggered": 2
+        },
+        "dynamic_features": {
+            "jni_usage": 5,
+            "dynamic_loading": 8,
+            "reflection": 448
+        }
+    }
+}
